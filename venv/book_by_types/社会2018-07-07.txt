@@ -1,0 +1,978 @@
+1|||人类简史|||[以色列]尤瓦尔·赫拉利|||https://book.douban.com/subject/25985021/
+2|||二手时间|||[白俄] S.A.阿列克谢耶维奇|||https://book.douban.com/subject/26704403/
+3|||1984|||[英] 乔治·奥威尔|||https://book.douban.com/subject/4820710/
+4|||最好的告别|||[美] 阿图·葛文德（Atul Gawande）|||https://book.douban.com/subject/26576861/
+5|||杀死一只知更鸟|||[美] 哈珀·李|||https://book.douban.com/subject/6781808/
+6|||枪炮、病菌与钢铁|||[美] 贾雷德·戴蒙德|||https://book.douban.com/subject/1813841/
+7|||江城|||[美] 彼得·海斯勒|||https://book.douban.com/subject/7060185/
+8|||乌合之众|||（法）勒庞|||https://book.douban.com/subject/1012611/
+9|||乡土中国|||费孝通|||https://book.douban.com/subject/1795079/
+10|||寻路中国|||[美] 彼得·海斯勒|||https://book.douban.com/subject/5414391/
+11|||社会性动物|||Elliot Aronson|||https://book.douban.com/subject/2328458/
+12|||历史深处的忧虑|||林达|||https://book.douban.com/subject/1027191/
+13|||社会心理学|||[美] 戴维·迈尔斯|||https://book.douban.com/subject/1476651/
+14|||娱乐至死|||[美] 尼尔·波兹曼|||https://book.douban.com/subject/1062193/
+15|||日本新中产阶级|||[美] 傅高义|||https://book.douban.com/subject/26909585/
+16|||北欧，冰与火之地的寻真之旅|||[英] 迈克尔·布斯|||https://book.douban.com/subject/26708306/
+17|||狂热分子|||[美] 埃里克·霍弗|||https://book.douban.com/subject/3057556/
+18|||民主的细节|||刘瑜|||https://book.douban.com/subject/3813669/
+19|||社会学的想像力|||（美）米尔斯|||https://book.douban.com/subject/1277259/
+20|||忧郁的热带|||[法] 列维-斯特劳斯|||https://book.douban.com/subject/1393447/
+21|||菊与刀|||（美）鲁思・本尼迪克特|||https://book.douban.com/subject/1022238/
+22|||光荣与梦想|||[美] 威廉·曼彻斯特|||https://book.douban.com/subject/1005492/
+23|||天真的人类学家|||[英] 奈吉尔·巴利|||https://book.douban.com/subject/6712255/
+24|||路西法效应|||[美]菲利普·津巴多|||https://book.douban.com/subject/4071842/
+25|||大国大城|||陆铭|||https://book.douban.com/subject/26824237/
+26|||美丽灵魂|||[美] 埃亚勒·普雷斯|||https://book.douban.com/subject/27032518/
+27|||人性中的善良天使|||[美]斯蒂芬·平克|||https://book.douban.com/subject/26150549/
+28|||记忆的性别|||[美] 贺萧（Gail Hershatter）|||https://book.douban.com/subject/27030380/
+29|||独裁者手册|||布鲁斯·布尔诺·德·梅斯奎塔 (Mesquita B.B.D.)、阿拉斯泰尔·史密斯 (Smith A.)|||https://book.douban.com/subject/25881102/
+30|||群居的艺术|||辉格|||https://book.douban.com/subject/27058538/
+31|||世界的苦难|||[法] 皮埃尔·布尔迪厄|||https://book.douban.com/subject/26943381/
+32|||看见|||柴静|||https://book.douban.com/subject/20427187/
+33|||明朝那些事儿（1-9）|||当年明月|||https://book.douban.com/subject/3674537/
+34|||常识|||梁文道|||https://book.douban.com/subject/3344676/
+35|||天空的另一半|||[美] 尼可拉斯·D.克里斯多夫、[美]雪莉·邓恩|||https://book.douban.com/subject/25845647/
+36|||浮生取义|||吴飞|||https://book.douban.com/subject/4146756/
+37|||反脆弱|||[美]纳西姆•尼古拉斯•塔勒布|||https://book.douban.com/subject/25782902/
+38|||社会契约论|||卢梭|||https://book.douban.com/subject/1277981/
+41|||无缘社会|||日本NHK特别节目录制组|||https://book.douban.com/subject/25822105/
+42|||亲密关系|||[美] 莎伦·布雷姆、丹尼尔·珀尔曼、罗兰·米勒、苏珊·坎贝尔|||https://book.douban.com/subject/1437973/
+43|||批评官员的尺度|||[美] 安东尼·刘易斯|||https://book.douban.com/subject/6401128/
+44|||美国宪政历程|||任东来、陈伟、白雪峰|||https://book.douban.com/subject/1144185/
+45|||观念的水位|||刘瑜|||https://book.douban.com/subject/20463108/
+46|||我也有一个梦想|||林达|||https://book.douban.com/subject/1014825/
+47|||态度改变与社会影响|||[美]菲利普·津巴多、迈克尔·利佩|||https://book.douban.com/subject/2328178/
+48|||当呼吸化为空气|||[美] 保罗·卡拉尼什|||https://book.douban.com/subject/26896859/
+49|||自由|||[美] 乔纳森·弗兰岑|||https://book.douban.com/subject/10569619/
+50|||耳语者|||[英] 奥兰多·费吉斯|||https://book.douban.com/subject/25953571/
+51|||中国近代史|||[美] 徐中约|||https://book.douban.com/subject/2376486/
+52|||想象的共同体|||本尼迪克特·安德森|||https://book.douban.com/subject/1315190/
+53|||大江东去（共三部）|||阿耐|||https://book.douban.com/subject/3432304/
+54|||驻马店伤心故事集|||郑在欢|||https://book.douban.com/subject/26969002/
+55|||美国大城市的死与生（纪念版）|||[加拿大] 简·雅各布斯|||https://book.douban.com/subject/1870268/
+56|||血疫|||[美] 理查德·普雷斯顿|||https://book.douban.com/subject/26712353/
+57|||江村经济|||费孝通|||https://book.douban.com/subject/1325507/
+58|||文明的冲突与世界秩序的重建|||[美] 塞缪尔·亨廷顿|||https://book.douban.com/subject/1053623/
+59|||总统是靠不住的|||林达|||https://book.douban.com/subject/1056315/
+61|||开放社会及其敌人（全二卷）|||[英] 卡尔·波普尔|||https://book.douban.com/subject/1015748/
+62|||中国文化的深层结构|||孙隆基|||https://book.douban.com/subject/1068912/
+63|||传统十论|||秦晖|||https://book.douban.com/subject/1076378/
+64|||野火集|||龙应台|||https://book.douban.com/subject/1426971/
+65|||潜规则|||吴思|||https://book.douban.com/subject/1025723/
+66|||单向度的人|||(美)赫伯特·马尔库塞|||https://book.douban.com/subject/1787729/
+67|||裸猿|||德斯蒙德·莫利斯|||https://book.douban.com/subject/4312810/
+68|||叫魂|||[美] 孔飞力|||https://book.douban.com/subject/10471333/
+69|||田野调查·被遗忘的村落|||[日] 宫本常一|||https://book.douban.com/subject/26902280/
+70|||异类|||[美] 马尔科姆·格拉德威尔|||https://book.douban.com/subject/3688489/
+71|||理性乐观派|||（美）马特·里德利（Matt Ridley）|||https://book.douban.com/subject/6913343/
+72|||一句顶一万句|||刘震云|||https://book.douban.com/subject/3633461/
+73|||最后的耍猴人|||马宏杰|||https://book.douban.com/subject/26291984/
+74|||东北游记|||[美] 迈克尔·麦尔|||https://book.douban.com/subject/26828349/
+75|||野蛮大陆|||[英]基思•罗威（Keith Lowe）|||https://book.douban.com/subject/26354440/
+76|||贫穷的本质|||阿比吉特•班纳吉 (Abhijit V.Banerjee)、埃斯特•迪弗洛 (Esther Duflo)|||https://book.douban.com/subject/21966353/
+77|||上瘾五百年|||[美] 戴维·考特莱特|||https://book.douban.com/subject/25908552/
+78|||现代性与大屠杀|||[英国] 鲍曼|||https://book.douban.com/subject/1083054/
+79|||李光耀观天下|||李光耀|||https://book.douban.com/subject/26413154/
+81|||零年：1945|||[荷]伊恩•布鲁玛|||https://book.douban.com/subject/26298832/
+82|||人的境况|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/3431988/
+83|||中国法律与中国社会|||瞿同祖|||https://book.douban.com/subject/1224279/
+84|||"边缘人"纪事|||杨奎松|||https://book.douban.com/subject/26711101/
+85|||优秀的绵羊|||[美] 威廉·德雷谢维奇|||https://book.douban.com/subject/26747208/
+86|||文明之光 （第三册）|||吴军|||https://book.douban.com/subject/26275177/
+87|||当代民谣中的那些事|||张文军|||https://book.douban.com/subject/26393018/
+88|||血酬定律|||吴思|||https://book.douban.com/subject/1006560/
+89|||活着回来的男人|||[日] 小熊英二|||https://book.douban.com/subject/26897187/
+90|||消费社会|||[法] 让·波德里亚|||https://book.douban.com/subject/1089142/
+91|||魔鬼经济学|||[美] 史蒂芬·列维特、[美] 史蒂芬·都伯纳|||https://book.douban.com/subject/1473250/
+92|||熔炉|||（韩）孔枝泳|||https://book.douban.com/subject/24862771/
+93|||金瓶梅|||兰陵笑笑生|||https://book.douban.com/subject/1456692/
+94|||美国种族简史|||[美] 托马斯·索威尔|||https://book.douban.com/subject/6892579/
+95|||丹麦人为什么幸福|||[丹麦] 迈克·维金|||https://book.douban.com/subject/27060680/
+96|||自由在高处|||熊培云|||https://book.douban.com/subject/5401989/
+97|||家庭、私有制和国家的起源|||恩格斯|||https://book.douban.com/subject/1247769/
+98|||如彗星划过夜空|||林达|||https://book.douban.com/subject/1762869/
+99|||童年的消逝|||[美] 尼尔・波兹曼|||https://book.douban.com/subject/1005325/
+100|||我们台湾这些年|||廖信忠|||https://book.douban.com/subject/4113090/
+101|||骆驼祥子|||老舍|||https://book.douban.com/subject/1043815/
+102|||语言学的邀请|||塞缪尔·早川 Samuel Hayakawa、艾伦·早川 Alan Hayakawa|||https://book.douban.com/subject/26431646/
+103|||世俗时代|||[加拿大] 查尔斯·泰勒|||https://book.douban.com/subject/26718544/
+104|||我在底层的生活|||[美]芭芭拉·艾伦瑞克|||https://book.douban.com/subject/25900802/
+105|||拥抱战败|||（美）约翰·W·道尔|||https://book.douban.com/subject/3206270/
+106|||英国人的言行潜规则|||(英) 凯特·福克斯|||https://book.douban.com/subject/4818177/
+107|||被人遗忘的人：中国精神病人生存状况|||吕楠|||https://book.douban.com/subject/3032690/
+108|||景观社会|||居依·德波|||https://book.douban.com/subject/1775264/
+109|||民主的不满|||[美] 迈克尔·桑德尔|||https://book.douban.com/subject/26683648/
+110|||自杀论|||[法] 埃米尔·迪尔凯姆|||https://book.douban.com/subject/1274469/
+111|||桑切斯的孩子们|||奥斯卡·刘易斯 (Oscar Lewis)|||https://book.douban.com/subject/25899380/
+112|||集体行动的逻辑|||曼瑟尔·奥尔森|||https://book.douban.com/subject/1196945/
+113|||林达作品集（全九册)|||林达|||https://book.douban.com/subject/10770743/
+114|||近代中国社会的新陈代谢|||陈旭麓|||https://book.douban.com/subject/1491537/
+115|||区分|||[法] 皮埃尔·布尔迪厄|||https://book.douban.com/subject/26354330/
+116|||造物|||平凡社|||https://book.douban.com/subject/26979054/
+117|||怎样鉴别黄色歌曲|||《人民音乐》编辑部|||https://book.douban.com/subject/1963786/
+118|||八十年代访谈录|||查建英 主编|||https://book.douban.com/subject/1777823/
+119|||城市的胜利|||[美] 爱德华·格莱泽|||https://book.douban.com/subject/20373351/
+120|||社会学|||（英）吉登斯|||https://book.douban.com/subject/3689168/
+121|||明亮的对话|||徐贲|||https://book.douban.com/subject/25778829/
+122|||田园诗与狂想曲|||秦晖、金雁|||https://book.douban.com/subject/4243276/
+123|||单身社会|||(美) 克里南伯格|||https://book.douban.com/subject/26235729/
+124|||為了活下去：脫北女孩朴研美|||朴研美|||https://book.douban.com/subject/26847432/
+125|||私人生活的变革|||阎云翔|||https://book.douban.com/subject/1491734/
+126|||活着|||余华|||https://book.douban.com/subject/1082154/
+127|||我不是教你诈|||[美] 刘墉|||https://book.douban.com/subject/1262986/
+128|||消失的微生物|||［美］马丁•布莱泽|||https://book.douban.com/subject/26837082/
+129|||银元时代生活史|||陈存仁|||https://book.douban.com/subject/2118743/
+130|||我的凉山兄弟|||刘绍华|||https://book.douban.com/subject/26425892/
+131|||世界是平的|||[美] 托马斯·弗里德曼|||https://book.douban.com/subject/1867642/
+132|||王二的经济学故事|||郭凯|||https://book.douban.com/subject/10733032/
+133|||潮来潮去|||[英] 方德万|||https://book.douban.com/subject/27091336/
+134|||红色资本|||[美]卡尔·沃尔特(Carl E. Walter)、[美]弗雷泽·豪伊(Fraser J. Howie)|||https://book.douban.com/subject/25717107/
+135|||九人|||(美) 杰弗里·图宾|||https://book.douban.com/subject/4199363/
+136|||重新发现社会|||熊培云|||https://book.douban.com/subject/4199761/
+137|||金融的逻辑|||陈志武|||https://book.douban.com/subject/3891900/
+138|||世界秩序|||亨利·基辛格 (Henry Kissinger)|||https://book.douban.com/subject/26435040/
+139|||大路|||张赞波|||https://book.douban.com/subject/26666589/
+141|||维稳的政治逻辑|||谢岳|||https://book.douban.com/subject/24534471/
+142|||乱时候，穷时候|||姜淑梅|||https://book.douban.com/subject/25731506/
+143|||奢侈的！|||[美] 黛娜·托马斯|||https://book.douban.com/subject/6851608/
+144|||格调|||保罗.福塞尔(美)|||https://book.douban.com/subject/1013369/
+145|||隐蔽的秩序|||吴思|||https://book.douban.com/subject/1050929/
+146|||古拉格之恋|||[英] 奥兰多·费吉斯|||https://book.douban.com/subject/26840828/
+147|||青苔不会消失|||袁凌|||https://book.douban.com/subject/26985981/
+148|||厌女|||上野千鹤子|||https://book.douban.com/subject/25836270/
+149|||人类学入门|||约翰·奥莫亨德罗|||https://book.douban.com/subject/24527462/
+150|||农民进城防骗手册|||蔡建文、马文胜|||https://book.douban.com/subject/1929825/
+151|||丑陋的中国人|||柏杨|||https://book.douban.com/subject/1027247/
+152|||沉默的大多数|||王小波|||https://book.douban.com/subject/1054685/
+153|||王国与权力|||盖伊·特立斯|||https://book.douban.com/subject/26832725/
+154|||兄弟|||余华|||https://book.douban.com/subject/4882133/
+155|||言论的边界|||[美] 安东尼·刘易斯|||https://book.douban.com/subject/4850629/
+156|||崩溃|||[美] 贾雷德·戴蒙德|||https://book.douban.com/subject/3035593/
+157|||五十四种孤单|||普玄|||https://book.douban.com/subject/26995098/
+158|||与社会学同游|||[美] 彼得·伯格|||https://book.douban.com/subject/3126411/
+159|||一个村庄里的中国|||熊培云|||https://book.douban.com/subject/6878212/
+160|||被劫持的私生活|||肉唐僧|||https://book.douban.com/subject/3273876/
+161|||街角社会|||[美] 威廉·富特·怀特|||https://book.douban.com/subject/1704159/
+162|||十二幅地图中的世界史|||[英] 杰里·布罗顿（Jerry Brotton）|||https://book.douban.com/subject/26816981/
+163|||知识分子与社会|||[美] 托马斯·索维尔|||https://book.douban.com/subject/25708550/
+164|||重返美丽新世界|||[英]阿道司·赫胥黎|||https://book.douban.com/subject/26266067/
+165|||复杂|||梅拉妮·米歇尔|||https://book.douban.com/subject/6749832/
+166|||出梁庄记|||梁鸿|||https://book.douban.com/subject/21458706/
+167|||共同的底线|||秦晖|||https://book.douban.com/subject/21432137/
+168|||博弈与社会|||张维迎|||https://book.douban.com/subject/21329758/
+169|||吾国教育病理|||郑也夫|||https://book.douban.com/subject/25733170/
+170|||我所缄默的事|||[美]阿扎尔•纳菲西|||https://book.douban.com/subject/26427244/
+171|||学做工|||[英]保罗·威利斯|||https://book.douban.com/subject/21370327/
+172|||伦敦传|||[英国]彼得·阿克罗伊德|||https://book.douban.com/subject/26775503/
+173|||被禁锢的头脑|||(波兰)切斯瓦夫·米沃什|||https://book.douban.com/subject/7916069/
+174|||人贩|||[意]洛蕾塔·拿波里奥尼|||https://book.douban.com/subject/26980356/
+175|||落脚城市|||(加拿大)道格·桑德斯|||https://book.douban.com/subject/7060184/
+176|||技术与文明|||[美] 刘易斯·芒福德|||https://book.douban.com/subject/3815282/
+177|||兴盛与危机|||金观涛、刘青峰|||https://book.douban.com/subject/5906312/
+178|||布拉格精神|||[捷克] 伊凡·克里玛|||https://book.douban.com/subject/26436285/
+179|||探索现代社会的起源|||金观涛|||https://book.douban.com/subject/4853094/
+181|||四世同堂|||老舍|||https://book.douban.com/subject/3183775/
+182|||乡土中国 生育制度|||费孝通|||https://book.douban.com/subject/1310228/
+183|||亚洲大趋势|||乔•史塔威尔|||https://book.douban.com/subject/25893995/
+184|||规训与惩罚|||[法] 米歇尔·福柯|||https://book.douban.com/subject/1012307/
+185|||遥远的救世主|||豆豆|||https://book.douban.com/subject/1322455/
+186|||我们的孩子|||[美] 罗伯特·帕特南|||https://book.douban.com/subject/27064858/
+187|||健全的社会|||[美]艾里希·弗洛姆|||https://book.douban.com/subject/6859959/
+188|||别独自用餐|||[美] 基思·法拉奇|||https://book.douban.com/subject/5344908/
+189|||硬球|||（美）马修斯|||https://book.douban.com/subject/1048922/
+190|||拉丁美洲被切开的血管|||[乌拉圭] 爱德华多·加莱亚诺|||https://book.douban.com/subject/1047370/
+191|||权力的48条法则|||罗伯特·格林|||https://book.douban.com/subject/2158889/
+192|||兄弟|||余华|||https://book.douban.com/subject/20441957/
+193|||特权|||西莫斯·可汗|||https://book.douban.com/subject/26705829/
+194|||纽约客漫画全集|||[美] 罗伯特·曼考夫|||https://book.douban.com/subject/27079097/
+195|||人类动物园|||德斯蒙德·莫利斯|||https://book.douban.com/subject/4312825/
+196|||Facebook效应|||[美] 大卫·柯克帕特里克|||https://book.douban.com/subject/5313010/
+197|||夹边沟记事|||杨显惠|||https://book.douban.com/subject/3239549/
+198|||理解人性|||阿尔弗雷德·阿德勒|||https://book.douban.com/subject/1322992/
+199|||金翼|||林耀华|||https://book.douban.com/subject/2988944/
+200|||时代的精神状况|||[德] 卡尔·雅斯贝斯|||https://book.douban.com/subject/23774527/
+201|||西风东土|||熊培云|||https://book.douban.com/subject/26737694/
+202|||我不是潘金莲|||刘震云|||https://book.douban.com/subject/6742586/
+203|||关于他人的痛苦|||[美] 苏珊·桑塔格|||https://book.douban.com/subject/1823058/
+204|||论法的精神（上）|||(法)孟德斯鸠|||https://book.douban.com/subject/1016930/
+205|||文明的进程|||[德] 诺贝特·埃利亚斯|||https://book.douban.com/subject/3701456/
+206|||论美国的民主|||[法]托克维尔|||https://book.douban.com/subject/1041385/
+207|||鼠族（一、二部）|||[美] 阿特·斯皮格曼|||https://book.douban.com/subject/4075203/
+208|||文明之光（第四册）|||吴军|||https://book.douban.com/subject/26989163/
+209|||匠人|||申赋渔|||https://book.douban.com/subject/26413835/
+210|||幸福之路|||贝特兰・罗素|||https://book.douban.com/subject/1033248/
+211|||发现社会之旅|||兰德尔·科林斯、迈克尔·马科夫斯基|||https://book.douban.com/subject/1782312/
+212|||新教伦理与资本主义精神|||马克斯·韦伯|||https://book.douban.com/subject/1433411/
+213|||社会与政治运动讲义|||赵鼎新|||https://book.douban.com/subject/1804960/
+214|||渐行渐远的红利|||彭文生|||https://book.douban.com/subject/23789345/
+215|||生而贫穷|||赵皓阳|||https://book.douban.com/subject/27056780/
+216|||亚洲教父|||[美] 乔·史塔威尔|||https://book.douban.com/subject/6556296/
+217|||文明是副产品|||郑也夫|||https://book.douban.com/subject/26652242/
+218|||心理学|||戴维·迈尔斯|||https://book.douban.com/subject/1931769/
+219|||穿越百年中东|||郭建龙|||https://book.douban.com/subject/26700104/
+221|||有闲阶级论|||[美] 凡勃伦|||https://book.douban.com/subject/1171881/
+222|||城市文化|||[美]刘易斯·芒福德|||https://book.douban.com/subject/3521728/
+223|||世界是红的：看懂中国经济格局的一本书|||白云先生|||https://book.douban.com/subject/27038809/
+224|||失控的真相|||[美] 迈克尔·帕特里克·林奇|||https://book.douban.com/subject/27024961/
+225|||历史的终结与最后的人|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/25908550/
+226|||孤独深处|||郝景芳|||https://book.douban.com/subject/26791407/
+227|||容忍与自由|||胡适 著、潘光哲 编|||https://book.douban.com/subject/6558202/
+228|||大地上的亲人|||黄灯|||https://book.douban.com/subject/26960822/
+229|||技术的本质|||布莱恩•阿瑟（Brian Arthur）|||https://book.douban.com/subject/25846075/
+230|||浅薄|||[美] 尼古拉斯·卡尔|||https://book.douban.com/subject/5379664/
+231|||文化与社会|||[英]雷蒙•威廉斯|||https://book.douban.com/subject/6799474/
+232|||性别战争|||[美] 奥利维雅·贾德森|||https://book.douban.com/subject/4846032/
+233|||小镇喧嚣|||吴毅|||https://book.douban.com/subject/2280161/
+234|||宋代科举社会|||梁庚尧|||https://book.douban.com/subject/26947830/
+235|||亲密行为|||德斯蒙德·莫利斯|||https://book.douban.com/subject/4312829/
+236|||别处生活|||晏礼中|||https://book.douban.com/subject/10588835/
+237|||数据之巅|||涂子沛|||https://book.douban.com/subject/25871778/
+238|||论意识操纵（上下）|||卡拉-穆尔扎  编|||https://book.douban.com/subject/1266211/
+239|||天局|||笑颜|||https://book.douban.com/subject/4714394/
+240|||蚁族|||廉思|||https://book.douban.com/subject/3995799/
+241|||政治秩序与政治衰败|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/26592899/
+242|||再会，老北京|||(美)迈克尔.麦尔|||https://book.douban.com/subject/21617690/
+243|||我口袋里的星辰如沙砾|||韩松落|||https://book.douban.com/subject/27046066/
+244|||赡养人类|||刘慈欣|||https://book.douban.com/subject/26807576/
+245|||国家的常识|||[美]迈克尔·罗斯金(Michael G. Roskin)|||https://book.douban.com/subject/22806583/
+246|||组织社会学十讲|||周雪光|||https://book.douban.com/subject/1085366/
+247|||现代日本|||[英] 克里斯托弗·戈托－琼斯|||https://book.douban.com/subject/25870757/
+248|||生命不息，折腾不止|||罗永浩|||https://book.douban.com/subject/26220798/
+249|||国民教育通识读本|||扈永进|||https://book.douban.com/subject/27021780/
+250|||可操作的民主|||寇延丁、袁天鹏|||https://book.douban.com/subject/10563202/
+251|||远方的陌生人|||[美] 詹姆斯·弗农|||https://book.douban.com/subject/27036755/
+252|||权力的毛细管作用|||王汎森|||https://book.douban.com/subject/26581737/
+253|||沐猿而冠|||辉格|||https://book.douban.com/subject/26415165/
+254|||中性|||[美] 杰弗里·尤金尼德斯|||https://book.douban.com/subject/2568067/
+255|||废都|||贾平凹|||https://book.douban.com/subject/1417905/
+256|||弱者的武器|||[美] 詹姆斯·C·斯科特|||https://book.douban.com/subject/2030855/
+257|||权力与繁荣|||（美）曼瑟・奥尔森|||https://book.douban.com/subject/1315182/
+258|||一百年漂泊|||杨渡|||https://book.douban.com/subject/26590901/
+259|||第四消费时代|||[日] 三浦展|||https://book.douban.com/subject/26201890/
+261|||掩饰|||[美]吉野贤治|||https://book.douban.com/subject/26699004/
+262|||第三次浪潮|||托夫勒|||https://book.douban.com/subject/1789444/
+263|||道德动物|||罗伯特·赖特Robert Wright|||https://book.douban.com/subject/24325270/
+264|||单读14：世界的水手|||吴琦|||https://book.douban.com/subject/27042798/
+265|||盗火者|||邓康延、梁罗兴|||https://book.douban.com/subject/26133770/
+266|||自下而上|||[英] 马特·里德利|||https://book.douban.com/subject/27000191/
+267|||经济与社会（第一卷）|||[德] 马克斯·韦伯|||https://book.douban.com/subject/4122414/
+268|||美丽新世界|||[英] 阿道司·赫胥黎|||https://book.douban.com/subject/1321789/
+269|||一路走来一路读|||林达|||https://book.douban.com/subject/1010888/
+270|||地下世界|||(美)唐·德里罗|||https://book.douban.com/subject/11597313/
+271|||权力|||[美] 杰弗瑞·菲佛|||https://book.douban.com/subject/10446295/
+272|||大数据|||涂子沛|||https://book.douban.com/subject/10799984/
+273|||时尚的哲学|||[德] 齐奥尔格·西美尔|||https://book.douban.com/subject/1003013/
+274|||民企江湖|||阿耐|||https://book.douban.com/subject/23780847/
+275|||民主是一种现代生活|||蔡定剑|||https://book.douban.com/subject/4240969/
+276|||改革的逻辑|||周其仁|||https://book.douban.com/subject/24878818/
+277|||乌托邦的年代|||[法] 克劳德·卡利耶尔|||https://book.douban.com/subject/4747128/
+278|||小张和小丽|||朝华出版社|||https://book.douban.com/subject/25728092/
+279|||李光耀：新加坡赖以生存的硬道理|||Singapore: Straits Times Press|||https://book.douban.com/subject/5920388/
+280|||我在伊朗长大|||玛赞·莎塔碧|||https://book.douban.com/subject/4071859/
+281|||合作的进化|||罗伯特·阿克塞尔罗德|||https://book.douban.com/subject/2259198/
+282|||中国社会的个体化|||阎云翔|||https://book.douban.com/subject/10048862/
+283|||中国社会史|||梁庚尧|||https://book.douban.com/subject/26776858/
+284|||资本社会的17个矛盾|||[美] 大卫·哈维 (David Harvey)|||https://book.douban.com/subject/26884338/
+285|||反社会的人|||[德]瓦尔特·伍伦韦伯|||https://book.douban.com/subject/25794332/
+286|||一炮走红的国家|||鲁奇尔·夏尔马|||https://book.douban.com/subject/24700123/
+287|||统计数字会撒谎|||[美] 达莱尔·哈夫|||https://book.douban.com/subject/3595095/
+288|||人以什么理由来记忆|||徐贲|||https://book.douban.com/subject/3238339/
+289|||秦汉帝国|||[日] 西嶋定生|||https://book.douban.com/subject/27012065/
+290|||第七天|||余华|||https://book.douban.com/subject/24540864/
+291|||打工女孩|||[美] 张彤禾|||https://book.douban.com/subject/21370840/
+292|||资本主义、社会主义与民主|||(美)约瑟夫·熊彼特|||https://book.douban.com/subject/1038949/
+293|||改革中国|||傅子恒|||https://book.douban.com/subject/27037187/
+294|||社会分工论|||[法] 埃米尔·涂尔干|||https://book.douban.com/subject/1037148/
+295|||美国最高法院通识读本|||[美国] 琳达·格林豪斯|||https://book.douban.com/subject/24841290/
+296|||奇石|||[美] 彼得·海斯勒|||https://book.douban.com/subject/25833450/
+297|||他们的世界|||李银河、王小波|||https://book.douban.com/subject/1479194/
+298|||乌托邦|||[英] 托马斯·莫尔|||https://book.douban.com/subject/1927487/
+299|||社会学入门|||[美] 詹姆斯·汉斯林|||https://book.douban.com/subject/2247109/
+300|||中古中国门阀大族的消亡|||[美] 谭凯 (Nicolas Tackett)|||https://book.douban.com/subject/27006609/
+301|||以自由看待发展|||[印] 阿马蒂亚·森|||https://book.douban.com/subject/1084434/
+302|||一切坚固的东西都烟消云散了|||（美）马歇尔・伯曼|||https://book.douban.com/subject/1057095/
+303|||姐姐的守护者|||[美] 朱迪·皮考特|||https://book.douban.com/subject/3137289/
+304|||科技之巅|||麻省理工科技评论|||https://book.douban.com/subject/26891160/
+305|||不平等的童年|||[美] 安妮特·拉鲁|||https://book.douban.com/subject/4230636/
+306|||正午1|||正午|||https://book.douban.com/subject/26673941/
+307|||甜与权力|||西敏司|||https://book.douban.com/subject/4891219/
+308|||美国人民：创建一个国家和一种社会（上卷）|||[美] 加里·纳什(Gary B. Nash)、朱莉·罗伊·杰弗里(Julie Roy Jeffrey)、约翰·豪(John R. How)、彼得·弗雷德里克(Peter J. Frederick)、艾伦·戴维斯(Allen F. Davis)、艾伦·温克尔(Allan M. Winkler)|||https://book.douban.com/subject/2981480/
+309|||开放中的变迁|||金观涛、刘青峰|||https://book.douban.com/subject/5906321/
+310|||国家的视角|||詹姆斯・C・斯科特|||https://book.douban.com/subject/1190181/
+311|||发展心理学|||[美] 罗伯特·费尔德曼|||https://book.douban.com/subject/2183559/
+312|||变化社会中的政治秩序|||萨缪尔·P.亨廷顿|||https://book.douban.com/subject/3163104/
+313|||性学观止（上下册）|||(美)贺兰特•A•凯查杜里安|||https://book.douban.com/subject/4114636/
+314|||中国在梁庄|||梁鸿|||https://book.douban.com/subject/5350804/
+315|||正义之心|||[美] 乔纳森•海特(Jonathan Haidt)|||https://book.douban.com/subject/25867785/
+316|||独自打保龄|||[美] 罗伯特·帕特南 著、燕继荣 审校|||https://book.douban.com/subject/5911531/
+317|||日常生活中的自我呈现|||欧文·戈夫曼、周怡|||https://book.douban.com/subject/3062632/
+318|||她身之欲|||丁瑜|||https://book.douban.com/subject/26804793/
+319|||跨越边界的社区|||项飚|||https://book.douban.com/subject/1051928/
+321|||西方文明的文化基因|||(加)梁鹤年|||https://book.douban.com/subject/24888083/
+322|||城乡中国（上）|||周其仁|||https://book.douban.com/subject/24878434/
+323|||双城故事|||[美] 约翰·弗里曼|||https://book.douban.com/subject/27039439/
+324|||二十年目睹之怪现状|||吴趼人|||https://book.douban.com/subject/1470622/
+325|||第三种黑猩猩|||贾雷德·戴蒙德|||https://book.douban.com/subject/10607615/
+326|||朋友之间|||[美] 汉娜·阿伦特、[美] 玛丽·麦卡锡、[美]卡罗尔·布莱曼|||https://book.douban.com/subject/26821908/
+327|||甘南纪事|||杨显惠|||https://book.douban.com/subject/6840152/
+328|||如何应对愤怒的公众|||[美]劳伦斯·萨斯坎德、[美]帕特里克·菲尔德|||https://book.douban.com/subject/26827391/
+329|||郎咸平说：我们的日子为什么这么难|||郎咸平|||https://book.douban.com/subject/5283699/
+330|||布满贫民窟的星球|||迈克·戴维斯|||https://book.douban.com/subject/3753870/
+331|||空间的力量|||陆铭|||https://book.douban.com/subject/22538508/
+332|||权力的转移|||[美]阿尔文•托夫勒|||https://book.douban.com/subject/1832047/
+333|||统治与教育|||徐贲|||https://book.douban.com/subject/26675905/
+334|||翻身|||韩丁（William Hinton）|||https://book.douban.com/subject/1772151/
+335|||国画|||王跃文|||https://book.douban.com/subject/1397659/
+336|||房间里的大象|||[美] 伊维塔·泽鲁巴维尔|||https://book.douban.com/subject/6157548/
+337|||退步集续编|||陈丹青|||https://book.douban.com/subject/2052596/
+338|||礼物的流动|||阎云翔|||https://book.douban.com/subject/1034759/
+339|||国家精英|||[法]P.布尔迪厄|||https://book.douban.com/subject/1439253/
+341|||平均的终结：如何在崇尚标准化的世界中胜出|||托德罗斯|||https://book.douban.com/subject/27040292/
+342|||Evicted|||Matthew Desmond|||https://book.douban.com/subject/26738494/
+343|||公正|||[美] 迈克尔·桑德尔|||https://book.douban.com/subject/5408882/
+344|||跟任何人都聊得来|||迈克·贝克特尔 (Mike Bechtle)|||https://book.douban.com/subject/25894861/
+345|||中国思想史十讲（上卷）|||金观涛、刘青峰|||https://book.douban.com/subject/26591902/
+346|||汤姆斯河|||[美] 丹·费金|||https://book.douban.com/subject/26341543/
+347|||上帝与黄金|||沃尔特•拉塞尔•米德 (Walter Russell Mead)|||https://book.douban.com/subject/26260335/
+348|||惊心动魄的17天|||张永铭|||https://book.douban.com/subject/27030322/
+349|||神似祖先|||郑也夫|||https://book.douban.com/subject/4046736/
+350|||社会学的邀请|||（美）乔恩·威特|||https://book.douban.com/subject/3215660/
+351|||资中筠自选集（全五册）|||资中筠|||https://book.douban.com/subject/7055536/
+352|||生命的自主权|||【美】罗纳德·M.德沃金|||https://book.douban.com/subject/23081000/
+353|||虐恋亚文化|||李银河|||https://book.douban.com/subject/1031857/
+354|||为什么？|||[美] 查尔斯·蒂利|||https://book.douban.com/subject/25858710/
+355|||公民社会与启蒙精神|||陈乐民、[德]史傅德|||https://book.douban.com/subject/26976069/
+356|||里斯本夜车|||(瑞士)帕斯卡·梅西耶|||https://book.douban.com/subject/20435635/
+357|||美好生活|||[瑞典] 奥维·洛夫格伦、乔纳森·弗雷克曼|||https://book.douban.com/subject/5414013/
+358|||女性主义|||李银河|||https://book.douban.com/subject/1340429/
+359|||社会心理学|||E. Aronson|||https://book.douban.com/subject/1930235/
+360|||血族1：侵袭|||[美]吉尔莫·德尔·托罗、[美]查克·霍根|||https://book.douban.com/subject/1801813/
+361|||如何改变世界|||戴维·伯恩斯坦|||https://book.douban.com/subject/1780035/
+362|||社会研究方法|||艾尔·巴比|||https://book.douban.com/subject/1399297/
+363|||社会动物|||[美]戴维·布鲁克斯|||https://book.douban.com/subject/10539126/
+364|||资本的秘密|||赫尔南多·德·索托|||https://book.douban.com/subject/2006592/
+365|||国家的兴衰|||[美] 曼瑟·奥尔森|||https://book.douban.com/subject/2068710/
+366|||暮日耀光|||韦庆远|||https://book.douban.com/subject/27001225/
+367|||信|||东野圭吾|||https://book.douban.com/subject/3890174/
+368|||非常道|||余世存 编|||https://book.douban.com/subject/1291355/
+369|||零边际成本社会|||[美]杰里米·里夫金|||https://book.douban.com/subject/25986746/
+370|||增长的本质|||凯萨·伊达尔戈|||https://book.douban.com/subject/26656350/
+371|||预知社会|||菲利普·鲍尔|||https://book.douban.com/subject/2338638/
+372|||这个时代的无知与傲慢|||（美）乔治·索罗斯|||https://book.douban.com/subject/11589947/
+373|||维多利亚时代的互联网|||[英] 汤姆·斯丹迪奇|||https://book.douban.com/subject/27078260/
+374|||社会学与生活（插图修订第9版）|||（美）理查德·谢弗（Richard T. Schaefer）著|||https://book.douban.com/subject/1907517/
+375|||权力与市场|||穆雷·罗斯巴德|||https://book.douban.com/subject/2155344/
+376|||幻影公众|||[美]沃尔特·李普曼|||https://book.douban.com/subject/20473872/
+377|||群氓之族|||[美]哈罗德·伊罗生|||https://book.douban.com/subject/3077186/
+378|||乡村与城市|||[英]雷蒙•威廉斯|||https://book.douban.com/subject/24740871/
+379|||从"东欧"到"新欧洲"|||金雁|||https://book.douban.com/subject/6308034/
+380|||美国人|||[美]丹尼尔·J·布尔斯廷|||https://book.douban.com/subject/26043606/
+381|||故事照亮未来|||杨照|||https://book.douban.com/subject/6826594/
+382|||乡下人的悲歌|||[美] J.D.万斯|||https://book.douban.com/subject/27007881/
+383|||美国十讲|||资中筠|||https://book.douban.com/subject/25777331/
+384|||粘住|||[美] 奇普·希思、[美] 丹·希思|||https://book.douban.com/subject/4246667/
+385|||纵乐的困惑|||卜正民|||https://book.douban.com/subject/1025547/
+386|||中国人的日常呈现|||翟学伟|||https://book.douban.com/subject/26883924/
+387|||政法笔记|||冯象|||https://book.douban.com/subject/1014737/
+388|||经济与社会（第二卷 上下）|||[德] 马克斯·韦伯|||https://book.douban.com/subject/4730209/
+389|||群氓的时代|||(法)塞奇·莫斯科维奇|||https://book.douban.com/subject/1112447/
+390|||右派国家|||[英]约翰·米克尔思韦特、阿德里安·伍尔德里奇|||https://book.douban.com/subject/25854138/
+391|||必然|||[美] 凯文·凯利|||https://book.douban.com/subject/26658379/
+392|||逆转|||【加】马尔科姆•格拉德威尔|||https://book.douban.com/subject/20480678/
+393|||人情、面子与权力的再生产|||翟学伟|||https://book.douban.com/subject/1399258/
+394|||身份与暴力|||[印]阿马蒂亚·森|||https://book.douban.com/subject/4126261/
+395|||论政治·上卷|||[英]阿兰•瑞安|||https://book.douban.com/subject/26815879/
+396|||西南联大行思录|||张曼菱|||https://book.douban.com/subject/24838578/
+397|||科学与宗教的领地|||[澳] 彼得·哈里森|||https://book.douban.com/subject/26890706/
+398|||这就是台湾,这才是台湾|||廖信忠|||https://book.douban.com/subject/26422097/
+399|||现代世界体系（四卷本）|||[美]伊曼纽尔•沃勒斯坦|||https://book.douban.com/subject/25763756/
+401|||女性的权利|||[尼日利亚]奇玛曼达·恩 戈兹·阿迪契|||https://book.douban.com/subject/27073145/
+402|||诸神的面具|||提姆·凯乐|||https://book.douban.com/subject/19963287/
+403|||疯狂人类进化史|||史钧|||https://book.douban.com/subject/26785959/
+404|||信息时代三部曲：经济、社会与文化|||[美] 曼纽尔·卡斯特(Manuel Castells)|||https://book.douban.com/subject/1026593/
+405|||别跟我说你懂日本|||王东|||https://book.douban.com/subject/4920062/
+406|||苏联的最后一天|||(爱尔兰)奥克莱利|||https://book.douban.com/subject/25758414/
+407|||低智商社会|||(日) 大前研一|||https://book.douban.com/subject/4292120/
+408|||别对我撒谎|||[澳]约翰·皮尔格（选编）|||https://book.douban.com/subject/4320555/
+409|||以色列：一个国家的诞生||||||https://book.douban.com/subject/26786719/
+410|||中国是部金融史|||陈雨露、杨忠恕|||https://book.douban.com/subject/21331443/
+411|||万年的竞争|||刘夙|||https://book.douban.com/subject/27032830/
+412|||西部招妻|||马宏杰|||https://book.douban.com/subject/25870998/
+413|||人间喜剧|||巴尔扎克|||https://book.douban.com/subject/4199233/
+414|||不列颠百科全书（全20卷）|||中国大百科全书出版社《不列颠百科全书》国际中文版编辑部 编译|||https://book.douban.com/subject/2116353/
+415|||问题与主义|||秦晖|||https://book.douban.com/subject/1032937/
+416|||给理想一点时间|||刘瑜、闾丘露薇、杨恒均、柴静、鄢烈山、加藤嘉一、朱大可、葛剑雄、宫铃、童大焕|||https://book.douban.com/subject/10344037/
+417|||城市发展史|||芒福德|||https://book.douban.com/subject/1444252/
+418|||中国绅士|||费孝通|||https://book.douban.com/subject/1740073/
+419|||岁月凶猛|||冯仑|||https://book.douban.com/subject/26959159/
+421|||林村的故事|||黄树民|||https://book.douban.com/subject/1082196/
+422|||讲故事|||[荷] 田海|||https://book.douban.com/subject/27028462/
+423|||未来简史|||[以色列] 尤瓦尔·赫拉利|||https://book.douban.com/subject/26943161/
+424|||战略|||[英] 劳伦斯·弗里德曼（Lawrence Freedman）|||https://book.douban.com/subject/26893673/
+425|||声音与愤怒|||张铁志|||https://book.douban.com/subject/3056620/
+426|||深暗|||[美] 赫克托·托巴尔|||https://book.douban.com/subject/26874760/
+427|||FBI危险人格识别术|||[美]乔·纳瓦罗 Joe Navarro、[美]托妮·斯艾拉·波茵特Toni Sciarra Poynter|||https://book.douban.com/subject/25953748/
+428|||人类的荣耀|||[美] 迈克尔·加扎尼加（Michael S. Gazzaniga|||https://book.douban.com/subject/26862325/
+429|||创新的扩散|||[美] 埃弗雷特·M. 罗杰斯|||https://book.douban.com/subject/1460235/
+430|||动物农场|||[英] 乔治·奥威尔|||https://book.douban.com/subject/2035179/
+431|||政治的细节（第10版）|||[美]罗伯特·J·阿特、罗伯特·杰维斯|||https://book.douban.com/subject/25807521/
+432|||小城市空间的社会生活|||[美] 威廉·H·怀特|||https://book.douban.com/subject/26737948/
+433|||医生的精进|||阿图·葛文德|||https://book.douban.com/subject/26578141/
+434|||敏感的人|||伊莱恩·N·阿伦|||https://book.douban.com/subject/1085007/
+435|||我的灵魂很严肃|||刘土呆|||https://book.douban.com/subject/27092221/
+436|||天鹅绒监狱|||[匈牙利] 米克洛什·哈拉兹蒂|||https://book.douban.com/subject/26593670/
+437|||社会学|||[美]戴维·波普诺|||https://book.douban.com/subject/2310726/
+438|||饥饿的盛世|||张宏杰|||https://book.douban.com/subject/11636077/
+439|||信任论|||郑也夫|||https://book.douban.com/subject/1556409/
+441|||处在十字路口的选择|||沈志华|||https://book.douban.com/subject/20481426/
+442|||茶馆之殇|||秋原|||https://book.douban.com/subject/26789604/
+443|||黑猩猩的政治|||弗朗斯·德瓦尔、Frans de Waal|||https://book.douban.com/subject/3785326/
+444|||城市的精神|||[加] 贝淡宁、[以] 艾维纳|||https://book.douban.com/subject/20261575/
+445|||同性恋亚文化|||李银河|||https://book.douban.com/subject/1036297/
+446|||谢里宝贝|||(法)科莱特|||https://book.douban.com/subject/24851826/
+447|||逃避自由|||[美] 埃里希·弗罗姆|||https://book.douban.com/subject/1534951/
+448|||皇上走了|||章敬平|||https://book.douban.com/subject/24838223/
+449|||Lens·目客002：我这样爱你|||Lens|||https://book.douban.com/subject/26431215/
+450|||人情与面子|||黄光国|||https://book.douban.com/subject/5373043/
+451|||逃避统治的艺术|||詹姆士·斯科特|||https://book.douban.com/subject/26743425/
+452|||她们知道我来过|||张大诺|||https://book.douban.com/subject/25902031/
+453|||沉默的螺旋|||(德)伊丽莎白·诺尔-诺依曼|||https://book.douban.com/subject/25721226/
+454|||昨天的中国|||阎雷 (Yann Layma)|||https://book.douban.com/subject/26274949/
+455|||我为何放弃做犹太人|||[以色列] 施罗默·桑德|||https://book.douban.com/subject/27024116/
+456|||神堂记忆|||景军|||https://book.douban.com/subject/24838641/
+457|||不分东西|||闾丘露薇|||https://book.douban.com/subject/5414385/
+458|||群体性孤独|||[美] 雪莉·特克尔|||https://book.douban.com/subject/25848953/
+459|||知日!知日！这次彻底了解日本 01|||苏静主编|||https://book.douban.com/subject/25794334/
+460|||台湾念真情|||吴念真|||https://book.douban.com/subject/10794355/
+461|||旧制度与大革命|||[法] 托克维尔|||https://book.douban.com/subject/1032063/
+462|||昨日之前的世界|||[美] 贾雷德·戴蒙德|||https://book.douban.com/subject/25908573/
+463|||信任|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/1025829/
+464|||暴力|||兰德尔·柯林斯 (Randall Collins)|||https://book.douban.com/subject/26810502/
+465|||存在与荒谬|||潘绥铭|||https://book.douban.com/subject/1058804/
+466|||The Ones Who Walk Away from Omelas|||Ursula K. Le Guin|||https://book.douban.com/subject/2332444/
+467|||六人晚餐|||鲁敏|||https://book.douban.com/subject/10794790/
+468|||美丽与哀愁|||[瑞典] 皮特·恩格伦|||https://book.douban.com/subject/26896530/
+469|||性别麻烦|||朱迪斯·巴特勒|||https://book.douban.com/subject/3339862/
+470|||你以为你以为的就是你以为的吗|||[英]  朱利安•巴吉尼, 杰里米•斯唐鲁姆|||https://book.douban.com/subject/10517695/
+471|||彷徨之刃|||[日] 东野圭吾|||https://book.douban.com/subject/5347699/
+472|||读大学，究竟读什么|||覃彪喜|||https://book.douban.com/subject/1731825/
+473|||他们以为他们是自由的|||[美]米尔顿·迈耶（Milton Mayer）|||https://book.douban.com/subject/25751980/
+474|||托克维尔|||[法] 吕西安·若姆（Lucien Jaume）|||https://book.douban.com/subject/26926277/
+475|||21世纪资本论|||[法] 托马斯·皮凯蒂（Thomas Piketty）|||https://book.douban.com/subject/25947310/
+476|||你的权利从哪里来？|||艾伦•德肖维茨（Alan Dershowitz）|||https://book.douban.com/subject/25794646/
+477|||去政治化的政治|||汪晖|||https://book.douban.com/subject/3067148/
+478|||智慧社会|||阿莱克斯·彭特兰 (Alex Pentland)|||https://book.douban.com/subject/26315800/
+479|||城市里的陌生人|||张鹂|||https://book.douban.com/subject/25807475/
+480|||反抗“平庸之恶”|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/25844426/
+481|||中国，少了一味药|||慕容雪村|||https://book.douban.com/subject/5400595/
+482|||疯癫笔记|||春媚|||https://book.douban.com/subject/27081111/
+483|||少数人的恐惧|||[印] 拉纳吉特·古哈 (等)、梁捷 (编)、陈韵 (编)|||https://book.douban.com/subject/27079106/
+484|||社会学主要思潮|||[法]雷蒙·阿隆|||https://book.douban.com/subject/1429998/
+485|||24/7|||[美]乔纳森·克拉里|||https://book.douban.com/subject/26544961/
+486|||我这一代香港人|||陈冠中|||https://book.douban.com/subject/24706897/
+487|||这个社会会好吗|||熊培云|||https://book.douban.com/subject/20499070/
+488|||巨富|||[美]克里斯蒂娅•弗里兰|||https://book.douban.com/subject/25758308/
+489|||自由的基因|||[英] 丹尼尔·汉南|||https://book.douban.com/subject/26545443/
+490|||公共人的衰落|||理查德·桑内特|||https://book.douban.com/subject/3134906/
+491|||日本第一|||[美] 傅高义|||https://book.douban.com/subject/26606521/
+492|||失控|||[美] 凯文·凯利|||https://book.douban.com/subject/5375620/
+493|||自我·群体·社会|||【美】道格拉斯•肯里克等|||https://book.douban.com/subject/6309931/
+494|||大中东行纪|||张信刚|||https://book.douban.com/subject/6826619/
+495|||学术与政治|||[德] 马克斯·韦伯|||https://book.douban.com/subject/1277275/
+496|||青春禁忌游戏|||[俄]柳德米拉·拉祖莫夫斯卡娅|||https://book.douban.com/subject/1105348/
+497|||美德的起源|||(美)里德雷|||https://book.douban.com/subject/1016822/
+498|||平壤水族馆|||姜哲煥、皮耶·李古樂|||https://book.douban.com/subject/11637051/
+499|||性別打結——拆除父權違建|||亞倫·強森（Allan G. Johnson)|||https://book.douban.com/subject/3066800/
+500|||说话的魅力|||刘墉|||https://book.douban.com/subject/3988256/
+501|||非同寻常的大众幻想与群众性癫狂|||（英）麦基|||https://book.douban.com/subject/1057378/
+502|||乱伦禁忌及其起源|||[法]爱弥尔·涂尔干|||https://book.douban.com/subject/1869096/
+503|||我们台湾这些年2|||廖信忠|||https://book.douban.com/subject/26215044/
+504|||生育制度|||费孝通|||https://book.douban.com/subject/1661440/
+505|||西方人文主义传统|||[英] 阿伦·布洛克|||https://book.douban.com/subject/10581521/
+506|||金钱不能买什么|||迈克尔•桑德尔 (Michael Sandel)|||https://book.douban.com/subject/20366367/
+507|||匠人|||[美] 理查德·桑内特|||https://book.douban.com/subject/26388428/
+508|||富足|||彼得•戴曼迪斯 (Peter H. Diamandis)、史蒂芬•科特勒 (Steven Kotler)|||https://book.douban.com/subject/25849758/
+509|||历代经济变革得失|||吴晓波|||https://book.douban.com/subject/24851460/
+510|||恶俗|||[美] 保罗·福塞尔|||https://book.douban.com/subject/11612914/
+511|||大分流|||（美）彭慕兰|||https://book.douban.com/subject/1070147/
+512|||镜子|||[乌拉圭]爱德华多·加莱亚诺|||https://book.douban.com/subject/19978001/
+513|||看懂世界格局的第一本书|||王伟|||https://book.douban.com/subject/5992743/
+514|||人类怎样才能不被动物吃掉|||峻舞涛|||https://book.douban.com/subject/27021094/
+515|||Everybody Lies|||Seth Stephens-Davidowitz|||https://book.douban.com/subject/27038800/
+516|||未来简史|||(法) 阿塔利|||https://book.douban.com/subject/4891197/
+517|||陌生的中国人|||杨猛|||https://book.douban.com/subject/25831406/
+518|||我们为什么离正义越来越远|||熊逸|||https://book.douban.com/subject/10434858/
+519|||白领|||C.莱特·米尔斯|||https://book.douban.com/subject/1860946/
+520|||美国裂变|||黄湘|||https://book.douban.com/subject/26883590/
+521|||中国人的焦虑从哪里来|||茅于轼|||https://book.douban.com/subject/20563189/
+522|||1984|||[英] 乔治·奥威尔|||https://book.douban.com/subject/23155678/
+523|||你会杀死那个胖子吗？|||[英]戴维·埃德蒙兹|||https://book.douban.com/subject/26150390/
+524|||资本论（第一卷）|||马克思|||https://book.douban.com/subject/1150503/
+525|||时代的稻草人|||许知远|||https://book.douban.com/subject/20499536/
+526|||思想与乡愁|||崔卫平|||https://book.douban.com/subject/5380072/
+527|||地图之上|||[英] 西蒙·加菲尔德|||https://book.douban.com/subject/26995610/
+528|||消费文化与后现代主义|||[英国]迈克·费瑟斯通|||https://book.douban.com/subject/1092680/
+529|||十年沧桑|||金雁、秦晖|||https://book.douban.com/subject/1278268/
+530|||社会共通资本|||[日] 宇泽弘文|||https://book.douban.com/subject/27039944/
+531|||祖国的陌生人|||许知远|||https://book.douban.com/subject/4252006/
+532|||路上觀察學入門|||赤瀬川原平、藤森照信、南伸坊 編|||https://book.douban.com/subject/25854087/
+533|||伦理学与生活|||[美] 雅克·蒂洛、[美] 基思·克拉斯曼|||https://book.douban.com/subject/3222065/
+534|||生活之道|||威廉·奥斯勒|||https://book.douban.com/subject/2009207/
+535|||跑步在最绝望的城市|||戴斯特·费尔金斯|||https://book.douban.com/subject/25846976/
+536|||威廉·夏伊勒的二十世纪之旅|||威廉·夏伊勒|||https://book.douban.com/subject/25986829/
+537|||不可思议的年代|||[美] 乔舒亚·库珀·雷默|||https://book.douban.com/subject/4882102/
+538|||国富国穷|||戴维 S. 兰德斯|||https://book.douban.com/subject/4193722/
+539|||货币的非国家化|||弗里德里希·冯·哈耶克|||https://book.douban.com/subject/2155342/
+541|||大狗|||[美]李查德・康尼夫|||https://book.douban.com/subject/1029957/
+542|||香蕉的低语|||[土耳其] 伊切·泰玛尔库兰|||https://book.douban.com/subject/26864850/
+543|||所有人问所有人|||韩寒|||https://book.douban.com/subject/24754123/
+544|||知识分子的鸦片|||雷蒙·阿隆|||https://book.douban.com/subject/1421310/
+545|||关键词|||[英] 雷蒙·威廉斯|||https://book.douban.com/subject/1262815/
+546|||大众的反叛|||奥尔特加·加塞特|||https://book.douban.com/subject/1281257/
+547|||大断裂|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/26390714/
+548|||下流社会|||三浦展|||https://book.douban.com/subject/1962680/
+549|||必要的丧失|||[美] 朱迪思·维奥斯特|||https://book.douban.com/subject/10571219/
+550|||民族与民族主义|||埃里克·霍布斯鲍姆 (Eric J.Hobsbawm)|||https://book.douban.com/subject/1795078/
+551|||时代的噪音|||张铁志|||https://book.douban.com/subject/5288521/
+552|||砂女|||[日] 安部公房|||https://book.douban.com/subject/25885021/
+553|||少林很忙|||[美]马修·波利|||https://book.douban.com/subject/25880420/
+554|||城市化转型与土地陷阱|||华生|||https://book.douban.com/subject/25766497/
+555|||文明|||[英] 尼尔·弗格森|||https://book.douban.com/subject/7051892/
+556|||永不抵达的列车|||杜涌涛、徐百柯|||https://book.douban.com/subject/11442895/
+557|||中国十亿城民|||汤姆·米勒 (Tom Miller)|||https://book.douban.com/subject/25960996/
+558|||粉丝文化读本|||陶东风 编|||https://book.douban.com/subject/3565542/
+559|||中产阶级的孩子们|||程巍|||https://book.douban.com/subject/1810530/
+560|||给莉莉的信|||(英)艾伦·麦克法兰|||https://book.douban.com/subject/1843001/
+561|||新闻的骚动|||阿兰·德波顿 (Alain de Botton)|||https://book.douban.com/subject/26338071/
+562|||通往奴役之路|||(英)弗里德利希·奥古斯特·哈耶克|||https://book.douban.com/subject/1077528/
+563|||暴力与社会秩序|||道格拉斯·C. 诺思、约翰· 约瑟夫· 瓦利斯、巴里·R. 韦格斯特|||https://book.douban.com/subject/24751865/
+564|||大众传播理论|||刘海龙|||https://book.douban.com/subject/3016590/
+565|||官墙里|||阎海军|||https://book.douban.com/subject/27055725/
+566|||城中城|||素德·文卡特斯 (Sudhir Venkatesh)|||https://book.douban.com/subject/26606365/
+567|||我见|||[法]马克·吕布|||https://book.douban.com/subject/26209381/
+568|||野马尘埃|||司马香|||https://book.douban.com/subject/26943411/
+569|||大转型|||[英] 卡尔·波兰尼|||https://book.douban.com/subject/2079931/
+570|||极权主义的起源|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/3101021/
+571|||个人主义与经济秩序|||哈耶克|||https://book.douban.com/subject/1004329/
+572|||地域文化与国家认同|||程美宝|||https://book.douban.com/subject/1821224/
+573|||爱因斯坦传|||沃尔特•艾萨克森|||https://book.douban.com/subject/10531723/
+574|||政治秩序的起源|||[美]弗朗西斯·福山|||https://book.douban.com/subject/19976381/
+575|||意识形态起源和影响|||[美] 利昂·P. 巴拉达特|||https://book.douban.com/subject/4285631/
+576|||鲁迅全集（2005最新修订版）|||鲁迅|||https://book.douban.com/subject/1442720/
+577|||男性统治|||[法]皮埃尔•布尔迪厄（Pierre Bourdieu）|||https://book.douban.com/subject/7152900/
+578|||烟雾弥漫你的眼|||凯特琳·道蒂、Caitlin Doughty|||https://book.douban.com/subject/26653460/
+579|||沧浪之水|||阎真|||https://book.douban.com/subject/1054917/
+581|||监狱琐记|||王学泰|||https://book.douban.com/subject/25755752/
+582|||八次危机|||温铁军|||https://book.douban.com/subject/20394150/
+583|||蜜蜂的寓言|||[荷] 伯纳德·曼德维尔（Bernard Mandeville）|||https://book.douban.com/subject/1000506/
+584|||烹饪、菜肴与阶级|||[英] 杰克·古迪、Jack Goody|||https://book.douban.com/subject/5333574/
+585|||符号学原理与推演|||赵毅衡|||https://book.douban.com/subject/6042298/
+586|||文化人类学|||（美）威廉·A·哈维兰|||https://book.douban.com/subject/1493134/
+587|||沉默的大多数|||王小波|||https://book.douban.com/subject/19986372/
+588|||我不过低配的人生|||雾满拦江|||https://book.douban.com/subject/26878947/
+589|||致命的海滩|||[澳] 罗伯特·休斯|||https://book.douban.com/subject/25840535/
+590|||众病之王|||[美] 悉达多·穆克吉|||https://book.douban.com/subject/20507206/
+591|||为什么要废除死刑|||[法]罗贝尔·巴丹德|||https://book.douban.com/subject/26916655/
+592|||常识|||托马斯·潘恩|||https://book.douban.com/subject/1027030/
+593|||公众舆论|||(美)沃尔特·李普曼|||https://book.douban.com/subject/1809150/
+594|||欲望的演化|||David M.Buss|||https://book.douban.com/subject/5916004/
+595|||巴黎伦敦落魄记|||[英]乔治·奥威尔|||https://book.douban.com/subject/1607478/
+596|||知识社会史 (下卷)|||[英] 彼得·伯克|||https://book.douban.com/subject/26918998/
+597|||大学之路（套装）|||吴军|||https://book.douban.com/subject/26584286/
+598|||歌舞伎町案内人|||李小牧|||https://book.douban.com/subject/1394395/
+599|||奥斯维辛集中营的志愿者|||[波兰]维托尔德·皮莱茨基|||https://book.douban.com/subject/26667196/
+601|||感官的教育|||[美] 彼得·盖伊|||https://book.douban.com/subject/25859274/
+602|||天幕红尘|||豆豆|||https://book.douban.com/subject/24748615/
+603|||十四堂人生创意课|||李欣频|||https://book.douban.com/subject/2363651/
+604|||自然社会|||李猛|||https://book.douban.com/subject/26320417/
+605|||这一代人的怕和爱|||刘小枫|||https://book.douban.com/subject/1970116/
+606|||正义的慈悲|||[美]布莱恩·史蒂文森|||https://book.douban.com/subject/26636503/
+607|||我从新疆来|||库尔班江·赛买提|||https://book.douban.com/subject/26052898/
+608|||第二性Ⅱ|||[法] 西蒙娜·德·波伏瓦|||https://book.douban.com/subject/4745950/
+609|||信徒的国度|||[英] V. S. 奈保尔|||https://book.douban.com/subject/25876615/
+610|||吾国与吾民|||林语堂|||https://book.douban.com/subject/1491239/
+611|||海盗共和国|||[美]科林•伍达德（Colin Woodard）|||https://book.douban.com/subject/26834474/
+612|||西方文明史手册|||威廉·H·麦克尼尔|||https://book.douban.com/subject/26702943/
+613|||贫困与饥荒|||阿马蒂亚·森|||https://book.douban.com/subject/1340525/
+614|||单向街 001|||梁文道 张大春 许知远等|||https://book.douban.com/subject/3908625/
+615|||历史的经验|||南怀瑾|||https://book.douban.com/subject/1042070/
+616|||变革中国|||罗纳德•哈里•科斯、王宁|||https://book.douban.com/subject/20366370/
+617|||论人类不平等的起源和基础|||[法]卢梭|||https://book.douban.com/subject/1657455/
+618|||白板|||[美] 史蒂芬·平克|||https://book.douban.com/subject/26925467/
+619|||科瓦奇讲植物、动物、天文与地理|||（英）科瓦奇 著|||https://book.douban.com/subject/25788823/
+620|||意志力|||[美] 罗伊·鲍迈斯特、[美] 约翰·蒂尔尼|||https://book.douban.com/subject/10773358/
+621|||厚黑学|||李宗吾|||https://book.douban.com/subject/1911687/
+622|||身边的江湖|||野夫|||https://book.douban.com/subject/25639223/
+623|||社会生物学|||爱德华·O·威尔逊|||https://book.douban.com/subject/3156699/
+624|||超越极限|||[日]横山秀夫|||https://book.douban.com/subject/2025723/
+625|||现代的历程|||杜君立|||https://book.douban.com/subject/26841898/
+626|||论中国|||[美] 亨利·基辛格|||https://book.douban.com/subject/19920715/
+627|||群体的智慧|||[美] 詹姆斯·索罗维基|||https://book.douban.com/subject/4924898/
+628|||灰犀牛|||[美] 米歇尔·渥克 (Michele Wucker)|||https://book.douban.com/subject/26961851/
+629|||叔本华论说文集|||[德]叔本华|||https://book.douban.com/subject/1116338/
+630|||红雨|||罗威廉 (William T.Rowe)|||https://book.douban.com/subject/25790421/
+631|||人类学|||[美]康拉德·菲利普·科塔克|||https://book.douban.com/subject/7564081/
+632|||猿猴的把戏|||Dario Maestripieri|||https://book.douban.com/subject/25848493/
+633|||零极限|||[美] 乔·维泰利、[美] 伊贺列卡拉·修·蓝|||https://book.douban.com/subject/3874168/
+634|||跨国灰姑娘|||蓝佩嘉|||https://book.douban.com/subject/6799513/
+635|||猫城记|||老舍|||https://book.douban.com/subject/3345595/
+636|||稀缺|||塞德希尔·穆来纳森、埃尔德·沙菲尔|||https://book.douban.com/subject/26178426/
+637|||法律与文学|||苏力|||https://book.douban.com/subject/1826100/
+638|||一地鸡毛|||刘震云|||https://book.douban.com/subject/1050566/
+639|||送你一颗子弹|||刘瑜|||https://book.douban.com/subject/4238362/
+640|||双面人|||谭同学|||https://book.douban.com/subject/26941264/
+641|||人间采蜜记|||李银河|||https://book.douban.com/subject/26577691/
+642|||中国国民性演变历程|||张宏杰|||https://book.douban.com/subject/24371383/
+643|||马克斯·韦伯与德国政治：1890—1920|||[德]沃尔夫冈·J.蒙森|||https://book.douban.com/subject/26877271/
+644|||远方之镜|||[美] 巴巴拉·W·塔奇曼|||https://book.douban.com/subject/26831765/
+645|||现代性的后果|||[英]安东尼·吉登斯|||https://book.douban.com/subject/1083052/
+646|||我承认我不曾历经沧桑|||蒋方舟|||https://book.douban.com/subject/25741244/
+647|||中国文化要义|||梁漱溟|||https://book.douban.com/subject/1315213/
+648|||精神病院|||厄文．高夫曼|||https://book.douban.com/subject/20382579/
+649|||正常的另一面|||乔丹 斯莫勒 著|||https://book.douban.com/subject/26334506/
+650|||致命的自负|||（英）哈耶克|||https://book.douban.com/subject/1070007/
+651|||消解性别|||[美] 朱迪斯·巴特勒|||https://book.douban.com/subject/4091025/
+652|||西方政治传统|||弗里德里希·沃特金斯|||https://book.douban.com/subject/26712445/
+653|||希姆莱兄弟|||[德] 卡特琳 ·希姆莱|||https://book.douban.com/subject/26804200/
+654|||说中国|||许倬云|||https://book.douban.com/subject/26334500/
+655|||社会主义|||路德维希·冯·米瑟斯|||https://book.douban.com/subject/3260366/
+656|||演讲的力量|||克里斯·安德森 (Chris Anderson)|||https://book.douban.com/subject/26799348/
+657|||美国与中国|||费正清(美)|||https://book.douban.com/subject/1034847/
+658|||呐喊|||鲁迅|||https://book.douban.com/subject/1449351/
+659|||我是马拉拉|||【巴基斯坦】马拉拉|||https://book.douban.com/subject/26109489/
+660|||罪孽的报应|||[荷] 伊恩·布鲁玛|||https://book.douban.com/subject/26577705/
+661|||制度是如何形成的|||苏力|||https://book.douban.com/subject/2267824/
+662|||空间·时间·建筑|||希格弗莱德·吉迪恩|||https://book.douban.com/subject/19977973/
+663|||看不见的大猩猩|||克里斯托弗•查布利斯（Christopher Chabris）   丹尼尔•西蒙斯（Daniel Simons）、丹尼尔•西蒙斯（Daniel Simons）|||https://book.douban.com/subject/5910460/
+664|||阿Q正传|||鲁迅、丰子恺|||https://book.douban.com/subject/1088065/
+665|||猿形毕露|||[美]弗朗斯·德瓦尔（Frans de Waal）|||https://book.douban.com/subject/26369891/
+666|||疯癫与文明|||米歇尔・福柯|||https://book.douban.com/subject/1036541/
+667|||吃货的孤单心事|||培根君|||https://book.douban.com/subject/25939157/
+668|||民主的阴暗面|||[英] 迈克尔·曼|||https://book.douban.com/subject/25863979/
+669|||知识分子论|||萨义德|||https://book.douban.com/subject/1012379/
+670|||第二性|||[法]西蒙娜・德・波伏娃著|||https://book.douban.com/subject/1004322/
+671|||第二次机器革命|||[美]埃里克·布莱恩约弗森|||https://book.douban.com/subject/25953932/
+672|||激荡三十年（上）|||吴晓波|||https://book.douban.com/subject/1970428/
+673|||纽约无人是客|||沈辛成|||https://book.douban.com/subject/27037182/
+674|||江湖丛谈|||连阔如  著、贾建国 连丽如 整理|||https://book.douban.com/subject/1422105/
+675|||参谋助手论|||王怀志、郭政|||https://book.douban.com/subject/3896758/
+676|||邓小平时代|||傅高义|||https://book.douban.com/subject/20424526/
+677|||写给无神论者|||(英)阿兰·德波顿|||https://book.douban.com/subject/10594802/
+678|||意识形态与乌托邦|||(德)卡尔﹒曼海姆|||https://book.douban.com/subject/1068301/
+679|||李光耀论中国与世界|||李光耀 口述；[美]格雷厄姆•艾利森（Graham Allison） 罗伯特•D•布莱克威尔（Robert D. Blackwill）阿里•温尼（Ali Wyne） 编著|||https://book.douban.com/subject/25730239/
+680|||美国独行|||[加] 马克·斯坦恩|||https://book.douban.com/subject/26797406/
+681|||以利为利|||周飞舟|||https://book.douban.com/subject/10587755/
+682|||牛棚杂忆|||季羡林|||https://book.douban.com/subject/1062423/
+683|||死亡如此多情|||中国医学论坛报社|||https://book.douban.com/subject/24839756/
+684|||技术垄断|||(美)尼尔·波兹曼|||https://book.douban.com/subject/2315287/
+685|||美国|||[法] 让·波德里亚|||https://book.douban.com/subject/3689121/
+686|||如果可以这样做农民|||绿妖|||https://book.douban.com/subject/26813986/
+687|||托克维尔传|||[英] 休·布罗根|||https://book.douban.com/subject/26997127/
+688|||西方将主宰多久|||[美] 伊恩·莫里斯|||https://book.douban.com/subject/6559258/
+689|||新阶级|||密洛凡·德热拉斯|||https://book.douban.com/subject/20266235/
+690|||看见真相的男孩|||(英) 斯科特|||https://book.douban.com/subject/4836697/
+691|||危险的愉悦|||贺萧|||https://book.douban.com/subject/1464575/
+692|||1968|||马克·科兰斯基|||https://book.douban.com/subject/4011286/
+693|||社会工程|||海德纳吉 (Christopher Hadnagy)|||https://book.douban.com/subject/25768304/
+694|||进化心理学|||David M.Buss|||https://book.douban.com/subject/2143904/
+695|||喂养中国小皇帝|||景军|||https://book.douban.com/subject/26937690/
+696|||医生的修炼|||[美]阿图·葛文德|||https://book.douban.com/subject/26579966/
+697|||在缅甸寻找乔治·奥威尔|||[美] 艾玛·拉金|||https://book.douban.com/subject/26847517/
+698|||黑暗之旅|||王立杰|||https://book.douban.com/subject/4231279/
+699|||共产党宣言|||马克思、恩格斯|||https://book.douban.com/subject/1065977/
+700|||第一个人|||(法)阿尔贝·加缪|||https://book.douban.com/subject/24257317/
+701|||大地孤独闪光|||李海鹏|||https://book.douban.com/subject/6539860/
+702|||过去与未来之间|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/6540232/
+703|||他人就是地狱|||[法]萨特|||https://book.douban.com/subject/2213965/
+704|||丰乳肥臀|||莫言|||https://book.douban.com/subject/1010349/
+705|||菲利普二世时代的地中海和地中海世界（上下卷）|||[法] 费尔南·布罗代尔|||https://book.douban.com/subject/1044499/
+706|||流动的现代性|||齐格蒙特・鲍曼|||https://book.douban.com/subject/1052528/
+707|||李银河自选集|||李银河|||https://book.douban.com/subject/2082036/
+708|||老师的谎言|||[美] 詹姆斯·洛温（James W. Loewen）|||https://book.douban.com/subject/4138066/
+709|||自由与繁荣的国度|||[奥] 路德维希·冯·米瑟斯|||https://book.douban.com/subject/1043419/
+710|||断臂上的花朵|||[南非]奥比•萨克斯|||https://book.douban.com/subject/25961876/
+711|||One Billion Customers|||James McGregor|||https://book.douban.com/subject/2791877/
+712|||魔鬼经济学（罗辑思维独家定制版）|||[美]史蒂芬 · 列维特、美]史蒂芬 · 都伯纳|||https://book.douban.com/subject/26799211/
+713|||豹|||（意）兰佩杜萨|||https://book.douban.com/subject/3066796/
+714|||性经验史|||(法)米歇尔.福柯|||https://book.douban.com/subject/1437687/
+715|||文化与权力|||(美)戴维·斯沃茨|||https://book.douban.com/subject/1787092/
+716|||扫起落叶好过冬|||林达|||https://book.douban.com/subject/1907199/
+717|||中國鄉村|||蕭公權|||https://book.douban.com/subject/25799718/
+718|||苦痛和疾病的社会根源|||[美]凯博文|||https://book.douban.com/subject/3023839/
+719|||治理中国|||[美] 李侃如|||https://book.douban.com/subject/4220193/
+721|||中国社会科学离科学还有多远?|||乔晓春|||https://book.douban.com/subject/26981311/
+722|||资本主义还有未来吗|||伊曼纽尔·沃勒斯坦 (Immanuel Wallerstein)、兰德尔·柯林斯 (Randall Collins)、迈克尔·曼 (Michael Mann)、格奥吉·杰尔卢吉扬 (Georgi Derluguia)、克雷格•卡尔霍恩|||https://book.douban.com/subject/25864125/
+723|||游戏改变世界|||[美] 简•麦戈尼格尔（Jane McGonigal）|||https://book.douban.com/subject/10828002/
+724|||弯曲的脊梁|||(美) 彼特沃克|||https://book.douban.com/subject/10546119/
+725|||莎士比亚的动荡世界|||[英] 尼尔·麦克格雷格|||https://book.douban.com/subject/26286757/
+726|||中国社会中的宗教|||杨庆堃|||https://book.douban.com/subject/2138608/
+727|||叩响命运的门|||马小平|||https://book.douban.com/subject/19941577/
+728|||茶馆|||王笛|||https://book.douban.com/subject/4242368/
+729|||梦醒子|||沈艾娣 (Henrietta Harrison)|||https://book.douban.com/subject/25498796/
+730|||欲望号街车|||[美]田纳西·威廉斯|||https://book.douban.com/subject/4247000/
+731|||九栋|||邹静之|||https://book.douban.com/subject/5408346/
+732|||全球“猎身”|||项飚|||https://book.douban.com/subject/5941341/
+733|||美国精神的封闭|||艾伦·布卢姆|||https://book.douban.com/subject/2287712/
+734|||纠正|||乔纳森·弗兰岑|||https://book.douban.com/subject/24719080/
+735|||你所谓的稳定，不过是在浪费生命|||李尚龙|||https://book.douban.com/subject/26728018/
+736|||时寒冰说：未来二十年，经济大趋势（现实篇）|||时寒冰|||https://book.douban.com/subject/25902226/
+737|||天才在左 疯子在右|||高铭|||https://book.douban.com/subject/4242172/
+738|||理性选民的神话|||(美)布赖恩·卡普兰|||https://book.douban.com/subject/5348296/
+739|||污名|||（美）欧文·戈夫曼|||https://book.douban.com/subject/3865994/
+740|||收缩的城市|||Philipp Oswalt|||https://book.douban.com/subject/19934597/
+741|||沉疴遍地|||[美] 托尼·朱特|||https://book.douban.com/subject/6528928/
+742|||实践与反思|||(法)皮埃乐.布迪厄、华康德|||https://book.douban.com/subject/1054762/
+743|||家|||巴金|||https://book.douban.com/subject/1082522/
+744|||礼物|||[法] 马塞尔·莫斯|||https://book.douban.com/subject/1428050/
+745|||白老虎|||[印度] 阿拉文德·阿迪加|||https://book.douban.com/subject/4313213/
+746|||与机器赛跑|||[美]埃里克·布林约尔松（Erik Brynjolfsson）、[美]安德鲁·麦卡菲（Andrew McAfee）|||https://book.douban.com/subject/21326266/
+747|||恶|||罗伊·F·鲍迈斯特尔|||https://book.douban.com/subject/1275195/
+748|||推拿|||毕飞宇|||https://book.douban.com/subject/3239913/
+749|||蒙塔尤|||埃马纽埃尔·勒华拉杜里|||https://book.douban.com/subject/2186646/
+750|||未来是湿的|||[美] 克莱·舍基|||https://book.douban.com/subject/3735295/
+751|||原谅我红尘颠倒|||慕容雪村|||https://book.douban.com/subject/3274851/
+752|||现代世界的诞生|||[英] 艾伦·麦克法兰 主讲、清华大学国学研究院 主编、刘北成 评议、刘东 主持|||https://book.douban.com/subject/24699353/
+753|||中国国家治理的制度逻辑|||周雪光|||https://book.douban.com/subject/26901114/
+754|||一无所有|||[美]厄休拉·勒古恩|||https://book.douban.com/subject/3747044/
+755|||原始思维|||(法)列维-布留尔|||https://book.douban.com/subject/1157293/
+756|||Why Nations Fail|||Daron Acemoglu、James Robinson|||https://book.douban.com/subject/6833967/
+757|||黑暗时代的人们|||汉娜·阿伦特|||https://book.douban.com/subject/1828292/
+758|||中国历代政治得失|||钱穆|||https://book.douban.com/subject/1003479/
+759|||佛祖在一号线|||李海鹏|||https://book.douban.com/subject/4872671/
+761|||罗伯特议事规则|||亨利·罗伯特|||https://book.douban.com/subject/2382433/
+762|||凶年|||(美) 戴维·西蒙|||https://book.douban.com/subject/26315805/
+763|||债|||[美]大卫·格雷伯|||https://book.douban.com/subject/20272111/
+764|||在国家与社会之间|||刘志伟|||https://book.douban.com/subject/4737019/
+765|||金枝（上下册）|||[英] J.G.弗雷泽|||https://book.douban.com/subject/1905742/
+766|||这个动荡的世界|||龙应台|||https://book.douban.com/subject/1438669/
+767|||文化、权力与国家|||[美] 杜赞奇|||https://book.douban.com/subject/1274491/
+768|||最好的辩护|||[美] 艾伦·德肖微茨|||https://book.douban.com/subject/1316771/
+769|||罗辑思维|||罗振宇|||https://book.douban.com/subject/25745691/
+770|||千只鹤|||[日] 川端康成|||https://book.douban.com/subject/24736900/
+771|||坏世界研究|||赵汀阳|||https://book.douban.com/subject/3669381/
+772|||君主论|||[意]尼科洛·马基雅维里|||https://book.douban.com/subject/1060774/
+773|||寂静的春天|||[美]蕾切尔·卡森|||https://book.douban.com/subject/2350407/
+774|||灵之舞|||邓晓芒|||https://book.douban.com/subject/4189215/
+775|||联邦党人文集|||汉密尔顿、杰伊、麦迪逊|||https://book.douban.com/subject/1048930/
+776|||正义论|||[美] 约翰·罗尔斯|||https://book.douban.com/subject/1028268/
+777|||幸福了吗?|||白岩松|||https://book.douban.com/subject/5252677/
+778|||理想的冲突|||[美] L. J. 宾克莱|||https://book.douban.com/subject/1462854/
+779|||论革命|||(美)汉娜·阿伦特|||https://book.douban.com/subject/2051821/
+780|||二号首长|||黄晓阳|||https://book.douban.com/subject/6085181/
+781|||哈耶克文选|||哈耶克|||https://book.douban.com/subject/1032570/
+782|||身份的焦虑|||[英] 阿兰·德波顿|||https://book.douban.com/subject/2033081/
+783|||腾讯传|||吴晓波|||https://book.douban.com/subject/26929955/
+784|||带灯|||贾平凹|||https://book.douban.com/subject/20452802/
+785|||迦太基必须毁灭|||[英] 理查德·迈尔斯|||https://book.douban.com/subject/26764853/
+786|||制造中国|||[美] 葛凯|||https://book.douban.com/subject/2984021/
+787|||欧洲同性恋史|||【法】弗洛朗斯·塔马涅|||https://book.douban.com/subject/3729665/
+788|||网络、群体与市场|||大卫·伊斯利(David Esley)、乔恩·克莱因伯格(Jon Kleinberg)|||https://book.douban.com/subject/6885949/
+789|||档案|||[英] 蒂莫西·加顿艾什|||https://book.douban.com/subject/26577706/
+790|||大地|||[美] 赛珍珠|||https://book.douban.com/subject/1085128/
+791|||认知盈余|||[美] 克莱·舍基|||https://book.douban.com/subject/7007666/
+792|||蛙|||莫言|||https://book.douban.com/subject/4169424/
+793|||职场动物进化手册|||雾满拦江|||https://book.douban.com/subject/1039311/
+794|||国家间政治|||汉斯·摩根索、肯尼斯·汤普森 修订、戴维·克林顿 修订|||https://book.douban.com/subject/1971678/
+795|||金钱、性别、现代生活风格|||[德] 西美尔、刘小枫 选编|||https://book.douban.com/subject/4292171/
+796|||历史决定论的贫困|||[英] 卡尔·波普尔|||https://book.douban.com/subject/3803268/
+797|||宗教生活的基本形式|||[法]爱弥尔·涂尔干|||https://book.douban.com/subject/1870212/
+798|||脆弱的崛起|||徐弃郁|||https://book.douban.com/subject/6518053/
+801|||众声喧哗|||胡泳|||https://book.douban.com/subject/3191237/
+802|||流放者归来|||[美] 马尔科姆·考利|||https://book.douban.com/subject/1918353/
+803|||来自上层的革命|||[美]大卫.科兹|||https://book.douban.com/subject/3097530/
+804|||国家与社会革命|||(美)西达·斯考切波|||https://book.douban.com/subject/2048787/
+805|||苏联的心灵|||[英国] 以赛亚·伯林|||https://book.douban.com/subject/4212276/
+806|||百年思索|||龙应台|||https://book.douban.com/subject/1072189/
+807|||蒙元入侵前夜的中国日常生活|||[法] 谢和耐|||https://book.douban.com/subject/3525645/
+808|||创业的国度|||"[美]丹•塞诺（Dan Senor）、[以]索尔•辛格（Saul Singer）|||https://book.douban.com/subject/5269192/
+809|||狂人日记|||鲁迅|||https://book.douban.com/subject/1398395/
+810|||零售管理|||[美]迈克尔·利维|||https://book.douban.com/subject/1187241/
+811|||激荡三十年（下）|||吴晓波|||https://book.douban.com/subject/2380307/
+812|||漫长的革命|||[英]雷蒙德·威廉斯|||https://book.douban.com/subject/20472494/
+813|||罪行|||(德)费迪南德·冯·席拉赫|||https://book.douban.com/subject/6967983/
+814|||毛以后的中国1976-1983|||刘香成|||https://book.douban.com/subject/5906099/
+815|||穿越丝路|||李伟|||https://book.douban.com/subject/26942976/
+816|||大逃港|||陈秉安|||https://book.douban.com/subject/5253517/
+817|||朱镕基讲话实录 第一卷|||《朱熔基讲话实录》编辑组|||https://book.douban.com/subject/6822683/
+818|||第三波|||[美] 塞缪尔·亨廷顿|||https://book.douban.com/subject/1048109/
+819|||资产阶级自由化言论辑录|||中共北京市委宣传部理论处|||https://book.douban.com/subject/2325934/
+820|||局外人|||[法]雅克·费朗代（Jacques Ferrandez）|||https://book.douban.com/subject/26693438/
+821|||巴西：未来之国|||[奥]斯蒂芬·茨威格|||https://book.douban.com/subject/21714777/
+822|||菜场经济学|||财上海|||https://book.douban.com/subject/26866034/
+823|||历史学与社会理论|||[英] 彼得·伯克|||https://book.douban.com/subject/4011303/
+824|||资本主义文化矛盾|||[美] 丹尼尔·贝尔|||https://book.douban.com/subject/1017698/
+825|||法治及其本土资源|||朱苏力|||https://book.douban.com/subject/1029794/
+826|||父母：挑战|||[美] 鲁道夫•德雷克斯|||https://book.douban.com/subject/27060577/
+827|||白色巨塔（第一部）|||(日)山崎丰子|||https://book.douban.com/subject/1455138/
+828|||纸牌屋|||迈克尔·道布斯|||https://book.douban.com/subject/25808056/
+829|||超越自由与尊严|||B.F.斯金纳|||https://book.douban.com/subject/1843275/
+830|||你永远都无法叫醒一个装睡的人|||周濂|||https://book.douban.com/subject/10601137/
+831|||洁净与危险|||（英）玛丽·道格拉斯|||https://book.douban.com/subject/3268426/
+832|||公共领域的结构转型|||（德）哈贝马斯|||https://book.douban.com/subject/1009891/
+833|||精子战争|||罗宾・贝克|||https://book.douban.com/subject/1080750/
+834|||经验的疆界|||[美] 詹姆斯 G. 马奇|||https://book.douban.com/subject/6687032/
+835|||农民进城赚钱秘诀|||蔡建文|||https://book.douban.com/subject/1929832/
+836|||裙带资本主义|||(美) 康灿雄 (David C.Kang)|||https://book.douban.com/subject/27089750/
+837|||解读中国经济|||林毅夫|||https://book.douban.com/subject/11626951/
+838|||华北的小农经济与社会变迁|||黄宗智|||https://book.douban.com/subject/1018498/
+839|||民主与专制的社会起源|||巴林顿·摩尔|||https://book.douban.com/subject/1898651/
+840|||中国好人|||刀尔登|||https://book.douban.com/subject/3391717/
+841|||阿斯伯格综合征完全指南|||[英]Tony Attwood|||https://book.douban.com/subject/11524925/
+842|||封建社会（上、下卷）|||[法]马克·布洛赫|||https://book.douban.com/subject/1053109/
+843|||人的行為|||米塞斯|||https://book.douban.com/subject/1873802/
+844|||国富论|||[英] 亚当·斯密|||https://book.douban.com/subject/1261560/
+845|||中国农村的市场和社会结构|||（美）施坚雅|||https://book.douban.com/subject/2379345/
+846|||叶|||[美] 周锡瑞|||https://book.douban.com/subject/25928984/
+847|||自由秩序原理|||(英)弗里德利希・冯・哈耶克|||https://book.douban.com/subject/1005813/
+848|||知识的边界|||[美] 戴维·温伯格|||https://book.douban.com/subject/26279954/
+849|||忍不住的“关怀”|||杨奎松|||https://book.douban.com/subject/24316409/
+850|||遗失在西方的中国史|||沈弘 编译|||https://book.douban.com/subject/25788989/
+851|||你不可不知的人性|||[美] 刘墉|||https://book.douban.com/subject/1071821/
+852|||文明之光（第二册）|||吴军|||https://book.douban.com/subject/25902222/
+853|||相助|||[美] 凯瑟琳·斯多克特|||https://book.douban.com/subject/4220020/
+854|||法国妈妈育儿经|||（美）帕梅拉•德鲁克曼|||https://book.douban.com/subject/20258531/
+855|||肉体与石头|||理查德·桑内特|||https://book.douban.com/subject/1870639/
+856|||印度：百万叛变的今天|||（英）奈保尔|||https://book.douban.com/subject/1040351/
+857|||抗战时代生活史|||陈存仁|||https://book.douban.com/subject/2128063/
+858|||羌在汉藏之间|||王明珂|||https://book.douban.com/subject/3094349/
+859|||战后欧洲史|||托尼•朱特|||https://book.douban.com/subject/4189598/
+860|||错把妻子当帽子|||[美] 奥利弗·萨克斯|||https://book.douban.com/subject/4742971/
+861|||女人的起源|||[英]伊莲·摩根|||https://book.douban.com/subject/2222424/
+862|||野心优雅|||任志强|||https://book.douban.com/subject/25723799/
+863|||文艺复兴的故事02：我的朋友马基雅维利——佛罗伦萨的兴亡|||[日] 盐野七生|||https://book.douban.com/subject/26646578/
+864|||假装的艺术|||[美] 劳伦斯·怀特德-弗莱|||https://book.douban.com/subject/5321843/
+865|||毛泽东选集 第五卷|||毛泽东|||https://book.douban.com/subject/1916533/
+866|||平乐镇伤心故事集|||颜歌|||https://book.douban.com/subject/26384375/
+867|||轴心时代|||[英国] 凯伦·阿姆斯特朗|||https://book.douban.com/subject/4733982/
+868|||美国人的历史|||(英国)保罗•约翰逊|||https://book.douban.com/subject/4218900/
+869|||朱镕基答记者问|||《朱镕基答记者问》编辑组 编|||https://book.douban.com/subject/4002701/
+870|||文化记忆|||(德) 扬·阿斯曼（Jan Assmann）|||https://book.douban.com/subject/26286741/
+871|||故国人民有所思|||陈徒手|||https://book.douban.com/subject/20556208/
+872|||我的精神家园|||王小波|||https://book.douban.com/subject/1014578/
+873|||洗脑术|||[英]多米尼克·斯垂特菲尔德|||https://book.douban.com/subject/7054138/
+874|||海蒂性学报告：男人篇|||[美] 雪儿·海蒂|||https://book.douban.com/subject/1064298/
+875|||熵：一种新的世界观|||(美)杰里米·里夫金、特德·霍华德|||https://book.douban.com/subject/1419432/
+876|||极简医学史|||[英]罗伊·波特|||https://book.douban.com/subject/26742300/
+877|||采访本上的城市|||王军|||https://book.douban.com/subject/3111979/
+878|||王阳明：一切心法|||熊逸|||https://book.douban.com/subject/26879317/
+879|||富兰克林传|||(美)沃尔特·艾萨克森|||https://book.douban.com/subject/26371154/
+880|||日本的思想|||(日)丸山真男|||https://book.douban.com/subject/3662234/
+881|||中国大历史|||黄仁宇|||https://book.douban.com/subject/1015699/
+882|||自由选择|||[美] 米尔顿·弗里德曼、罗丝·弗里德曼|||https://book.douban.com/subject/3097539/
+883|||失败的逻辑|||迪特里希·德尔纳|||https://book.douban.com/subject/5417235/
+884|||街头的狂欢|||[美]芭芭拉·艾伦瑞克|||https://book.douban.com/subject/26985449/
+885|||儿童的世纪|||菲力浦•阿利埃斯（Philippe Ariès）|||https://book.douban.com/subject/23782049/
+886|||古典自由主义|||大卫·鲍兹|||https://book.douban.com/subject/4062752/
+887|||穷人的银行家|||（孟）穆罕默德·尤努斯|||https://book.douban.com/subject/1812833/
+888|||1491|||[美] 查尔斯·曼恩|||https://book.douban.com/subject/25841470/
+889|||给我自由!|||[美] 坎里克·方纳 (Eric Foner)|||https://book.douban.com/subject/6004602/
+890|||从黎明到衰落（上下）|||[美] 雅克·巴尔赞|||https://book.douban.com/subject/25752592/
+891|||新自由主义简史|||[美] 大卫·哈维|||https://book.douban.com/subject/4850299/
+892|||色情史|||（法）巴塔耶|||https://book.douban.com/subject/1080481/
+893|||古典时代疯狂史|||[法] 米歇尔·福柯|||https://book.douban.com/subject/1393233/
+894|||大国的兴衰|||[美] 保罗·肯尼迪|||https://book.douban.com/subject/1421923/
+895|||法的门前|||彼得•德恩里科、邓子滨|||https://book.douban.com/subject/10829270/
+896|||香港重庆大厦|||[美] 麦高登|||https://book.douban.com/subject/26591565/
+897|||社会认知|||齐瓦·孔达|||https://book.douban.com/subject/20563266/
+898|||退步集|||陈丹青|||https://book.douban.com/subject/1003284/
+899|||书斋里的革命|||朱学勤|||https://book.douban.com/subject/1815627/
+900|||科技想要什么|||[美] 凯文·凯利|||https://book.douban.com/subject/6965746/
+901|||这个世界会好吗|||[美] 艾恺 采访、梁漱溟 口述、一耽学堂 整理|||https://book.douban.com/subject/1456524/
+902|||冬吴相对论|||吴伯凡、梁冬|||https://book.douban.com/subject/4124834/
+903|||宣传|||刘海龙|||https://book.douban.com/subject/21345957/
+904|||宽容|||（美）房龙|||https://book.douban.com/subject/1010204/
+905|||风流去|||鲍鹏山|||https://book.douban.com/subject/3464792/
+906|||倒转红轮|||金雁|||https://book.douban.com/subject/11605940/
+907|||一个一个人|||申赋渔|||https://book.douban.com/subject/11535030/
+908|||政府论（上篇）|||[英] 洛克|||https://book.douban.com/subject/1276771/
+909|||大数据时代|||[英] 维克托•迈尔•舍恩伯格（Viktor Mayer-Schönberger）|||https://book.douban.com/subject/20429677/
+910|||极简人类史|||[美]大卫·克里斯蒂安|||https://book.douban.com/subject/26754615/
+911|||温故一九四二|||刘震云|||https://book.douban.com/subject/3623831/
+912|||十宗罪|||蜘蛛|||https://book.douban.com/subject/5383916/
+913|||血缘与归属|||[加拿大] 叶礼庭|||https://book.douban.com/subject/27076779/
+914|||超级版图|||帕拉格·康纳|||https://book.douban.com/subject/26786410/
+915|||疯狂的功成名就|||[德]沃尔夫冈·舒尔等|||https://book.douban.com/subject/2063630/
+916|||世界的逻辑|||[美]大卫·哈维|||https://book.douban.com/subject/26921231/
+917|||别告诉我你懂PPT|||李治|||https://book.douban.com/subject/4243135/
+918|||临床医学的诞生|||[法] 米歇尔·福柯|||https://book.douban.com/subject/1085518/
+919|||跌荡一百年（下）|||吴晓波|||https://book.douban.com/subject/4010186/
+921|||潜意识|||[美] 列纳德·蒙洛迪诺|||https://book.douban.com/subject/24845389/
+922|||货币哲学|||[德] 西美尔|||https://book.douban.com/subject/1012962/
+923|||中国与中国人影像|||[英]约翰•汤姆逊|||https://book.douban.com/subject/20366533/
+924|||异端的权利|||[奥] 斯·茨威格|||https://book.douban.com/subject/1465543/
+925|||战争留下了什么|||鹤见俊辅、上野千鹤子、小熊英二|||https://book.douban.com/subject/26394958/
+926|||中毒的父母|||苏珊·福沃德|||https://book.douban.com/subject/1065003/
+927|||地下|||[日] 村上春树|||https://book.douban.com/subject/6265779/
+928|||脏话文化史|||[澳] 露丝·韦津利|||https://book.douban.com/subject/2995283/
+929|||神话学|||[法]克洛德·列维-斯特劳斯|||https://book.douban.com/subject/2053303/
+930|||上课记|||王小妮|||https://book.douban.com/subject/10466438/
+931|||论犯罪与刑罚|||贝卡里亚|||https://book.douban.com/subject/1013488/
+932|||大棋局|||兹比格纽·布热津斯基|||https://book.douban.com/subject/2026281/
+933|||政治思考|||[美] 格伦·廷德|||https://book.douban.com/subject/4857097/
+934|||西方世界的兴起|||[美]道格拉斯·诺斯、罗伯特·托马斯|||https://book.douban.com/subject/4187474/
+935|||性与性格|||奥托·魏宁格、Otto Weininger|||https://book.douban.com/subject/1918220/
+936|||现代世界史|||[美] R. R. 帕尔默|||https://book.douban.com/subject/3555039/
+937|||一个游荡者的世界|||许知远|||https://book.douban.com/subject/6802371/
+938|||七日谈|||刀尔登|||https://book.douban.com/subject/6808941/
+939|||看得见的手|||小艾尔弗雷德·D.钱德勒|||https://book.douban.com/subject/1053848/
+940|||革命年代|||高华|||https://book.douban.com/subject/4229282/
+941|||大法官说了算|||何帆|||https://book.douban.com/subject/4915989/
+942|||法国大革命前的畅销禁书|||[美]罗伯特·达恩顿|||https://book.douban.com/subject/6867541/
+943|||Capitalism with Chinese Characteristics|||Yasheng Huang|||https://book.douban.com/subject/3233097/
+944|||英国个人主义的起源|||[英]艾伦·麦克法兰|||https://book.douban.com/subject/3158094/
+945|||美国文明的兴起（上下）|||[美]查尔斯·比尔德、玛丽·比尔德|||https://book.douban.com/subject/4736004/
+946|||不发表 就出局|||李连江|||https://book.douban.com/subject/26895836/
+947|||若干重大决策与事件的回顾（上下）|||薄一波|||https://book.douban.com/subject/2976744/
+948|||士与中国文化|||余英时|||https://book.douban.com/subject/1016864/
+949|||政治学|||[英]安德鲁·海伍德 Andrew Heywood|||https://book.douban.com/subject/1867208/
+950|||愚政进行曲|||巴巴拉·W·塔奇曼|||https://book.douban.com/subject/26831766/
+951|||物|||(法) 佩雷克|||https://book.douban.com/subject/4151189/
+952|||数字化生存|||尼葛洛庞帝|||https://book.douban.com/subject/1089508/
+953|||人类沟通的起源|||[美]迈克尔•托马塞洛|||https://book.douban.com/subject/20271283/
+954|||决断力|||[美] 奇普·希思、[美] 丹·希思|||https://book.douban.com/subject/25744065/
+955|||七十年代|||北岛、李陀 主编|||https://book.douban.com/subject/3662230/
+956|||我们能做什么|||胡适|||https://book.douban.com/subject/25911858/
+957|||意大利人为什么喜爱谈论食物？|||[乌克兰]艾琳娜·库丝蒂奥科维奇|||https://book.douban.com/subject/26934440/
+958|||布登勃洛克一家|||(德)托马斯·曼|||https://book.douban.com/subject/3583331/
+959|||社交天性|||[美] 马修·利伯曼（Matthew D. Lieberman）|||https://book.douban.com/subject/26806961/
+960|||城记|||王军|||https://book.douban.com/subject/1070711/
+961|||我，十三岁，妓女，吸毒者……|||[西德] 凯·赫尔曼、霍斯特·里克 整理|||https://book.douban.com/subject/1916614/
+962|||Between the World and Me|||Ta-Nehisi Coates|||https://book.douban.com/subject/26436067/
+963|||大败局|||吴晓波|||https://book.douban.com/subject/1072438/
+964|||东西文化及其哲学|||梁漱溟|||https://book.douban.com/subject/1810945/
+965|||梳毛、八卦及语言的进化|||[英] 罗宾·邓巴|||https://book.douban.com/subject/27073686/
+966|||一九八四·动物农场|||[英] 乔治·奥威尔|||https://book.douban.com/subject/1082387/
+967|||顾准文集|||顾准|||https://book.douban.com/subject/2025235/
+968|||东宫·西宫|||王小波、李银河|||https://book.douban.com/subject/1812895/
+969|||世界重启|||[英]路易斯·达特内尔|||https://book.douban.com/subject/26652354/
+970|||王氏之死|||(美)史景迁|||https://book.douban.com/subject/6750187/
+971|||民主转型与巩固的问题|||胡安·J·林茨、阿尔弗莱德·斯泰潘|||https://book.douban.com/subject/2972538/
+972|||從理想主義到經驗主義|||顧準|||https://book.douban.com/subject/2079351/
+973|||艾希曼在耶路撒冷|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/26834183/
+974|||忙总管理笔记|||文小芒|||https://book.douban.com/subject/24902403/
+975|||对权威的服从|||米尔格拉姆|||https://book.douban.com/subject/20477116/
+976|||说谎|||[美] 保罗·埃克曼|||https://book.douban.com/subject/3321968/
+977|||最后的熊猫|||〔美〕乔治•夏勒 著|||https://book.douban.com/subject/26335757/
+978|||统治史（卷一）：古代的王权和帝国——从苏美尔到罗马（修订版）|||塞缪尔•E•芬纳|||https://book.douban.com/subject/25910407/
+979|||民主新论|||[美] 乔万尼·萨托利|||https://book.douban.com/subject/3593300/
+981|||另一个世界|||[瑞典] 林西莉|||https://book.douban.com/subject/26859410/
+982|||论自由|||[英] 约翰·密尔|||https://book.douban.com/subject/1400195/
+983|||古拉格气象学家|||[法] 奥利维埃·罗兰|||https://book.douban.com/subject/26798155/
+984|||金赛性学报告|||(美)阿尔弗雷德·C.金赛|||https://book.douban.com/subject/2082044/
+985|||照片里的20世纪全球史|||尼克·雅普 (Nick Yapp)|||https://book.douban.com/subject/26313692/
+986|||人民的名义|||周梅森|||https://book.douban.com/subject/26952485/
+987|||一个无政府主义者的意外死亡|||（意大利）达里奥·福|||https://book.douban.com/subject/1006991/
+988|||與中國打交道|||亨利‧鮑爾森Henry M. Paulson|||https://book.douban.com/subject/27010498/
+989|||浩荡两千年|||吴晓波|||https://book.douban.com/subject/6980818/
+990|||中华帝国晚期的叛乱及其敌人|||[美] 孔飞力|||https://book.douban.com/subject/1063540/
+991|||金融的逻辑1|||陈志武|||https://book.douban.com/subject/26319391/
+992|||青春|||韩寒|||https://book.douban.com/subject/6902639/
+993|||毛泽东传|||[美] 罗斯·特里尔|||https://book.douban.com/subject/1485628/
+994|||中国的经济制度|||张五常|||https://book.douban.com/subject/4012145/
+995|||剧院里最好的座位|||[美] 安·帕奇特|||https://book.douban.com/subject/26433664/
+996|||皇权不下县?|||胡恒|||https://book.douban.com/subject/26604202/
+997|||以竹为生|||[德] 艾约博|||https://book.douban.com/subject/26951529/
+998|||绝非偶然|||Elliot Aronson|||https://book.douban.com/subject/19949881/
+999|||集装箱改变世界|||MARC LEVINSON|||https://book.douban.com/subject/2354988/
+1000|||妮萨|||[美] 玛乔丽·肖斯塔克|||https://book.douban.com/subject/26902311/

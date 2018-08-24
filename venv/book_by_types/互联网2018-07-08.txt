@@ -1,0 +1,999 @@
+1|||失控|||[美] 凯文·凯利|||https://book.douban.com/subject/5375620/
+2|||浪潮之巅|||吴军|||https://book.douban.com/subject/6709783/
+3|||智能时代|||吴军|||https://book.douban.com/subject/26838557/
+4|||黑客与画家|||[美] Paul Graham|||https://book.douban.com/subject/6021440/
+5|||创业维艰|||本·霍洛维茨 Ben Horowitz|||https://book.douban.com/subject/26306686/
+6|||必然|||[美] 凯文·凯利|||https://book.douban.com/subject/26658379/
+7|||从0到1|||彼得·蒂尔、布莱克·马斯特斯|||https://book.douban.com/subject/26297606/
+8|||重新定义公司|||[美]埃里克·施密特|||https://book.douban.com/subject/26582822/
+9|||启示录|||[美] Marty Cagan|||https://book.douban.com/subject/5914587/
+10|||运营之光|||黄有璨|||https://book.douban.com/subject/26873486/
+11|||游戏改变世界|||[美] 简•麦戈尼格尔（Jane McGonigal）|||https://book.douban.com/subject/10828002/
+12|||腾讯传|||吴晓波|||https://book.douban.com/subject/26929955/
+13|||信息简史|||[美] 詹姆斯·格雷克|||https://book.douban.com/subject/25752043/
+14|||大数据时代|||[英] 维克托•迈尔•舍恩伯格（Viktor Mayer-Schönberger）|||https://book.douban.com/subject/20429677/
+15|||精益创业|||[美] 埃里克·莱斯|||https://book.douban.com/subject/10945606/
+16|||上瘾|||[美] 尼尔·埃亚尔、[美] 瑞安·胡佛|||https://book.douban.com/subject/27030507/
+17|||长尾理论|||[美] 克里斯·安德森|||https://book.douban.com/subject/1919072/
+18|||增长黑客|||范冰|||https://book.douban.com/subject/26541801/
+19|||科技想要什么|||[美] 凯文·凯利|||https://book.douban.com/subject/6965746/
+20|||硅谷之谜|||吴军|||https://book.douban.com/subject/26665230/
+21|||计算广告|||刘鹏、王超|||https://book.douban.com/subject/26596778/
+22|||创新者|||[美] 沃尔特·艾萨克森|||https://book.douban.com/subject/27009472/
+23|||HTTP权威指南|||David Gourley、Brian Totty|||https://book.douban.com/subject/10746113/
+24|||人人都是产品经理|||苏杰|||https://book.douban.com/subject/4723970/
+25|||参与感|||黎万强|||https://book.douban.com/subject/25942507/
+26|||数据之巅|||涂子沛|||https://book.douban.com/subject/25871778/
+27|||重新定义团队：谷歌如何工作|||拉兹洛·博克|||https://book.douban.com/subject/26608585/
+28|||Facebook效应|||[美] 大卫·柯克帕特里克|||https://book.douban.com/subject/5313010/
+29|||跨越鸿沟|||[美] 杰弗里·摩尔(Geoffrey A. Moore)|||https://book.douban.com/subject/3320425/
+30|||支付战争|||埃里克•杰克逊|||https://book.douban.com/subject/26324497/
+31|||用户体验的要素|||Jesse James Garrett|||https://book.douban.com/subject/2297549/
+32|||精益数据分析|||[加] 阿利斯泰尔·克罗尔、[加] 本杰明·尤科维奇|||https://book.douban.com/subject/26278639/
+33|||新经济，新规则|||[美]Kevin Kelly|||https://book.douban.com/subject/25908079/
+34|||从零开始做运营|||张亮|||https://book.douban.com/subject/26682111/
+35|||你凭什么做好互联网|||曹政|||https://book.douban.com/subject/26915104/
+36|||联盟|||里德•霍夫曼、本•卡斯诺查、克里斯•叶|||https://book.douban.com/subject/26308014/
+37|||失控的真相|||[美] 迈克尔·帕特里克·林奇|||https://book.douban.com/subject/27024961/
+38|||数学之美|||吴军|||https://book.douban.com/subject/10750155/
+39|||浅薄|||[美] 尼古拉斯·卡尔|||https://book.douban.com/subject/5379664/
+40|||沸腾十五年|||林军|||https://book.douban.com/subject/3816827/
+41|||未来是湿的|||[美] 克莱·舍基|||https://book.douban.com/subject/3735295/
+42|||小米生态链战地笔记|||小米生态链谷仓学院|||https://book.douban.com/subject/27025877/
+43|||Getting Real|||Jason Fried、Heinemeier David Hansson、Matthew Linderman|||https://book.douban.com/subject/3567853/
+44|||结网|||王坚|||https://book.douban.com/subject/4736118/
+45|||我看电商|||黄若|||https://book.douban.com/subject/24714655/
+46|||图解HTTP|||【日】上野宣|||https://book.douban.com/subject/25863515/
+47|||技术元素|||[美] 凯文·凯利|||https://book.douban.com/subject/10588021/
+48|||SEO实战密码|||昝辉Zac|||https://book.douban.com/subject/5348144/
+49|||重来|||[美] 贾森·弗里德、[丹] 戴维·海涅迈尔·汉森|||https://book.douban.com/subject/5320866/
+50|||免费|||[美] 克里斯·安德森|||https://book.douban.com/subject/3932520/
+51|||大型网站技术架构|||李智慧|||https://book.douban.com/subject/25723064/
+52|||认知盈余|||[美] 克莱·舍基|||https://book.douban.com/subject/7007666/
+53|||Web信息架构(第3版)|||Peter Morville、Louis Rosenfeld|||https://book.douban.com/subject/3169342/
+54|||进化式运营：从互联网菜鸟到绝顶高手|||李少加|||https://book.douban.com/subject/26928395/
+55|||创新者的窘境|||克莱顿•克里斯坦森( Clayton M. Christensen )|||https://book.douban.com/subject/4243770/
+56|||数据化管理|||黄成明 （@数据化管理）|||https://book.douban.com/subject/25909355/
+57|||网络、群体与市场|||大卫·伊斯利(David Esley)、乔恩·克莱因伯格(Jon Kleinberg)|||https://book.douban.com/subject/6885949/
+58|||风吹江南之互联网金融|||陈宇（江南愤青）|||https://book.douban.com/subject/25890247/
+59|||与机器赛跑|||[美]埃里克·布林约尔松（Erik Brynjolfsson）、[美]安德鲁·麦卡菲（Andrew McAfee）|||https://book.douban.com/subject/21326266/
+60|||信息规则|||[美] 卡尔・夏皮罗(Carl Shapiro)、[美] 哈尔・瓦里安(Hal Varian)|||https://book.douban.com/subject/1011731/
+61|||超级运营术|||韩叙|||https://book.douban.com/subject/27031544/
+62|||数字化生存|||尼葛洛庞帝|||https://book.douban.com/subject/1089508/
+63|||让大象飞|||[美] 史蒂文·霍夫曼|||https://book.douban.com/subject/26981115/
+64|||创业时, 我们在知乎聊什么?|||知乎|||https://book.douban.com/subject/25800616/
+65|||三双鞋|||[美] 谢家华|||https://book.douban.com/subject/5302113/
+66|||周鸿祎自述|||周鸿祎|||https://book.douban.com/subject/25928983/
+67|||一网打尽|||[美]布拉德·斯通|||https://book.douban.com/subject/25766700/
+68|||区块链技术驱动金融|||阿尔文德·纳拉亚南、约什·贝努、爱德华·费尔顿、安德鲁·米勒、史蒂文·戈德费德|||https://book.douban.com/subject/26860970/
+69|||高扩展性网站的50条原则|||[美] Martin L. Abbott、[美]Michael T. Fisher|||https://book.douban.com/subject/10756899/
+70|||零边际成本社会|||[美]杰里米·里夫金|||https://book.douban.com/subject/25986746/
+71|||白帽子讲Web安全|||吴翰清|||https://book.douban.com/subject/10546925/
+72|||九败一胜|||李志刚|||https://book.douban.com/subject/25975454/
+73|||疯传|||乔纳·伯杰 (Jonah Berger)|||https://book.douban.com/subject/25804890/
+74|||破茧成蝶：用户体验设计师的成长之路|||刘津、李月|||https://book.douban.com/subject/25915629/
+75|||翻转课堂的可汗学院|||萨尔曼·可汗（Salman Khan）|||https://book.douban.com/subject/25886309/
+76|||硅谷百年史|||[美]阿伦·拉奥(Arun Rao)、[美]皮埃罗·斯加鲁菲(Piero Scarruffi)|||https://book.douban.com/subject/25857804/
+77|||众声喧哗|||胡泳|||https://book.douban.com/subject/3191237/
+78|||全栈市场人|||Lydia|||https://book.douban.com/subject/26972465/
+79|||痛点|||马丁·林斯特龙|||https://book.douban.com/subject/26983819/
+80|||在线|||王坚|||https://book.douban.com/subject/26885117/
+81|||信息时代三部曲：经济、社会与文化|||[美] 曼纽尔·卡斯特(Manuel Castells)|||https://book.douban.com/subject/1026593/
+82|||淘宝十年产品事|||苏杰|||https://book.douban.com/subject/25732463/
+83|||群体性孤独|||[美] 雪莉·特克尔|||https://book.douban.com/subject/25848953/
+84|||链接|||[美] 巴拉巴西|||https://book.douban.com/subject/2149971/
+85|||疯传：让你的产品、思想、行为像病毒一样入侵（全新修订版）|||[美] 乔纳•伯杰（Jonah Berger）|||https://book.douban.com/subject/26830108/
+86|||锦绣蓝图|||[美] 沃德科 (Christina Wodtke)、[美] 戈夫拉 (Austin Govella)|||https://book.douban.com/subject/4076216/
+87|||从点子到产品|||刘飞|||https://book.douban.com/subject/26927349/
+88|||创京东|||李志刚|||https://book.douban.com/subject/26400900/
+89|||精益创业实战|||Ash Maurya|||https://book.douban.com/subject/20505765/
+90|||淘宝技术这十年|||子柳|||https://book.douban.com/subject/24335672/
+91|||推荐系统实践|||项亮|||https://book.douban.com/subject/10769749/
+92|||腾讯方法|||潘东燕、王晓明|||https://book.douban.com/subject/26272662/
+93|||架构即未来：现代企业可扩展的Web架构、流程和组织(原书第2版)|||Martin L. Abbott、Michael T. Fisher|||https://book.douban.com/subject/26765979/
+94|||网络是怎样连接的|||[日]户根勤|||https://book.douban.com/subject/26941639/
+95|||智慧社会|||阿莱克斯·彭特兰 (Alex Pentland)|||https://book.douban.com/subject/26315800/
+96|||罗辑思维|||罗振宇|||https://book.douban.com/subject/25745691/
+97|||知识的边界|||[美] 戴维·温伯格|||https://book.douban.com/subject/26279954/
+98|||平台战略|||陈威如、余卓轩|||https://book.douban.com/subject/20492093/
+99|||亿级流量网站架构核心技术|||张开涛|||https://book.douban.com/subject/26999243/
+100|||简约至上|||[英] Giles Colborne|||https://book.douban.com/subject/5394309/
+101|||In The Plex|||Steven Levy|||https://book.douban.com/subject/4789228/
+102|||互联网思想十讲|||段永朝|||https://book.douban.com/subject/26253507/
+103|||Web性能权威指南|||Ilya Grigorik|||https://book.douban.com/subject/25856314/
+104|||精通Web Analytics 2.0|||[美]Avinash Kaushik|||https://book.douban.com/subject/6414998/
+105|||人人都是产品经理2.0|||苏杰|||https://book.douban.com/subject/27029547/
+106|||颠覆医疗|||[美]埃里克·托普|||https://book.douban.com/subject/25747269/
+107|||史蒂夫·乔布斯传|||[美] 沃尔特·艾萨克森|||https://book.douban.com/subject/6798611/
+108|||产品的视角：从热闹到门道|||后显慧|||https://book.douban.com/subject/26697007/
+109|||谷歌和亚马逊如何做产品|||梅 (Chris Vander Mey)|||https://book.douban.com/subject/25879027/
+110|||网络营销实战密码|||昝辉Zac|||https://book.douban.com/subject/3396111/
+111|||用户力：需求驱动的产品、运营和商业模式|||郝志中|||https://book.douban.com/subject/26685458/
+112|||从互联到新工业革命|||刘云浩|||https://book.douban.com/subject/26927531/
+113|||裂变式创业|||宗毅、小泽|||https://book.douban.com/subject/26697460/
+114|||千夫所指|||乔恩·罗森|||https://book.douban.com/subject/26875262/
+115|||随意搜寻|||Peter Morville|||https://book.douban.com/subject/25746680/
+116|||世界是平的|||[美] 托马斯·弗里德曼|||https://book.douban.com/subject/1867642/
+117|||大型网站系统与Java中间件开发实践|||曾宪杰|||https://book.douban.com/subject/25867042/
+118|||玩法变了|||胖胡斐|||https://book.douban.com/subject/6999354/
+119|||创客|||克里斯·安德森|||https://book.douban.com/subject/20365163/
+120|||打造Facebook|||王淮、祝文让|||https://book.douban.com/subject/20471120/
+121|||四步创业法|||[美] Steven Gary Blank|||https://book.douban.com/subject/11516567/
+122|||世界是数字的|||[美] Brian W. Kernighan|||https://book.douban.com/subject/24749903/
+123|||从莎草纸到互联网：社交媒体2000年|||[英]汤姆·斯丹迪奇|||https://book.douban.com/subject/25924608/
+124|||屏幕上的聪明决策|||Shlomo Benartzi、Jonah Lehrer|||https://book.douban.com/subject/26956971/
+125|||流量的秘密|||克利夫顿 (Brian Clifton)|||https://book.douban.com/subject/24736876/
+126|||第二次机器革命|||[美]埃里克·布莱恩约弗森|||https://book.douban.com/subject/25953932/
+127|||颠覆式创新：移动互联网时代的生存法则|||李善友|||https://book.douban.com/subject/26273310/
+128|||终极算法|||[美] 佩德罗·多明戈斯|||https://book.douban.com/subject/26931905/
+129|||数字乌托邦|||[美]弗雷德·特纳|||https://book.douban.com/subject/21632268/
+130|||大连接|||[美] 尼古拉斯•克里斯塔基斯（Nicholas A. Christakis）、[美] 詹姆斯•富勒（James H. Fowler）|||https://book.douban.com/subject/20388034/
+131|||区块链|||长铗、韩锋|||https://book.douban.com/subject/22993903/
+132|||设计冲刺|||[美] 杰克·纳普、[美] 约翰·泽拉茨基、[美] 布拉登·科维茨|||https://book.douban.com/subject/26837959/
+133|||创业36条军规|||孙陶然|||https://book.douban.com/subject/7054652/
+134|||三位一体|||[美]迈克尔·马隆|||https://book.douban.com/subject/26340695/
+135|||共享经济|||[美] 罗宾•蔡斯|||https://book.douban.com/subject/26611892/
+136|||形式感+：网页视觉设计创意拓展与快速表现|||晋小彦|||https://book.douban.com/subject/25795270/
+137|||大数据|||Anand Rajaraman、Jeffrey David Ullman|||https://book.douban.com/subject/19934150/
+138|||赢在用户|||[美]Steve Mulder、[美]Zivv Yarr|||https://book.douban.com/subject/2157554/
+139|||这就是搜索引擎|||张俊林|||https://book.douban.com/subject/7006719/
+140|||登高四书|||李善友、龚焱|||https://book.douban.com/subject/26349459/
+141|||硅谷钢铁侠|||[美] 阿什利·万斯|||https://book.douban.com/subject/26759508/
+142|||互联网思维独孤九剑|||赵大伟|||https://book.douban.com/subject/25843241/
+143|||新数字秩序的革命|||戴维·温伯格|||https://book.douban.com/subject/3264684/
+144|||共鸣：内容运营方法论|||舒扬|||https://book.douban.com/subject/27038399/
+145|||创意，未来的工作方式|||方军|||https://book.douban.com/subject/1676602/
+146|||有的放矢|||Nathan Furr、Paul Ahlstrom|||https://book.douban.com/subject/25850087/
+147|||长尾理论2.0|||安德森|||https://book.douban.com/subject/3685204/
+148|||众媒时代|||腾讯传媒研究|||https://book.douban.com/subject/26739670/
+149|||瞬间之美|||[美] Robert Hoekman, Jr.|||https://book.douban.com/subject/3886044/
+150|||认同的力量|||[美]曼纽尔·卡斯特|||https://book.douban.com/subject/1929871/
+151|||如何打造超级IP|||秦阳、秋叶|||https://book.douban.com/subject/26794863/
+152|||阿里巴巴|||邓肯·克拉克 (Duncan Clark)|||https://book.douban.com/subject/26850028/
+153|||蚂蚁金服|||由曦|||https://book.douban.com/subject/27004031/
+154|||孵化Twitter|||[美]尼克·比尔顿(Nick Bilton)|||https://book.douban.com/subject/25763770/
+155|||黑客|||Steven Levy|||https://book.douban.com/subject/6860890/
+156|||Web之困：现代Web应用安全指南|||(美)Michal Zalewski|||https://book.douban.com/subject/25733421/
+157|||超级IP|||吴声|||https://book.douban.com/subject/26805266/
+158|||构建高性能Web站点|||郭欣|||https://book.douban.com/subject/3924175/
+159|||游戏化思维|||[美] 凯文·韦巴赫（Kevin Werbach）、[美]  丹·亨特（Dan Hunter）|||https://book.douban.com/subject/25862775/
+160|||设计方法卡牌|||罗莎 等|||https://book.douban.com/subject/27091052/
+161|||硅谷之火|||迈克尔·斯韦因|||https://book.douban.com/subject/1072313/
+162|||场景革命|||吴声|||https://book.douban.com/subject/26575141/
+163|||企业IT架构转型之道：阿里巴巴中台战略思想与架构实战|||钟华|||https://book.douban.com/subject/27039508/
+164|||指数型组织|||萨利姆•伊斯梅尔 (Salim Ismail)、迈克尔•马隆 (Michael S. Malone)、尤里•范吉斯特 (Yuri van Geest)|||https://book.douban.com/subject/26646553/
+165|||My Life as a Night Elf Priest|||Bonnie Nardi|||https://book.douban.com/subject/5961230/
+166|||删除|||[英] 维克托•迈尔-舍恩伯格（Viktor Mayer-Schönberger）著|||https://book.douban.com/subject/20429704/
+167|||移动的帝国|||曾航、刘羽、陶旭骏|||https://book.douban.com/subject/25790070/
+168|||增长黑客实战|||范冰、张溪梦|||https://book.douban.com/subject/27065620/
+169|||社群营销|||秋叶、秦阳、陈慧敏|||https://book.douban.com/subject/26828718/
+170|||维基经济学|||[加] 唐·泰普斯科特、[英] 安东尼·D·威廉姆斯|||https://book.douban.com/subject/2265341/
+171|||大规模Web服务开发技术|||伊藤直也、田中慎司|||https://book.douban.com/subject/6758780/
+172|||谁说菜鸟不会数据分析|||张文霖、刘夏璐、狄松 编著|||https://book.douban.com/subject/6434328/
+173|||爆款：如何打造超级IP|||【美】安妮塔•埃尔伯斯|||https://book.douban.com/subject/26710938/
+174|||人类2.0|||皮埃罗∙斯加鲁菲（Piero Scaruffi)|||https://book.douban.com/subject/26973408/
+175|||数据化运营速成手册|||胡晨川|||https://book.douban.com/subject/27034727/
+176|||社交网站的数据挖掘与分析|||Matthew A. Russell|||https://book.douban.com/subject/10344930/
+177|||科技之巅2|||麻省理工科技评论|||https://book.douban.com/subject/27043500/
+178|||一个人的电商|||许晓辉|||https://book.douban.com/subject/26386566/
+179|||硅谷热|||埃弗雷特.M.罗杰斯|||https://book.douban.com/subject/2284487/
+180|||可视化未来|||[美] 埃雷兹·艾登、[法] 让-巴蒂斯特·米歇尔|||https://book.douban.com/subject/26593127/
+181|||如何研究网络人群和社区|||罗伯特·V.库兹奈特|||https://book.douban.com/subject/26825463/
+182|||网易一千零一夜|||网易杭研项目管理部|||https://book.douban.com/subject/26883531/
+183|||轻公司|||李黎、杜晨|||https://book.douban.com/subject/3793884/
+184|||走出电商困局|||黄若|||https://book.douban.com/subject/25764520/
+185|||众包|||杰夫·豪|||https://book.douban.com/subject/3717165/
+186|||高性能网站建设指南|||Steve Souders|||https://book.douban.com/subject/3132277/
+187|||Google将带来什么?|||杰夫·贾维斯|||https://book.douban.com/subject/3865371/
+188|||总开关|||[美] 吴修铭|||https://book.douban.com/subject/6790578/
+189|||运营制胜|||张恒|||https://book.douban.com/subject/26879228/
+190|||社交红利|||徐志斌|||https://book.douban.com/subject/24875857/
+191|||奇点系列|||彼得•蒂尔、里德•霍夫曼、本•霍洛维茨、埃里克•杰克逊等|||https://book.douban.com/subject/26422298/
+192|||孤独的狂欢|||吴伯凡|||https://book.douban.com/subject/1013042/
+193|||互联网思维的企业|||[美] Dave Gray Thomas Vander Wal|||https://book.douban.com/subject/25866380/
+194|||社群营销|||秋叶、秦阳|||https://book.douban.com/subject/26431332/
+195|||用户体验多面手|||Leah Buley|||https://book.douban.com/subject/26142616/
+196|||跟小贤学运营|||陈维贤|||https://book.douban.com/subject/26929898/
+197|||创业就是要细分垄断|||李开复、汪华、傅盛|||https://book.douban.com/subject/27043167/
+198|||社交红利2.0|||徐志斌|||https://book.douban.com/subject/26589080/
+199|||再看电商|||黄若|||https://book.douban.com/subject/25925083/
+200|||KK三部曲|||（美）凯文·凯利（Kevin Kelly）|||https://book.douban.com/subject/26710297/
+201|||YC创业营|||兰德尔·斯特罗斯 (Randall Stross)|||https://book.douban.com/subject/25927950/
+202|||互联网+秋叶课堂：我的网课创业|||秋叶|||https://book.douban.com/subject/26744929/
+203|||信息乌托邦|||桑斯坦|||https://book.douban.com/subject/3338726/
+204|||搜|||（美）约翰·巴特利|||https://book.douban.com/subject/1474667/
+205|||黑暗網路|||傑米.巴特利特(Jamie Bartlett)|||https://book.douban.com/subject/26874463/
+206|||增长的本质|||凯萨·伊达尔戈|||https://book.douban.com/subject/26656350/
+207|||20个月赚130亿|||陈士骏、张黎明|||https://book.douban.com/subject/6920100/
+208|||网络共和国|||[美] 卡斯·H·桑斯坦|||https://book.douban.com/subject/1288989/
+209|||互联网创业核心技术：构建可伸缩的web应用|||【美】Artur Ejsmont|||https://book.douban.com/subject/26906846/
+210|||伏牛传|||张天一|||https://book.douban.com/subject/26796535/
+211|||爆品战略|||金错刀|||https://book.douban.com/subject/26810317/
+212|||1024·人与机器共同进化|||东西文库|||https://book.douban.com/subject/25784778/
+213|||爆发|||[美] 艾伯特-拉斯洛·巴拉巴西|||https://book.douban.com/subject/10769712/
+214|||区块链革命|||[加]唐塔普斯科特（Don Tapscott）、[加]亚力克斯·塔普斯科特(Alex Tapscott)|||https://book.douban.com/subject/26871829/
+215|||互联网的误读|||詹姆斯•柯兰（James Curran）、娜塔莉•芬顿（Natalie Fenton）、德  斯•弗里德曼（Des Freedman）|||https://book.douban.com/subject/25912257/
+216|||阿里传|||波特·埃里斯曼|||https://book.douban.com/subject/26599526/
+217|||互联网思维|||郭洪安|||https://book.douban.com/subject/26980156/
+218|||浪潮之巅（下册）|||吴军|||https://book.douban.com/subject/24740308/
+219|||尖叫感：互联网文案创意思维与写作技巧|||马楠|||https://book.douban.com/subject/26921845/
+220|||尽在双11：阿里巴巴技术演进与超越|||阿里巴巴集团双11技术团队|||https://book.douban.com/subject/26998040/
+221|||论因特网|||[美] 休伯特·L.德雷福斯|||https://book.douban.com/subject/26286756/
+222|||文明之光（第一册）|||吴军|||https://book.douban.com/subject/25902942/
+223|||决战大数据|||车品觉|||https://book.douban.com/subject/25842420/
+224|||IT不再重要|||（美）尼古拉斯·卡尔|||https://book.douban.com/subject/3215423/
+225|||人类思维如何与互联网共同进化|||[美] 约翰·布罗克曼|||https://book.douban.com/subject/26990888/
+226|||共享经济时代|||雷切尔·博茨曼、路·罗杰斯|||https://book.douban.com/subject/26465430/
+227|||UCD火花集|||UCDChina|||https://book.douban.com/subject/3670867/
+228|||聊聊架构|||王概凯|||https://book.douban.com/subject/27034443/
+229|||数据不说谎|||城市数据团|||https://book.douban.com/subject/27070199/
+230|||部落：一呼百应的力量|||高汀 (Godin.S.)|||https://book.douban.com/subject/3795574/
+231|||维多利亚时代的互联网|||[英] 汤姆·斯丹迪奇|||https://book.douban.com/subject/27078260/
+232|||读屏时代|||(美)Naomi S. Baron（内奥米·S.巴伦）|||https://book.douban.com/subject/26844805/
+233|||极致：互联网时代的产品设计|||戴维•罗斯|||https://book.douban.com/subject/26806913/
+234|||老二非死不可|||方三文|||https://book.douban.com/subject/25779423/
+235|||Mastering Bitcoin|||Andreas M. Antonopoulos|||https://book.douban.com/subject/25855986/
+236|||免费|||Chris Anderson|||https://book.douban.com/subject/26778836/
+237|||从0开始做运营 入门篇|||张亮|||https://book.douban.com/subject/26649866/
+238|||马云内部讲话|||阿里巴巴集团|||https://book.douban.com/subject/5904151/
+239|||刘强东自述|||刘强东|||https://book.douban.com/subject/26801556/
+240|||资源革命|||斯蒂芬·赫克（Stefan Heck）、马特·罗杰斯（Matt Rogers）、保罗·卡罗尔（Paul Carroll）|||https://book.douban.com/subject/26435017/
+241|||高性能网站建设进阶指南|||Steve Souders|||https://book.douban.com/subject/4719162/
+242|||机器70年|||徐曦|||https://book.douban.com/subject/26992872/
+243|||文明之光 （第三册）|||吴军|||https://book.douban.com/subject/26275177/
+244|||思想的未来|||（美）劳伦斯﹒莱斯格|||https://book.douban.com/subject/1186899/
+245|||移动应用的设计与开发|||[美] 弗林 (Brian Fling)|||https://book.douban.com/subject/4827960/
+246|||Web表单设计|||[美] Luke Wroblewski|||https://book.douban.com/subject/4886100/
+247|||跨界|||腾讯科技频道|||https://book.douban.com/subject/26022186/
+248|||重来2|||[美] 贾森·弗里德、[美] 戴维·海涅迈尔·汉森|||https://book.douban.com/subject/25861795/
+249|||掘金黑客|||［美］凯文·保尔森|||https://book.douban.com/subject/19975498/
+250|||村落效应|||[加] 苏珊·平克（Susan Pinker）|||https://book.douban.com/subject/26987002/
+251|||网站分析实战|||王彦平 吴盛峰|||https://book.douban.com/subject/20497858/
+252|||时间的朋友2015|||罗振宇|||https://book.douban.com/subject/26702493/
+253|||互联网运营之道|||金璞、张仲荣|||https://book.douban.com/subject/26688084/
+254|||筑巢引凤|||[美] Joshua Porter|||https://book.douban.com/subject/5290566/
+255|||需求|||[美] 亚德里安•斯莱沃斯基（Adrian J. Slywotzky）、[美]卡尔•韦伯 （Karl Weber）|||https://book.douban.com/subject/22229485/
+256|||浪潮之巅（上册）|||吴军|||https://book.douban.com/subject/24739213/
+257|||SRE|||【美】Betsy Beyer（贝特西 拜尔）等|||https://book.douban.com/subject/26875239/
+258|||赛博空间的奥德赛|||(荷兰)约斯·德·穆尔|||https://book.douban.com/subject/2052230/
+259|||热点|||【美】马克•舍费尔（Mark Shaefer）|||https://book.douban.com/subject/26919741/
+260|||网络素养|||[美]霍华德·莱茵戈德|||https://book.douban.com/subject/24383461/
+261|||神一样的产品经理|||闫荣|||https://book.douban.com/subject/10769591/
+262|||运营笔记|||类延昊|||https://book.douban.com/subject/26931324/
+263|||在你身边，为你设计|||腾讯公司用户研究与体验设计部|||https://book.douban.com/subject/20471302/
+264|||创业无畏|||彼得· 戴曼迪斯、史蒂芬· 科特勒|||https://book.douban.com/subject/26586799/
+265|||用户体验度量|||[美] 特里斯(Tullis.T.)、[美] 阿伯特(Albert.B.)|||https://book.douban.com/subject/4009856/
+266|||最愚蠢的一代|||马克·鲍尔莱因|||https://book.douban.com/subject/6720139/
+267|||做自己|||鬼脚七|||https://book.douban.com/subject/24841121/
+268|||自营销互联网方法|||乔.普立兹|||https://book.douban.com/subject/26314393/
+269|||YES！产品经理（上、下册）|||汤圆、老马|||https://book.douban.com/subject/6838110/
+270|||十亿美金的教训|||林军 唐宏梅|||https://book.douban.com/subject/6511603/
+271|||腾讯网UED体验设计之旅|||任婕 等|||https://book.douban.com/subject/26359327/
+272|||玻璃笼子|||[美]尼古拉斯·卡尔|||https://book.douban.com/subject/26644961/
+273|||流量的秘密|||(英)Brian Clifton|||https://book.douban.com/subject/4312608/
+274|||创新者的处方|||[美]克莱顿·克里斯坦森、杰罗姆·格罗斯曼、黄捷升|||https://book.douban.com/subject/26611940/
+275|||微创新|||德鲁•博迪、雅各布•戈登堡|||https://book.douban.com/subject/25854698/
+276|||Web界面设计|||Bill Scott、Theresa Neil|||https://book.douban.com/subject/3821157/
+277|||睡鼠说|||约翰·马科夫 (John Markoff)|||https://book.douban.com/subject/26574203/
+278|||撬动地球的Google|||[美] 戴维·怀斯、马克·马西德|||https://book.douban.com/subject/1879670/
+279|||Facebook|||(美) 麦兹里奇、Ben Mezrich|||https://book.douban.com/subject/4820899/
+281|||超越门户|||吴晨光|||https://book.douban.com/subject/26365288/
+282|||创业三板斧：重运营|||汤亚舟|||https://book.douban.com/subject/27071897/
+283|||千年终结|||曼纽尔·卡斯特|||https://book.douban.com/subject/1930183/
+284|||整合：实现商业转型的7大法则|||巴里•瓦克斯曼（Barry Wacksman）、克里斯•斯图兹曼（Chris Stutzman）|||https://book.douban.com/subject/26782574/
+285|||跨境电商——阿里巴巴速卖通宝典|||速卖通大学 编著|||https://book.douban.com/subject/26274194/
+286|||看见未来|||余晨|||https://book.douban.com/subject/26361207/
+287|||信任代理|||[美]克里斯·布罗根|||https://book.douban.com/subject/6558345/
+288|||第三次浪潮|||托夫勒|||https://book.douban.com/subject/1789444/
+289|||智能主义|||周鸿祎|||https://book.douban.com/subject/26897884/
+290|||付费：互联网知识经济的兴起|||方军|||https://book.douban.com/subject/27062141/
+291|||SEO艺术|||Eric Enge、Stephan Spencer、Rand Fishkin|||https://book.douban.com/subject/10546139/
+292|||产品经理面试宝典|||[美] Gayle Laakmann McDowell、[美]Jackie Bavaro|||https://book.douban.com/subject/26322756/
+293|||翻盘：互联网时代的垂直创业法则|||萧文鹏|||https://book.douban.com/subject/26652279/
+294|||正在爆发的互联网革命|||西门柳上、马国良、刘清华|||https://book.douban.com/subject/4019512/
+295|||互联网+风口|||倪卫涛|||https://book.douban.com/subject/26769527/
+296|||互联网世界观|||李善友|||https://book.douban.com/subject/26344853/
+297|||Head First HTML与CSS、XHTML（中文版）|||Elisabeth Freeman、Eric Freeman|||https://book.douban.com/subject/3040870/
+298|||硅谷商战|||李彦宏|||https://book.douban.com/subject/1029781/
+299|||用户体验草图设计|||比尔·巴克斯顿(Bill Buxton)|||https://book.douban.com/subject/4201552/
+300|||浪潮式发售|||[美] 杰夫.沃克（Jeff Walker）|||https://book.douban.com/subject/26735302/
+301|||图灵的大教堂|||[美] 乔治·戴森|||https://book.douban.com/subject/26386850/
+302|||走近2050：注意力、互联网与人工智能|||集智俱乐部|||https://book.douban.com/subject/26807009/
+303|||Android开发精要|||范怀宇|||https://book.douban.com/subject/11530748/
+304|||区块链：定义未来金融与经济新格局|||张健|||https://book.douban.com/subject/26831424/
+305|||我的钱：互联网金融，如何理财？|||羿飞|||https://book.douban.com/subject/26296578/
+306|||众创时代|||[ 美 ] 吴霁虹（Jihong W. Sanderson）|||https://book.douban.com/subject/26410894/
+307|||互联网时代|||《互联网时代》主创团队|||https://book.douban.com/subject/25975442/
+308|||代码|||劳伦斯・莱斯格|||https://book.douban.com/subject/1186901/
+309|||引爆社群|||唐兴通|||https://book.douban.com/subject/26348488/
+310|||移动社交时代的互动搜索营销（全彩）|||萧秋水、秋叶、南方锈才|||https://book.douban.com/subject/25960651/
+311|||IT创业疯魔史|||杰瑞·卡普兰|||https://book.douban.com/subject/10545193/
+312|||互联网金融手册|||谢平、邹传伟、刘海二|||https://book.douban.com/subject/25858761/
+313|||罗辑思维2|||罗振宇|||https://book.douban.com/subject/19940741/
+314|||O2O融合：打造全渠道营销和极致体验|||谭贤|||https://book.douban.com/subject/26648154/
+315|||计算机网络|||Andrew S. Tanenbaum|||https://book.douban.com/subject/1179807/
+316|||构建可扩展的Web站点|||Cal Henderson|||https://book.douban.com/subject/3039216/
+317|||重新定义管理|||[美]布赖恩·罗伯逊|||https://book.douban.com/subject/26643780/
+318|||智能Web算法|||Haralambos Marmanis、Dmitry Babenko|||https://book.douban.com/subject/6545083/
+319|||缔造企鹅|||胡澈|||https://book.douban.com/subject/25954934/
+320|||马云：未来已来|||阿里巴巴集团|||https://book.douban.com/subject/27027690/
+321|||互联网+|||陈国嘉|||https://book.douban.com/subject/26581852/
+322|||MacTalk 人生元编程|||池建强|||https://book.douban.com/subject/25826578/
+323|||智能革命|||李彦宏 等|||https://book.douban.com/subject/27017609/
+324|||精通Web Analytics|||(美国)(Avinash Kaushik)卡希克|||https://book.douban.com/subject/3260737/
+325|||信息时代的世界工厂|||邱林川|||https://book.douban.com/subject/25723889/
+326|||云攻略|||马克·贝尼奥夫、卡莱尔·阿德勒|||https://book.douban.com/subject/3650828/
+327|||企鹅与怪兽|||[美]尤查•本科勒（Yochai Benkler）|||https://book.douban.com/subject/25743457/
+328|||小就是大|||(美)高汀|||https://book.douban.com/subject/2281055/
+329|||为什么中国没出Facebook|||谢文|||https://book.douban.com/subject/6721224/
+330|||数码人类学|||[英]丹尼尔·米勒、希瑟·A.霍斯特|||https://book.douban.com/subject/26136156/
+331|||胜于言传|||[英] 瑞蒂希 (Redish.J.)|||https://book.douban.com/subject/3742366/
+332|||大数据预测|||【美】埃里克·西格尔|||https://book.douban.com/subject/25841481/
+333|||第四次革命|||[意]卢西亚诺•弗洛里迪（Luciano Floridi）著|||https://book.douban.com/subject/26795385/
+334|||微信思维|||谢晓萍|||https://book.douban.com/subject/26263689/
+335|||一个媒体推手的自白|||瑞安·霍利迪|||https://book.douban.com/subject/24530309/
+336|||精益创业方法论|||龚焱|||https://book.douban.com/subject/26371123/
+337|||网络江湖三十六计|||程苓峰，王晶|||https://book.douban.com/subject/3784712/
+338|||社交网站界面设计|||Christian Crumlish、Erin Malone|||https://book.douban.com/subject/4909176/
+339|||激活个体|||陈春花|||https://book.douban.com/subject/26643784/
+340|||设计网事|||千鸟|||https://book.douban.com/subject/4233474/
+341|||The Art of Community|||Jono Bacon|||https://book.douban.com/subject/3929678/
+342|||颠覆式创新：移动互联网时代的生存法则|||李善友|||https://book.douban.com/subject/26383733/
+343|||搜索模式|||Peter Morville、Jeffery Callender|||https://book.douban.com/subject/5319798/
+344|||About Face 3 交互设计精髓|||Alan Cooper、Robert Reimann、David Cronin|||https://book.douban.com/subject/3279105/
+345|||缺失的终结|||【美】克尔•哈里斯|||https://book.douban.com/subject/27065172/
+346|||小圈子·大社交|||Paul Adams|||https://book.douban.com/subject/20366340/
+347|||互联网+|||马化腾|||https://book.douban.com/subject/26387551/
+348|||黑客攻防技术宝典（第2版）|||[英] Dafydd Stuttard、[英] Marcus Pinto|||https://book.douban.com/subject/10793814/
+349|||互联网运营实战手册|||李春雷|||https://book.douban.com/subject/26977274/
+350|||产品型社群|||李善友|||https://book.douban.com/subject/26355331/
+351|||新媒体革命——在线时代的媒体、公关与传播|||仇勇|||https://book.douban.com/subject/26698126/
+352|||白话大数据与机器学习|||高扬、卫峥、尹会生|||https://book.douban.com/subject/26832701/
+353|||风口上的猪|||肖璟|||https://book.douban.com/subject/26318341/
+354|||It's Complicated|||danah boyd|||https://book.douban.com/subject/25791561/
+355|||流量的秘密|||Brian Clifton|||https://book.douban.com/subject/10733001/
+356|||六度分隔|||邓肯·J·瓦茨|||https://book.douban.com/subject/6129181/
+357|||途客圈创业记：不疯魔，不成活|||陈天|||https://book.douban.com/subject/26739566/
+358|||互联网+|||阿里研究院|||https://book.douban.com/subject/26369667/
+359|||家事的撫慰（下冊）|||Cheryl Mendelson|||https://book.douban.com/subject/25815588/
+360|||网站设计解构|||[美] Robert Hoekman,Jr.、[美] Jared Spool|||https://book.douban.com/subject/4926708/
+361|||The Idea Factory|||Jon Gertner|||https://book.douban.com/subject/6901098/
+362|||互联网企业安全高级指南|||赵彦、江虎、胡乾威|||https://book.douban.com/subject/26852503/
+363|||匠心体验|||[法] 艾米丽·布歇|||https://book.douban.com/subject/26899667/
+364|||信息改变了美国|||（美）阿尔弗雷德·D·钱德勒、（美）詹姆斯·W·科塔达|||https://book.douban.com/subject/2985736/
+365|||正在爆发的营销革命|||Tamar Weinberg|||https://book.douban.com/subject/4306582/
+366|||写给大家看的Web设计书|||Robin Williams、John Tollett|||https://book.douban.com/subject/4820694/
+367|||网站交互设计模式|||杜月 (Douglas K.Van Duyne)、蓝帝 (James A.Landay)、宏 (Jason L.Hong)|||https://book.douban.com/subject/3948372/
+368|||用户体验面面观|||[美] 库涅夫斯基(Mike Kuniavsky)|||https://book.douban.com/subject/4818690/
+369|||大数据时代的历史机遇——产业变革与数据科学|||赵国栋、易欢欢、糜万军、鄂维南|||https://book.douban.com/subject/24744419/
+370|||网络至死|||[德] 弗兰克·施尔玛赫|||https://book.douban.com/subject/6797555/
+371|||区块链技术指南|||邹均、张海宁、唐屹、李磊|||https://book.douban.com/subject/26959322/
+372|||从门外汉到BAT产品经理有多远|||张恒|||https://book.douban.com/subject/26275075/
+373|||一键下单|||[美] 理查德·勃兰特|||https://book.douban.com/subject/20492199/
+374|||交互设计之路|||库帕|||https://book.douban.com/subject/1493316/
+375|||产品经理修炼之道|||费杰|||https://book.douban.com/subject/11445674/
+376|||The Upstarts|||Brad Stone|||https://book.douban.com/subject/26965943/
+377|||产品经理的20堂必修课|||徐建极|||https://book.douban.com/subject/25723443/
+378|||海星模式|||奥瑞·布莱福曼、罗德·贝克斯特朗|||https://book.douban.com/subject/2364146/
+379|||让云落地|||【美】Michael J. Kavis（迈克尔 J.凯维斯） 著|||https://book.douban.com/subject/26709066/
+380|||自媒体时代，我们该如何做营销|||[美]迈克尔·波特    乔斯琳·华莱士|||https://book.douban.com/subject/25926762/
+381|||I'm Feeling Lucky|||Douglas Edwards|||https://book.douban.com/subject/5978700/
+382|||拒绝平庸|||李正曦|||https://book.douban.com/subject/24890463/
+383|||湿营销|||汤姆·海斯（Tom Hayes）、迈克尔 S.马隆（Michael S.Malone）|||https://book.douban.com/subject/4791169/
+384|||艺术二维码设计与制作完全攻略|||minor|||https://book.douban.com/subject/27078782/
+385|||爆品手记|||金错刀|||https://book.douban.com/subject/26866421/
+386|||游戏化革命：未来商业模式的驱动力|||[美]盖布·兹彻曼、[美]乔斯琳·林德|||https://book.douban.com/subject/25976087/
+387|||当下的冲击|||道格拉斯•洛西科夫 (Douglas Rushkoff)|||https://book.douban.com/subject/25726665/
+388|||图解网站分析（修订版）|||[日] 小川卓|||https://book.douban.com/subject/26148605/
+389|||大数据经济|||谢文|||https://book.douban.com/subject/26658944/
+390|||Axure RP 6原型设计精髓|||Ezra Schwartz|||https://book.douban.com/subject/24325849/
+391|||互联网浪尖上的女性|||田玉翠|||https://book.douban.com/subject/27002271/
+392|||产品经理必懂的技术那点事儿|||唐韧|||https://book.douban.com/subject/26928398/
+393|||技术赋权|||郑永年|||https://book.douban.com/subject/25848448/
+394|||点石成金|||[美] 史蒂夫·克鲁克|||https://book.douban.com/subject/1827702/
+395|||一只小鸟告诉我的事|||[美]比兹·斯通|||https://book.douban.com/subject/26215937/
+396|||Tales from Facebook|||Daniel Miller|||https://book.douban.com/subject/6833548/
+397|||网民的狂欢|||[美] 安德鲁·基恩|||https://book.douban.com/subject/4275054/
+398|||搜索引擎营销|||Mike Moran（迈克 莫兰）、Bill Hunt（比尔 亨特）|||https://book.douban.com/subject/4066788/
+399|||产品心经|||闫荣|||https://book.douban.com/subject/26177913/
+400|||免费文化|||(美)劳伦斯·莱斯格|||https://book.douban.com/subject/4050757/
+401|||分水岭：看清中国科技和互联网未来五年的趋势|||腾讯科技中心|||https://book.douban.com/subject/27065212/
+402|||Chaos Monkeys|||Antonio Garcia Martinez|||https://book.douban.com/subject/26827267/
+403|||体验为王|||哈雷•曼宁、凯丽•博丁|||https://book.douban.com/subject/25831443/
+404|||SSA：用户搜索心理与行为分析|||[美] 罗森菲尔德（Louis Rosenfeld）|||https://book.douban.com/subject/25861848/
+405|||互联网创业启示录|||沃尔什|||https://book.douban.com/subject/6954094/
+406|||金融e时代|||万建华|||https://book.douban.com/subject/24284785/
+407|||降维攻击|||高德|||https://book.douban.com/subject/26933868/
+408|||谁是谷歌想要的人才|||[美]威廉•庞德斯通|||https://book.douban.com/subject/21329264/
+409|||微信力量|||谢晓萍等著|||https://book.douban.com/subject/26651382/
+410|||算法时代|||Luke Dormehl|||https://book.douban.com/subject/26757537/
+411|||商业的常识|||申音|||https://book.douban.com/subject/6548683/
+412|||拇指一代|||[法]米歇尔•塞尔（Michel Serres）|||https://book.douban.com/subject/26284865/
+413|||重新定义分享|||谈婧|||https://book.douban.com/subject/26926355/
+414|||数字化崇拜|||[加] 文森特·莫斯可|||https://book.douban.com/subject/4203438/
+415|||互联网思维到底是什么|||项建标、蔡华、柳荣军|||https://book.douban.com/subject/25859646/
+416|||计算机网络（第4版）|||[美] James F. Kurose、[美] Keith W. Ross|||https://book.douban.com/subject/1391207/
+417|||移动风暴|||[美]弗雷德·沃格尔斯坦|||https://book.douban.com/subject/25800026/
+418|||点击的奥秘：运用说服心理术提升在线影响力（全彩）|||Nathalie Nahai(娜塔莉.纳海)|||https://book.douban.com/subject/25972635/
+419|||X创新|||[美]Adam Richardson|||https://book.douban.com/subject/26035304/
+420|||分享经济|||马化腾、张孝荣、孙怡、蔡雄山|||https://book.douban.com/subject/26784477/
+421|||UCD火花集2|||UCDChina 编著|||https://book.douban.com/subject/6114207/
+422|||病毒循环|||亚当•潘恩伯格 (Adam L.Penenberg)|||https://book.douban.com/subject/22790103/
+423|||The Filter Bubble|||Eli Pariser|||https://book.douban.com/subject/5994771/
+424|||互联网+：小米案例版|||刘润（著）、叶光森（整理）|||https://book.douban.com/subject/26361762/
+425|||无须等待|||[美]亚历克西斯•奥海涅|||https://book.douban.com/subject/26278454/
+426|||硅谷生态圈|||维克多 W.黄(Victor W. Hwang)、等|||https://book.douban.com/subject/26629744/
+427|||网络营销|||拉菲·默罕默德|||https://book.douban.com/subject/1191041/
+428|||社交的本质：扎克伯格的商业秘密|||兰迪•扎克伯格|||https://book.douban.com/subject/26796712/
+429|||深入分析Java Web技术内幕（修订版）|||许令波|||https://book.douban.com/subject/25953851/
+430|||分享经济的爆发|||阿鲁·萨丹拉彻|||https://book.douban.com/subject/26984686/
+431|||大数据|||[美] 比尔•施玛泽（Bill Schmarzo）|||https://book.douban.com/subject/26865496/
+432|||H5+移动营销设计宝典|||苏杭|||https://book.douban.com/subject/27023891/
+433|||中国网络政治的历史考察|||[美] 周永明|||https://book.douban.com/subject/25662941/
+434|||编织万维网|||［英］蒂姆・伯纳斯―李、蒂姆·伯纳斯-李、马克·菲谢蒂|||https://book.douban.com/subject/1031060/
+435|||小白学运营|||刘异、伍斌、赵强|||https://book.douban.com/subject/26596293/
+436|||卖什么都是卖体验|||李·科克雷尔|||https://book.douban.com/subject/25839089/
+437|||第九区·游戏|||詹姆斯·卡斯、马伯庸、陈星汉、刘宇昆、雾满拦江|||https://book.douban.com/subject/26674042/
+438|||体验设计白书|||张玳|||https://book.douban.com/subject/26857698/
+439|||资本的真相|||简练|||https://book.douban.com/subject/26757535/
+440|||教训|||腾讯科技频道|||https://book.douban.com/subject/25932067/
+441|||图解物联网|||［ 日］ NTT DATA集团、河村雅人、大塚纮史、小林佑辅、小山武士、宫崎智也、石黑佑树、小岛康平|||https://book.douban.com/subject/27016248/
+442|||豆瓣，流行的秘密|||黄修源|||https://book.douban.com/subject/3908071/
+443|||读懂互联网+|||曾鸣|||https://book.douban.com/subject/26417588/
+444|||微博：改变一切|||李开复|||https://book.douban.com/subject/5904053/
+445|||REST实战|||Jim Webber、Savas Parastatidis、Ian Robinson|||https://book.douban.com/subject/6854551/
+446|||移动浪潮|||迈克尔•塞勒 (Michael Saylor)|||https://book.douban.com/subject/20480821/
+447|||数字民主的迷思|||[美] 马修·辛德曼|||https://book.douban.com/subject/26710165/
+448|||产品经理方法论|||乔克•布苏蒂尔 (Jock Busuttil)|||https://book.douban.com/subject/26720936/
+449|||互联网政治学|||[英] 安德鲁·查德威克|||https://book.douban.com/subject/4846545/
+450|||即将到来的场景时代|||罗伯特•斯考伯、谢尔•伊斯雷尔|||https://book.douban.com/subject/25879618/
+451|||大爆炸式创新|||[美]拉里·唐斯、[美]保罗·纽恩斯|||https://book.douban.com/subject/26006343/
+452|||埃隆·马斯克传|||陆西|||https://book.douban.com/subject/25943598/
+453|||混合现实|||Parag Khanna、Ayesha Khanna|||https://book.douban.com/subject/24828865/
+454|||大数据营销|||（美）麦德奇、保罗B. 布朗|||https://book.douban.com/subject/25779416/
+455|||Google|||托马斯·舒尔茨(Thomas·Schulz)|||https://book.douban.com/subject/26892520/
+456|||平台转型|||陈威如、王诗一、余卓轩（统筹）|||https://book.douban.com/subject/26698812/
+457|||微信公众平台应用开发|||柳峰|||https://book.douban.com/subject/25838708/
+458|||互联网：碎片化生存|||段永朝|||https://book.douban.com/subject/4100376/
+459|||连线力|||杨国斌|||https://book.douban.com/subject/25723878/
+460|||妙手回春|||(美)Steve Krug|||https://book.douban.com/subject/4926083/
+461|||阅读的未来|||[美] 罗伯特·达恩顿|||https://book.douban.com/subject/5988607/
+462|||微服务设计|||[英] Sam Newman|||https://book.douban.com/subject/26772677/
+463|||无界面交互|||[美]Golden Krishna|||https://book.douban.com/subject/26947799/
+464|||房地产大转型的“互联网+”路径（巴曙松最新力作，权威分析移动互联网时代的房地产行业大转型。）|||巴曙松、杨现领|||https://book.douban.com/subject/26579669/
+465|||极客电台：谁动了我的网络资产|||王亚平|||https://book.douban.com/subject/26891274/
+466|||数据挖掘与数据化运营实战|||卢辉|||https://book.douban.com/subject/24738300/
+467|||影响力方程式|||［美］克里斯·布洛根（Chris Brogan）、［美］朱利恩·史密斯（Julien Smith）|||https://book.douban.com/subject/25896881/
+468|||裂变|||醒客（陈世鸿）|||https://book.douban.com/subject/4875762/
+469|||支付革命|||马梅、朱晓明、周金黄、季家友、陈宇|||https://book.douban.com/subject/25807308/
+470|||Open Source Intelligence Techniques|||Michael Bazzell|||https://book.douban.com/subject/26384705/
+471|||离线·黑客|||李婷 主编|||https://book.douban.com/subject/26299481/
+472|||蚂蚁金服|||廉薇、边慧、苏向辉、曹鹏程|||https://book.douban.com/subject/27085867/
+473|||互联网金融|||李耀东、李钧|||https://book.douban.com/subject/25808614/
+474|||硅谷密探：探秘全球科技精华|||硅谷密探（www.svinsight.com）|||https://book.douban.com/subject/26857852/
+475|||Google 广告优化与工具|||宫鑫|||https://book.douban.com/subject/4895658/
+476|||网众传播|||何威|||https://book.douban.com/subject/6536639/
+477|||新物种起源|||段永朝、姜奇平|||https://book.douban.com/subject/20444115/
+478|||搜索：开启智能时代的新引擎|||Stefan Weitz|||https://book.douban.com/subject/27032876/
+479|||区块链|||（美）梅兰妮·斯万|||https://book.douban.com/subject/26703500/
+480|||新规则|||David Meerman Scott|||https://book.douban.com/subject/5355455/
+481|||新网络营销推广实战从入门到精通|||谭贤|||https://book.douban.com/subject/26662454/
+482|||产品前线：48位一线互联网产品经理的智慧与实战|||第八公社|||https://book.douban.com/subject/26644275/
+483|||25岁，我赚了3个亿|||Gurbaksh Chahal|||https://book.douban.com/subject/4096751/
+484|||叠加体验：用互联网思维设计商业模式|||穆胜|||https://book.douban.com/subject/26236937/
+485|||运营实战指南|||韩利|||https://book.douban.com/subject/26872843/
+486|||松鼠老爹与三只松鼠|||鼠念念|||https://book.douban.com/subject/26872840/
+487|||京东平台运营攻略（全彩）|||京东商学院|||https://book.douban.com/subject/26371405/
+488|||Digital Gold|||Nathaniel Popper|||https://book.douban.com/subject/26379556/
+489|||视觉内容营销|||(美)斯蒂芬·甘布尔|||https://book.douban.com/subject/27062537/
+490|||Imagining the Internet|||Robin Mansell|||https://book.douban.com/subject/11542371/
+491|||U一点·料|||阿里巴巴集团 1688用户体验设计部|||https://book.douban.com/subject/26594029/
+492|||阿里巴巴|||郑作时|||https://book.douban.com/subject/1424267/
+493|||一个APP的诞生|||Carol 炒炒、刘焯琛|||https://book.douban.com/subject/26865230/
+494|||完美商店|||（美）亚当﹒科恩|||https://book.douban.com/subject/1128908/
+495|||运营前线 2|||兰军 等著|||https://book.douban.com/subject/27019086/
+496|||MacTalk 跨越边界|||池建强|||https://book.douban.com/subject/26663519/
+497|||创意传播管理|||陈刚|||https://book.douban.com/subject/10433774/
+498|||数据时代的经济学：对网络智能时代机遇和风险的再思考|||唐·泰普史考特（Don Tapscott）|||https://book.douban.com/subject/26788787/
+499|||Traction|||Gabriel Weinberg、Justin Mares|||https://book.douban.com/subject/25976281/
+500|||大型分布式网站架构设计与实践|||陈康贤|||https://book.douban.com/subject/25972633/
+501|||独角兽之路|||三节课产品社区|||https://book.douban.com/subject/26838082/
+502|||智慧之巅：DT时代的商业革命|||阿里研究院|||https://book.douban.com/subject/26697074/
+503|||微信控 控微信|||萧秋水、秋叶、油杀臭干|||https://book.douban.com/subject/24749380/
+504|||HTML5揭秘|||Mark Pilgrim|||https://book.douban.com/subject/5386169/
+505|||标签|||Gene Smith|||https://book.douban.com/subject/10794787/
+506|||服务设计与创新实践|||宝莱恩 (Andy Polaine)、乐维亚 (Lavrans Lovlie)、里森 (Ben Reason)|||https://book.douban.com/subject/26464952/
+507|||奇点临近|||Ray Kurzweil|||https://book.douban.com/subject/6855803/
+508|||飞得更高|||井上笃夫|||https://book.douban.com/subject/1464916/
+509|||女孩老板|||[美]索菲亚·阿莫鲁索|||https://book.douban.com/subject/26393727/
+510|||Axure RP 7.0从入门到精通|||小楼一夜听春语|||https://book.douban.com/subject/26729949/
+511|||搜索引擎|||李晓明|||https://book.douban.com/subject/1481158/
+512|||趣学Python编程|||Jason Briggs|||https://book.douban.com/subject/25837145/
+513|||微革命|||金错刀|||https://book.douban.com/subject/5290524/
+514|||算法帝国|||克里斯托弗•斯坦纳|||https://book.douban.com/subject/25854872/
+515|||我看电商2（双色）|||黄若|||https://book.douban.com/subject/26806950/
+516|||网络社会|||曼纽尔.卡斯特|||https://book.douban.com/subject/3526700/
+517|||比特币|||李钧、长铗|||https://book.douban.com/subject/25781918/
+518|||海量运维、运营规划之道|||唐文|||https://book.douban.com/subject/25790111/
+519|||硅谷之光|||大卫·卡普兰|||https://book.douban.com/subject/21241209/
+520|||信息的社会层面|||[美]布朗、[美]杜奎德|||https://book.douban.com/subject/1151861/
+521|||UI功夫——PC和APP界面设计全流程图解|||符德恩、郭纯|||https://book.douban.com/subject/26777031/
+522|||虚拟经济学|||威利•莱顿维塔、爱德华•卡斯特罗诺瓦|||https://book.douban.com/subject/26418114/
+523|||自品牌|||[美] 丹·斯柯伯尔（Dan Schawbel）|||https://book.douban.com/subject/26687512/
+524|||重新理解媒介|||醒客（陈世鸿）  著|||https://book.douban.com/subject/25832065/
+525|||信息烟尘|||戴维·申克|||https://book.douban.com/subject/1468853/
+526|||京东平台数据化运营|||数据创新组 著|||https://book.douban.com/subject/26709062/
+527|||后现代经济|||姜奇平|||https://book.douban.com/subject/3795569/
+528|||合伙人|||【阿】费洛迪（Claudio Fernández-Aráoz）|||https://book.douban.com/subject/26430818/
+529|||关乎天下|||关明生|||https://book.douban.com/subject/1679080/
+530|||谁偷了MySpace|||[美] 茱莉亚·盎格文|||https://book.douban.com/subject/5431184/
+531|||慕课革命|||汤敏|||https://book.douban.com/subject/26285693/
+532|||Growth Hacker Marketing|||Ryan Holiday|||https://book.douban.com/subject/25837689/
+533|||大型网站性能监测、分析与优化|||唐文|||https://book.douban.com/subject/26832764/
+534|||谋局者|||何常在|||https://book.douban.com/subject/26925359/
+535|||服务设计微日记|||电子工业出版社|||https://book.douban.com/subject/26658608/
+536|||他山之石|||[美] David Cohen、[美] Brad Feld|||https://book.douban.com/subject/10757203/
+537|||断点：互联网进化启示录|||[美]杰夫·斯蒂贝尔|||https://book.douban.com/subject/26284947/
+538|||数据分析实战|||［ 日］ 酒卷隆治　里洋平|||https://book.douban.com/subject/27046284/
+539|||永无止境|||[美] 道格拉斯•艾德华兹|||https://book.douban.com/subject/20366373/
+540|||技术至死：数字化生存的阴暗面|||Evgeny Morozov|||https://book.douban.com/subject/25890693/
+541|||揭秘跨境电商|||李鹏博|||https://book.douban.com/subject/26411566/
+542|||超级IP|||高德|||https://book.douban.com/subject/26836518/
+543|||产品心经：产品经理应该知道的60件事（第2版）|||闫荣|||https://book.douban.com/subject/26774968/
+544|||中国网络媒体的第一个十年|||彭兰|||https://book.douban.com/subject/1400428/
+545|||数据分析技术白皮书|||伍海凤、刘鹏、杨佳静、马师慧Sara、李博、Shirley Song、Zinc、李晓艳|||https://book.douban.com/subject/26978888/
+546|||公众风潮|||查伦·李、乔希·贝诺夫|||https://book.douban.com/subject/4191825/
+547|||互联网的未来|||[美]乔纳森·齐特林|||https://book.douban.com/subject/5939015/
+548|||数字经济：中国创新增长新动能|||马化腾|||https://book.douban.com/subject/27015111/
+549|||智能家居：商业模式+案例分析+应用实战|||陈国嘉|||https://book.douban.com/subject/26788157/
+550|||智能化社会|||[澳] 理查德·沃特森|||https://book.douban.com/subject/27069957/
+551|||见微知著-WEB用户体验解构|||李清|||https://book.douban.com/subject/4766571/
+552|||分享经济（精装）|||李光斗|||https://book.douban.com/subject/26703753/
+553|||APP运营推广：抢占移动互联网入口、引爆下载量、留住用户|||胡保坤|||https://book.douban.com/subject/26648171/
+554|||传统企业，互联网在踢门|||刘润|||https://book.douban.com/subject/25913009/
+555|||个人金融新格局|||何大勇、张  越、刘  月|||https://book.douban.com/subject/26745308/
+556|||史蒂夫·乔布斯管理日志|||金错刀|||https://book.douban.com/subject/4606395/
+557|||产品经理实战手册|||王欣|||https://book.douban.com/subject/1443439/
+558|||京东技术解密|||京东研发体系|||https://book.douban.com/subject/26264767/
+559|||新媒体十讲|||范卫锋|||https://book.douban.com/subject/26576507/
+560|||新物种乐视|||江涛、丛龙峰|||https://book.douban.com/subject/26931291/
+561|||商战：电商时代|||吴晓波 总撰稿、郑蔚  周兵 总策划|||https://book.douban.com/subject/25789586/
+562|||智慧城市|||安东尼·M.汤森|||https://book.douban.com/subject/25986744/
+563|||电商大数据——用数据驱动电商和商业案例解析|||雪鹰传奇|||https://book.douban.com/subject/25852289/
+564|||创新的洞见|||人民邮电出版社|||https://book.douban.com/subject/26724253/
+565|||小块松散组合|||戴维·温伯格（David Weinberger）|||https://book.douban.com/subject/1676583/
+566|||腾讯之道|||艾永亮、刘官华、梁璐|||https://book.douban.com/subject/26836223/
+567|||互联网进化论|||刘锋|||https://book.douban.com/subject/19896271/
+568|||Python爬虫开发与项目实战|||范传辉|||https://book.douban.com/subject/27061630/
+569|||互联网商规11条|||[美] 阿尔·里斯、[美] 劳拉·里斯|||https://book.douban.com/subject/1476966/
+570|||O2O|||张波|||https://book.douban.com/subject/20644893/
+571|||中国创投简史|||投资界网站|||https://book.douban.com/subject/26985166/
+572|||时代的变换|||徐昊、马斌|||https://book.douban.com/subject/26295314/
+573|||品牌是什么？——互联网时代品牌系统创新|||刘晓彬|||https://book.douban.com/subject/26598926/
+574|||网红经济|||袁国宝、谢利明|||https://book.douban.com/subject/26801362/
+575|||产品经理的第二本书|||[美] 哥乔斯|||https://book.douban.com/subject/1082734/
+576|||淘宝、天猫电商运营百科全书|||刘涛|||https://book.douban.com/subject/26838024/
+577|||未来医疗|||【美】埃里克•托普 （Eric Topol）|||https://book.douban.com/subject/26786111/
+578|||网络营销推广实战宝典|||江礼坤|||https://book.douban.com/subject/7067578/
+579|||文明之光|||吴军|||https://book.douban.com/subject/26839342/
+580|||网飞传奇|||[美]吉娜·基廷|||https://book.douban.com/subject/25800025/
+581|||人人都要懂的互联网思维|||王旭亮|||https://book.douban.com/subject/26429440/
+582|||阿里巴巴正传：我们与马云的“一步之遥”|||方兴东、刘伟|||https://book.douban.com/subject/26288050/
+583|||哈姆雷特的黑莓|||威廉·鲍尔斯|||https://book.douban.com/subject/6510689/
+584|||超级网红IP|||[中]袁国宝|||https://book.douban.com/subject/27015445/
+585|||机器危机|||[美] Martin Ford|||https://book.douban.com/subject/26805099/
+586|||隐私不保的年代|||［美］丹尼尔•沙勒夫|||https://book.douban.com/subject/10464624/
+587|||自营销|||[美]亚历克斯•博古斯基（Alex Bogusky）、[美]约翰•温莎（John Winsor）|||https://book.douban.com/subject/19966132/
+588|||黑客营销|||[美] Scott Brinker（斯科特·布林克尔）|||https://book.douban.com/subject/26870388/
+589|||忠诚度革命：用大数据、游戏化重构企业粘性|||[美]拉杰特·帕哈瑞亚|||https://book.douban.com/subject/25976086/
+590|||Web导航设计|||James Kalbach|||https://book.douban.com/subject/3313897/
+591|||社会化营销|||陈亮途|||https://book.douban.com/subject/6851214/
+592|||高科技无产阶级的形成|||[英]乌苏拉·胡斯|||https://book.douban.com/subject/6393104/
+593|||激活品牌：我们可以超越褚橙|||胡海卿|||https://book.douban.com/subject/26919841/
+594|||软技能|||John Sonmez|||https://book.douban.com/subject/26835090/
+595|||技术之瞳——阿里巴巴技术笔试心得|||阿里巴巴集团校园招聘笔试项目组|||https://book.douban.com/subject/26902177/
+596|||赢在设计|||[美] 洛芙迪 (Lance Loveday)、[美] 尼豪斯 (Sandra Niehaus)|||https://book.douban.com/subject/4924293/
+597|||传统企业如何做电商及微电商|||龚文祥|||https://book.douban.com/subject/26582553/
+598|||运营前线(1一线运营专家的运营方法技巧与实践)/前线系列|||兰军|||https://book.douban.com/subject/27019102/
+599|||智能|||[法]弗雷德里克·马特尔|||https://book.douban.com/subject/26608019/
+600|||Migration and New Media|||Mirca Madianou、Daniel Miller|||https://book.douban.com/subject/10835479/
+601|||经·理@互联网产品经理的进阶修炼|||杨晓平|||https://book.douban.com/subject/26177870/
+602|||互联网金融|||姚文平|||https://book.douban.com/subject/25805439/
+603|||精益设计|||Jeff Gothelf|||https://book.douban.com/subject/24896848/
+604|||互联网+ 2.0：供给侧改革与企业转型升级路线图（精装）|||杨健|||https://book.douban.com/subject/26747824/
+605|||就这么做产品|||周宏桥|||https://book.douban.com/subject/3776720/
+606|||连线|||加里·沃尔夫|||https://book.douban.com/subject/1812186/
+607|||云管理2.0(精)|||王紫上|||https://book.douban.com/subject/27057668/
+608|||云计算|||张为民、唐剑峰、罗治国、钱岭|||https://book.douban.com/subject/4191517/
+609|||O2O进化论|||板砖大余、姜亚东|||https://book.douban.com/subject/25890721/
+610|||产品经理那些事儿|||林江发、宛　楠|||https://book.douban.com/subject/25827264/
+611|||测出转化率：营销优化的科学与艺术|||【美】高尔德（Goward,C.）|||https://book.douban.com/subject/26184821/
+612|||你不是个玩意儿|||杰伦·拉尼尔|||https://book.douban.com/subject/6753827/
+613|||The Net Delusion|||Evgeny Morozov|||https://book.douban.com/subject/5909797/
+614|||用户体验方法论|||[美]卢克·米勒|||https://book.douban.com/subject/26753288/
+615|||Google 广告高阶优化（第3版）|||【美】Brad Geddes(布兰德.盖兹)|||https://book.douban.com/subject/26609399/
+616|||世界的另一面|||[美]埃尔米拉·贝洛斯丽|||https://book.douban.com/subject/26968737/
+617|||一切行业都是娱乐业|||39.00元|||https://book.douban.com/subject/20386248/
+618|||壹百度|||朱光|||https://book.douban.com/subject/4185489/
+619|||设计之下|||搜狐新闻客户端UED团队|||https://book.douban.com/subject/25817190/
+620|||强关系|||[加] 斯科特•斯特莱登|||https://book.douban.com/subject/10749632/
+621|||创业小败局|||创业家、i黑马|||https://book.douban.com/subject/25956628/
+622|||深入浅出Web设计（中文版）|||（美）瓦特罗尔、（美）西罗托|||https://book.douban.com/subject/5992735/
+623|||Network Science|||Albert-László Barabási|||https://book.douban.com/subject/26705207/
+624|||世界因你不同|||李开复、范海涛|||https://book.douban.com/subject/4010196/
+625|||基于MVC的JavaScript Web富应用开发|||麦卡劳(Alex MacCaw)|||https://book.douban.com/subject/10733304/
+626|||极客与团队|||[美]Brian W. Fitzpatrick|||https://book.douban.com/subject/21372237/
+627|||技术人创业攻略|||张兰|||https://book.douban.com/subject/26834030/
+628|||深度模仿|||[日] 井上达彦|||https://book.douban.com/subject/27085874/
+629|||从0到估值1000万|||刘主编|||https://book.douban.com/subject/27071985/
+630|||百度推广|||百度营销研究院|||https://book.douban.com/subject/24715619/
+631|||搞砸了的设计|||[日] 中村聪史|||https://book.douban.com/subject/26850578/
+632|||游戏数据分析的艺术|||于洋、余敏雄、吴娜、师胜柱|||https://book.douban.com/subject/26464679/
+633|||UI设计黄金法则|||[美]拉杰•拉尔|||https://book.douban.com/subject/26248487/
+634|||阿里巴巴神话|||孙燕君|||https://book.douban.com/subject/2343878/
+635|||榨干百度谷歌|||张志|||https://book.douban.com/subject/5377414/
+636|||推荐系统|||[奥地利] Dietmar Jannach、Markus Zanker、Alexander Felfernig、Gerhard Friedrich|||https://book.douban.com/subject/24746415/
+637|||未来时速-数字系统与商务新思维|||比尔・盖茨|||https://book.douban.com/subject/1046080/
+638|||社会网络分析发展史|||Linton C.Freeman|||https://book.douban.com/subject/3159865/
+639|||正在发生的未来|||刘德寰、刘向清、崔凯、荆婧|||https://book.douban.com/subject/10575969/
+640|||决胜移动终端|||查克·马丁 (Chuck Martin)|||https://book.douban.com/subject/25780809/
+641|||僧侣与谜语|||[美]兰迪*科米萨|||https://book.douban.com/subject/2050145/
+642|||微博控•控微博|||萧秋水、秋叶语录、社会网络与数据挖掘|||https://book.douban.com/subject/11631833/
+643|||新媒体文案创作与传播|||秋叶、叶小鱼、勾俊伟|||https://book.douban.com/subject/27043674/
+644|||无界|||（美）艾米莉·内格尔·格林（Emily Nagle Green）|||https://book.douban.com/subject/6121205/
+645|||Designing Interfaces中文版|||Jenifer Tidwell|||https://book.douban.com/subject/2365393/
+646|||大转换|||尼古拉斯·卡尔|||https://book.douban.com/subject/26734748/
+647|||移动设计|||傅小贞、胡甲超、郑元拢|||https://book.douban.com/subject/24753137/
+648|||名博是怎样炼成的|||萧秋水、秋叶、月光|||https://book.douban.com/subject/3266445/
+649|||说话算数|||[美]威廉·W·费舍尔|||https://book.douban.com/subject/3012114/
+650|||重新定义创新|||谢德荪|||https://book.douban.com/subject/26703541/
+651|||新浪之道|||陈彤，曾祥雪|||https://book.douban.com/subject/1223838/
+652|||断层地带|||杰弗里·摩尔 （Geoffrey A.moore） 著|||https://book.douban.com/subject/3351244/
+653|||社交网络改变世界|||[加] 马修•弗雷泽（Matthew Fraser）、[印] 苏米特拉•杜塔（Soumitra Dutta）|||https://book.douban.com/subject/24700186/
+654|||反枯燥|||亚当·L.潘恩伯格 (Adam L.Penenberg)|||https://book.douban.com/subject/26266189/
+655|||壹百度2：人生可以走直线|||朱光|||https://book.douban.com/subject/4823776/
+656|||轻营销|||唐文|||https://book.douban.com/subject/26584022/
+657|||市场就是谈话|||（美）列文等|||https://book.douban.com/subject/1035691/
+658|||Python编程：从入门到实践|||[美]埃里克·马瑟斯|||https://book.douban.com/subject/26829016/
+659|||Web容量规划的艺术|||阿尔斯帕瓦|||https://book.douban.com/subject/4200645/
+660|||腾云|||徐立冰|||https://book.douban.com/subject/21966988/
+661|||微管理|||杨立东|||https://book.douban.com/subject/25868303/
+662|||微信营销与运营|||王易|||https://book.douban.com/subject/25775887/
+663|||麦肯锡说，未来20年大机遇|||[美] 理查德·多布斯、[美] 詹姆斯·马尼卡、[美] 华强森|||https://book.douban.com/subject/26756284/
+664|||eBay中国实践之启示|||胡军|||https://book.douban.com/subject/3734828/
+665|||The Updated Last Whole Earth Catalog|||Brand Stewart|||https://book.douban.com/subject/4125286/
+666|||大话移动APP测试：Android与 iOS应用测试指南|||陈晔|||https://book.douban.com/subject/25923638/
+667|||Networked|||Lee Rainie、Barry Wellman|||https://book.douban.com/subject/7008245/
+668|||比特素养|||[美]何马克（Mark Hurst）|||https://book.douban.com/subject/20471142/
+669|||互联网之达芬奇密码|||Mull He|||https://book.douban.com/subject/6429783/
+670|||消费者王朝|||C.K.普拉哈拉德、文卡特・拉马斯瓦米、王永贵|||https://book.douban.com/subject/1390644/
+671|||大教堂与集市|||[美] Eric S. Raymond|||https://book.douban.com/subject/25881855/
+672|||Start Small, Stay Small|||Rob Walling|||https://book.douban.com/subject/5924300/
+673|||好设计不简单Ⅰ：100个网站架构的实用要点|||［日］ 长谷川敦士|||https://book.douban.com/subject/25885293/
+674|||关键时刻战略：激活大数据营销|||陈刚、李丛杉|||https://book.douban.com/subject/25775592/
+675|||另一个地球|||[美]马克·格雷厄姆、威廉·H·达顿|||https://book.douban.com/subject/26613912/
+676|||分享经济|||厉以宁 林毅夫 迟福林 胡鞍钢 等|||https://book.douban.com/subject/26784479/
+677|||RESTful Web Services Cookbook中文版|||Subbu Allamaraju|||https://book.douban.com/subject/6837645/
+678|||互动经济|||安永钢|||https://book.douban.com/subject/27003075/
+679|||GOOGLE HACKS|||Rael Dornfest、Tara Calishain|||https://book.douban.com/subject/1471662/
+680|||从零到百亿|||〔美〕卡罗·白朗、Karel Baloun、卡罗·白朗|||https://book.douban.com/subject/2287687/
+681|||Getting Real|||Ph.D. Susan Campbell|||https://book.douban.com/subject/1507419/
+682|||数字时代的营销战略|||曹虎、王赛、乔林、【美】艾拉·考夫曼|||https://book.douban.com/subject/26948878/
+683|||内容营销|||索尼娅•杰斐逊 (Sonja Jefferson) )、莎伦•坦顿 (Sharon Tanton)|||https://book.douban.com/subject/25806796/
+684|||图说区块链|||徐明星、田颖、李霁月|||https://book.douban.com/subject/27084306/
+685|||驾驭大数据|||Bill Franks|||https://book.douban.com/subject/20471318/
+686|||数字命运|||肖恩·杜布拉瓦茨 (Shawn DuBravac)|||https://book.douban.com/subject/26391243/
+687|||寻找最优中国公司|||雪球财经|||https://book.douban.com/subject/6538075/
+688|||口碑|||[美] David Meerman Scott|||https://book.douban.com/subject/5290565/
+689|||谷歌化的反思|||（美）希瓦· 维迪亚那桑|||https://book.douban.com/subject/25923753/
+690|||拉动力|||John Hagel III、John Seely Brown、Lang Davison|||https://book.douban.com/subject/21966361/
+691|||Everything Is Miscellaneous|||David Weinberger|||https://book.douban.com/subject/1984367/
+692|||从领先到极致|||[加拿大]伊萨多·夏普|||https://book.douban.com/subject/26430585/
+693|||微信营销解密|||程小永、李国建|||https://book.douban.com/subject/23820914/
+694|||转折点|||许维|||https://book.douban.com/subject/25873980/
+695|||星球Google|||兰德尔·斯特罗斯|||https://book.douban.com/subject/3352459/
+696|||精益求精|||罗旭祥|||https://book.douban.com/subject/4934629/
+697|||雷军|||姜洪军|||https://book.douban.com/subject/24743287/
+698|||用户体验度量|||邵罗 (Jeff Sauro)、James R.Lewis|||https://book.douban.com/subject/26318425/
+699|||Blockchain|||Melanie Swan|||https://book.douban.com/subject/26587254/
+700|||微信公众平台搭建与开发揭秘|||易伟|||https://book.douban.com/subject/25710483/
+701|||共享经济2.0|||刘国华、吴博|||https://book.douban.com/subject/26649712/
+702|||翻转世界|||[美]尼克·比尔顿|||https://book.douban.com/subject/25818670/
+703|||数字资本主义|||（美）希勒|||https://book.douban.com/subject/1016542/
+704|||技术管理之巅|||黄哲铿|||https://book.douban.com/subject/26437231/
+705|||IT通史|||李彦|||https://book.douban.com/subject/1434831/
+706|||银行3.0：移动互联时代的银行转型之道|||[澳]布莱特·金（Brett King）|||https://book.douban.com/subject/26269056/
+707|||电子商务管理视角|||King|||https://book.douban.com/subject/2013757/
+708|||方寸指间|||无线工坊|||https://book.douban.com/subject/25817261/
+709|||万达新媒体工作法|||万达集团企业文化中心|||https://book.douban.com/subject/27046746/
+710|||互联网生态：重构商业规则|||喻晓马、程宇宁、喻卫东|||https://book.douban.com/subject/26717842/
+711|||注意力经济|||[美] 托马斯·达文波特、[美] 约翰·贝克|||https://book.douban.com/subject/1049865/
+712|||玩赚你的网站|||陈光锋|||https://book.douban.com/subject/4823093/
+713|||我煮死你|||[德] 埃伦·伯格|||https://book.douban.com/subject/26278011/
+714|||大数据的冲击|||城田真琴|||https://book.douban.com/subject/24693051/
+715|||我们最后的发明|||〔美〕James Barrat（詹姆斯·巴拉特）|||https://book.douban.com/subject/26855627/
+716|||声浪传播|||南方日报出报社|||https://book.douban.com/subject/26686952/
+717|||重塑用户体验|||[美] 威尔森(Chauncey Wilson)|||https://book.douban.com/subject/4903260/
+718|||维珍创业经|||[英]理查德·布兰森|||https://book.douban.com/subject/26293219/
+719|||Web数据挖掘|||Gordon S.linoff、Michael j.a.berry|||https://book.douban.com/subject/1216773/
+720|||100个可操作的网络赚钱方法|||陶秋丰|||https://book.douban.com/subject/4123377/
+721|||重新想象学习|||格雷厄姆·布朗-马丁|||https://book.douban.com/subject/26904419/
+722|||伊托邦|||威廉·J·米切尔|||https://book.douban.com/subject/1323570/
+723|||网络社会的崛起|||梁建章|||https://book.douban.com/subject/3183208/
+724|||精通CSS|||Andy Budd|||https://book.douban.com/subject/1898098/
+725|||决胜SNS|||丁欣、李尧、李烨|||https://book.douban.com/subject/4024068/
+726|||无处安放的互联网隐私|||【美】茱莉亚·霍维兹 【美】杰拉米·斯科|||https://book.douban.com/subject/27092232/
+727|||维基大战前传I|||[澳] 赛利特·德累福斯、朱利安·阿桑奇|||https://book.douban.com/subject/5923912/
+728|||数字货币|||无李钧，龚明，毛世行，高航|||https://book.douban.com/subject/25808991/
+729|||区块链与新经济：数字货币2.0时代|||高航|||https://book.douban.com/subject/26804497/
+730|||微博力|||[美] 谢尔·以色列|||https://book.douban.com/subject/4255391/
+731|||知识英雄 2.0|||刘韧|||https://book.douban.com/subject/1595292/
+732|||创业融资,从一个好故事开始|||比尔•费舍尔|||https://book.douban.com/subject/26930000/
+733|||互联网创业前奏曲第二部|||黄亮新|||https://book.douban.com/subject/6431093/
+734|||网站说服力——营销型网站策划|||谢松杰|||https://book.douban.com/subject/25814975/
+735|||降维打击|||杨 健|||https://book.douban.com/subject/26896772/
+736|||智能爆炸：开启智人新时代|||王汉华、刘兴亮、张小平|||https://book.douban.com/subject/26628218/
+737|||互联网供应链金融|||宋华|||https://book.douban.com/subject/26944809/
+738|||中国制造2025：产业互联网开启新工业革命|||夏妍娜、赵胜|||https://book.douban.com/subject/26728970/
+739|||首席品牌官日志|||徐浩然、刘晓午|||https://book.douban.com/subject/25833569/
+740|||自由人|||程苓峰|||https://book.douban.com/subject/25812722/
+741|||反脆弱博弈 信息与智能时代的竞争生存之道|||李利凯|||https://book.douban.com/subject/27046044/
+742|||慕课|||【美】乔纳森·哈伯|||https://book.douban.com/subject/26303726/
+743|||跨界2|||腾讯科技频道|||https://book.douban.com/subject/26642172/
+744|||编程ING|||蔡学镛|||https://book.douban.com/subject/11442031/
+745|||用户战略|||【美】亚伦·夏皮罗|||https://book.douban.com/subject/25866259/
+746|||互联网时代项目管理术|||高德|||https://book.douban.com/subject/26815416/
+747|||微力无边|||杜子建|||https://book.douban.com/subject/6861033/
+748|||我用微软改变世界|||保罗·艾伦|||https://book.douban.com/subject/10521234/
+749|||区块链世界|||井底望天、武源文、史柏平、赵国栋|||https://book.douban.com/subject/26933919/
+750|||Technomobility in China|||Cara Wallis|||https://book.douban.com/subject/20514966/
+751|||改变从消费模式开始|||【日】桑原晃弥|||https://book.douban.com/subject/26357084/
+752|||群体的思维|||Lior Zoref|||https://book.douban.com/subject/26860973/
+753|||Landing Page优化权威指南|||Tim Ash|||https://book.douban.com/subject/3879806/
+754|||共享经济大趋势|||倪云华 虞仲轶|||https://book.douban.com/subject/26696390/
+755|||移动交互设计精髓|||班格 (Cameron Banga)、温霍尔德 (Josh Weinhold)|||https://book.douban.com/subject/26363946/
+756|||Docker进阶与实战|||华为Docker实践小组|||https://book.douban.com/subject/26701218/
+757|||潜移默化|||Cennydd Bowles、James Box|||https://book.douban.com/subject/6439419/
+758|||特斯拉之父|||竹内一正|||https://book.douban.com/subject/25924605/
+759|||Web3.0|||大卫·西格尔|||https://book.douban.com/subject/24846202/
+760|||微信，这么玩才赚钱|||王大恩（笔名：王易）、曹雪怡（笔名：蓝尧）|||https://book.douban.com/subject/24756675/
+761|||电子商务|||(美)埃弗雷姆·特班|||https://book.douban.com/subject/4720570/
+762|||企鹅凶猛|||薛芳|||https://book.douban.com/subject/4184775/
+763|||滴滴：分享经济改变中国|||程维、柳青、张晓峰|||https://book.douban.com/subject/26800138/
+764|||Google總部大揭密|||史蒂芬．李維|||https://book.douban.com/subject/6963066/
+765|||Move Fast and Break Things|||Jonathan Taplin|||https://book.douban.com/subject/27025542/
+766|||货币革命|||【美】爱德华•卡斯特罗诺瓦|||https://book.douban.com/subject/26376118/
+767|||大数据主义|||[美]史蒂夫·洛尔|||https://book.douban.com/subject/26613913/
+768|||淘宝网|||沈威风|||https://book.douban.com/subject/2028086/
+769|||产品经理|||张卫东|||https://book.douban.com/subject/25788708/
+770|||人人都是网站分析师|||王彦平|||https://book.douban.com/subject/26342552/
+771|||粉丝经济|||叶开|||https://book.douban.com/subject/25882237/
+772|||玩具思维|||陈禹安|||https://book.douban.com/subject/26611071/
+773|||创业的艺术|||盖伊·川崎|||https://book.douban.com/subject/1905038/
+774|||马化腾的腾讯帝国|||林军、张宇宙|||https://book.douban.com/subject/3905259/
+775|||物联网导论|||刘云浩|||https://book.douban.com/subject/5388602/
+776|||用互联网思维工作|||梅纳德·韦布、卡莉·阿德勒|||https://book.douban.com/subject/26259596/
+777|||The New Digital Age|||Eric Schmidt、Jared Cohen|||https://book.douban.com/subject/20469380/
+778|||触动人心|||Josh Clark|||https://book.douban.com/subject/6864391/
+779|||社群营销与运营/互联网+新媒体营销规划丛书|||秦阳|||https://book.douban.com/subject/27057672/
+780|||趋势红利|||刘润|||https://book.douban.com/subject/26823428/
+781|||那些让文案绝望的文案|||小马宋|||https://book.douban.com/subject/26655503/
+782|||郎咸平说：新经济颠覆了什么|||郎咸平|||https://book.douban.com/subject/26847863/
+783|||Lending Club 简史|||[美] Peter Renton|||https://book.douban.com/subject/24868037/
+784|||被谷歌|||肯·奥莱塔|||https://book.douban.com/subject/5259531/
+785|||鲜活的数据|||[美] Nathan Yau|||https://book.douban.com/subject/19952397/
+786|||产品经理认证<NPDP>知识体系指南(产品经理认证NPDP考试教材)|||(美)产品开发与管理协会|译者:陈劲|||https://book.douban.com/subject/27048727/
+787|||网络设计的原理|||桧山佐知子|||https://book.douban.com/subject/6790620/
+788|||SIVA范式|||(美) 唐•舒尔茨著|||https://book.douban.com/subject/25775590/
+789|||重新定义工作：大连接时代职业、公司和领导力的颠覆性变革|||【美】Jacob Morgan|||https://book.douban.com/subject/26665379/
+790|||区块链将如何重新定义世界|||唐文剑、吕雯|||https://book.douban.com/subject/26826933/
+791|||创新者们|||华特.艾萨克森|||https://book.douban.com/subject/26663658/
+792|||How to Talk about Videogames|||Ian Bogost|||https://book.douban.com/subject/26688298/
+793|||云端：动荡世界中的大数据|||【加】文森特·莫斯可|||https://book.douban.com/subject/26991066/
+794|||电商运营|||淘宝大学|||https://book.douban.com/subject/11614301/
+795|||微交互|||塞弗 (Dan Saffer)|||https://book.douban.com/subject/25744600/
+796|||孙正义|||招毅慧|||https://book.douban.com/subject/3405373/
+797|||云计算|||姚宏宇 田溯宁|||https://book.douban.com/subject/20440954/
+798|||鼠标宣言|||约翰·里德尔|||https://book.douban.com/subject/1433764/
+799|||产品经理创新手册|||[美 ]杰奎琳•贝克利（Jacqueline Beckley）、[ 美]杜尔塞•帕雷德斯 （Dulce Paredes）、[泰 ]肯纳庞•罗派得卡拉特 （Kannapon Lopetcharat）|||https://book.douban.com/subject/26931252/
+800|||世界是开放的|||（美）柯蒂斯•J•邦克|||https://book.douban.com/subject/6806062/
+801|||3D打印|||[美]胡迪•利普森，梅尔芭•库曼|||https://book.douban.com/subject/21966324/
+802|||当我们变成一堆数字|||贝克|||https://book.douban.com/subject/3816826/
+803|||复制互联网|||刘伟、文飞翔（编）|||https://book.douban.com/subject/4854793/
+804|||Python数据处理|||[美] 杰奎琳·凯泽尔凯瑟琳?贾缪尔|||https://book.douban.com/subject/27074608/
+805|||用户故事地图|||Jeff Patton|||https://book.douban.com/subject/26760348/
+806|||罗辑思维：迷茫时代的明白人|||罗振宇|||https://book.douban.com/subject/26585057/
+807|||用户思维|||【美】约翰·沃瑞劳|||https://book.douban.com/subject/26661710/
+808|||爆裂|||[美] 伊藤穰一、[美] 杰夫·豪|||https://book.douban.com/subject/27131703/
+809|||全面回忆|||[美]戈登·贝尔、[美]吉姆·戈梅尔|||https://book.douban.com/subject/25900924/
+810|||守護程序 I 網路殺神|||Daniel Suarez|||https://book.douban.com/subject/6308250/
+811|||Hacking Growth|||Sean Ellis、Morgan Brown|||https://book.douban.com/subject/27010665/
+812|||马云如是说|||朱甫|||https://book.douban.com/subject/2980425/
+813|||Web应用安全权威指南|||德丸浩|||https://book.douban.com/subject/26077205/
+814|||2.0营销传播|||赵洁、曹芳华|||https://book.douban.com/subject/3802708/
+815|||碎片化时代|||[澳]史蒂夫·山姆马提诺（Steve Sammartino）|||https://book.douban.com/subject/26593826/
+816|||UML基础、案例与应用|||施穆勒|||https://book.douban.com/subject/1231142/
+817|||复杂：信息时代的连接、机会与布局|||罗家德|||https://book.douban.com/subject/27084311/
+818|||马化腾自述-我的互联网思维|||赵黎|||https://book.douban.com/subject/26126527/
+819|||被新聞出賣的世界|||萊恩·霍利得|||https://book.douban.com/subject/21362615/
+820|||网站搜索设计|||[美] Shari Thurow、[美] Nick Musica|||https://book.douban.com/subject/6041346/
+821|||社交网络学到的十堂经济学课|||保罗•欧耶尔 (Paul Oyer)|||https://book.douban.com/subject/26311283/
+822|||主动的ui设计师|||米田|||https://book.douban.com/subject/25926310/
+823|||数字化商业模式|||大前研一|||https://book.douban.com/subject/1771819/
+824|||微商团队管理实战手册|||杜一凡|||https://book.douban.com/subject/26661053/
+825|||大数据云图|||大卫•芬雷布 (David Feinleib)|||https://book.douban.com/subject/25773128/
+826|||CSS设计指南|||史密斯|||https://book.douban.com/subject/23123255/
+827|||众筹|||盛佳、柯斌、杨倩|||https://book.douban.com/subject/25894455/
+828|||更具笔格：网络文案权威指南|||【美】Chris Barr（克里斯•巴尔）|||https://book.douban.com/subject/26437230/
+829|||与大数据同行|||[英]维克托·迈尔-舍恩伯格、[英]肯尼思·库克耶|||https://book.douban.com/subject/26283227/
+830|||互联网创业原创精品-互联网创业密码|||刘楠、胡皓|||https://book.douban.com/subject/25897253/
+831|||Born Digital|||John Palfrey、Urs Gasser|||https://book.douban.com/subject/3195301/
+832|||互联网寡头战争|||屈运栩|||https://book.douban.com/subject/27053833/
+833|||万维网的定律|||[美] 伯纳多 A·胡伯曼|||https://book.douban.com/subject/3890177/
+834|||颠覆暴利|||曾德超、张志前|||https://book.douban.com/subject/26421990/
+835|||触心：DT时代的大数据精准营销|||付峥嵘|||https://book.douban.com/subject/26652276/
+836|||转化：提升网站流量和转化率的技巧|||（英）Ben Hunt|||https://book.douban.com/subject/25725853/
+837|||游戏经济|||乔·拉多夫|||https://book.douban.com/subject/10834137/
+838|||改变未来的九大算法|||[美] 约翰.麦考密克|||https://book.douban.com/subject/24529132/
+839|||为什么投你：一线投资人解密创业与投资的逻辑（精装）|||南立新、及轶嵘|||https://book.douban.com/subject/26703830/
+840|||失去乔布斯，苹果会怎么做|||[德] 迪尔克•拜克曼（Dirk Beckmann）|||https://book.douban.com/subject/6879513/
+841|||WTF?|||Tim O'Reilly|||https://book.douban.com/subject/27066034/
+842|||触点管理|||安妮·M·许勒尔 (Anne M. Schuller)|||https://book.douban.com/subject/26665528/
+843|||VR来了！|||才华有限实验室|||https://book.douban.com/subject/26901394/
+844|||微信终极秘籍|||青龙老贼、赵黎、方雨、刘琪、潘越飞|||https://book.douban.com/subject/25798792/
+845|||Google API大全|||《Google API大全》编委会 编|||https://book.douban.com/subject/3764948/
+846|||互联网+餐饮|||鹤九|||https://book.douban.com/subject/26865119/
+847|||数据新常态|||克里斯托弗·苏达克 (Christopher Surdak)|||https://book.douban.com/subject/26312505/
+848|||众妙之门|||Smashing Magazine|||https://book.douban.com/subject/5351808/
+849|||颠覆营销|||陈杰豪、车品觉|||https://book.douban.com/subject/26753384/
+850|||一目了然|||ROBERT HOEKMAN|||https://book.douban.com/subject/2298856/
+851|||培训行业这一年|||李好宇、王可心、邱珣、王雨佳|||https://book.douban.com/subject/26319980/
+852|||分享时代|||Bryan Kramer|||https://book.douban.com/subject/26827114/
+853|||网络星河|||卡斯特|||https://book.douban.com/subject/2176766/
+854|||中国P2P借贷服务行业白皮书2013|||第一财经新金融研究中心|||https://book.douban.com/subject/24872809/
+855|||Web开发秘方|||Brian P. Hogan、Chris Warren、Mike Weber、Chris Johnson、Aaron Godin|||https://book.douban.com/subject/24697944/
+856|||SEO实战密码|||昝辉|||https://book.douban.com/subject/10732467/
+857|||共享经济商业模式|||[英]亚历克斯·斯特凡尼|||https://book.douban.com/subject/26746090/
+858|||双11|||秦嫣|||https://book.douban.com/subject/26909473/
+859|||深度解析淘宝运营|||刘涛|||https://book.douban.com/subject/26596281/
+860|||数字痴呆化|||施皮茨尔|||https://book.douban.com/subject/25943413/
+861|||互联网消费金融|||刘洋|||https://book.douban.com/subject/26840896/
+862|||阿里商业评论：跨境电商|||阿里研究院|||https://book.douban.com/subject/26747839/
+863|||比特之城|||威廉・J・米切尔|||https://book.douban.com/subject/1067955/
+864|||微信公众平台应用开发实战|||钟志勇|||https://book.douban.com/subject/25716213/
+865|||APP营销实战|||胡保坤|||https://book.douban.com/subject/26370866/
+866|||网红是怎样炼成的（案例版）|||倪卫涛|||https://book.douban.com/subject/26978120/
+867|||《淘宝大数据》|||《卖家》|||https://book.douban.com/subject/25811287/
+868|||体验经济（珍藏版）|||（美）B. 约瑟夫·派恩（B. Joseph PineⅡ）、詹姆斯 H. 吉尔摩（James H. Gilmore）|||https://book.douban.com/subject/26826943/
+869|||众筹|||斯蒂芬•德森纳|||https://book.douban.com/subject/26390744/
+870|||服务设计思维|||雅各布施耐德、马克斯迪克多恩|||https://book.douban.com/subject/26898405/
+871|||我们改变了互联网，还是互联网改变了我们?|||[美] 杰弗里·斯蒂伯|||https://book.douban.com/subject/5325853/
+872|||网站项目管理|||[美] 阿什利·弗里德莱因|||https://book.douban.com/subject/1104593/
+873|||SNS网站构建|||Gavin Bell|||https://book.douban.com/subject/5954711/
+874|||SNS浪潮|||李翔昊|||https://book.douban.com/subject/4265473/
+875|||The Google Story|||David Vise、Mark Malseed|||https://book.douban.com/subject/1440300/
+876|||硅谷合伙人|||[美] Sarah Lacy|||https://book.douban.com/subject/25782823/
+877|||搜索引擎技术基础|||刘奕群、马少平、洪涛|||https://book.douban.com/subject/4901568/
+878|||世界500强互联网产品经理管理笔记|||韩伟|||https://book.douban.com/subject/25820256/
+879|||奇怪@壹|||锚&大眼|||https://book.douban.com/subject/3381707/
+880|||风险投资交易|||[美]布拉德·菲尔德、[美]杰森·门德尔松|||https://book.douban.com/subject/26357758/
+881|||Online Society in China|||David Herold、Peter Wolfgang Marolt|||https://book.douban.com/subject/4934458/
+882|||重启|||米奇•乔尔|||https://book.douban.com/subject/25897319/
+883|||iGod|||[白俄]叶夫根尼·莫罗佐夫|||https://book.douban.com/subject/25798616/
+884|||Social Network Analysis for Startups|||Maksim Tsvetovat、Alexander Kouznetsov|||https://book.douban.com/subject/6872849/
+885|||群的智慧|||米勒|||https://book.douban.com/subject/5333589/
+886|||一本书读懂风险投资|||（美）巴斯更|||https://book.douban.com/subject/6037415/
+887|||谷歌小子|||理查德•勃兰特|||https://book.douban.com/subject/4714009/
+888|||我是90后，我是创业家|||腾讯互联网与社会研究院|||https://book.douban.com/subject/26296833/
+889|||黑客伦理与信息时代精神|||派卡・海曼|||https://book.douban.com/subject/1071093/
+890|||百度SEM竞价推广|||马明泽|||https://book.douban.com/subject/27013707/
+891|||数据掘金|||谭磊|||https://book.douban.com/subject/24718711/
+892|||区块链|||徐明星、刘勇、段新星|||https://book.douban.com/subject/26803935/
+893|||X光下看腾讯|||蓝狮子|||https://book.douban.com/subject/6533251/
+894|||网站分析基础教程|||崔萌、孙立东、马力|||https://book.douban.com/subject/6886355/
+895|||网站蓝图|||吕皓月、杨长韬|||https://book.douban.com/subject/10829320/
+896|||互联网思维|||陈光锋|||https://book.douban.com/subject/25815348/
+897|||Cyber War|||Richard A. Clarke、Robert Knake|||https://book.douban.com/subject/4822271/
+898|||百度一下|||百度公司|||https://book.douban.com/subject/3358425/
+899|||淘金微营销|||孙庆磊、曲秋晨|||https://book.douban.com/subject/25858053/
+900|||口碑|||乔治・西尔弗曼|||https://book.douban.com/subject/1159669/
+901|||高绩效团队的三个秘密|||任向晖、许维、夏英凯|||https://book.douban.com/subject/26782971/
+902|||GOOGLE HACKS探索和利用全球信息资源的技巧和工具|||(美)Rael Dornfest、Paul Bausch、Tara Calishain|||https://book.douban.com/subject/2176947/
+903|||点亮社群|||查克·布莱默(Chuck Brymer)|||https://book.douban.com/subject/4833367/
+904|||社会化媒体营销大趋势|||唐兴通|||https://book.douban.com/subject/6127785/
+905|||决战第三屏|||恰克•马丁(Chuck Martin)|||https://book.douban.com/subject/11621963/
+906|||资本与商业模式顶层设计——互联网时代如何发现企业高利润区|||郑翔洲  叶  浩  编著|||https://book.douban.com/subject/26184540/
+907|||产品之力|||任帅帅|||https://book.douban.com/subject/26779652/
+908|||大数据和我们|||Andreas Weigend|||https://book.douban.com/subject/26916968/
+909|||互联网冲击|||杰伦•拉尼尔 (Jaron Lanier)|||https://book.douban.com/subject/25866261/
+910|||架構的生態系|||濱野智史|||https://book.douban.com/subject/10453027/
+911|||现代前端技术解析|||张成文|||https://book.douban.com/subject/27021790/
+912|||乔纳森传|||利恩德·卡尼|||https://book.douban.com/subject/25786645/
+913|||搜索引擎营销|||莫兰|||https://book.douban.com/subject/2060274/
+914|||文明之光（第二册）|||吴军|||https://book.douban.com/subject/25902222/
+915|||未来之路|||比尔・盖茨|||https://book.douban.com/subject/1205456/
+916|||大学的终结|||[美] 凯文·凯里（Kevin Carey）|||https://book.douban.com/subject/26997842/
+917|||精益创业|||特雷弗 • 欧文斯（Trevor Ownes）、奥比 • 费南尔德斯（Obie Fernandez）|||https://book.douban.com/subject/26781756/
+918|||谣言|||（美）桑斯坦|||https://book.douban.com/subject/5336004/
+919|||网络与国家|||弥尔顿·L·穆勒 (Milton L.Mueller)|||https://book.douban.com/subject/26306128/
+920|||转型革命|||谢华|||https://book.douban.com/subject/26916843/
+921|||全民营销|||陈亮途|||https://book.douban.com/subject/26333983/
+922|||三板斧：阿里巴巴管理之道|||天机（李川）|||https://book.douban.com/subject/26772835/
+923|||Memes in Digital Culture|||Limor Shifman|||https://book.douban.com/subject/24760368/
+924|||探寻网络法的政治经济起源|||胡凌|||https://book.douban.com/subject/26856296/
+925|||Web标准和SEO应用实践|||Aarron Walter|||https://book.douban.com/subject/3246140/
+926|||从零开始学运营|||王力|||https://book.douban.com/subject/27057316/
+927|||与50位网站主编面对面|||董江勇、李博明|||https://book.douban.com/subject/4818688/
+928|||进化|||北大首届互联网CIO-CTO班全体同学 著|||https://book.douban.com/subject/26108604/
+929|||寻路大数据|||Michael Manoochehri|||https://book.douban.com/subject/26270372/
+930|||氮|||[意]比亚吉奥·西蒙内塔|||https://book.douban.com/subject/26678895/
+931|||你就是极客|||Michael Lopp|||https://book.douban.com/subject/7055331/
+932|||社群思维|||付岩|||https://book.douban.com/subject/26952164/
+933|||微信公众平台服务号开发：揭秘九大高级接口|||易伟|||https://book.douban.com/subject/25867692/
+934|||走进搜索引擎|||潘雪峰，花贵春，梁斌|||https://book.douban.com/subject/6125551/
+935|||互联网心理学|||[美] Patricia Wallace|||https://book.douban.com/subject/1087519/
+936|||数字麦克卢汉|||(美)保罗﹒莱文森(Paul Levinson)|||https://book.douban.com/subject/1313505/
+937|||奥美的数字营销观点|||[美] 肯特·沃泰姆、[美] 伊恩·芬威克|||https://book.douban.com/subject/3744558/
+938|||数源思维：业务导向的数据思维秘籍|||仓剑|||https://book.douban.com/subject/26998032/
+939|||走进交互设计|||刘伟|||https://book.douban.com/subject/3482862/
+940|||技术文化的时代.从信息社会到虚拟生活|||(英国)凯文·罗宾斯等著、何朝阳等译|||https://book.douban.com/subject/1496049/
+941|||实战第三屏：移动营销实务十讲|||黄维、罗晶、应花、李婉|||https://book.douban.com/subject/25785187/
+942|||策展时代|||[日]佐佐木俊尚|||https://book.douban.com/subject/26576504/
+943|||营销十法|||马西森|||https://book.douban.com/subject/6889439/
+944|||碎片与重构|||王竹立|||https://book.douban.com/subject/26311273/
+945|||颠覆|||Erik Qualman|||https://book.douban.com/subject/5355287/
+946|||CSS3实用指南|||吉伦瓦特|||https://book.douban.com/subject/10482084/
+947|||物联网导论（第2版）|||刘云浩|||https://book.douban.com/subject/25822123/
+948|||爱生活——鬼脚七自媒体第二季|||鬼脚七|||https://book.douban.com/subject/25767577/
+949|||激活组织：从个体价值到集合智慧|||陈春花|||https://book.douban.com/subject/27045575/
+950|||无畏而赢|||[美] 戴维•普洛夫|||https://book.douban.com/subject/10469535/
+951|||SEO智慧|||欧朝晖 著|||https://book.douban.com/subject/3771571/
+952|||互联网商规11条|||（美）艾•里斯、劳拉•里斯|||https://book.douban.com/subject/25756736/
+953|||李彦宏的百度世界|||CHENG DONG SHENG|||https://book.douban.com/subject/3685443/
+954|||互联网产品视觉设计·风格篇|||隋涌|||https://book.douban.com/subject/26422033/
+955|||写给程序员的Web设计书|||霍根|||https://book.douban.com/subject/6783748/
+956|||深入理解计算机网络|||王达|||https://book.douban.com/subject/20560942/
+957|||子道说：电商不难（双色）|||子道|||https://book.douban.com/subject/25901583/
+958|||媒介、社会与世界|||[英] 库尔德利|||https://book.douban.com/subject/25851813/
+959|||知识英雄|||刘韧|||https://book.douban.com/subject/1797269/
+960|||Cyber-Marx|||Nick Dyer-Witheford|||https://book.douban.com/subject/4269577/
+961|||Startupland|||Mikkel Svane|||https://book.douban.com/subject/26632121/
+962|||电商数据分析，淘宝实战|||零一 著|||https://book.douban.com/subject/26743635/
+963|||Postfix权威指南|||Kyle D.Dent|||https://book.douban.com/subject/1754499/
+964|||超预期|||陈润|||https://book.douban.com/subject/26330959/
+965|||A Hacker Manifesto|||McKenzie Wark|||https://book.douban.com/subject/2953911/
+966|||分享經濟的華麗騙局|||湯姆．史利(Tom Slee)|||https://book.douban.com/subject/26785762/
+967|||互联网创业前奏曲|||黄亮新|||https://book.douban.com/subject/3153529/
+968|||洞察用户体验|||[美] 古德曼 (Elizabeth Goodman)、[美] 库涅夫斯基 (Mike Kuniavsky)、[美] 莫德 (Andrea Moed)|||https://book.douban.com/subject/26640058/
+969|||数字时代的大学|||[美]威廉•G.鲍恩|||https://book.douban.com/subject/25928220/
+970|||社会化媒体度量|||（美）Nichole Kelly|||https://book.douban.com/subject/25885203/
+971|||Nginx高性能Web服务器详解|||苗泽|||https://book.douban.com/subject/25773187/
+972|||网络战|||保罗·沙克瑞恩、亚娜·沙克瑞恩、安德鲁·鲁夫|||https://book.douban.com/subject/26860997/
+973|||PHP核心技术与最佳实践|||列旭松，陈文|||https://book.douban.com/subject/20370984/
+974|||The Manager's Path|||Camille Fournier|||https://book.douban.com/subject/26997855/
+975|||微博时代的实时营销与公关|||王吉斌 刁海鹏  陈宝国|||https://book.douban.com/subject/6913357/
+976|||大数据供应链|||娜达·R·桑德斯 (Nada R. Sanders)|||https://book.douban.com/subject/26584814/
+977|||机器人时代|||[美]马丁·福特|||https://book.douban.com/subject/26393046/
+978|||微信营销108招|||肖森舟、李鲆|||https://book.douban.com/subject/26354705/
+979|||一本书读懂互联网金融|||人民邮电出版社|||https://book.douban.com/subject/26107405/
+980|||生态战略：设计未来企业新模式|||周文艺|||https://book.douban.com/subject/26992727/
+981|||The Media Equation|||Byron Reeves、Clifford Nass|||https://book.douban.com/subject/3578746/
+982|||互联网银行：数字化新金融时代|||[英]克里斯•斯金纳|||https://book.douban.com/subject/26356020/
+983|||龙卷风暴|||杰弗里·摩尔|||https://book.douban.com/subject/3351242/
+984|||新商业时代：移动互联网时代的场景革命|||徐琳然|||https://book.douban.com/subject/26909175/
+985|||我为什么要投资你|||李晓艳|||https://book.douban.com/subject/10571271/
+986|||人工智能革命|||王天一|||https://book.douban.com/subject/27055736/
+987|||深入理解网站优化：提升网站转化率的艺术与科学|||（美）Rich Page|||https://book.douban.com/subject/24903927/
+988|||Yes！产品经理（工具篇）：阿泡的产品管理工具包|||汤圆、老马|||https://book.douban.com/subject/25872764/
+989|||破译黑天鹅|||格奥尔格·凡尔梅特、伊冯娜·赛尔|||https://book.douban.com/subject/26286250/
+990|||创业者对话创业者|||张向东|||https://book.douban.com/subject/4860450/
+991|||互联网+医疗：重构医疗生态|||互联网医疗中国会、李未柠、王晶|||https://book.douban.com/subject/26692495/
+992|||GitHub入门与实践|||[日] 大塚弘记|||https://book.douban.com/subject/26462816/
+993|||自己动手写网络爬虫|||罗刚、王振东|||https://book.douban.com/subject/5338398/
+994|||物联网设计|||[英] Adrian McEwen Hakim Cassimally|||https://book.douban.com/subject/26282577/
+995|||赵迎光说韩都衣舍|||赵迎光 口述、伟雅俱乐部 编辑|||https://book.douban.com/subject/26612610/
+996|||微信小程序(开发入门及案例详解)|||李骏、边思|||https://book.douban.com/subject/27018906/
+997|||Web编程入门经典|||达科特 (Jon Duckett)|||https://book.douban.com/subject/4287404/
+998|||信息社会理论|||弗兰克·韦伯斯特|||https://book.douban.com/subject/6721450/
+999|||我++|||威廉·J·米切尔|||https://book.douban.com/subject/1827022/
+1000|||引爆IP：影游漫文超级IP打造之道|||王世颖|||https://book.douban.com/subject/26770080/

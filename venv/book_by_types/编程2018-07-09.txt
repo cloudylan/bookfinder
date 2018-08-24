@@ -1,0 +1,1000 @@
+1|||计算机程序的构造和解释|||Harold Abelson、Gerald Jay Sussman、Julie Sussman|||https://book.douban.com/subject/1148282/
+2|||编码|||[美] Charles Petzold|||https://book.douban.com/subject/4822685/
+3|||代码大全（第2版）|||[美] 史蒂夫·迈克康奈尔|||https://book.douban.com/subject/1477390/
+4|||深入理解计算机系统|||Randal E.Bryant、David O'Hallaron|||https://book.douban.com/subject/1230413/
+5|||C程序设计语言|||（美）Brian W. Kernighan、（美）Dennis M. Ritchie|||https://book.douban.com/subject/1139336/
+6|||算法导论（原书第2版）|||[美] Thomas H.Cormen、Charles E.Leiserson、Ronald L.Rivest、Clifford Stein|||https://book.douban.com/subject/1885170/
+7|||算法（第4版）|||塞奇威克 (Robert Sedgewick)、韦恩 (Kevin Wayne)|||https://book.douban.com/subject/19952400/
+8|||JavaScript高级程序设计（第3版）|||[美] Nicholas C. Zakas|||https://book.douban.com/subject/10546125/
+9|||黑客与画家|||[美] Paul Graham|||https://book.douban.com/subject/6021440/
+10|||集体智慧编程|||TOBY SEGARAN|||https://book.douban.com/subject/3288908/
+11|||编程珠玑|||Jon Bentley|||https://book.douban.com/subject/3227098/
+12|||Java编程思想 （第4版）|||[美] Bruce Eckel|||https://book.douban.com/subject/2130190/
+13|||Python编程：从入门到实践|||[美]埃里克·马瑟斯|||https://book.douban.com/subject/26829016/
+14|||C++ Primer 中文版（第 4 版）|||Stanley B.Lippman、Josée LaJoie、Barbara E.Moo|||https://book.douban.com/subject/1767741/
+15|||程序员的自我修养|||俞甲子、石凡、潘爱民|||https://book.douban.com/subject/3652388/
+16|||Fluent Python|||Luciano Ramalho|||https://book.douban.com/subject/26278021/
+17|||UNIX环境高级编程|||W.Richard Stevens、Stephen A.Rago|||https://book.douban.com/subject/1788421/
+18|||Python编程快速上手|||斯维加特 (Al Sweigart)|||https://book.douban.com/subject/26836700/
+19|||程序员修炼之道|||Andrew Hunt、David Thomas|||https://book.douban.com/subject/1152111/
+20|||重构|||Martin Fowler|||https://book.douban.com/subject/1229923/
+21|||设计模式|||[美] Erich Gamma、Richard Helm、Ralph Johnson、John Vlissides|||https://book.douban.com/subject/1052241/
+22|||C Primer Plus|||Stephen Prata、云巅工作室|||https://book.douban.com/subject/1240002/
+23|||Java并发编程实战|||Brian Goetz、Tim Peierls、Joshua Bloch、Joseph Bowbeer、David Holmes、Doug Lea|||https://book.douban.com/subject/10484692/
+24|||JavaScript语言精粹|||Douglas Crockford|||https://book.douban.com/subject/3590768/
+25|||编程之美|||《编程之美》小组 编|||https://book.douban.com/subject/3004255/
+26|||UNIX编程艺术|||Eric S. Raymond|||https://book.douban.com/subject/1467587/
+27|||Effective java 中文版（第2版）|||Joshua Bloch|||https://book.douban.com/subject/3360807/
+28|||代码整洁之道|||[美]Robert C. Martin|||https://book.douban.com/subject/4199741/
+29|||Head First 设计模式（中文版）|||弗里曼|||https://book.douban.com/subject/2243615/
+30|||Python源码剖析|||陈儒|||https://book.douban.com/subject/3117898/
+31|||你不知道的JavaScript（上卷）|||[美] Kyle Simpson|||https://book.douban.com/subject/26351021/
+32|||C专家编程|||Peter Van Der Linden|||https://book.douban.com/subject/2377310/
+33|||利用Python进行数据分析|||Wes McKinney|||https://book.douban.com/subject/25779298/
+34|||计算机程序设计艺术（第1卷）|||[美] Donald E. Knuth|||https://book.douban.com/subject/1130500/
+35|||数据结构与算法分析|||维斯|||https://book.douban.com/subject/1139426/
+36|||A Byte of Python|||Swaroop C H|||https://book.douban.com/subject/5948760/
+37|||程序员的思维修炼|||Andy Hunt|||https://book.douban.com/subject/5372651/
+38|||Python基础教程|||Magnus Lie Hetland|||https://book.douban.com/subject/4866934/
+39|||C和指针|||Kenneth A.Reek|||https://book.douban.com/subject/3012360/
+40|||C语言编程：一本全面的C语言入门教程（第三版）|||（美）Stephen Kochan|||https://book.douban.com/subject/1786294/
+41|||UNIX网络编程|||史蒂文斯、芬纳、鲁道夫|||https://book.douban.com/subject/1500149/
+42|||精通正则表达式|||Jeffrey E. F. Friedl|||https://book.douban.com/subject/2154713/
+43|||"笨办法"学Python|||肖 (Zed A.Shaw)|||https://book.douban.com/subject/26264642/
+44|||算法新解|||刘新宇|||https://book.douban.com/subject/26931430/
+45|||程序设计实践|||[美] Brian W. Kernighan、Rob Pike|||https://book.douban.com/subject/1173548/
+46|||计算机科学概论（第11版）|||J. Glenn Brookshear|||https://book.douban.com/subject/6862061/
+47|||构建之法|||邹欣|||https://book.douban.com/subject/25965995/
+48|||深入理解Java虚拟机（第2版）|||周志明|||https://book.douban.com/subject/24722612/
+49|||深入浅出Node.js|||朴灵|||https://book.douban.com/subject/25768396/
+50|||Head First Java（第二版·中文版）|||Kathy Sierra,Bert Bates 著、杨尊一 编译 张然等 改编|||https://book.douban.com/subject/2000732/
+51|||游戏引擎架构|||[美] Jason Gregory (杰森.格雷戈瑞)|||https://book.douban.com/subject/25815142/
+52|||编写可读代码的艺术|||Boswell, D.、Foucher, T.|||https://book.douban.com/subject/10797189/
+53|||JavaScript DOM编程艺术 （第2版）|||[英] Jeremy Keith、[加] Jeffrey Sambells|||https://book.douban.com/subject/6038371/
+54|||从Python开始学编程|||Vamei|||https://book.douban.com/subject/26919485/
+55|||The Linux Programming Interface|||Michael Kerrisk|||https://book.douban.com/subject/4292217/
+56|||JAVA 2核心技术 卷Ⅰ|||[美] 霍斯特曼、[美] 科奈尔|||https://book.douban.com/subject/1781451/
+57|||编程人生|||Peter Seibel|||https://book.douban.com/subject/5355285/
+58|||软件随想录|||Joel Spolsky|||https://book.douban.com/subject/4163938/
+59|||DOOM启世录|||[美] 大卫·卡什诺|||https://book.douban.com/subject/1152971/
+60|||与孩子一起学编程|||[美] 桑德Warren Sande、Carter Sande|||https://book.douban.com/subject/5338024/
+61|||Unix/Linux编程实践教程|||Bruce Molay、杨宗源、黄海涛|||https://book.douban.com/subject/1219329/
+62|||汇编语言（第2版）|||王爽|||https://book.douban.com/subject/3037562/
+63|||GitHub入门与实践|||[日] 大塚弘记|||https://book.douban.com/subject/26462816/
+64|||STL源码剖析|||侯捷|||https://book.douban.com/subject/1110934/
+65|||Cracking the Coding Interview, Fourth Edition|||Gayle Laakmann|||https://book.douban.com/subject/4941558/
+66|||Linux C编程一站式学习|||宋劲杉|||https://book.douban.com/subject/4141733/
+67|||大话设计模式|||程杰|||https://book.douban.com/subject/2334288/
+68|||计算的本质|||[英] Tom Stuart|||https://book.douban.com/subject/26148763/
+69|||深度探索C++对象模型|||[美] Stanley B. Lippman|||https://book.douban.com/subject/1091086/
+70|||编译原理|||Alfred V. Aho、Monica S.Lam、Ravi Sethi、Jeffrey D. Ullman|||https://book.douban.com/subject/3296317/
+71|||Spring揭秘|||王福强|||https://book.douban.com/subject/3897837/
+72|||挑战程序设计竞赛|||秋叶拓哉、岩田阳一、北川宜稔|||https://book.douban.com/subject/24749842/
+73|||高效程序的奥秘|||沃瑞恩|||https://book.douban.com/subject/1159177/
+74|||Effective C++中文版|||[美] Scott Meyers|||https://book.douban.com/subject/1231590/
+75|||Python核心编程（第二版）|||[美]Wesley J. Chun（陳仲才）|||https://book.douban.com/subject/3112503/
+76|||七周七语言|||Bruce A.Tate|||https://book.douban.com/subject/10555435/
+77|||C语言程序设计|||K. N. King|||https://book.douban.com/subject/4279678/
+78|||Vim实用技巧|||[英] Drew Neil|||https://book.douban.com/subject/25869486/
+79|||Head First HTML与CSS（第2版）|||Elisabeth Robson、Eric Freeman|||https://book.douban.com/subject/25752357/
+80|||The Little Schemer - 4th Edition|||Daniel P. Friedman、Matthias Felleisen|||https://book.douban.com/subject/1632977/
+81|||冒号课堂|||郑晖|||https://book.douban.com/subject/4031906/
+82|||算法图解|||[美] Aditya Bhargava|||https://book.douban.com/subject/26979890/
+83|||MySQL必知必会|||[英] Ben Forta|||https://book.douban.com/subject/3354490/
+84|||C陷阱与缺陷|||凯尼格|||https://book.douban.com/subject/2778632/
+85|||Python Cookbook|||Alex Martelli、Anna Ravenscroft、David Ascher|||https://book.douban.com/subject/4828875/
+86|||程序员的数学|||结城浩|||https://book.douban.com/subject/19949020/
+87|||别怕，Excel VBA其实很简单|||Excel之家 (Excel Home)|||https://book.douban.com/subject/19952184/
+88|||高效程序员的45个习惯|||Venkat Subramaniam、Andy Hunt|||https://book.douban.com/subject/4164024/
+89|||程序设计语言|||斯科特|||https://book.douban.com/subject/2152385/
+90|||30天自制操作系统|||[日] 川合秀实|||https://book.douban.com/subject/11530329/
+91|||Python学习手册|||Mark Lutz|||https://book.douban.com/subject/3948354/
+92|||编程精粹|||Steve Maguire|||https://book.douban.com/subject/3406939/
+93|||程序是怎样跑起来的|||[日] 矢泽久雄|||https://book.douban.com/subject/26365491/
+94|||Java 8实战|||厄马(Raoul-Gabriel Urma)、弗斯科(Mario Fusco)、米克罗夫特(Alan Mycroft)|||https://book.douban.com/subject/26772632/
+95|||Flask Web开发：基于Python的Web应用开发实战|||[美] Miguel Grinberg|||https://book.douban.com/subject/26274202/
+96|||松本行弘的程序世界|||松本行弘|||https://book.douban.com/subject/6756090/
+97|||算法竞赛入门经典|||刘汝佳|||https://book.douban.com/subject/4138920/
+98|||C++语言的设计和演化|||[美] Bjarne Stroustrup|||https://book.douban.com/subject/1096216/
+99|||Ruby元编程|||[意] Paolo Perrotta|||https://book.douban.com/subject/7056800/
+100|||剑指Offer|||何海涛|||https://book.douban.com/subject/6966465/
+101|||Effective Python|||布雷特·斯拉特金（Brett Slatkin）|||https://book.douban.com/subject/26709315/
+102|||JavaScript设计模式与开发实践|||曾探|||https://book.douban.com/subject/26382780/
+103|||Orange'S|||于渊|||https://book.douban.com/subject/3735649/
+104|||修改代码的艺术|||Michael Feathers|||https://book.douban.com/subject/2248759/
+105|||梦断代码|||Scott Rosenberg|||https://book.douban.com/subject/3142280/
+106|||第一行代码|||郭霖|||https://book.douban.com/subject/25942191/
+107|||卓有成效的程序员|||Neal Ford|||https://book.douban.com/subject/3558788/
+108|||Head First Python（中文版）|||巴里（Barry.P.）|||https://book.douban.com/subject/10561367/
+109|||PHP和MySQL Web开发(原书第4版)|||Luke Welling、Laura Thomson|||https://book.douban.com/subject/3549421/
+110|||七周七并发模型|||Paul Butcher|||https://book.douban.com/subject/26337939/
+111|||Go语言学习笔记|||雨痕|||https://book.douban.com/subject/26832468/
+112|||编程语言实现模式|||Terence Parr|||https://book.douban.com/subject/10482195/
+113|||SQL必知必会|||福达 (Ben Forta)|||https://book.douban.com/subject/24250054/
+114|||计算机系统要素|||Noam Nisan、Shimon Schocken|||https://book.douban.com/subject/1998341/
+115|||Effective Modern C++|||Scott Meyers|||https://book.douban.com/subject/25923597/
+116|||Java语言程序设计|||（美）  Y. Daniel Liang|||https://book.douban.com/subject/6529833/
+117|||程序员的呐喊|||[美]Steve Yegge|||https://book.douban.com/subject/25884108/
+118|||Python网络数据采集|||米切尔 (Ryan Mitchell)|||https://book.douban.com/subject/26740503/
+119|||Python语言及其应用|||[美] Bill Lubanovic|||https://book.douban.com/subject/26675127/
+120|||C++标准程序库|||[德] Nicolai M. Josuttis|||https://book.douban.com/subject/1110941/
+121|||R语言编程艺术|||（美）Norman Matloff|||https://book.douban.com/subject/24699632/
+122|||C++程序设计语言（特别版）|||[美] Bjarne Stroustrup 贝尔实验室|||https://book.douban.com/subject/1099889/
+123|||CLR via C#|||(美)Jeffrey Richter|||https://book.douban.com/subject/4924165/
+124|||代码的未来|||[日] 松本行弘|||https://book.douban.com/subject/24536403/
+125|||高性能JavaScript|||Nicholas C.Zakas|||https://book.douban.com/subject/5362856/
+126|||Python标准库|||Doug Hellmann|||https://book.douban.com/subject/10773324/
+127|||The Go Programming Language|||Brian W. Kernighan、Alan Donovan|||https://book.douban.com/subject/26337545/
+128|||Windows核心编程|||Jeffrey Richter|||https://book.douban.com/subject/1088045/
+129|||啊哈!算法|||啊哈磊|||https://book.douban.com/subject/25894685/
+130|||程序员的数学3|||[日] 平冈和幸、[日] 堀玄|||https://book.douban.com/subject/26740548/
+131|||程序员的数学2|||平冈和幸、堀玄|||https://book.douban.com/subject/26593822/
+132|||Maven实战|||许晓斌|||https://book.douban.com/subject/5345682/
+133|||C语言入门经典|||霍顿 (Ivor Horton)|||https://book.douban.com/subject/3043693/
+134|||Android编程权威指南|||[美] Bill Phillips、[美] Brian Hardy|||https://book.douban.com/subject/25848404/
+135|||游戏之旅|||云风|||https://book.douban.com/subject/1441780/
+136|||Linux命令行与shell脚本编程大全|||Richard Blum、Christine Bresnahan|||https://book.douban.com/subject/11589828/
+137|||大话数据结构|||程杰|||https://book.douban.com/subject/6424904/
+138|||The Nature of Code|||Daniel Shiffman|||https://book.douban.com/subject/20452058/
+139|||Python Web开发实战|||董伟明|||https://book.douban.com/subject/26852057/
+140|||程序员的职业素养|||Robert C.Martin|||https://book.douban.com/subject/11614538/
+141|||调试九法|||David J.Agans|||https://book.douban.com/subject/5376270/
+142|||你不知道的JavaScript（中卷）|||[美] Kyle Simpson|||https://book.douban.com/subject/26854244/
+143|||自制编程语言|||［日］ 前桥和弥|||https://book.douban.com/subject/25735333/
+144|||The Effective Engineer|||Edmond Lau|||https://book.douban.com/subject/26360716/
+145|||How to Design Programs|||Matthias Felleisen、Robert Bruce Findler、Matthew Flatt、Shriram Krishnamurthi|||https://book.douban.com/subject/1787103/
+146|||代码之髓|||[日] 西尾泰和|||https://book.douban.com/subject/25927585/
+147|||深入理解Nginx|||陶辉|||https://book.douban.com/subject/22793675/
+148|||编写高质量代码：改善Python程序的91个建议|||张颖、赖勇浩|||https://book.douban.com/subject/25910544/
+149|||Think Python|||Allen B. Downey|||https://book.douban.com/subject/10779534/
+150|||领域特定语言|||Martin Fowler|||https://book.douban.com/subject/21964984/
+151|||用Python写网络爬虫|||[澳]理查德 劳森|||https://book.douban.com/subject/26869992/
+152|||正则指引|||余晟|||https://book.douban.com/subject/10591096/
+153|||C++程序设计原理与实践|||（美）Bjarne Stroustrup|||https://book.douban.com/subject/4875599/
+154|||软件调试|||张银奎|||https://book.douban.com/subject/3088353/
+155|||程序员代码面试指南：IT名企算法与数据结构题目最优解|||左程云|||https://book.douban.com/subject/26638586/
+156|||编写可维护的JavaScript|||扎卡斯|||https://book.douban.com/subject/21792530/
+157|||Android开发艺术探索|||任玉刚|||https://book.douban.com/subject/26599538/
+158|||算法的乐趣|||王晓华|||https://book.douban.com/subject/26351257/
+159|||高等应用数学问题的MATLAB求解|||薛定宇、陈阳泉|||https://book.douban.com/subject/3248794/
+160|||C++设计新思维|||(美)Andrei Alexandrescu|||https://book.douban.com/subject/1119904/
+161|||Go语言实战|||威廉·肯尼迪 (William Kennedy)、布赖恩·克特森 (Brian Ketelsen)、埃里克·圣马丁 (Erik St.Martin)|||https://book.douban.com/subject/27015617/
+162|||代码之美|||Grey Wilson|||https://book.douban.com/subject/3224524/
+163|||Linux设备驱动程序|||科波特|||https://book.douban.com/subject/1723151/
+164|||编程原本|||Alexander Stepanov、Paul McJones|||https://book.douban.com/subject/7564093/
+165|||Python科学计算|||张若愚|||https://book.douban.com/subject/7175280/
+166|||C语言接口与实现|||（美）David R.Hanson|||https://book.douban.com/subject/1230040/
+167|||C标准库|||P. J. Plauger|||https://book.douban.com/subject/3775842/
+168|||黑客|||Steven Levy|||https://book.douban.com/subject/6860890/
+169|||More Effective C++中文版|||Scott meyers|||https://book.douban.com/subject/1241385/
+170|||LaTeX入门|||刘海洋|||https://book.douban.com/subject/24703731/
+171|||Android系统源代码情景分析|||罗升阳|||https://book.douban.com/subject/19986441/
+172|||深入Java虚拟机(原书第2版)|||（美）文纳斯|||https://book.douban.com/subject/1138768/
+173|||汇编语言程序设计|||Richard Blum|||https://book.douban.com/subject/1446250/
+174|||逆向工程核心原理|||[韩] 李承远|||https://book.douban.com/subject/25866389/
+175|||深入理解 Flask|||[美]Jack Stouffer|||https://book.douban.com/subject/26838547/
+176|||编程之魂|||Federico Biancuzzi、Shane Warden|||https://book.douban.com/subject/4719230/
+177|||R语言实战|||卡巴科弗 (Robert I.Kabacoff)|||https://book.douban.com/subject/20382244/
+178|||算法神探|||[美] 杰瑞米·库比卡|||https://book.douban.com/subject/26945096/
+179|||Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION|||Bradley N. Miller、David L. Ranum|||https://book.douban.com/subject/21325184/
+180|||Dive Into Python|||Mark Pilgrim|||https://book.douban.com/subject/1440658/
+181|||Objective-C编程|||[美] Aaron Hillegass|||https://book.douban.com/subject/19962787/
+182|||高效能程序员的修炼|||[美]Jeff Atwood|||https://book.douban.com/subject/24868904/
+183|||Concepts, Techniques, and Models of Computer Programming|||Peter Van Roy、Seif Haridi|||https://book.douban.com/subject/1782316/
+184|||Head First HTML5 Programming（中文版）|||埃里克•弗里曼 (Eric Freeman)、伊丽莎白•罗布森 (Elisabeth Robson)|||https://book.douban.com/subject/19894872/
+185|||Spark|||Bill Chambers、Matei Zaharia|||https://book.douban.com/subject/27035127/
+186|||HTTP权威指南|||David Gourley、Brian Totty|||https://book.douban.com/subject/10746113/
+187|||Essentials of Programming Languages, 3rd Edition|||Daniel P. Friedman、Mitchell Wand|||https://book.douban.com/subject/3136252/
+188|||嗨翻C语言|||[美]David Griffiths、[美]Dawn Griffiths|||https://book.douban.com/subject/25703412/
+189|||图解HTTP|||【日】上野宣|||https://book.douban.com/subject/25863515/
+190|||C++Primer Plus|||Stephen Prata、孙建春、韦强|||https://book.douban.com/subject/1319751/
+191|||python绝技：运用python成为顶级黑客|||[美] TJ O'Connor|||https://book.douban.com/subject/26702570/
+192|||The Science of Programming|||David Gries|||https://book.douban.com/subject/2350559/
+193|||C++ Concurrency in Action|||Anthony Williams|||https://book.douban.com/subject/4130141/
+194|||图解设计模式|||结城浩|||https://book.douban.com/subject/26933281/
+195|||iOS编程（第4版）|||[美] Christian Keur、[美] Aaron Hillegass、[美] Joe Conway|||https://book.douban.com/subject/26287812/
+196|||两周自制脚本语言|||[日]千叶 滋|||https://book.douban.com/subject/25908672/
+197|||老码识途|||韩宏|||https://book.douban.com/subject/19930393/
+198|||Modern PHP（中文版）|||Josh Lockhart|||https://book.douban.com/subject/26635862/
+199|||Effective Objective-C 2.0|||Matt Galloway|||https://book.douban.com/subject/25829244/
+200|||计算机程序设计艺术|||（美|||https://book.douban.com/subject/1852976/
+201|||Android 源码设计模式解析与实战|||何红辉、关爱民|||https://book.douban.com/subject/26644935/
+202|||WebGL编程指南|||【美】Kouichi Matsuda,Rodger Lea（松田浩一，罗杰•李）|||https://book.douban.com/subject/25909351/
+203|||JavaScript编程精解|||Marijn Haverbeke|||https://book.douban.com/subject/19933548/
+204|||深入理解C#（第2版）|||Jon Skeet|||https://book.douban.com/subject/7055340/
+205|||The Elements of Programming Style, 2nd Edition|||Brian W. Kernighan、P. J. Plauger|||https://book.douban.com/subject/1470267/
+206|||软件开发者路线图|||Dave H. Hoover、Adewale Oshineye|||https://book.douban.com/subject/4924164/
+207|||LUA程序设计(第2版)|||[巴西] 莱鲁|||https://book.douban.com/subject/3076942/
+208|||Linux程序设计|||Neil Matthew、Richard Stones|||https://book.douban.com/subject/4831448/
+209|||实战Java高并发程序设计|||葛一鸣、郭超|||https://book.douban.com/subject/26663605/
+210|||Elements of Programming Interviews|||Adnan Aziz、Tsung-Hsien Lee、Amit Prakash|||https://book.douban.com/subject/20962468/
+211|||算法设计与分析基础|||Anany levitin|||https://book.douban.com/subject/1968704/
+212|||Android开发精要|||范怀宇|||https://book.douban.com/subject/11530748/
+213|||Linux Shell脚本攻略|||(印)拉克什曼|||https://book.douban.com/subject/6889456/
+214|||正则表达式必知必会|||Ben Forta|||https://book.douban.com/subject/2269648/
+215|||Java性能优化权威指南|||Charlie Hunt、Binu John|||https://book.douban.com/subject/25828043/
+216|||C程序设计|||谭浩强|||https://book.douban.com/subject/1679623/
+217|||敏捷软件开发|||Robert C. Martin|||https://book.douban.com/subject/1140457/
+218|||精通JavaScript|||John Resig|||https://book.douban.com/subject/3007076/
+219|||Processing|||Casey Reas、Ben Fry|||https://book.douban.com/subject/2043236/
+220|||Python网络编程基础|||John Goerzen|||https://book.douban.com/subject/2152386/
+221|||Head First Servlets & JSP（中文版）|||（美）巴萨姆、（美）塞若、（美）贝茨|||https://book.douban.com/subject/1942934/
+222|||深入剖析Tomcat|||Budi Kurniawan、Paul Deck|||https://book.douban.com/subject/10426640/
+223|||Game Programming Patterns|||Robert Nystrom|||https://book.douban.com/subject/26266378/
+224|||C++编程思想（第1卷）|||[美] Bruce Eckel|||https://book.douban.com/subject/1101524/
+225|||计算机是怎样跑起来的|||[日] 矢泽久雄|||https://book.douban.com/subject/26397183/
+226|||疯狂Java讲义|||李刚|||https://book.douban.com/subject/3246499/
+227|||Node.js开发指南|||郭家寶（BYVoid）|||https://book.douban.com/subject/10789820/
+228|||算法精解|||Kyle Loudon|||https://book.douban.com/subject/14267904/
+229|||Debug Hacks中文版|||吉岡弘隆、大和一洋、大岩尚宏、安部東洋、吉田俊輔|||https://book.douban.com/subject/6799412/
+230|||Programming From The Ground Up|||Jonathan Bartlett|||https://book.douban.com/subject/1787855/
+231|||TCP/IP详解 卷2：实现|||史蒂文斯|||https://book.douban.com/subject/1087767/
+232|||LINUX系统编程|||Robert Love|||https://book.douban.com/subject/3907181/
+233|||Python灰帽子|||[美] Justin Seitz|||https://book.douban.com/subject/6025284/
+234|||Java 8函数式编程|||[英] Richard Warburton|||https://book.douban.com/subject/26346017/
+235|||Is Parallel Programming Hard, And, If So, What Can You Do About It?|||Paul E. McKenney|||https://book.douban.com/subject/6957175/
+236|||JAVASCRIPT权威指南(第四版)|||David Flanagan|||https://book.douban.com/subject/1232061/
+237|||Linux多线程服务端编程|||陈硕|||https://book.douban.com/subject/20471211/
+238|||Parsing Techniques|||Dick Grune、Ceriel J.H. Jacobs|||https://book.douban.com/subject/4291903/
+239|||我编程，我快乐|||[美] Chad Fowler|||https://book.douban.com/subject/4923179/
+240|||Node.js实战|||[美] Mike Cantelon、[美] TJ Holowaychuk、[美] Nathan Rajlich|||https://book.douban.com/subject/25870705/
+241|||时间触发嵌入式系统设计模式|||Michael J.Pont|||https://book.douban.com/subject/1168618/
+242|||深入PHP|||Matt Zandstra|||https://book.douban.com/subject/4746407/
+243|||基于MVC的JavaScript Web富应用开发|||麦卡劳(Alex MacCaw)|||https://book.douban.com/subject/10733304/
+244|||Java解惑|||布洛赫、加夫特|||https://book.douban.com/subject/1473329/
+245|||编程导论|||[美] John V. Guttag|||https://book.douban.com/subject/26368668/
+246|||Head First Object-Oriented Analysis and Design|||Brett D. McLaughlin、Gary Pollice、Dave West|||https://book.douban.com/subject/1761742/
+247|||Redis设计与实现|||黄健宏|||https://book.douban.com/subject/25900156/
+248|||Python编程实战|||[美] Mark Summerfield|||https://book.douban.com/subject/25955274/
+249|||Dive Into Python 3|||Mark Pilgrim|||https://book.douban.com/subject/3628911/
+250|||Effective STL中文版|||[美]Scott Meyers|||https://book.douban.com/subject/1792179/
+251|||Ruby编程语言|||David Flanagan、松本行弘|||https://book.douban.com/subject/3329887/
+252|||Windows 程序设计：第5版|||CharlesPetzold|||https://book.douban.com/subject/1088168/
+253|||Purely Functional Data Structures|||Chris Okasaki|||https://book.douban.com/subject/1755557/
+254|||计算机科学导论|||Behrouz A.Forouzan|||https://book.douban.com/subject/1142213/
+255|||实用Common Lisp编程|||Peter Seibel|||https://book.douban.com/subject/6859720/
+256|||写给大忙人看的Java SE 8|||【美】Cay S. Horstmann（凯.S.霍斯曼） 编|||https://book.douban.com/subject/26274206/
+257|||JAVA核心技术卷2|||Cay S. Horstmann、Gary Cornell|||https://book.douban.com/subject/3360866/
+258|||Learning Processing|||Daniel Shiffman|||https://book.douban.com/subject/3143256/
+259|||高性能MySQL（第二版）|||Baron Schwartz、Peter Zaitsev、Vadim Tkachenko、Jeremy D.Zawodny、Arjen Lent、Derek J.Ballin|||https://book.douban.com/subject/4241826/
+260|||ANSI Common Lisp|||Paul Graham|||https://book.douban.com/subject/1456906/
+261|||JavaScript & jQuery交互式Web前端开发|||[美]达克特(Duckett,J.)|||https://book.douban.com/subject/26433805/
+262|||Python高级编程|||Tarek Ziadé|||https://book.douban.com/subject/4212921/
+263|||编程的修炼（中英双语）|||[荷]Edsger W. Dijkstra|||https://book.douban.com/subject/24841112/
+264|||The Seasoned Schemer|||Daniel P. Friedman、Matthias Felleisen|||https://book.douban.com/subject/1726083/
+265|||Linux/Unix设计思想|||甘卡兹|||https://book.douban.com/subject/7564417/
+266|||可爱的Python|||哲思社区|||https://book.douban.com/subject/3884108/
+267|||Functional Programming in Scala|||Paul Chiusano、Rúnar Bjarnason|||https://book.douban.com/subject/20488750/
+268|||深入理解Android|||邓凡平|||https://book.douban.com/subject/6802440/
+269|||明解C语言|||柴田望洋|||https://book.douban.com/subject/23779374/
+270|||C++沉思录|||Andrew Koenig、Barbara Moo|||https://book.douban.com/subject/1102180/
+271|||Web全栈工程师的自我修养|||余果|||https://book.douban.com/subject/26598045/
+272|||UNIX编程环境|||Brian W.Kernighan、Rob Pike|||https://book.douban.com/subject/1033144/
+273|||The Definitive Guide to Django|||Adrian Holovaty、Jacob Kaplan-Moss|||https://book.douban.com/subject/1798896/
+274|||穿越计算机的迷雾|||李忠|||https://book.douban.com/subject/5432475/
+275|||格蠹汇编|||张银奎|||https://book.douban.com/subject/22994051/
+276|||C语言的科学和艺术|||罗伯茨|||https://book.douban.com/subject/1289136/
+277|||On LISP|||Paul Graham|||https://book.douban.com/subject/1432683/
+278|||CSS揭秘|||[希] Lea Verou|||https://book.douban.com/subject/26745943/
+279|||算法艺术与信息学竞赛|||刘汝佳|||https://book.douban.com/subject/1154204/
+280|||函数式编程思维|||[美] Neal Ford|||https://book.douban.com/subject/26587213/
+281|||写给大家看的算法书|||【日】杉浦 贤|||https://book.douban.com/subject/26821588/
+282|||The Algorithm Design Manual|||Steven S Skiena|||https://book.douban.com/subject/3072383/
+283|||Generative Design|||Harmut Mohnacker、Benedikt Gross、Julia Laub|||https://book.douban.com/subject/10804452/
+284|||From Mathematics to Generic Programming|||Alexander A. Stepanov、Daniel E. Rose|||https://book.douban.com/subject/25882201/
+285|||Perl语言入门|||Randal L.Schwartz、Tom Phoenix、brian d foy|||https://book.douban.com/subject/4088038/
+286|||Learn You a Haskell for Great Good!|||Miran Lipovaca|||https://book.douban.com/subject/4934481/
+287|||JavaScript面向对象精要|||Nicholas C. Zakas|||https://book.douban.com/subject/26352658/
+288|||Programming in Scala|||Martin Odersky、Lex Spoon、Bill Venners|||https://book.douban.com/subject/3338669/
+289|||算法竞赛入门经典|||刘汝佳、陈锋|||https://book.douban.com/subject/20254543/
+290|||Redis实战|||Josiah L. Carlson|||https://book.douban.com/subject/26612779/
+291|||视觉SLAM十四讲|||高翔、张涛、等|||https://book.douban.com/subject/27028215/
+292|||你必须知道的495个C语言问题|||Steve Summit|||https://book.douban.com/subject/3422332/
+293|||深入分析Java Web技术内幕（修订版）|||许令波|||https://book.douban.com/subject/25953851/
+294|||The Linux Command Line|||William E. Shotts Jr.|||https://book.douban.com/subject/6806862/
+295|||Programming Ruby中文版|||托马斯|||https://book.douban.com/subject/2032343/
+296|||Redis开发与运维|||付磊、张益军|||https://book.douban.com/subject/26971561/
+297|||Python Tutorial|||Guido Van Rossum、Fred L. Drake, Jr (editor)|||https://book.douban.com/subject/3142908/
+298|||JavaScript模式|||Stoyan Stefanov|||https://book.douban.com/subject/11506062/
+299|||Effective JavaScript|||赫尔曼 (David Herman)|||https://book.douban.com/subject/25786138/
+300|||自己动手写Docker|||陈显鹭、王炳燊、秦妤嘉|||https://book.douban.com/subject/27082348/
+301|||Java并发编程的艺术|||方腾飞、魏鹏、程晓明|||https://book.douban.com/subject/26591326/
+302|||统计思维：程序员数学之概率统计|||Allen B.Downey|||https://book.douban.com/subject/24381562/
+303|||Erlang 程序设计|||Armstrong|||https://book.douban.com/subject/3260311/
+304|||Land of Lisp|||Conrad Barski M.D.|||https://book.douban.com/subject/3704991/
+305|||编程大师访谈录|||Susan Lammers|||https://book.douban.com/subject/7007204/
+306|||Real World Haskell|||Bryan O'Sullivan、John Goerzen、Don Stewart|||https://book.douban.com/subject/3134515/
+307|||程序员必读之软件架构|||[英] Simon Brown|||https://book.douban.com/subject/26248182/
+308|||算法：C语言实现|||塞奇威克|||https://book.douban.com/subject/4065258/
+309|||Python金融大数据分析|||[德] 伊夫·希尔皮斯科|||https://book.douban.com/subject/26670241/
+310|||OpenGL编程指南（原书第7版）|||[美] Dave Shreiner|||https://book.douban.com/subject/4311129/
+311|||R for Data Science|||Hadley Wickham、Garrett Grolemund|||https://book.douban.com/subject/26757974/
+312|||趣学Python编程|||Jason Briggs|||https://book.douban.com/subject/25837145/
+313|||Python 3面向对象编程|||[加]Dusty Phillips（达斯帝•菲利普斯）|||https://book.douban.com/subject/26468916/
+314|||C++GUI Qt4编程|||Jasmin Blanchette、Mark Summerfield|||https://book.douban.com/subject/3173123/
+315|||Microsoft.NET框架程序设计|||Jeffrey Richter|||https://book.douban.com/subject/1141221/
+316|||编译器设计|||Keith Cooper、Linda Torczon|||https://book.douban.com/subject/20436488/
+317|||Python高手之路|||Julien Danjou|||https://book.douban.com/subject/26389274/
+318|||算法技术手册|||George T. Heineman、Gary Pollice、Stanley Selkow|||https://book.douban.com/subject/4317573/
+319|||软件框架设计的艺术|||[捷] Jaroslav Tulach|||https://book.douban.com/subject/6003832/
+320|||自制编译器|||[日] 青木峰郎|||https://book.douban.com/subject/26806041/
+321|||High Performance Python|||Micha Gorelick、Ian Ozsvald|||https://book.douban.com/subject/24641620/
+322|||C#图解教程|||索利斯|||https://book.douban.com/subject/3351935/
+323|||The AWK Programming Language|||Alfred V. Aho、Brian W. Kernighan、Peter J. Weinberger|||https://book.douban.com/subject/1876898/
+324|||高质量程序设计指南|||林锐、韩永泉|||https://book.douban.com/subject/2116929/
+325|||Kotlin实战|||【美】Dmitry Jemerov（德米特里·詹莫瑞福）、【美】 Svetlana Isakova（斯维特拉娜·伊凡诺沃）|||https://book.douban.com/subject/27093660/
+326|||七周七数据库|||[美]Eric Redmond|||https://book.douban.com/subject/24737847/
+327|||Android开发入门教程|||李雪飞、吴明晖|||https://book.douban.com/subject/5353163/
+328|||JavaScript编程全解|||［日］井上诚一郎、［日］土江拓郎、［日］滨边将太|||https://book.douban.com/subject/25767719/
+329|||互联网创业核心技术：构建可伸缩的web应用|||【美】Artur Ejsmont|||https://book.douban.com/subject/26906846/
+330|||啊哈C！思考快你一步|||啊哈磊|||https://book.douban.com/subject/25716079/
+331|||编程卓越之道|||Hyde R|||https://book.douban.com/subject/1760738/
+332|||深入浅出 MFC 第二版|||侯俊杰|||https://book.douban.com/subject/1482240/
+333|||通灵芯片|||Daniel Hillis|||https://book.douban.com/subject/3423021/
+334|||C++编程规范|||[美]Herb Sutter、[美]Andrei Alexandrescu|||https://book.douban.com/subject/1480481/
+335|||Go语言编程|||许式伟|||https://book.douban.com/subject/11577300/
+336|||MacTalk 人生元编程|||池建强|||https://book.douban.com/subject/25826578/
+337|||代码阅读方法与实践|||斯平内利斯|||https://book.douban.com/subject/1151672/
+338|||征服C指针|||前桥和弥|||https://book.douban.com/subject/21317828/
+339|||Web性能权威指南|||Ilya Grigorik|||https://book.douban.com/subject/25856314/
+340|||NoSQL精粹|||[美]Pramod J. Sadalage、[美]Martin Fowler|||https://book.douban.com/subject/25662138/
+341|||Objective-C基础教程|||Mark Dalrymple、Scott Knaster|||https://book.douban.com/subject/3864073/
+342|||Erlang/OTP并发编程实战|||[美] Martin Logan、[美] Eric Merritt、[瑞典] Richard Carlsson|||https://book.douban.com/subject/10863118/
+343|||Shell脚本学习指南|||Arnold Robbins、Nelson H.F.Beebe|||https://book.douban.com/subject/3519360/
+344|||游戏编程中的人工智能技术|||布克兰德|||https://book.douban.com/subject/1831698/
+345|||MATLAB实用教程|||穆尔(Holly Moore)|||https://book.douban.com/subject/4254318/
+346|||Ruby Under a Microscope|||Pat Shaughnessy|||https://book.douban.com/subject/24718740/
+347|||单元测试的艺术（第2版）|||[以] Roy Osherove|||https://book.douban.com/subject/25934516/
+348|||深入理解C++11|||Michael Wong、IBM XL编译器中国开发团队|||https://book.douban.com/subject/24738301/
+349|||Python入门经典|||(美)William F. Punch|||https://book.douban.com/subject/11610789/
+350|||MATLAB数值计算|||莫勒|||https://book.douban.com/subject/1836464/
+351|||Essential C++中文版|||[美] Stanley B. Lippman|||https://book.douban.com/subject/1215826/
+352|||C语言名题精选百则技巧篇|||冼镜光|||https://book.douban.com/subject/1400498/
+353|||Objective-C高级编程|||坂本一树 (Kazuki Sakamoto)、古本智彦 (Tomohiko Furumoto)|||https://book.douban.com/subject/24720270/
+354|||MATLAB编程|||查普曼|||https://book.douban.com/subject/1513863/
+355|||多处理器编程的艺术|||Maurice Herlihy、Nir Shavit|||https://book.douban.com/subject/3901836/
+356|||编程ING|||蔡学镛|||https://book.douban.com/subject/11442031/
+357|||Android应用性能优化|||[法] Hervé Guihot|||https://book.douban.com/subject/19976838/
+358|||垃圾收集|||琼斯|||https://book.douban.com/subject/1157908/
+359|||App研发录：架构设计、Crash分析和竞品技术分析|||包建强|||https://book.douban.com/subject/26649050/
+360|||操作系统真象还原|||郑钢|||https://book.douban.com/subject/26745156/
+361|||Head First JavaScript|||Michael Morrison|||https://book.douban.com/subject/2372267/
+362|||编程之道|||Geoffrey James|||https://book.douban.com/subject/1899158/
+363|||Python性能分析与优化|||Fernando Doglio|||https://book.douban.com/subject/26819420/
+364|||深入解析Windows操作系统|||（美）罗斯（Russinovich,M.E.）、（美）所罗门（Solomon,D.A.）|||https://book.douban.com/subject/2031396/
+365|||Let Over Lambda|||Doug Hoyte|||https://book.douban.com/subject/3864436/
+366|||软件调试的艺术|||Norman Matloff、Peter Jay Salzman|||https://book.douban.com/subject/4111413/
+367|||我的第一本编程书|||［日］平山尚|||https://book.douban.com/subject/26826545/
+368|||Java入门1•2•3|||臧萌|||https://book.douban.com/subject/4732242/
+369|||Processing互动编程艺术|||谭亮|||https://book.douban.com/subject/6517501/
+370|||Go Web编程|||谢孟军|||https://book.douban.com/subject/24316255/
+371|||Clojure编程|||Chas Emerick、Brian Carper、Christophe Grand|||https://book.douban.com/subject/21661495/
+372|||Two Scoops of Django|||Daniel Roy Greenfeld、Audrey Roy Greenfeld|||https://book.douban.com/subject/26578004/
+373|||计算机程序设计艺术（第2卷）|||Donald E. Knuth|||https://book.douban.com/subject/1231891/
+374|||The Swift Programming Language|||Apple Inc.|||https://book.douban.com/subject/25899841/
+375|||人月神话|||[美] 弗雷德里克·布鲁克斯|||https://book.douban.com/subject/1102259/
+376|||爱上Processing|||Gasey Reas & Ben Fry|||https://book.douban.com/subject/10599300/
+377|||图解密码技术|||[日] 结城浩|||https://book.douban.com/subject/26265544/
+378|||数据结构与算法：Python语言描述|||裘宗燕|||https://book.douban.com/subject/26702568/
+379|||程序设计抽象思想|||Eric S.Roberts、闪四清|||https://book.douban.com/subject/1391000/
+380|||Instructor's Manual t/a Structure and Interpretation of Computer Programs|||Gerald Jay Sussman|||https://book.douban.com/subject/1766670/
+381|||Python for Informatics|||Dr. Charles R Severance|||https://book.douban.com/subject/25892709/
+382|||HTTP Developer's Handbook|||Chris Shiflett|||https://book.douban.com/subject/2028747/
+383|||性能之巅|||Brendan Gregg|||https://book.douban.com/subject/26586598/
+384|||元素模式|||Jason McC. Smith|||https://book.douban.com/subject/25908396/
+385|||系统程序员成长计划|||李先静|||https://book.douban.com/subject/4722708/
+386|||Java程序员修炼之道|||[英] Benjamin J. Evans、[荷兰] Martijn Verburg|||https://book.douban.com/subject/24841235/
+387|||编程卓越之道|||海德|||https://book.douban.com/subject/2082177/
+388|||学习JavaScript数据结构与算法|||[巴西] 格罗纳（Loiane Groner）|||https://book.douban.com/subject/26639401/
+389|||迷茫的旅行商|||[美] William J. Cook|||https://book.douban.com/subject/25713498/
+390|||可视化数据|||弗莱|||https://book.douban.com/subject/3661214/
+391|||TCP/IP网络编程|||[韩] 尹圣雨|||https://book.douban.com/subject/25911735/
+392|||TCP/IP详解 卷1：协议|||W.Richard Stevens|||https://book.douban.com/subject/1088054/
+393|||Python参考手册（第4版）|||David M.Beazley|||https://book.douban.com/subject/5401851/
+394|||COM本质论|||[美] Don Box|||https://book.douban.com/subject/1231481/
+395|||Head First PHP & MySQL（中文版）|||Lynn Beighley、Michael Morrison|||https://book.douban.com/subject/6011680/
+396|||树莓派学习指南|||[英]Peter Membrey、[澳]David Hows|||https://book.douban.com/subject/25856712/
+397|||复杂性思考|||Allen B. Downey|||https://book.douban.com/subject/24530461/
+398|||数据科学中的R语言|||李舰、肖凯|||https://book.douban.com/subject/26576631/
+399|||算法引论|||[美]Udi Manber|||https://book.douban.com/subject/1436134/
+400|||Java并发编程|||(美)Doug Lea|||https://book.douban.com/subject/1244021/
+401|||ppk谈JavaScript|||Peter-Paul Koch|||https://book.douban.com/subject/3022779/
+402|||JavaScript异步编程|||Trevor Burnham|||https://book.douban.com/subject/24319975/
+403|||Python计算机视觉编程|||[瑞典] Jan Erik Solem|||https://book.douban.com/subject/25906843/
+404|||实现模式|||Kent Beck|||https://book.douban.com/subject/3324516/
+405|||算法帝国|||克里斯托弗•斯坦纳|||https://book.douban.com/subject/25854872/
+406|||Secrets of the JavaScript Ninja|||John Resig、Bear Bibeault|||https://book.douban.com/subject/3176860/
+407|||微服务设计|||[英] Sam Newman|||https://book.douban.com/subject/26772677/
+408|||Java JDK6学习笔记|||林信良|||https://book.douban.com/subject/2057790/
+409|||写给程序员的数据挖掘实践指南|||[美] Ron Zacharski|||https://book.douban.com/subject/26652166/
+410|||只是为了好玩|||Linus Torvalds、David Diamond|||https://book.douban.com/subject/25930025/
+411|||软技能|||John Sonmez|||https://book.douban.com/subject/26835090/
+412|||游戏开发的数学和物理|||［ 日］ 加藤洁|||https://book.douban.com/subject/26274169/
+413|||Spring源码深度解析|||郝佳|||https://book.douban.com/subject/25866350/
+414|||Java开发实战经典|||李兴华 编著|||https://book.douban.com/subject/3879823/
+415|||Java虚拟机精讲|||高翔龙|||https://book.douban.com/subject/26353219/
+416|||零基础学Minecraft编程|||Martin O''Hanlon、David Whale|||https://book.douban.com/subject/26613247/
+417|||算法I～IV（C++实现）――基础、数据结构、排序和搜索（第三版）|||Robert Sedgewick|||https://book.douban.com/subject/1143801/
+418|||分布式Java应用|||林昊|||https://book.douban.com/subject/4848587/
+419|||数据科学家养成手册|||高扬|||https://book.douban.com/subject/27034728/
+420|||Spring Boot实战|||[美]克雷格·沃斯|||https://book.douban.com/subject/26857423/
+421|||快学Scala|||[美] C. S. 霍斯曼|||https://book.douban.com/subject/19971952/
+422|||Node.js硬实战：115个核心技巧|||【美】Alex R. Young、【美】Marc Harter|||https://book.douban.com/subject/26937390/
+423|||游戏人工智能编程案例精粹|||巴克兰德 (Mat Buckland)|||https://book.douban.com/subject/3081930/
+424|||Head First C#|||Andrew Stellman、Jennifer Greene|||https://book.douban.com/subject/2335649/
+425|||Operating Systems|||Remzi Arpaci-Dusseau、Andrea Arpaci-Dusseau|||https://book.douban.com/subject/19973015/
+426|||改变未来的九大算法|||[美] 约翰.麦考密克|||https://book.douban.com/subject/24529132/
+427|||深入理解Android|||邓凡平|||https://book.douban.com/subject/11542973/
+428|||有趣的二进制|||［ 日］ 爱甲健二|||https://book.douban.com/subject/26640242/
+429|||编程匠艺|||（美）古德利弗（Goodliffe, P.）著|||https://book.douban.com/subject/3210669/
+430|||Autotools|||John Calcote|||https://book.douban.com/subject/3912140/
+431|||Producter 让产品从0到1|||周楷雯|||https://book.douban.com/subject/1172442/
+432|||Java Nio|||Ron Hitchens|||https://book.douban.com/subject/1433583/
+433|||SQL反模式|||[美] Bill Karwin|||https://book.douban.com/subject/6800774/
+434|||如何求解问题|||Zbigniew Michalewicz、David B.Fogel|||https://book.douban.com/subject/1232071/
+435|||Accelerated C++中文版|||Andrew Koenig、Barbara E.Moo|||https://book.douban.com/subject/1143879/
+436|||Python编程实践|||Jennifer Campbell、Paul Gries、Jason Montojo、Greg Wilson|||https://book.douban.com/subject/7059900/
+437|||设计模式之禅|||秦小波|||https://book.douban.com/subject/4260618/
+438|||理解专业程序员|||（美）杰拉尔德·温伯格（GeraldM.Weinberg）|||https://book.douban.com/subject/1866824/
+439|||泛型编程与STL|||Matthew H. Austern|||https://book.douban.com/subject/1241423/
+440|||PHP核心技术与最佳实践|||列旭松，陈文|||https://book.douban.com/subject/20370984/
+441|||Flash ActionScript 3殿堂之路|||孙颖|||https://book.douban.com/subject/2249511/
+442|||ES6 标准入门（第2版）|||阮一峰|||https://book.douban.com/subject/26708954/
+443|||揭秘Angular 2|||广发证券互联网金融技术团队|||https://book.douban.com/subject/26945538/
+444|||Java TCP/IP Socket编程|||Kenneth L. Calvert、Michael J. Donahoo|||https://book.douban.com/subject/3519369/
+445|||21天学通C语言|||Bradley L.Jones、Peter Aitken|||https://book.douban.com/subject/1247589/
+446|||大规模C++程序设计|||John Lakos|||https://book.douban.com/subject/1127940/
+447|||自制搜索引擎|||[日]山田浩之、[日]末永匡|||https://book.douban.com/subject/26681675/
+448|||UNIX网络编程 卷2|||W.Richard Stevens|||https://book.douban.com/subject/4118577/
+449|||Python数据可视化编程实战|||Igor Milovanovic|||https://book.douban.com/subject/26378430/
+450|||Python编程（第三版·英文影印版）|||Mark Lutz|||https://book.douban.com/subject/1915868/
+451|||SQL基础教程|||MICK|||https://book.douban.com/subject/24841239/
+452|||软件故事|||[美] 史蒂夫·洛尔|||https://book.douban.com/subject/25911182/
+453|||MATLAB在数学建模中的应用|||卓金武 编|||https://book.douban.com/subject/6052205/
+454|||程序设计导论|||罗伯特·塞奇威克 (Robert Sedgewick)、凯文·书恩 (Kevin Wayne)、罗伯特·唐德罗 (Robert Dondero)|||https://book.douban.com/subject/26927659/
+455|||Programming Rust|||Jim Blandy|||https://book.douban.com/subject/26616762/
+456|||Java Generics and Collections|||Naftalin、Philip Wadler|||https://book.douban.com/subject/2303830/
+457|||WINDOWS游戏编程大师技巧<第2版>(附光盘)|||Andre Lamothe|||https://book.douban.com/subject/1230286/
+458|||SQL入门经典|||[美]Paul Wilton、[美]John Colby|||https://book.douban.com/subject/1842622/
+459|||面向对象分析与设计|||Grady Booch、Robert A. Maksimchuk、Michael W. Engel、Bobbi J. Young、Jim Conallen、Kelli A. Houston|||https://book.douban.com/subject/3892590/
+460|||500 Lines or Less|||Amy Brown、Michael DiBernardo|||https://book.douban.com/subject/26836475/
+461|||Experiments with MATLAB （英文版）|||Cleve Moler|||https://book.douban.com/subject/25850519/
+462|||代码优化|||（美）Kris Kaspersky|||https://book.douban.com/subject/1193557/
+463|||Linux就是这个范儿|||[中] 赵鑫磊、[加] Jie Zhang（张洁）|||https://book.douban.com/subject/25918029/
+464|||MATLAB神经网络30个案例分析|||MATLAB中文论坛|||https://book.douban.com/subject/4816562/
+465|||jQuery|||Earle Castledine、Craig Sharkie|||https://book.douban.com/subject/4312737/
+466|||黑客攻防技术宝典|||Chris Anley、John Heasman、Felix Linder、Gerardo Richarte|||https://book.douban.com/subject/4225167/
+467|||凌波微步(软件开发警戒案例集)|||王咏刚、周虹|||https://book.douban.com/subject/1231984/
+468|||More Exceptional C++中文版|||[美] Herb Sutter|||https://book.douban.com/subject/1244943/
+469|||锋利的jQuery|||单东林、张晓菲、魏然|||https://book.douban.com/subject/3794471/
+470|||Exceptional C++中文版|||萨特 (Sutter Herb)|||https://book.douban.com/subject/1241386/
+471|||C#与.NET 3.5高级程序设计|||特罗尔森|||https://book.douban.com/subject/3563971/
+472|||测试驱动开发|||Kent Beck|||https://book.douban.com/subject/1230036/
+473|||Advance Bash-Scripting Guide|||Mendel Cooper|||https://book.douban.com/subject/3010746/
+474|||深入浅出SQL（中文版）|||贝里 编|||https://book.douban.com/subject/4024318/
+475|||疯狂Android讲义|||李刚|||https://book.douban.com/subject/6515839/
+476|||游戏编程全接触|||（美）Mike McShaffry|||https://book.douban.com/subject/1454723/
+477|||C#本质论|||米凯利斯|||https://book.douban.com/subject/5243513/
+478|||The Scheme Programming Language|||R. Kent Dybvig|||https://book.douban.com/subject/1726085/
+479|||C++大学教程|||[美]H.M.Deitel，|||https://book.douban.com/subject/2030264/
+480|||图形程序开发人员指南|||Michael Abrash|||https://book.douban.com/subject/1437108/
+481|||深度探索Linux操作系统|||王柏生|||https://book.douban.com/subject/25743846/
+482|||Data Structures and Algorithms in Python|||Michael T. Goodrich、Roberto Tamassia、Michael H. Goldwasser|||https://book.douban.com/subject/10607365/
+483|||Objective-C 2.0程序设计|||Stephen G. Kochan|||https://book.douban.com/subject/3948373/
+484|||零基础入门学习Python|||小甲鱼|||https://book.douban.com/subject/26966433/
+485|||C语言参考手册(原书第5版)|||Samuel P.Harbison、Guy L.Steele|||https://book.douban.com/subject/1134988/
+486|||C++反汇编与逆向分析技术揭秘|||钱林松、赵海旭|||https://book.douban.com/subject/6849800/
+487|||动手玩转Scratch2.0编程|||马吉德·马吉 (Majed Marji)|||https://book.douban.com/subject/26658602/
+488|||挑战程序设计竞赛2 算法和数据结构|||[日]渡部有隆|||https://book.douban.com/subject/26886659/
+489|||学习OpenCV（中文版）|||Gary Bradski、Adrian Kaehler|||https://book.douban.com/subject/4033320/
+490|||Redis入门指南|||李子骅|||https://book.douban.com/subject/24522045/
+491|||写给大家看的C语言书|||佩里(Greg Perry)|||https://book.douban.com/subject/4151159/
+492|||A Little Java, A Few Patterns|||Matthias Felleisen、Daniel P. Friedman|||https://book.douban.com/subject/2709130/
+493|||编译原理及实践|||Kenneth C.Louden|||https://book.douban.com/subject/1088057/
+494|||Linkers and Loaders|||John R. Levine|||https://book.douban.com/subject/1436811/
+495|||游戏编程入门|||莫里森|||https://book.douban.com/subject/1435936/
+496|||七周七语言（卷2）|||【美】Bruce A. Tate（泰特）、Fred Daoud（达乌德）、Ian Dees（迪斯）|||https://book.douban.com/subject/26921107/
+497|||Exceptional C++ Style中文版|||Herb Sutter|||https://book.douban.com/subject/1470842/
+498|||Git权威指南|||蒋鑫|||https://book.douban.com/subject/6526452/
+499|||机器学习实战|||Peter Harrington|||https://book.douban.com/subject/24703171/
+500|||打火机与公主裙·荒草园|||Twentine|||https://book.douban.com/subject/26978506/
+501|||Python高性能编程|||【美】 戈雷利克 （Micha Gorelick）、【美】 欧日沃尔德（Ian Ozsvald）|||https://book.douban.com/subject/27064848/
+502|||网络游戏核心技术与实战|||中嶋谦互|||https://book.douban.com/subject/25850090/
+503|||Java特种兵（上册）|||谢宇|||https://book.douban.com/subject/25959139/
+504|||Hadoop实战|||Chuck Lam|||https://book.douban.com/subject/6859710/
+505|||Linux程序设计|||马修|||https://book.douban.com/subject/2073826/
+506|||PHP与MySQL 5程序设计|||W.Jason Gilmore|||https://book.douban.com/subject/1958938/
+507|||DirectX 9.0 3D游戏开发编程基础|||Frank D.luna|||https://book.douban.com/subject/2111771/
+508|||Win32多线程程序设计|||[美] Jim Beveridge、Robert Wiener|||https://book.douban.com/subject/1231702/
+509|||Perl语言编程|||[美] Larry Wall、Tom Christiansen、Jon Orwant|||https://book.douban.com/subject/1231697/
+510|||算法问题实战策略|||[韩] 具宗万|||https://book.douban.com/subject/26315483/
+511|||Go 语言程序设计|||Mark Summerfield|||https://book.douban.com/subject/24869910/
+512|||CPU自制入门|||[日] 水头一寿、[日] 米泽辽、[日] 藤田裕士|||https://book.douban.com/subject/25780703/
+513|||PHP经典实例|||（美）斯克拉、（美）切贝特伯格|||https://book.douban.com/subject/4099306/
+514|||图解机器学习|||杉山将|||https://book.douban.com/subject/26363531/
+515|||贝叶斯思维|||[美]Allen B. Downey（艾伦·唐尼）|||https://book.douban.com/subject/26340992/
+516|||Servlet与JSP核心编程|||(美国)霍尔等著、赵学良译|||https://book.douban.com/subject/1173876/
+517|||Head First Programming|||David Griffiths、Paul Barry|||https://book.douban.com/subject/4149253/
+518|||游戏开发中的人工智能|||David M.Bourg、Glenn Seemann|||https://book.douban.com/subject/1899340/
+519|||量化金融R语言初级教程|||[匈牙利] Gergely Daróczi 盖尔盖伊 等|||https://book.douban.com/subject/27032519/
+520|||一路编程|||史蒂夫·富特 (Steven Foote)|||https://book.douban.com/subject/26937425/
+521|||Java Web高级编程|||威廉斯 (Nicholas S.Williams)|||https://book.douban.com/subject/26581686/
+522|||TensorFlow实战|||黄文坚、唐源|||https://book.douban.com/subject/26974266/
+523|||J2EE设计开发编程指南|||Rod Johnson|||https://book.douban.com/subject/1119852/
+524|||Ruby基础教程|||高桥征义、后藤裕藏|||https://book.douban.com/subject/25958845/
+525|||Head First Ajax（中文版）|||莱尔(Rebecca M.Riordan)、等|||https://book.douban.com/subject/3861113/
+526|||C语言核心技术|||Peter Prinz、Tony Crawford|||https://book.douban.com/subject/2226913/
+527|||高质量程序设计艺术|||斯皮内利斯|||https://book.douban.com/subject/2354769/
+528|||Windows高级调试|||Mario Hewardt、Daniel Pravat|||https://book.douban.com/subject/3781532/
+529|||数据结构与算法经典问题解析|||纳拉辛哈·卡鲁曼希|||https://book.douban.com/subject/26834485/
+530|||计算机程序设计艺术(第3卷)-排序和查找(英文影印版)|||（美）Donald E.Knuth|||https://book.douban.com/subject/1247361/
+531|||C程序设计语言|||Clovis L.Tondo、SCOTT E.GIMPEL|||https://book.douban.com/subject/1138919/
+532|||游戏编程精粹 1|||德洛拉（Mark A.Deloura）|||https://book.douban.com/subject/1231195/
+533|||ZooKeeper|||Flavio Junqueira、Benjamin Reed|||https://book.douban.com/subject/25765743/
+534|||Windows内核原理与实现|||潘爱民|||https://book.douban.com/subject/4719159/
+535|||C++程序设计教程|||钱能|||https://book.douban.com/subject/1444656/
+536|||程序员应该知道的97件事|||Kevlin Henney|||https://book.douban.com/subject/5263681/
+537|||Visual C++游戏编程基础|||荣钦科技|||https://book.douban.com/subject/1315057/
+538|||深入浅出WPF|||刘铁猛|||https://book.douban.com/subject/4935260/
+539|||PHP和MySQL Web应用开发核心技术|||温施耐德|||https://book.douban.com/subject/1824542/
+540|||jQuery 技术内幕|||高云|||https://book.douban.com/subject/25823709/
+541|||游戏脚本高级编程|||瓦兰尼斯 (Alex Varanese)|||https://book.douban.com/subject/1927405/
+542|||Java大学简明教程|||戴特尔|||https://book.douban.com/subject/1264692/
+543|||逆向工程权威指南|||Dennis Yurichev（丹尼斯）|||https://book.douban.com/subject/27011202/
+544|||数据结构|||霍罗威茨|||https://book.douban.com/subject/1886174/
+545|||程序员面试逻辑题解析|||萨沙|||https://book.douban.com/subject/20452340/
+546|||Programming in Lua, Fourth Edition|||Roberto Ierusalimschy|||https://book.douban.com/subject/26932940/
+547|||Java程序性能优化|||葛一鸣|||https://book.douban.com/subject/19969386/
+548|||Spring Microservices in Action|||John Carnell|||https://book.douban.com/subject/27005082/
+549|||重构|||Jay Fields、Shane Harvie、Martin Fowler|||https://book.douban.com/subject/4821286/
+550|||Practical Foundations for Programming Languages|||Robert Harper|||https://book.douban.com/subject/26782198/
+551|||MySQL技术内幕（第4版）|||[美] Paul DuBois|||https://book.douban.com/subject/6524185/
+552|||TCP/IP高效编程|||Jon C.Snader|||https://book.douban.com/subject/6058986/
+553|||Writing Efficient Programs|||Jon Louis Bentley|||https://book.douban.com/subject/1768600/
+554|||了不起的Node.js|||劳奇 (Guillermo Rauch)|||https://book.douban.com/subject/25767596/
+555|||Java性能权威指南|||奥克斯 (Scott Oaks)|||https://book.douban.com/subject/26740520/
+556|||从问题到程序|||裘宗燕|||https://book.douban.com/subject/1431996/
+557|||C语言从入门到精通|||王娣|||https://book.douban.com/subject/4910588/
+558|||理解Unix进程|||Jesse Storimer|||https://book.douban.com/subject/24298701/
+559|||Creative Code|||John Maeda|||https://book.douban.com/subject/1365710/
+560|||JavaEE开发的颠覆者|||汪云飞|||https://book.douban.com/subject/26762595/
+561|||x86/x64体系探索及编程|||邓志|||https://book.douban.com/subject/19963872/
+562|||程序员实用算法|||Andrew Binstock、John Rex|||https://book.douban.com/subject/3923731/
+563|||跟老齐学Python|||齐伟 编著|||https://book.douban.com/subject/26743627/
+564|||Python数据处理|||[美] 杰奎琳·凯泽尔凯瑟琳?贾缪尔|||https://book.douban.com/subject/27074608/
+565|||Programming Scala|||Dean Wampler、Alex Payne|||https://book.douban.com/subject/3756977/
+566|||ARM嵌入式系统开发|||斯洛斯|||https://book.douban.com/subject/1435663/
+567|||VC++深入详解|||孙鑫|||https://book.douban.com/subject/1835449/
+568|||程序员的修炼|||Jeff Atwood|||https://book.douban.com/subject/25880845/
+569|||Python编程入门（第3版）|||[加] Toby Donaldson|||https://book.douban.com/subject/25773122/
+570|||Pro Python|||Marty Alchin|||https://book.douban.com/subject/4249385/
+571|||POSIX多线程程序设计|||[美] David R.Buten|||https://book.douban.com/subject/1236825/
+572|||数据结构|||严蔚敏、吴伟民|||https://book.douban.com/subject/2024655/
+573|||An Elementary Introduction to the Wolfram Language|||Stephen Wolfram|||https://book.douban.com/subject/26682029/
+574|||设计模式解析|||ALAN SHALLOWAY、JAMES R.TROTT|||https://book.douban.com/subject/1850191/
+575|||C++高级编程|||索尔特|||https://book.douban.com/subject/1503810/
+576|||深入学习MongoDB|||Kristina Chodorow|||https://book.douban.com/subject/10439364/
+577|||程序开发心理学|||（美）杰拉尔德·温伯格|||https://book.douban.com/subject/1141154/
+578|||Confident Ruby|||Avdi Grimm|||https://book.douban.com/subject/25751838/
+579|||Python编程初学者指南|||[美]Michael Dawson|||https://book.douban.com/subject/26287445/
+580|||Joel说软件|||Joel Spolsky|||https://book.douban.com/subject/1426838/
+581|||Getting Started with Processing|||Casey Reas、Ben Fry|||https://book.douban.com/subject/4282585/
+582|||PHP 5权威编程|||(美)古曼兹等|||https://book.douban.com/subject/2981954/
+583|||Eloquent Ruby|||Russ Olsen|||https://book.douban.com/subject/6052175/
+584|||深入理解C指针|||[美] Richard Reese|||https://book.douban.com/subject/25827246/
+585|||C++模板元编程|||David Abrahams、Aleksey Gurtovoy|||https://book.douban.com/subject/4136223/
+586|||R语言初学者指南|||阿兰.F.祖尔|||https://book.douban.com/subject/6813329/
+587|||Lisp in Small Pieces|||Christian Queinnec|||https://book.douban.com/subject/1456904/
+588|||并行程序设计原理|||[美] Calvin Lin、[美] Lawrence Snyder|||https://book.douban.com/subject/3880304/
+589|||JAVASCRIPT语言精髓与编程实践|||周爱民|||https://book.douban.com/subject/3012828/
+590|||R Cookbook|||Paul Teetor|||https://book.douban.com/subject/6038927/
+591|||Software Foundations|||Benjamin C. Pierce|||https://book.douban.com/subject/25712292/
+592|||Why Programs Fail|||泽勒|||https://book.douban.com/subject/2036942/
+593|||算法之美|||左飞|||https://book.douban.com/subject/26713270/
+594|||Real World OCaml|||Jason Hickey、Anil Madhavapeddy、Yaron Minsky|||https://book.douban.com/subject/20264752/
+595|||软件开发沉思录|||ThoughtWorks|||https://book.douban.com/subject/4031959/
+596|||大型网站技术架构|||李智慧|||https://book.douban.com/subject/25723064/
+597|||x86汇编语言|||李忠、王晓波、余洁|||https://book.douban.com/subject/20492528/
+598|||R和Ruby数据分析之旅|||（新加坡） Sau Sheong Chang|||https://book.douban.com/subject/21372236/
+599|||Types and Programming Languages|||Benjamin C. Pierce|||https://book.douban.com/subject/1761910/
+600|||Struts2技术内幕|||陆舟|||https://book.douban.com/subject/7154446/
+601|||API Design for C++|||Martin Reddy|||https://book.douban.com/subject/6021272/
+602|||JavaScript面向对象编程指南（第2版）|||[加拿大] Stoyan Stefanov 斯托扬 著|||https://book.douban.com/subject/26302623/
+603|||Advanced R|||Hadley Wickham|||https://book.douban.com/subject/26155050/
+604|||简约之美|||[美] Max Kanat-Alexander|||https://book.douban.com/subject/20445258/
+605|||Java 8编程入门官方教程|||Herbert Schildt|||https://book.douban.com/subject/26320992/
+606|||Java面向对象编程|||孙卫琴|||https://book.douban.com/subject/1837608/
+607|||Linux命令、编辑器与Shell编程|||Mark G. Sobell|||https://book.douban.com/subject/2029866/
+608|||汇编语言|||Jeff Duntemann|||https://book.douban.com/subject/25837796/
+609|||计算机程序设计艺术：第4卷 第4册（双语版）|||Donald E.Knuth|||https://book.douban.com/subject/2057924/
+610|||深入React技术栈|||陈屹|||https://book.douban.com/subject/26918038/
+611|||深入理解OSGi|||周志明、谢小明|||https://book.douban.com/subject/21324330/
+612|||Python密码学编程|||【美】Al Sweigart|||https://book.douban.com/subject/26869300/
+613|||Laravel框架关键技术解析|||陈昊、陈远征、陶业荣|||https://book.douban.com/subject/26849801/
+614|||游戏开发物理学|||David M.Bourg|||https://book.douban.com/subject/1230037/
+615|||Invent Your Own Computer Games With Python|||Al Sweigart|||https://book.douban.com/subject/5363255/
+616|||细说PHP|||高洛峰|||https://book.douban.com/subject/4090200/
+617|||算法谜题|||Anany Levitin、Maria Levitin|||https://book.douban.com/subject/25805152/
+618|||日志管理与分析权威指南|||Anton A. Chuvakin、Kevin J. Schmidt、Christopher Phillips|||https://book.douban.com/subject/25920214/
+619|||黑客反汇编揭秘|||Kris Kaspersky、谭明金|||https://book.douban.com/subject/1218873/
+620|||Java语言程序设计基础篇|||梁|||https://book.douban.com/subject/1882459/
+621|||Real-World Machine Learning|||Henrik Brink、Joseph Richards、Mark Fetherolf|||https://book.douban.com/subject/26601155/
+622|||JavaScript DOM高级程序设计|||Jeffrey Sambells、Aaron Gustafson|||https://book.douban.com/subject/3082278/
+623|||Web开发秘方|||Brian P. Hogan、Chris Warren、Mike Weber、Chris Johnson、Aaron Godin|||https://book.douban.com/subject/24697944/
+624|||Python数据分析与挖掘实战|||张良均、王路、谭立云、苏剑林|||https://book.douban.com/subject/26677686/
+625|||SQL入门经典|||(美)斯蒂芬森|||https://book.douban.com/subject/6969714/
+626|||Ruby on Rails 3 Tutorial|||Michael Hartl|||https://book.douban.com/subject/5263109/
+627|||高级C/C++编译技术|||Milan Stevanovic|||https://book.douban.com/subject/26414485/
+628|||挑战编程|||斯基纳|||https://book.douban.com/subject/3879470/
+629|||Joel谈优秀软件开发方法|||Joel Spolsky|||https://book.douban.com/subject/2193777/
+630|||CJKV Information Processing|||Ken Lunde|||https://book.douban.com/subject/3404546/
+631|||Linux内核源代码情景分析（上册）|||毛德操、胡希明|||https://book.douban.com/subject/1231584/
+632|||Python Programming|||John M. Zelle|||https://book.douban.com/subject/2044249/
+633|||Imperfect C++中文版|||威尔逊|||https://book.douban.com/subject/1470838/
+634|||HotSpot实战|||陈涛|||https://book.douban.com/subject/25847620/
+635|||Practical Java中文版|||（美）Peter Haggar|||https://book.douban.com/subject/1243809/
+636|||黑客入门新手特训|||2008-7|||https://book.douban.com/subject/3164798/
+637|||代码之道|||Eric Brechner|||https://book.douban.com/subject/3259433/
+638|||The Little Prover|||Daniel P. Friedman、Carl Eastlund|||https://book.douban.com/subject/26429992/
+639|||Java数据结构和算法|||拉佛|||https://book.douban.com/subject/1144007/
+640|||The Hitchhiker's Guide to Python|||Kenneth Reitz、Tanya Schlusser|||https://book.douban.com/subject/26791779/
+641|||Linux内核完全注释|||赵炯|||https://book.douban.com/subject/1231236/
+642|||jQuery实战|||Bear Bibeault、Yehuda Katz|||https://book.douban.com/subject/3446112/
+643|||Scala程序设计|||[美]Venkat Subramaniam|||https://book.douban.com/subject/4909629/
+644|||C#入门经典|||[美] Karli Watson、Christian Nagel|||https://book.douban.com/subject/1793123/
+645|||Linux环境编程：从应用到内核|||高峰|||https://book.douban.com/subject/26820213/
+646|||iPhone开发基础教程|||Dave Mark、Jeff LaMarche|||https://book.douban.com/subject/3604295/
+647|||软件开发本质论|||Ron Jeffries|||https://book.douban.com/subject/26928913/
+648|||并行程序设计导论|||Peter Pacheco|||https://book.douban.com/subject/20374756/
+649|||The Little MLer|||Matthias Felleisen、Daniel P. Friedman、Duane Bibby、Robin Milner|||https://book.douban.com/subject/2294397/
+650|||实现领域驱动设计|||Vaughn Vernon|||https://book.douban.com/subject/25844633/
+651|||iOS开发指南|||关东升|||https://book.douban.com/subject/24846574/
+652|||Docker源码分析|||孙宏亮|||https://book.douban.com/subject/26581184/
+653|||七周七Web开发框架|||Jack Moffitt、Fred Daoud|||https://book.douban.com/subject/26583236/
+654|||编写高质量代码|||秦小波|||https://book.douban.com/subject/7059903/
+655|||MATLAB for Neuroscientists|||Pascal Wallisch、Michael Lusignan、Marc Benayoun、Tanya I. Baker、Adam Seth Dickey、Nicho Hatsopoulos|||https://book.douban.com/subject/3687859/
+656|||UNIX操作系统设计|||Maurice J.Bach|||https://book.douban.com/subject/1035710/
+657|||C++ Primer习题集（第5版）|||【美】Stanley B. Lippman( 斯坦利 李普曼)、【美】Barbara E. Moo (芭芭拉 默) 著、【美】Josee Lajoie(约瑟 拉乔伊 )|||https://book.douban.com/subject/26308738/
+658|||ACM-ICPC世界总决赛试题解析|||吴永辉、王建德|||https://book.douban.com/subject/11523293/
+659|||Python Web开发：测试驱动方法|||Harry J.W. Percival|||https://book.douban.com/subject/26640135/
+660|||Python 编程金典|||P.J.Deitel、J.P.Liperi、B.A.Wiedermann、H.M.Deitel|||https://book.douban.com/subject/1214355/
+661|||高性能网站建设指南|||Steve Souders|||https://book.douban.com/subject/3132277/
+662|||OpenCV3编程入门|||毛星云|||https://book.douban.com/subject/26320896/
+663|||xUnit Test Patterns|||Gerard Meszaros|||https://book.douban.com/subject/1859393/
+664|||像程序员一样思考|||V. Anton Spraul|||https://book.douban.com/subject/24733747/
+665|||Bootstrap实战|||[美] David Cochran、[美] Ian Whitley|||https://book.douban.com/subject/26376363/
+666|||Boost程序库完全开发指南|||罗剑锋|||https://book.douban.com/subject/5276434/
+667|||Linux高性能服务器编程|||游双|||https://book.douban.com/subject/24722611/
+668|||重构与模式|||[美]Joshua Kerievsky|||https://book.douban.com/subject/1917706/
+669|||Ceph源码分析|||常涛|||https://book.douban.com/subject/26914637/
+670|||Windows编程启示录|||Raymond Chen|||https://book.douban.com/subject/2160753/
+671|||JavaScript面向对象编程指南|||斯托扬|||https://book.douban.com/subject/21372235/
+672|||Java网络编程(中文版 第三版)(O＇Reilly Java系列)|||（美）Elliotte Rusty Harold|||https://book.douban.com/subject/1438754/
+673|||精通MATLAB R2011a|||张志涌 等|||https://book.douban.com/subject/7046813/
+674|||HTML & CSS设计与构建网站|||[美] Jon Duckett|||https://book.douban.com/subject/21338365/
+675|||研磨设计模式|||陈臣、王斌|||https://book.douban.com/subject/5343318/
+676|||Object-Oriented Programming With ANSI-C|||Axel-Tobias Schreiner|||https://book.douban.com/subject/2237446/
+677|||设计模式|||王翔|||https://book.douban.com/subject/3288728/
+678|||Web编程入门经典|||达科特 (Jon Duckett)|||https://book.douban.com/subject/4287404/
+679|||PHP程序设计|||勒道夫|||https://book.douban.com/subject/2071057/
+680|||前端函数式攻城指南|||欧阳继超|||https://book.douban.com/subject/26883736/
+681|||Python UNIX和Linux系统管理指南|||基弗特 (Gift, Noab)、琼斯 (Jones, Jeremy M.)|||https://book.douban.com/subject/4031965/
+682|||软件工程的事实与谬误|||[美] Robert L. Glass|||https://book.douban.com/subject/1723351/
+683|||The Way To Go|||Ivo Balbaert|||https://book.douban.com/subject/10558892/
+684|||揭秘Java虚拟机|||封亚飞|||https://book.douban.com/subject/27086821/
+685|||Linux内核设计与实现|||拉芙|||https://book.douban.com/subject/1503819/
+686|||Common Lisp|||David S. Touretzky|||https://book.douban.com/subject/2267922/
+687|||嵌入式Linux应用开发完全手册|||韦东山 主编|||https://book.douban.com/subject/3152027/
+688|||C++程序设计|||谭浩强|||https://book.douban.com/subject/1174290/
+689|||GitHub实践|||[美] Chris Dawson、[美] Ben Straub|||https://book.douban.com/subject/26915435/
+690|||Scratch少儿趣味编程|||［ 日］ 阿部和广|||https://book.douban.com/subject/26148626/
+691|||Python极客项目编程|||Mahesh Venkitachalam|||https://book.douban.com/subject/27050630/
+692|||C++语言99个常见编程错误|||Stephen C. Dewhurst|||https://book.douban.com/subject/3767699/
+693|||The iOS Apprentice|||Matthijs Hollemans|||https://book.douban.com/subject/26287363/
+694|||你必须知道的.NET|||王涛|||https://book.douban.com/subject/3033296/
+695|||Python数据科学指南|||印度 Gopi Subramanian 萨伯拉曼尼安|||https://book.douban.com/subject/26920856/
+696|||.NET设计规范|||克瓦林纳|||https://book.douban.com/subject/1829262/
+697|||Go并发编程实战（第2版）|||郝　林|||https://book.douban.com/subject/27016236/
+698|||GNU Make项目管理（第三版）|||(美)Robert Mecklenburg|||https://book.douban.com/subject/1845284/
+699|||Swifter|||王巍 著|||https://book.douban.com/subject/26386453/
+700|||数据库系统实现|||加西亚-莫利纳(Hector Garcia-Molina)、Jeffrey D.Ullman、Jennifer Widom|||https://book.douban.com/subject/4838430/
+701|||C# 5.0 in a Nutshell|||Joseph Albahari、Ben Albahari|||https://book.douban.com/subject/10851324/
+702|||全栈应用开发：精益实践|||黄峰达|||https://book.douban.com/subject/27044427/
+703|||Extending and Embedding PHP|||Sara Golemon|||https://book.douban.com/subject/1922702/
+704|||Android基础教程|||[美] Ed Burnette|||https://book.douban.com/subject/4111350/
+705|||Java设计模式|||[美]梅特斯克（Metsker,S.J.）、[美]维克（Wake,W.J.）|||https://book.douban.com/subject/11629400/
+706|||Google Android开发入门指南|||王世江|||https://book.douban.com/subject/4127895/
+707|||Open Data Structures|||Pat Morin|||https://book.douban.com/subject/24675344/
+708|||提高C++性能的编程技术|||(美)Dov Bulka（多夫.布尔卡）    David Mayhew（大卫.梅休）|||https://book.douban.com/subject/6027262/
+709|||我和LabVIEW|||阮奇桢|||https://book.douban.com/subject/4037097/
+710|||Qt高级编程|||(英)萨默菲尔德|译者:白建平|||https://book.douban.com/subject/6110217/
+711|||Head First Android Development|||Jonathan Simon|||https://book.douban.com/subject/6530430/
+712|||优秀的叛逆者|||[美] Lois Kelly Carmen Medina、[美] Carmen Medina|||https://book.douban.com/subject/26576733/
+713|||智能Web算法|||Haralambos Marmanis、Dmitry Babenko|||https://book.douban.com/subject/6545083/
+714|||Advanced Linux Programming|||CodeSourcery LLC、Mark L. Mitchell、Alex Samuel、Jeffrey Oldham|||https://book.douban.com/subject/3008512/
+715|||人人都是架构师：分布式系统架构落地与瓶颈突破|||高翔龙|||https://book.douban.com/subject/27034726/
+716|||柔性字符串匹配|||纳瓦罗|||https://book.douban.com/subject/2038862/
+717|||Java程序设计语言|||[美] Ken Arnold, James Gosling, David Holmes|||https://book.douban.com/subject/1908274/
+718|||精通shell编程|||韦拉拉格温(Veeraraghavan Sriranga)|||https://book.douban.com/subject/1247542/
+719|||Java|||Herbert Schildt|||https://book.douban.com/subject/24132329/
+720|||OpenCV 2 Computer Vision Application Programming Cookbook|||Robert Laganière|||https://book.douban.com/subject/6521022/
+721|||MATLAB高效编程技巧与应用|||吴鹏|||https://book.douban.com/subject/4865667/
+722|||C#高级编程(第4版)|||Christian Nagel Bill Evjen Jay Glynn等|||https://book.douban.com/subject/1919816/
+723|||Android的设计与实现|||杨云君|||https://book.douban.com/subject/24380600/
+724|||Raspberry Pi Python编程入门|||Simon Monk|||https://book.douban.com/subject/25812006/
+725|||精通脚本黑客|||曾云好|||https://book.douban.com/subject/2112672/
+726|||expert one-on-one J2EE Development without EJB 中文版|||[美] Rod Johnson、Juergen Hoeller|||https://book.douban.com/subject/1436131/
+727|||写给大忙人看的Java核心技术|||【美】Cay S. Horstmann（凯.S.霍斯特曼） 著|||https://book.douban.com/subject/26710388/
+728|||程序设计语言原理|||（美）賽巴斯塔（Sebesta，R.W.）|||https://book.douban.com/subject/3119946/
+729|||80X86汇编语言程序设计教程|||杨季文|||https://book.douban.com/subject/1080511/
+730|||RESTful Web APIs中文版|||[美] Leonard Richardson、Mike Amundsen|||https://book.douban.com/subject/25909247/
+731|||Advanced Swift|||Chris Eidhof、Airspeed Velocity|||https://book.douban.com/subject/26763316/
+732|||PHP高级程序设计|||Kevin McArthur|||https://book.douban.com/subject/3765462/
+733|||Clojure for the Brave and True|||Daniel Higginbotham|||https://book.douban.com/subject/26363669/
+734|||Java语言程序设计|||（美）  Y. Daniel Liang|||https://book.douban.com/subject/6529835/
+735|||Designing Data-Intensive Applications|||Martin Kleppmann|||https://book.douban.com/subject/26197294/
+736|||MongoDB实战|||[美] Kyle Banker|||https://book.douban.com/subject/19977785/
+737|||一个程序员的奋斗史|||莫雨|||https://book.douban.com/subject/24696924/
+738|||CSS3实用指南|||吉伦瓦特|||https://book.douban.com/subject/10482084/
+739|||XSS跨站脚本攻击剖析与防御|||邱永华|||https://book.douban.com/subject/25711796/
+740|||大型网站系统与Java中间件开发实践|||曾宪杰|||https://book.douban.com/subject/25867042/
+741|||Google API大全|||《Google API大全》编委会 编|||https://book.douban.com/subject/3764948/
+742|||The Joy of Clojure|||Michael Fogus、Chris Houser|||https://book.douban.com/subject/4743790/
+743|||JavaScript启示录|||Cody Lindley|||https://book.douban.com/subject/25837367/
+744|||Intel汇编语言程序设计|||Kip Irvine|||https://book.douban.com/subject/2250326/
+745|||JAVA多线程设计模式|||结城 浩、博硕文化|||https://book.douban.com/subject/1281934/
+746|||软件设计重构|||[印度] Girish Suryanarayana、[印度] Ganesh Samarthyam、[印度] Tushar Sharma|||https://book.douban.com/subject/26854236/
+747|||Android 4高级编程|||(美)迈耶(Meier, R.) 著|||https://book.douban.com/subject/24153574/
+748|||Windows图形编程|||Feng Yuan、英宇工作室|||https://book.douban.com/subject/1231794/
+749|||UNIX系统编程|||罗宾斯|||https://book.douban.com/subject/1314538/
+750|||编译系统透视|||新设计团队|||https://book.douban.com/subject/26762311/
+751|||程序员面试攻略|||蒙干|||https://book.douban.com/subject/2348812/
+752|||LabVIEW大学实用教程|||Jeffrey Travis、Jim Kring|||https://book.douban.com/subject/3117645/
+753|||COM技术内幕-微软组件对象模型|||(美)Dale Rogerson|||https://book.douban.com/subject/1231596/
+754|||Programming Python|||Mark Lutz|||https://book.douban.com/subject/1797513/
+755|||零基础学C语言|||康莉|||https://book.douban.com/subject/3729201/
+756|||深入理解Bootstrap|||徐涛|||https://book.douban.com/subject/25886197/
+757|||逆袭大学|||贺利坚|||https://book.douban.com/subject/25837646/
+758|||Docker 技术入门与实战|||杨保华、戴王剑、曹亚仑|||https://book.douban.com/subject/26284823/
+759|||天书夜读|||谭文、邵坚磊|||https://book.douban.com/subject/3246500/
+760|||短码之美|||Ozy (著), やねうらお (監修)|||https://book.douban.com/subject/5416095/
+761|||写给大家看的面向对象编程书|||Matt Weisfeld|||https://book.douban.com/subject/3644725/
+762|||C++Templates中文版|||David Vandevoorde、Nicolai M.Josuttis|||https://book.douban.com/subject/2378124/
+763|||多核应用编程实战|||[美] Darryl Gove|||https://book.douban.com/subject/24530911/
+764|||sed与awk|||（美）多尔蒂、（美）罗宾斯|||https://book.douban.com/subject/1236944/
+765|||恶意代码分析实战|||Michael Sikorski、Andrew Honig|||https://book.douban.com/subject/25868289/
+766|||Java从入门到精通|||李钟尉、马文强、陈丹丹|||https://book.douban.com/subject/3181249/
+767|||Arduino从基础到实践|||米歇尔·麦克罗伯茨|||https://book.douban.com/subject/24089576/
+768|||Java消息服务|||Mark Richards、Richard Monson-Haefel、David A.Chappell|||https://book.douban.com/subject/4210586/
+769|||Python自然语言处理|||(英)伯德、(英)克莱因、(美)洛普|||https://book.douban.com/subject/5336893/
+770|||Effective C# 中文版|||Bill Wagner|||https://book.douban.com/subject/2054931/
+771|||第一本Docker书|||[澳]詹姆斯•特恩布尔（James Turnbull）|||https://book.douban.com/subject/26285268/
+772|||Introduction to Programming in Java|||Robert Sedgewick、Kevin Wayne|||https://book.douban.com/subject/3152176/
+773|||Node.js 实战|||赵坤、寸志、雷宗民、吴中骅|||https://book.douban.com/subject/25867920/
+774|||嵌入式系统开发之道|||2011-12|||https://book.douban.com/subject/6989995/
+775|||数值方法和MATLAB实现与应用|||拉克唐瓦尔德|||https://book.douban.com/subject/1184779/
+776|||ML程序设计教程|||保罗森|||https://book.douban.com/subject/1316040/
+777|||Oracle SQL高级编程|||[美] Karen Morton、Kerry Osborne、Robyn Sands、Riyaj Shamsudeen、Jared Still|||https://book.douban.com/subject/6903022/
+778|||编码整洁之道|||罗伯特·C.马丁|||https://book.douban.com/subject/11602008/
+779|||打造高质量Android应用|||Carlos Sessa|||https://book.douban.com/subject/25866305/
+780|||Effective Java（第2版）英文版|||【美】Joshua Bloch（约书亚·布洛赫）|||https://book.douban.com/subject/26771021/
+781|||自己动手写网络爬虫|||罗刚、王振东|||https://book.douban.com/subject/5338398/
+782|||SQLite权威指南|||Grant Allen、Mike Owens|||https://book.douban.com/subject/7061934/
+783|||Go并发编程实战|||郝林|||https://book.douban.com/subject/26244729/
+784|||Rapid GUI Programming with Python and Qt|||Mark Summerfield|||https://book.douban.com/subject/3053232/
+785|||计算机组成（第 6 版）|||Andrew S. Tanenbaum、Todd Austin|||https://book.douban.com/subject/25982323/
+786|||深入理解Scala|||[美] Joshua D. Suereth 苏瑞茨 著|||https://book.douban.com/subject/26302645/
+787|||Linux从入门到精通|||刘忆智、等|||https://book.douban.com/subject/4189498/
+788|||软件调试实战|||Thorsten Grotker、Ulrich Holtmann、Holger Keding、Markus Wloka|||https://book.douban.com/subject/4231293/
+789|||C语言点滴|||赵岩|||https://book.douban.com/subject/25743022/
+790|||Real-Time Rendering, Third Edition|||Tomas Akenine-Moller、Eric Haines、Naty Hoffman|||https://book.douban.com/subject/3213439/
+791|||C现代编程|||[日] 花井志生|||https://book.douban.com/subject/26756137/
+792|||Introduction to Tornado|||Michael Dory、Adam Parrish、Brendan Berg|||https://book.douban.com/subject/7906788/
+793|||程序员之禅|||[德] Christian Grobmeier|||https://book.douban.com/subject/26602146/
+794|||Programming Python|||Mark Lutz|||https://book.douban.com/subject/4893005/
+795|||零基础学Python|||张志强、赵越|||https://book.douban.com/subject/26414709/
+796|||自己动手写Java虚拟机|||张秀宏|||https://book.douban.com/subject/26802084/
+797|||C语言解惑|||Alan R.Feuer|||https://book.douban.com/subject/2075755/
+798|||An Introduction to GCC|||Brian J. Gough、Richard M. Stallman|||https://book.douban.com/subject/1787854/
+799|||WPF编程宝典|||麦克唐纳|||https://book.douban.com/subject/3988968/
+800|||3D游戏编程大师技巧|||[美] 拉莫泽|||https://book.douban.com/subject/1321769/
+801|||Automated Data Collection with R|||Simon Munzert、Christian Rubba、Peter Meißner、Dominic Nyhuis|||https://book.douban.com/subject/26319965/
+802|||软件测试的艺术|||梅尔斯|||https://book.douban.com/subject/1445661/
+803|||卓越程序员密码|||[美] Ka Wai Cheung|||https://book.douban.com/subject/20256291/
+804|||网络是怎样连接的|||[日]户根勤|||https://book.douban.com/subject/26941639/
+805|||PLC教程|||皮特鲁泽拉|||https://book.douban.com/subject/2062306/
+806|||Google Android开发入门与实战|||姚尚朗、靳岩|||https://book.douban.com/subject/3770255/
+807|||Flash ActionScript 3.0 动画高级教程|||Keith Peters|||https://book.douban.com/subject/4175538/
+808|||Java Web整合开发王者归来|||刘京华|||https://book.douban.com/subject/4189495/
+809|||AngularJS深度剖析与最佳实践|||雪狼、破狼、彭洪伟|||https://book.douban.com/subject/26708133/
+810|||Android编程实战|||赫尔曼 (Erik Hellman)|||https://book.douban.com/subject/25911738/
+811|||实用算法的分析与程序设计|||吴文虎 王建德|||https://book.douban.com/subject/1231696/
+812|||Spark技术内幕|||张安站|||https://book.douban.com/subject/26649141/
+813|||多核计算与程序设计|||周伟明|||https://book.douban.com/subject/3624015/
+814|||操作系统|||William Stallings|||https://book.douban.com/subject/5064311/
+815|||Coding the Matrix|||Philip N. Klein|||https://book.douban.com/subject/24873557/
+816|||Python for Kids|||Jason R. Briggs|||https://book.douban.com/subject/6962113/
+817|||Unity 5实战|||Joseph Hocking|||https://book.douban.com/subject/26877872/
+818|||Intermediate Perl|||Randal L. Schwartz、Tom Phoenix、brian d foy|||https://book.douban.com/subject/1756393/
+819|||程序员的数学思维修炼（趣味解读）|||周颖|||https://book.douban.com/subject/25854719/
+820|||寒江独钓|||谭文、杨潇、邵坚磊 著|||https://book.douban.com/subject/3769383/
+821|||漫画数据库|||[日] 高桥麻奈 著、[日] あづま笙子 漫画绘制、[日] 株式会社TREND-PRO 漫画制作|||https://book.douban.com/subject/4829597/
+822|||Python Algorithms|||Magnus Lie Hetland|||https://book.douban.com/subject/4915945/
+823|||大道至简|||周爱民|||https://book.douban.com/subject/2046281/
+824|||软件调试修炼之道|||Paul Butcher|||https://book.douban.com/subject/6398127/
+825|||Java程序员，上班那点事儿|||钟声|||https://book.douban.com/subject/3845030/
+826|||学习bash|||Cameron Newham、Bill Rosenblatt|||https://book.douban.com/subject/1241361/
+827|||Processing互动编程|||科学出版社有限责任公司|||https://book.douban.com/subject/26289061/
+828|||iPhone开发秘籍 （第2版）|||[美] Erica Sadun|||https://book.douban.com/subject/5338025/
+829|||Introducing Ethereum and Solidity|||Chris Dannen|||https://book.douban.com/subject/27011831/
+830|||Learn Windows PowerShell in a Month of Lunches|||Don Jones、Jeffery Hicks|||https://book.douban.com/subject/17709826/
+831|||用AngularJS开发下一代Web应用|||[美] Brad Green、Sbyam Seshadri|||https://book.douban.com/subject/25752512/
+832|||设计原本|||弗雷德里克·布鲁克斯|||https://book.douban.com/subject/11874743/
+833|||挑战编程技能|||Brian P. Hogan|||https://book.douban.com/subject/26958328/
+834|||UML和模式应用|||拉曼|||https://book.douban.com/subject/1792387/
+835|||写给大家看的C++书|||Larry Ullman、Andreas Signer|||https://book.douban.com/subject/3765227/
+836|||精通Android游戏开发|||[美] Vladimir Silva|||https://book.douban.com/subject/5908849/
+837|||The Architecture Of Open Source Applications, Vol. 2|||Amy Brown|||https://book.douban.com/subject/10801399/
+838|||世界大学生程序设计竞赛|||吴文虎、王建德|||https://book.douban.com/subject/3905078/
+839|||程序语言的奥妙|||杉浦贤|||https://book.douban.com/subject/10798975/
+840|||ASP.NET 4高级程序设计（第4版）|||Matthew MacDonald|||https://book.douban.com/subject/6428937/
+841|||学习敏捷|||[美] Andrew Stellman、[美] Jennifer Greene|||https://book.douban.com/subject/26979886/
+842|||真实世界的Python仪器监控|||约翰·休斯|||https://book.douban.com/subject/20773481/
+843|||GPU高性能编程CUDA实战|||Jason Sanders、Edward Kandrot|||https://book.douban.com/subject/5917267/
+844|||MATLAB智能算法30个案例分析|||史峰、王辉、胡斐、郁磊|||https://book.douban.com/subject/6793652/
+845|||Excel VBA程序开发自学宝典|||罗刚君|||https://book.douban.com/subject/6787104/
+846|||架构之美|||Till Adam|||https://book.douban.com/subject/4086029/
+847|||Unity3D手机游戏开发|||金玺曾|||https://book.douban.com/subject/25704613/
+848|||Linux内核源代码情景分析（下册）|||毛德操、胡希明|||https://book.douban.com/subject/1240321/
+849|||深入理解ES6|||【美】Nicholas C. Zakas|||https://book.douban.com/subject/27072230/
+850|||Scala Cookbook|||Alvin Alexander|||https://book.douban.com/subject/20876182/
+851|||Erlang趣学指南|||邓辉、孙鸣|||https://book.douban.com/subject/26868859/
+852|||Node.js权威指南|||陆凌牛|||https://book.douban.com/subject/25892704/
+853|||Tomcat与Java Web开发技术详解|||孙卫琴|||https://book.douban.com/subject/1152116/
+854|||Getting Real|||Ph.D. Susan Campbell|||https://book.douban.com/subject/1507419/
+855|||计算机图形学|||（美）赫恩（Donald Hearn）、（美）M.Pauline Baker|||https://book.douban.com/subject/1392483/
+856|||R的极客理想|||张丹|||https://book.douban.com/subject/25962666/
+857|||数据结构与算法JavaScript描述|||[美] Michael McMillan|||https://book.douban.com/subject/25945449/
+858|||JavaScript核心概念及实践|||邱俊涛|||https://book.douban.com/subject/24165880/
+859|||精通C#（第6版）|||[美] Andrew Troelsen|||https://book.douban.com/subject/24827879/
+860|||Erlang编程指南|||Francesco Cesarini、Simon Thompson|||https://book.douban.com/subject/4934648/
+861|||51单片机应用从零开始|||杨欣、王玉凤、刘湘黔|||https://book.douban.com/subject/2380863/
+862|||Visual C# 2010从入门到精通|||夏普(John Sharp)|||https://book.douban.com/subject/4924166/
+863|||Python 3程序开发指南|||（美）萨默菲尔德|||https://book.douban.com/subject/5924860/
+864|||数据库系统概念|||Abraham Silberschatz、Henry F. Korth、S. Sudarshan|||https://book.douban.com/subject/1929984/
+865|||LINUX与UNIX Shell编程指南|||[美] （D.坦思|||https://book.douban.com/subject/1231821/
+866|||C程序设计教程|||迪特尔|||https://book.douban.com/subject/1217343/
+867|||C语言深度解剖|||2010-7|||https://book.douban.com/subject/4924419/
+868|||C++数据结构与算法|||[美]乔兹德克(Adam Drozdek)|||https://book.douban.com/subject/26674051/
+869|||Learning Android|||Marko Gargenta|||https://book.douban.com/subject/5951422/
+870|||莱昂氏UNIX源代码分析|||(澳)John Lions|||https://book.douban.com/subject/1231822/
+871|||Python数据挖掘入门与实践|||[澳] Robert Layton|||https://book.douban.com/subject/26826540/
+872|||精通JavaScript（第2版）|||[美] John Resig、[美] John Paxton、[美] Russ Ferguson|||https://book.douban.com/subject/26869224/
+873|||React Native开发指南|||[美]艾森曼|||https://book.douban.com/subject/26821262/
+874|||Oracle 9i & 10g编程艺术|||Thomas Kyte|||https://book.douban.com/subject/1864527/
+875|||游戏编程算法与技巧|||【美】Sanjay Madhav|||https://book.douban.com/subject/26906838/
+876|||现代编译原理|||(美)安佩尔|||https://book.douban.com/subject/1806974/
+877|||编写安全的代码|||David LeBlanc、程永敬、Michael Howard、翁海燕、朱涛江|||https://book.douban.com/subject/1194565/
+878|||Java虚拟机规范(Java SE 7版)|||Tim Lindholm、Frank Yellin、Gilad Bracha、Alex Buckley|||https://book.douban.com/subject/25792515/
+879|||Advanced Topics in Types and Programming Languages|||Pierce, Benjamin C. 编|||https://book.douban.com/subject/1761911/
+880|||WCF全面解析（上下册）|||蒋金楠|||https://book.douban.com/subject/10733306/
+881|||TCP/IP Sockets编程|||（美）多纳霍，（美）卡尔弗特|||https://book.douban.com/subject/4124130/
+882|||驯服烂代码|||伍斌|||https://book.douban.com/subject/26208707/
+883|||Effective Ruby：改善Ruby程序的48条建议|||Peter J. Jones|||https://book.douban.com/subject/26690609/
+884|||C++必知必会|||杜赫斯特|||https://book.douban.com/subject/1454486/
+885|||Pro Django|||Marty Alchin|||https://book.douban.com/subject/3086812/
+886|||Verilog数字系统设计教程|||夏宇闻|||https://book.douban.com/subject/1237806/
+887|||LINQ实战|||Fabrice Marguerie、Steve Eichert、Jim Wooley|||https://book.douban.com/subject/3810446/
+888|||Clean Architecture|||Robert C. Martin|||https://book.douban.com/subject/26915970/
+889|||A Tour of C++|||Bjarne Stroustrup|||https://book.douban.com/subject/25720141/
+890|||Programming Concurrency on the JVM|||Venkat Subramaniam|||https://book.douban.com/subject/6039359/
+891|||爱上Python|||[新加坡] Jamie Chan|||https://book.douban.com/subject/26807339/
+892|||高级Perl编程|||[美] Sriram Srinivasan|||https://book.douban.com/subject/1230430/
+893|||深入理解Java7|||成富|||https://book.douban.com/subject/10734875/
+894|||R语言|||[美]贾里德 P. 兰德（Jared P. Lander）|||https://book.douban.com/subject/26409410/
+895|||一步步写嵌入式操作系统|||李无言|||https://book.douban.com/subject/5404177/
+896|||Flash游戏编程基础教程|||Rex van der Spuy|||https://book.douban.com/subject/6522009/
+897|||Spring技术内幕|||计文柯|||https://book.douban.com/subject/4199483/
+898|||R Packages|||Hadley Wickham|||https://book.douban.com/subject/26318361/
+899|||iOS软件开发揭密|||虞斌|||https://book.douban.com/subject/6392055/
+900|||构建高性能可扩展ASP.NET网站|||Richard Kiessig|||https://book.douban.com/subject/5989872/
+901|||会说话的代码|||王洪亮|||https://book.douban.com/subject/24858418/
+902|||编程高手箴言|||梁肇新|||https://book.douban.com/subject/1139244/
+903|||版本控制之道|||Travis Swicegood|||https://book.douban.com/subject/4813786/
+904|||程序员面试笔试宝典|||何昊、叶向阳、窦浩|||https://book.douban.com/subject/20270192/
+905|||PC游戏编程|||王小春|||https://book.douban.com/subject/1231902/
+906|||微信公众平台服务号开发：揭秘九大高级接口|||易伟|||https://book.douban.com/subject/25867692/
+907|||Ajax基础教程|||（美）阿斯利森、（美）舒塔、金灵|||https://book.douban.com/subject/1472607/
+908|||C安全编码标准|||Robert C. Seacord|||https://book.douban.com/subject/4149534/
+909|||iOS 7 Programming Cookbook|||Vandad Nahavandipoor|||https://book.douban.com/subject/25758783/
+910|||JavaScript 函数式编程|||[美] Michael Fogus|||https://book.douban.com/subject/26579320/
+911|||HTML、CSS、JavaScript网页制作从入门到精通|||刘西杰、柳林|||https://book.douban.com/subject/20440928/
+912|||深入体验Java Web开发内幕|||张孝祥|||https://book.douban.com/subject/1903588/
+913|||Programming Massively Parallel Processors|||David B. Kirk、Wen-mei W. Hwu|||https://book.douban.com/subject/4265432/
+914|||Windows环境下32位汇编语言程序设计|||罗云彬|||https://book.douban.com/subject/1783103/
+915|||编写高质量代码|||李健|||https://book.douban.com/subject/7059901/
+916|||C++编程惯用法|||Robert B. Murray|||https://book.douban.com/subject/1244042/
+917|||Android系统源代码情景分析（修订版）（含CD光盘1张）|||罗升阳 著|||https://book.douban.com/subject/26696340/
+918|||英国游戏设计基础教程|||汤普森|||https://book.douban.com/subject/3038677/
+919|||The Erlang Run-Time System|||Erik Stenman|||https://book.douban.com/subject/26262091/
+920|||程序员面试宝典|||欧立奇、刘洋、段韬|||https://book.douban.com/subject/1896792/
+921|||轻量级Web应用开发|||邱俊涛|||https://book.douban.com/subject/26585461/
+922|||Debugging with GDB|||Richard M. Stallman、Roland H. Pesch、Stan Shebs|||https://book.douban.com/subject/1796047/
+923|||Spring技术内幕（第2版）|||计文柯|||https://book.douban.com/subject/10470970/
+924|||Node.js入门经典|||[英] George Ornbo|||https://book.douban.com/subject/23780706/
+925|||The Little Book of Semaphores, 2nd Edition|||Allen B. Downey|||https://book.douban.com/subject/3666232/
+926|||黑客秘笈|||[美]彼得·基姆|||https://book.douban.com/subject/26586582/
+927|||Android应用开发揭秘|||杨丰盛|||https://book.douban.com/subject/4200822/
+928|||苹果开发之Cocoa编程|||Aaron Hillegas|||https://book.douban.com/subject/3870385/
+929|||MFC Windows程序设计|||[美] Jeff Prosise|||https://book.douban.com/subject/1128016/
+930|||《Python数据科学实践指南》|||纪路 著|||https://book.douban.com/subject/27077713/
+931|||AV Foundation 开发秘籍|||Bob McCune|||https://book.douban.com/subject/26577333/
+932|||面向机器智能的TensorFlow实践|||[美] 山姆·亚伯拉罕（Sam Abrahams）、[美] 丹尼亚尔·哈夫纳（Danijar Hafner）、[美] 埃里克·厄威特、[美] 阿里尔·斯卡尔皮内里|||https://book.douban.com/subject/27031750/
+933|||Android 4游戏编程入门经典|||(美) 策希纳(Zechner, M.)、无(美) 格林(Green, R.) 著|||https://book.douban.com/subject/20368754/
+934|||计算机代数系统的数学原理|||李超、阮威、张龙、张翔|||https://book.douban.com/subject/5346530/
+935|||JavaScript & jQuery|||David Sawyer McFarland|||https://book.douban.com/subject/6801489/
+936|||内外兼修：程序员的成长之路|||罗飞、伍星|||https://book.douban.com/subject/26889631/
+937|||iOS 6编程实战|||内皮尔 (Rob Napier)、库马尔 (Mugunth Kumar)|||https://book.douban.com/subject/22190840/
+938|||图解TCP/IP|||[日]竹下隆史、[日]村山公保、[日]荒井透、[日]苅田幸雄|||https://book.douban.com/subject/24737674/
+939|||Unity 4.X从入门到精通|||Unity Technologies|||https://book.douban.com/subject/25808326/
+940|||Java语言精粹|||Jim Waldo|||https://book.douban.com/subject/6516576/
+941|||微信小程序(开发入门及案例详解)|||李骏、边思|||https://book.douban.com/subject/27018906/
+942|||A Byte of Vim|||Swaroop C H|||https://book.douban.com/subject/25790644/
+943|||The Definitive ANTLR 4 Reference|||Terence Parr|||https://book.douban.com/subject/17912658/
+944|||Excel 2010 VBA编程与实践|||罗刚君、章兰新、黄朝阳|||https://book.douban.com/subject/5380979/
+945|||.net之美|||张子阳|||https://book.douban.com/subject/25832203/
+946|||深入分析GCC|||王亚刚|||https://book.douban.com/subject/26984172/
+947|||TensorFlow技术解析与实战|||李嘉璇|||https://book.douban.com/subject/27055214/
+948|||Java深度历险|||王森|||https://book.douban.com/subject/1119896/
+949|||JavaScript编程实战|||[美] Jon Raasch|||https://book.douban.com/subject/25840617/
+950|||SQL权威指南（第4版）|||Joe Celko|||https://book.douban.com/subject/20395440/
+951|||程序设计语言的形式语义|||Glynn Winskel|||https://book.douban.com/subject/1144542/
+952|||金融数据分析导论：基于R语言|||（美）Ruey S.Tsay|||https://book.douban.com/subject/25735039/
+953|||Scala编程思想（原书第2版）|||Bruce Eckel、Dianne Marsh|||https://book.douban.com/subject/26654431/
+954|||PHP与MySQL基础教程|||厄尔曼|||https://book.douban.com/subject/2109775/
+955|||GPU精粹|||费尔南多|||https://book.douban.com/subject/1480239/
+956|||SQL Performance Explained|||Markus Winand|||https://book.douban.com/subject/21363149/
+957|||Windows用户态程序高效排错|||熊力|||https://book.douban.com/subject/2302201/
+958|||学习PYTHON—做个有编程能力的设计师|||江苏凤凰科学技术出版社|||https://book.douban.com/subject/26590884/
+959|||OpenGL超级宝典|||Richard S. Wright、Benjamin Lipchak、Nicholas Haemel|||https://book.douban.com/subject/5273949/
+960|||Clean Code|||罗伯特·马丁|||https://book.douban.com/subject/10436050/
+961|||分析模式|||Martin Fowler|||https://book.douban.com/subject/1237577/
+962|||应用Rails进行敏捷Web开发|||Dave Thomas, David Hansson等|||https://book.douban.com/subject/1839273/
+963|||Beginning Java Objects中文版从概念到代码|||巴克|||https://book.douban.com/subject/1972754/
+964|||Angular权威教程|||[美] Ari Lerner、[巴西] Felipe Coury、[美] Nate Murray、[巴西] Carlos Taborda|||https://book.douban.com/subject/27016243/
+965|||精彩绝伦的jQuery|||[美] Jake Rutter|||https://book.douban.com/subject/10747833/
+966|||python黑帽子|||[美]Justin Seitz|||https://book.douban.com/subject/26590145/
+967|||程序员成长路线图|||N216（倪燕农）、张磊、吉阳|||https://book.douban.com/subject/6075127/
+968|||数据分析：R语言实战|||李诗羽、张飞、王正林|||https://book.douban.com/subject/25953866/
+969|||内存受限系统之软件开发|||James Noble & Charles Weir|||https://book.douban.com/subject/1111621/
+970|||软件加密与解密|||[美] Christian Collberg、[美] Jasvir Nagra|||https://book.douban.com/subject/10595011/
+971|||Learn C the Hard Way|||Zed A. Shaw|||https://book.douban.com/subject/19983642/
+972|||逐梦旅程：Windows游戏编程之从零开始|||毛星云|||https://book.douban.com/subject/25756435/
+973|||Windows并发编程指南|||杜飞|||https://book.douban.com/subject/4214617/
+974|||C/C++深层探索|||姚新颜|||https://book.douban.com/subject/1232030/
+975|||SciPy and NumPy|||Eli Bressert|||https://book.douban.com/subject/10561724/
+976|||Java Persistence with MyBatis 3|||K. Siva Prasad Reddy|||https://book.douban.com/subject/24833391/
+977|||The Quick Python Book, Second Edition|||Vernon L. Ceder|||https://book.douban.com/subject/3814402/
+978|||Intermediate Python Programming|||Jessica McKellar|||https://book.douban.com/subject/26982691/
+979|||PHP & MySQL Web数据库应用开发指南|||[澳] Hugh E.Williams、David Lane|||https://book.douban.com/subject/1931540/
+980|||解析极限编程|||[美] Kent Beck|||https://book.douban.com/subject/1099376/
+981|||PYTHON技术手册|||马特利|||https://book.douban.com/subject/2005622/
+982|||算法笔记|||刁瑞、谢妍|||https://book.douban.com/subject/26840281/
+983|||黑客攻防技术宝典（第2版）|||[英] Dafydd Stuttard、[英] Marcus Pinto|||https://book.douban.com/subject/10793814/
+984|||Advanced Bash Scripting Guide 5.3 Volume 2|||Mendel Cooper|||https://book.douban.com/subject/3411497/
+985|||.NET单元测试艺术|||奥西洛夫|||https://book.douban.com/subject/6966466/
+986|||Clojure程序设计|||哈罗威 (Stuart Halloway)、拜卓 (Aaron Bedra)|||https://book.douban.com/subject/21459993/
+987|||Hadoop实战（第2版）|||陆嘉恒|||https://book.douban.com/subject/20275953/
+988|||用TCP/IP进行网际互联|||Douglas E.Comer、David L.Stecens|||https://book.douban.com/subject/1086595/
+989|||Wxpython in Action|||Noel Rappin、Robin Dunn|||https://book.douban.com/subject/1482279/
+990|||深入应用C++11|||祁宇|||https://book.douban.com/subject/26419368/
+991|||深入理解ElasticSearch|||拉斐尔·酷奇(Rafal Kuc)|||https://book.douban.com/subject/26733541/
+992|||精通Hibernate（第2版）|||孙卫琴|||https://book.douban.com/subject/4201514/
+993|||Growth Hack 這樣做|||Xdite|||https://book.douban.com/subject/26805296/
+994|||跟阿铭学Linux|||李世明|||https://book.douban.com/subject/26005630/
+995|||程序员面试白皮书|||逸超、虾米、笑笑、董飞|||https://book.douban.com/subject/26628794/
+996|||自己动手设计物联网|||黄峰达|||https://book.douban.com/subject/26841195/
+997|||C语言解析教程(原书第4版)|||Al Kelley、Ira Pohl|||https://book.douban.com/subject/1094802/
+998|||Vue.js前端开发|||陈陆扬|||https://book.douban.com/subject/26994869/
+999|||UML精粹|||(美)Martin Fowle|||https://book.douban.com/subject/1320878/
+1000|||Simply Scheme - 2nd Edition|||Brian Harvey、Matthew Wright|||https://book.douban.com/subject/2243200/

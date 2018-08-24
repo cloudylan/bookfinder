@@ -1,0 +1,999 @@
+1|||百年孤独|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/6082808/
+2|||巨人的陨落|||[英] 肯·福莱特|||https://book.douban.com/subject/26698660/
+3|||1984|||[英] 乔治·奥威尔|||https://book.douban.com/subject/4820710/
+4|||追风筝的人|||[美] 卡勒德·胡赛尼|||https://book.douban.com/subject/1770782/
+5|||二手时间|||[白俄] S.A.阿列克谢耶维奇|||https://book.douban.com/subject/26704403/
+6|||霍乱时期的爱情|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/10594787/
+7|||雪落香杉树|||[美] 戴维·伽特森|||https://book.douban.com/subject/5431784/
+8|||新名字的故事|||[意] 埃莱娜·费兰特|||https://book.douban.com/subject/26986954/
+9|||鱼王|||[俄] 维克托·阿斯塔菲耶夫|||https://book.douban.com/subject/26853356/
+10|||月亮和六便士|||[英] 毛姆|||https://book.douban.com/subject/1858513/
+11|||外婆的道歉信|||[瑞典] 弗雷德里克·巴克曼|||https://book.douban.com/subject/27029890/
+12|||杀死一只知更鸟|||[美] 哈珀·李|||https://book.douban.com/subject/6781808/
+13|||活着为了讲述|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/26657570/
+14|||世界的凛冬|||[英] 肯·福莱特|||https://book.douban.com/subject/26957760/
+15|||斯通纳|||[美] 约翰·威廉斯|||https://book.douban.com/subject/26425831/
+16|||囚鸟|||[美] 库尔特·冯内古特|||https://book.douban.com/subject/27045888/
+17|||飘|||[美国] 玛格丽特·米切尔|||https://book.douban.com/subject/1068920/
+18|||灯塔|||[法] 克里斯多夫·夏布特|||https://book.douban.com/subject/26695174/
+19|||我的天才女友|||[意] 埃莱娜·费兰特|||https://book.douban.com/subject/26878124/
+20|||局外人|||[法] 阿尔贝·加缪|||https://book.douban.com/subject/4908885/
+21|||卡拉马佐夫兄弟|||[俄]陀思妥耶夫斯基|||https://book.douban.com/subject/1856494/
+22|||不能承受的生命之轻|||[捷克] 米兰·昆德拉|||https://book.douban.com/subject/1017143/
+23|||刀锋|||[英]毛姆|||https://book.douban.com/subject/2035162/
+24|||醒来的女性|||[美] 玛丽莲·弗伦奇|||https://book.douban.com/subject/27042344/
+25|||小王子|||[法] 圣埃克苏佩里|||https://book.douban.com/subject/1084336/
+26|||戴上手套擦泪|||[瑞典] 乔纳斯·嘉德尔|||https://book.douban.com/subject/27006492/
+27|||贝伦与露西恩|||[英] J.R.R. 托尔金 著、[英] 克里斯托弗·托尔金 编、[英] 艾伦·李 图|||https://book.douban.com/subject/27035185/
+28|||你一生的故事|||[美] 特德·姜|||https://book.douban.com/subject/26295448/
+29|||恋情的终结|||[英] 格雷厄姆·格林|||https://book.douban.com/subject/26279019/
+30|||人生的枷锁|||[英] 毛姆|||https://book.douban.com/subject/2035171/
+31|||最后的精灵|||希瓦娜‧达玛利|||https://book.douban.com/subject/3823070/
+32|||看不见的城市|||[意大利]伊塔洛·卡尔维诺|||https://book.douban.com/subject/1863930/
+33|||欢迎来到猴子馆|||[美] 库尔特·冯内古特|||https://book.douban.com/subject/27068817/
+34|||毒木圣经|||[美] 芭芭拉·金索沃|||https://book.douban.com/subject/26630480/
+35|||黎明破晓的世界|||[美] 威廉·曼彻斯特|||https://book.douban.com/subject/27026379/
+36|||动物农场|||[英] 乔治·奥威尔|||https://book.douban.com/subject/2035179/
+37|||方向|||[法] 马克-安托万·马修|||https://book.douban.com/subject/26975609/
+38|||吃鲷鱼让我打嗝|||[美] 杰西·艾森伯格|||https://book.douban.com/subject/26893260/
+39|||一个叫欧维的男人决定去死|||[瑞典] 弗雷德里克·巴克曼|||https://book.douban.com/subject/26672693/
+40|||被仰望与被遗忘的|||[美] 盖伊·特立斯|||https://book.douban.com/subject/26818878/
+41|||我脑袋里的怪东西|||[土耳其] 奥尔罕·帕慕克|||https://book.douban.com/subject/26701959/
+42|||万物有灵且美|||[英] 吉米·哈利|||https://book.douban.com/subject/4187411/
+43|||肖申克的救赎|||[美] 斯蒂芬·金|||https://book.douban.com/subject/1829226/
+44|||树上的男爵|||(意)卡尔维诺|||https://book.douban.com/subject/6789605/
+45|||牧羊少年奇幻之旅|||[巴西]保罗·柯艾略|||https://book.douban.com/subject/3608208/
+46|||不负责任的自我|||[英] 詹姆斯·伍德|||https://book.douban.com/subject/27046072/
+47|||灿烂千阳|||[美] 卡勒德·胡赛尼|||https://book.douban.com/subject/2143732/
+48|||岛上书店|||[美] 加·泽文|||https://book.douban.com/subject/26340138/
+49|||无声告白|||[美] 伍绮诗|||https://book.douban.com/subject/26382433/
+50|||追忆似水年华（上下册）|||[法国] 马塞尔·普鲁斯特|||https://book.douban.com/subject/1092168/
+51|||再度觉醒|||[意] 普里莫·莱维（Primo Levi）|||https://book.douban.com/subject/26657740/
+52|||一只狼在放哨|||[伊朗] 阿巴斯·基阿鲁斯达米|||https://book.douban.com/subject/27056383/
+53|||悉达多|||[德] 赫尔曼·黑塞|||https://book.douban.com/subject/3406401/
+54|||永恒的边缘|||[英] 肯·福莱特|||https://book.douban.com/subject/27025715/
+55|||昨日的世界|||[奥］斯蒂芬・茨威格|||https://book.douban.com/subject/1062343/
+56|||瓦尔登湖|||[美] 梭罗|||https://book.douban.com/subject/1865089/
+57|||一个陌生女人的来信|||[奥] 斯台芬·茨威格|||https://book.douban.com/subject/2154960/
+58|||不属于我们的世纪|||[美] 马修·托马斯|||https://book.douban.com/subject/26831234/
+59|||情人|||[法] 玛格丽特·杜拉斯|||https://book.douban.com/subject/1400705/
+60|||基督山伯爵|||大仲马|||https://book.douban.com/subject/1085860/
+61|||博尔赫斯小说集|||[阿根廷] 博尔赫斯|||https://book.douban.com/subject/1440972/
+62|||幽灵|||[挪] 尤·奈斯博|||https://book.douban.com/subject/27042830/
+63|||玫瑰的名字|||[意] 翁贝托·埃科|||https://book.douban.com/subject/3836566/
+64|||可怕的中年|||[英] 贾森·黑兹利、[英] 乔尔·莫里斯|||https://book.douban.com/subject/27052521/
+65|||傲慢与偏见|||[英] 奥斯丁|||https://book.douban.com/subject/1083428/
+66|||2666|||[智利] 罗贝托·波拉尼奥|||https://book.douban.com/subject/6800379/
+67|||天才的编辑|||[美] A.司各特·伯格|||https://book.douban.com/subject/26120130/
+68|||被占的宅子|||[阿根廷] 胡利奥·科塔萨尔|||https://book.douban.com/subject/26703649/
+69|||猎豹|||[挪] 尤·奈斯博|||https://book.douban.com/subject/26892080/
+70|||苏菲的世界|||（挪威）乔斯坦·贾德|||https://book.douban.com/subject/1045818/
+71|||心是孤独的猎手|||[美] 卡森·麦卡勒斯|||https://book.douban.com/subject/1424741/
+72|||人类的群星闪耀时|||[奥] 斯蒂芬·茨威格|||https://book.douban.com/subject/1083762/
+73|||时光倒流的女孩|||[美] 加·泽文|||https://book.douban.com/subject/26998358/
+74|||查令十字街84号|||[美] 海莲·汉芙|||https://book.douban.com/subject/1316648/
+75|||佛罗伦萨的神女|||[英] 萨曼·鲁西迪|||https://book.douban.com/subject/26900889/
+76|||没有你，什么都不甜蜜|||[冰岛] 约恩·卡尔曼·斯特凡松|||https://book.douban.com/subject/27020528/
+77|||荆棘鸟|||[澳] 考琳·麦卡洛|||https://book.douban.com/subject/1086249/
+78|||海风中失落的血色馈赠|||[加拿大] 阿利斯泰尔·麦克劳德|||https://book.douban.com/subject/26357614/
+79|||查特莱夫人的情人|||[英] 劳伦斯|||https://book.douban.com/subject/1039840/
+80|||我不知道该说什么，关于死亡还是爱情|||S.A.阿列克谢耶维奇|||https://book.douban.com/subject/25884880/
+81|||源泉|||[美] 安·兰德|||https://book.douban.com/subject/1431870/
+82|||我遇见了人类|||[英] 马特·海格|||https://book.douban.com/subject/26811138/
+83|||过于喧嚣的孤独|||(捷克) 赫拉巴尔|||https://book.douban.com/subject/6781794/
+84|||一个人的朝圣|||【英】蕾秋·乔伊斯|||https://book.douban.com/subject/24934182/
+85|||当我们谈论爱情时我们在谈论什么|||[美] 雷蒙德·卡佛|||https://book.douban.com/subject/4010969/
+86|||失明症漫记|||(葡)若泽·萨拉马戈|||https://book.douban.com/subject/20428302/
+87|||S.|||[美] J.J.艾布拉姆斯、[美] 道格·道斯特|||https://book.douban.com/subject/26356515/
+88|||遗产|||[以] 露图·莫丹|||https://book.douban.com/subject/27072981/
+89|||生活与命运|||[俄罗斯] 瓦西里·格罗斯曼|||https://book.douban.com/subject/26394018/
+90|||一桩事先张扬的凶杀案|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/24382569/
+91|||十一种孤独|||（美）理查德·耶茨、Richard Yates|||https://book.douban.com/subject/4105446/
+92|||美丽新世界|||[英] 阿道司·赫胥黎|||https://book.douban.com/subject/1321789/
+93|||毛姆短篇小说精选集|||(英)威廉·萨默塞特·毛姆|||https://book.douban.com/subject/10774752/
+94|||乡下人的悲歌|||[美] J.D.万斯|||https://book.douban.com/subject/27007881/
+95|||万物静默如谜|||[波] 维斯拉瓦•辛波斯卡|||https://book.douban.com/subject/11584574/
+96|||与普鲁斯特共度假日|||[法] 劳拉·马基 等|||https://book.douban.com/subject/26712441/
+97|||知觉之门|||[英] 阿道斯·赫胥黎|||https://book.douban.com/subject/26981441/
+98|||钓鱼的男孩|||[尼日利亚] 奇戈希·奥比奥玛|||https://book.douban.com/subject/26837288/
+99|||了不起的盖茨比|||菲茨杰拉德|||https://book.douban.com/subject/1008988/
+100|||悲伤与理智|||[美] 约瑟夫·布罗茨基|||https://book.douban.com/subject/26264154/
+101|||鳄鱼街|||[波] 布鲁诺·舒尔茨|||https://book.douban.com/subject/4203630/
+102|||王尔德童话|||[英] 王尔德|||https://book.douban.com/subject/1119839/
+103|||爱情和其他魔鬼|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/26451351/
+104|||一九八四·动物农场|||[英] 乔治·奥威尔|||https://book.douban.com/subject/1082387/
+105|||道连·葛雷的画像|||[英] 奥斯卡·王尔德|||https://book.douban.com/subject/1856025/
+106|||最初的爱情 最后的仪式|||[英] 伊恩·麦克尤恩|||https://book.douban.com/subject/4011440/
+107|||摩尔人的最后叹息|||[英] 萨曼·鲁西迪|||https://book.douban.com/subject/27003600/
+108|||偷影子的人|||(法)马克·李维|||https://book.douban.com/subject/10763902/
+109|||简爱（英文全本）|||[英] 夏洛蒂·勃朗特|||https://book.douban.com/subject/1141406/
+110|||焚舟纪|||[英] 安吉拉·卡特|||https://book.douban.com/subject/6797396/
+111|||漫长的中场休息|||[美] 本·方登|||https://book.douban.com/subject/26890281/
+112|||一个海难幸存者的故事|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/27031869/
+113|||我在伊朗长大|||玛赞·莎塔碧|||https://book.douban.com/subject/4071859/
+114|||惶然录|||[葡萄牙]费尔南多·佩索阿|||https://book.douban.com/subject/1015864/
+115|||莉莉和章鱼|||[美] 史蒂文·罗利|||https://book.douban.com/subject/27065235/
+116|||我的孤独是一座花园|||[叙利亚] 阿多尼斯|||https://book.douban.com/subject/3597825/
+117|||悲惨世界（上中下）|||[法] 雨果|||https://book.douban.com/subject/1205054/
+118|||德米安|||[德] 赫尔曼·黑塞|||https://book.douban.com/subject/3578470/
+119|||香水|||[德] 帕·聚斯金德|||https://book.douban.com/subject/1292416/
+120|||夜色人生|||[美] 丹尼斯·勒翰|||https://book.douban.com/subject/26787935/
+121|||螺旋之谜|||[西班牙] 圣地亚哥·帕哈雷斯|||https://book.douban.com/subject/27062629/
+122|||献给阿尔吉侬的花束|||[美] 丹尼尔·凯斯|||https://book.douban.com/subject/1442869/
+123|||世上最美的溺水者|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/26628811/
+124|||冰与火之歌|||[美]乔治·R.R.马丁|||https://book.douban.com/subject/25826936/
+125|||雪人|||[挪威] 尤·奈斯博|||https://book.douban.com/subject/26729776/
+126|||项塔兰|||[澳] 格里高利·大卫·罗伯兹|||https://book.douban.com/subject/3673771/
+127|||使女的故事|||(加拿大)玛格丽特·阿特伍德|||https://book.douban.com/subject/3056877/
+128|||教父|||[美]马里奥·普佐|||https://book.douban.com/subject/1092335/
+129|||夜莺与玫瑰|||[英] 王尔德 著、查尔斯·罗宾逊 绘|||https://book.douban.com/subject/6857344/
+130|||尤利西斯|||[爱尔兰] 詹姆斯·乔伊斯|||https://book.douban.com/subject/1038196/
+131|||午夜之子|||[英] 萨曼·鲁西迪|||https://book.douban.com/subject/26607924/
+132|||如果在冬夜，一个旅人|||[意大利] 伊塔洛·卡尔维诺|||https://book.douban.com/subject/2136484/
+133|||没有人给他写信的上校|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/20392523/
+134|||面纱|||[英] W.萨默塞特·毛姆|||https://book.douban.com/subject/10560798/
+135|||人鼠之间|||[美] 约翰·斯坦贝克（John Steinbeck）|||https://book.douban.com/subject/26598807/
+136|||24个比利|||[美] 丹尼尔·凯斯|||https://book.douban.com/subject/26371317/
+137|||洛丽塔|||[美] 弗拉基米尔·纳博科夫|||https://book.douban.com/subject/1465324/
+138|||卡尔维诺文集（第三卷）|||[意大利] 卡尔维诺|||https://book.douban.com/subject/1066165/
+139|||追忆似水年华 Ⅰ|||[法] M·普鲁斯特|||https://book.douban.com/subject/1082584/
+140|||夜航西飞|||[英] 柏瑞尔·马卡姆|||https://book.douban.com/subject/5366382/
+141|||七杀简史|||[牙买加] 马龙·詹姆斯|||https://book.douban.com/subject/26993666/
+142|||罪与罚|||[俄] 陀思妥耶夫斯基|||https://book.douban.com/subject/1022632/
+143|||冰与火之歌（卷一）|||[美] 乔治·R. R. 马丁|||https://book.douban.com/subject/1336330/
+144|||哈扎尔辞典（阳本）|||(塞尔维亚)米洛拉德·帕维奇|||https://book.douban.com/subject/11528350/
+145|||在路上|||[美] 杰克·凯鲁亚克|||https://book.douban.com/subject/1917972/
+146|||小于一|||[美] 约瑟夫·布罗茨基|||https://book.douban.com/subject/26053771/
+147|||呼啸山庄|||艾米莉·勃朗特|||https://book.douban.com/subject/1119522/
+148|||战争与和平（全四册）|||[俄] 列夫·托尔斯泰|||https://book.douban.com/subject/1013469/
+149|||安吉拉·卡特的精怪故事集|||[英] 安吉拉·卡特|||https://book.douban.com/subject/5993314/
+150|||我亲爱的甜橙树|||(巴西)若泽•毛罗•德瓦斯康塞洛斯|||https://book.douban.com/subject/4826530/
+151|||多莱尔的希腊神话书|||[美] 英格丽·多莱尔、[美] 爱德加·帕林·多莱尔|||https://book.douban.com/subject/26710042/
+152|||沙丘|||[美] 弗兰克·赫伯特|||https://book.douban.com/subject/26836970/
+153|||奥克诺斯|||[西班牙] 路易斯·塞尔努达|||https://book.douban.com/subject/26275572/
+154|||生活在别处|||[捷克] 米兰·昆德拉|||https://book.douban.com/subject/1013225/
+155|||爱德华·巴纳德的堕落|||[英] 毛姆|||https://book.douban.com/subject/26840830/
+156|||小径分岔的花园|||[阿根廷] 博尔赫斯|||https://book.douban.com/subject/25796120/
+157|||所有我们看不见的光|||[美] 安东尼·多尔|||https://book.douban.com/subject/26431326/
+158|||时间旅行者的妻子|||[美] 奥德丽·尼芬格|||https://book.douban.com/subject/2056749/
+159|||逃离|||艾丽丝·门罗|||https://book.douban.com/subject/3831788/
+160|||棕色的世界|||[英] 格林·狄龙 著绘|||https://book.douban.com/subject/26869695/
+161|||长夜漫漫路迢迢|||[美] 尤金·奥尼尔|||https://book.douban.com/subject/27012140/
+162|||麦田里的守望者|||[美国] J. D. 塞林格|||https://book.douban.com/subject/1082518/
+163|||到灯塔去|||(英)弗吉尼亚·伍尔夫|||https://book.douban.com/subject/3402999/
+164|||盲目的向日葵|||[西班牙] 阿尔贝托·门德斯|||https://book.douban.com/subject/27004926/
+165|||小说药丸|||[英] 埃拉·伯绍德、[英] 苏珊·埃尔德金|||https://book.douban.com/subject/26819479/
+166|||布鲁克林有棵树|||贝蒂·史密斯（Betty Smith)|||https://book.douban.com/subject/3826899/
+167|||唯有孤独恒常如新|||(美) 伊丽莎白·毕肖普|||https://book.douban.com/subject/26269845/
+168|||地下铁道|||[美] 科尔森·怀特黑德|||https://book.douban.com/subject/26984949/
+169|||达·芬奇密码|||[美] 丹·布朗|||https://book.douban.com/subject/1040771/
+170|||意大利人|||(意)巴尔齐尼(Barzini,L.)|||https://book.douban.com/subject/2264272/
+171|||现实与欲望|||[西班牙] 路易斯·塞尔努达|||https://book.douban.com/subject/26631867/
+172|||所谓好玩的事，我再也不做了|||[美] 大卫·福斯特·华莱士|||https://book.douban.com/subject/26945641/
+173|||自由|||[美] 乔纳森·弗兰岑|||https://book.douban.com/subject/10569619/
+174|||遥远的星辰|||[智利] 罗贝托·波拉尼奥|||https://book.douban.com/subject/25985982/
+175|||质数的孤独|||[意] 保罗·乔尔达诺|||https://book.douban.com/subject/5958726/
+176|||被淹没和被拯救的|||[意] 普里莫·莱维|||https://book.douban.com/subject/20441569/
+177|||都柏林人|||[爱尔兰] 詹姆斯·乔伊斯|||https://book.douban.com/subject/4908872/
+178|||智惠子抄|||[日] 高村光太郎|||https://book.douban.com/subject/27035254/
+179|||博尔赫斯谈话录|||[阿] 豪尔赫·路易斯·博尔赫斯 著、[美] 威利斯·巴恩斯通 编|||https://book.douban.com/subject/25952961/
+180|||致D|||[法] 安德烈·高兹|||https://book.douban.com/subject/4313207/
+181|||夜莺|||[美] 克里斯汀·汉娜|||https://book.douban.com/subject/26905360/
+182|||逃亡|||[苏联] 布尔加科夫|||https://book.douban.com/subject/26943606/
+183|||刺猬的优雅|||[法] 妙莉叶·芭贝里|||https://book.douban.com/subject/3899039/
+184|||时间的针脚|||[西] 玛丽亚·杜埃尼亚斯|||https://book.douban.com/subject/10512236/
+185|||失物之书|||[爱尔兰] 约翰·康诺利|||https://book.douban.com/subject/3608235/
+186|||欢愉|||[美] 莉莉·金|||https://book.douban.com/subject/26939182/
+187|||自深深处|||[英国] 奥斯卡·王尔德|||https://book.douban.com/subject/3014444/
+188|||时光列车|||[美] 帕蒂·史密斯|||https://book.douban.com/subject/26939261/
+189|||老人与海|||海明威|||https://book.douban.com/subject/1064275/
+190|||不朽|||米兰·昆德拉|||https://book.douban.com/subject/1060117/
+191|||万物生光辉|||[英] 吉米·哈利|||https://book.douban.com/subject/10519369/
+192|||出埃及记|||（美）里昂·尤里斯|||https://book.douban.com/subject/3228779/
+193|||万火归一|||[阿根廷] 胡里奥·科塔萨尔|||https://book.douban.com/subject/3769738/
+194|||地球上最后的夜晚|||[智利] 罗贝托·波拉尼奥|||https://book.douban.com/subject/20501761/
+195|||红与黑|||司汤达|||https://book.douban.com/subject/1007433/
+196|||伊斯坦布尔|||[土耳其] 奥尔罕·帕慕克|||https://book.douban.com/subject/2042063/
+197|||大师和玛格丽特|||[俄] 布尔加科夫|||https://book.douban.com/subject/1077492/
+198|||群山回唱|||[美] 卡勒德·胡赛尼|||https://book.douban.com/subject/24845582/
+199|||明镜之书|||[罗] 尤金·欧·切洛维茨|||https://book.douban.com/subject/27031877/
+200|||荒原狼|||[德]赫尔曼·黑塞|||https://book.douban.com/subject/3131626/
+201|||被禁锢的头脑|||(波兰)切斯瓦夫·米沃什|||https://book.douban.com/subject/7916069/
+202|||飞鸟集|||[印] 罗宾德拉纳德·泰戈尔|||https://book.douban.com/subject/1058661/
+203|||请以你的名字呼唤我|||安德烈·艾席蒙|||https://book.douban.com/subject/11535042/
+204|||蝇王|||[英] 威廉·戈尔丁|||https://book.douban.com/subject/1872158/
+205|||没有个性的人|||(奥地利)罗伯特·穆齐尔|||https://book.douban.com/subject/1017334/
+206|||纳尔齐斯与歌尔德蒙|||[德]赫尔曼·黑塞|||https://book.douban.com/subject/2165063/
+207|||约翰·克利斯朵夫|||（法）罗曼·罗兰|||https://book.douban.com/subject/1186392/
+208|||给青年诗人的信|||[奥] 莱内·马利亚·里尔克|||https://book.douban.com/subject/1438816/
+209|||巴黎评论·作家访谈Ⅰ|||《巴黎评论》编辑部|||https://book.douban.com/subject/6712407/
+210|||喧哗与骚动|||(美)威廉﹒福克纳|||https://book.douban.com/subject/1052074/
+211|||宇宙奇趣全集|||伊塔洛·卡尔维诺|||https://book.douban.com/subject/5446490/
+212|||时间之间|||[英] 珍妮特·温特森|||https://book.douban.com/subject/26756030/
+213|||烛烬|||[匈] 马洛伊·山多尔|||https://book.douban.com/subject/26580084/
+214|||没有悲伤的城市|||（加）阿诺什·艾拉尼、Irani Anosh|||https://book.douban.com/subject/3989541/
+215|||火星救援|||[美] 安迪·威尔|||https://book.douban.com/subject/26586492/
+216|||直到那一天|||[法] 米歇尔·普西|||https://book.douban.com/subject/26910597/
+217|||白痴|||[俄]陀思妥耶夫斯基|||https://book.douban.com/subject/1859108/
+218|||渴望风流|||[美] 欧文·斯通|||https://book.douban.com/subject/26936275/
+219|||他们说，我是幸运的|||[美] 艾丽斯·西伯德|||https://book.douban.com/subject/26821757/
+220|||梦中的欢快葬礼和十二个异乡故事|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/26276924/
+221|||芒果街上的小屋|||[美国] 桑德拉·希斯内罗丝|||https://book.douban.com/subject/1794620/
+222|||麦琪的礼物|||[美] 欧·亨利|||https://book.douban.com/subject/1051193/
+223|||绿山墙的安妮|||[加] 露西·莫德·蒙哥玛利|||https://book.douban.com/subject/1064841/
+224|||变形记|||[奥] 卡夫卡|||https://book.douban.com/subject/1213546/
+225|||万物既伟大又渺小|||[英] 吉米·哈利（James Herriot）|||https://book.douban.com/subject/4714015/
+226|||呼吸课|||[美] 安·泰勒|||https://book.douban.com/subject/26936410/
+227|||肠子|||[美] 恰克·帕拉尼克|||https://book.douban.com/subject/5920385/
+228|||天鹅绒监狱|||[匈牙利] 米克洛什·哈拉兹蒂|||https://book.douban.com/subject/26593670/
+229|||地下室手记|||[俄] 陀思妥耶夫斯基|||https://book.douban.com/subject/10759466/
+230|||过去的痛|||[美] 梅·萨藤|||https://book.douban.com/subject/26794598/
+231|||无根之木|||[美] 娜奥米·诺维克|||https://book.douban.com/subject/26956486/
+232|||波丽娜|||[法] 巴斯蒂安·维韦斯|||https://book.douban.com/subject/26819342/
+233|||真的不用读完一本书|||(英)亨利·希金斯|||https://book.douban.com/subject/6890687/
+234|||天使望故乡|||[美] 托马斯·沃尔夫|||https://book.douban.com/subject/3888110/
+235|||浮士德|||歌德|||https://book.douban.com/subject/1049957/
+236|||爱与黑暗的故事|||(以色列)阿摩司·奥兹|||https://book.douban.com/subject/2245449/
+237|||万物的签名|||[美]伊丽莎白·吉尔伯特（Elizabeth Gilbert）|||https://book.douban.com/subject/26300508/
+238|||魔戒|||[英] J.R.R.托尔金|||https://book.douban.com/subject/21979017/
+239|||只是孩子|||[美] 帕蒂•史密斯|||https://book.douban.com/subject/19962936/
+240|||日瓦戈医生|||〔苏〕鲍里斯·帕斯捷尔纳克|||https://book.douban.com/subject/1469878/
+241|||奥丽芙·基特里奇|||(美)伊丽莎白·斯特劳特|||https://book.douban.com/subject/6746290/
+242|||橘子不是唯一的水果|||[英] 珍妮特·温特森|||https://book.douban.com/subject/4882159/
+243|||河流之声|||[西班牙] 乔莫·卡夫雷|||https://book.douban.com/subject/26907173/
+244|||哈利·波特与魔法石|||[英] J. K. 罗琳|||https://book.douban.com/subject/1041007/
+245|||象棋的故事|||[奥] 斯台芬·茨威格|||https://book.douban.com/subject/2158684/
+246|||摩天楼|||[英] J.G.巴拉德|||https://book.douban.com/subject/26819481/
+247|||死缓|||[法] 路易-费迪南·塞利纳|||https://book.douban.com/subject/26640439/
+248|||米格尔街|||V.S.奈保尔 (V.S.Naipaul)|||https://book.douban.com/subject/21346008/
+249|||屠夫十字镇|||[美] 约翰·威廉斯|||https://book.douban.com/subject/26765928/
+250|||博尔赫斯诗选|||（阿根廷）博尔赫斯|||https://book.douban.com/subject/1417385/
+251|||夏洛克是我的名字|||[英] 霍华德·雅各布森|||https://book.douban.com/subject/27021974/
+252|||人性的枷锁|||毛姆|||https://book.douban.com/subject/26803714/
+253|||大教堂|||[美] 雷蒙德·卡佛|||https://book.douban.com/subject/3335362/
+254|||维罗妮卡决定去死|||[巴西] 保罗·柯艾略|||https://book.douban.com/subject/4737325/
+255|||毛姆读书随笔|||毛姆|||https://book.douban.com/subject/1016429/
+256|||纯真博物馆|||[土耳其] 奥尔罕·帕慕克|||https://book.douban.com/subject/4154988/
+257|||精神病患|||[美] 威廉·彼得·布拉蒂|||https://book.douban.com/subject/26732624/
+258|||倒悬的地平线|||[法] 马克·李维|||https://book.douban.com/subject/27081345/
+259|||加缪全集 （小说卷）|||加缪|||https://book.douban.com/subject/4120475/
+260|||双城记|||查尔斯・狄更斯|||https://book.douban.com/subject/1007772/
+261|||爱在黎明破晓前&爱在日落黄昏时|||理查德·林克莱特、金·克里桑|||https://book.douban.com/subject/25924242/
+262|||玻璃球游戏|||[德]赫尔曼·黑塞|||https://book.douban.com/subject/2165076/
+263|||坐在你身边看云|||[葡] 费尔南多·佩索阿|||https://book.douban.com/subject/27079096/
+264|||我的名字叫红|||[土耳其] 奥尔罕·帕慕克|||https://book.douban.com/subject/1851385/
+265|||虚构集|||[阿根廷]豪·路·博尔赫斯|||https://book.douban.com/subject/3003477/
+266|||金蔷薇|||[俄]康·帕乌斯托夫斯基|||https://book.douban.com/subject/2042633/
+267|||乌克兰拖拉机简史|||[英] 玛琳娜·柳薇卡|||https://book.douban.com/subject/6879215/
+268|||相约星期二|||[美] 米奇·阿尔博姆|||https://book.douban.com/subject/2194123/
+269|||寻欢作乐|||[英] 威廉·萨默塞特·毛姆|||https://book.douban.com/subject/10768068/
+270|||恶童日记|||[匈牙利] 雅歌塔·克里斯多夫|||https://book.douban.com/subject/3315879/
+271|||达芬奇幽灵|||[美] 托比·莱斯特（Toby Lester）|||https://book.douban.com/subject/26877273/
+272|||万物既聪慧又奇妙|||[英] 吉米·哈利|||https://book.douban.com/subject/4882023/
+273|||迷宫中的将军|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/25985126/
+274|||先知|||卡里·纪伯伦|||https://book.douban.com/subject/2212371/
+275|||茶花女|||小仲马|||https://book.douban.com/subject/1013380/
+276|||意外的旅客|||[美] 安·泰勒|||https://book.douban.com/subject/27055171/
+277|||一日谈|||[巴西]法比奥·穆恩(Fábio Moon)、加布里埃尔·巴(Gabriel Bá)|||https://book.douban.com/subject/26794876/
+278|||萤火虫小巷|||[美]克莉丝汀·汉娜|||https://book.douban.com/subject/26642866/
+279|||不存在的骑士|||[意] 伊塔洛·卡尔维诺|||https://book.douban.com/subject/6789551/
+280|||流动的盛宴|||[美] 海明威|||https://book.douban.com/subject/3393056/
+281|||加缪手记|||[法] 阿尔贝·加缪|||https://book.douban.com/subject/26826605/
+282|||思家小馆的晚餐|||[美] 安·泰勒|||https://book.douban.com/subject/26864983/
+283|||荒原|||(英)托·斯·艾略特|||https://book.douban.com/subject/6440343/
+284|||克罗诺皮奥与法玛的故事|||[阿根廷] 胡里奥·科塔萨尔|||https://book.douban.com/subject/10764013/
+285|||奇风岁月|||[美国] 罗伯特·麦卡蒙|||https://book.douban.com/subject/6016234/
+286|||鼠疫|||[法] 阿尔贝·加缪|||https://book.douban.com/subject/1056023/
+287|||恶之花|||[法] 夏尔·波德莱尔|||https://book.douban.com/subject/1045365/
+288|||巴黎圣母院|||[法]雨果|||https://book.douban.com/subject/1024197/
+289|||儿童法案|||[英] 伊恩·麦克尤恩|||https://book.douban.com/subject/26878908/
+290|||铁皮鼓|||[德] 格拉斯|||https://book.douban.com/subject/1849791/
+291|||万物刹那又永恒|||[英] 吉米·哈利|||https://book.douban.com/subject/5410174/
+292|||摆渡人|||[英]克莱儿·麦克福尔|||https://book.douban.com/subject/26356948/
+293|||我是个年轻人 我心情不太好|||(挪威)阿澜·卢|||https://book.douban.com/subject/10565151/
+294|||羊脂球|||（法）莫泊桑|||https://book.douban.com/subject/1205370/
+295|||华氏451|||（美）雷·布雷德伯利|||https://book.douban.com/subject/1321790/
+296|||穿过森林的男孩|||（美）加思·斯坦|||https://book.douban.com/subject/27045297/
+297|||突然，响起一阵敲门声|||[以色列] 埃特加·凯雷特|||https://book.douban.com/subject/25724491/
+298|||偷书贼|||[澳] 马克斯·苏萨克|||https://book.douban.com/subject/2180619/
+299|||伪装成独白的爱情|||[匈] 马洛伊·山多尔|||https://book.douban.com/subject/26577690/
+300|||夏洛的网|||[美] E.B.怀特|||https://book.douban.com/subject/1036274/
+301|||克苏鲁神话|||[美] H.P.洛夫克拉夫特|||https://book.douban.com/subject/26862626/
+302|||博尔赫斯全集|||[阿根廷] 豪·路·博尔赫斯|||https://book.douban.com/subject/1083089/
+303|||我的奋斗1|||[挪威] 卡尔·奥韦·克瑙斯高|||https://book.douban.com/subject/26682066/
+304|||巴黎烧了吗?|||拉莱·科林斯、多米尼克·拉皮埃尔|||https://book.douban.com/subject/21329239/
+305|||卡夫卡小说全集（全三册）|||[奥] 卡夫卡|||https://book.douban.com/subject/1081422/
+306|||赴宴之前|||[英] 毛姆|||https://book.douban.com/subject/27054027/
+307|||五号屠场|||(美)库尔特·冯内古特|||https://book.douban.com/subject/3090810/
+308|||想你|||[英]凯特·埃伯利恩|||https://book.douban.com/subject/27045517/
+309|||我们在此相遇|||[英] 约翰·伯格|||https://book.douban.com/subject/3669671/
+310|||困扰种种|||[美] 莉迪亚·戴维斯|||https://book.douban.com/subject/26823134/
+311|||致未来的诗人|||[西班牙] 路易斯·塞尔努达|||https://book.douban.com/subject/26384735/
+312|||九故事|||[美] J.D.塞林格|||https://book.douban.com/subject/2161892/
+313|||群魔|||[俄] 费·陀思妥耶夫斯基|||https://book.douban.com/subject/1437488/
+314|||沙之书|||(阿根廷)博尔赫斯|||https://book.douban.com/subject/25796049/
+315|||管家|||[美] 玛丽莲·罗宾逊|||https://book.douban.com/subject/26952226/
+316|||消失的爱人|||[美]吉莉安·弗琳|||https://book.douban.com/subject/24541883/
+317|||岛|||[英] 维多利亚·希斯洛普|||https://book.douban.com/subject/3673651/
+318|||记忆小屋|||[美] 托尼·朱特|||https://book.douban.com/subject/24525766/
+319|||疯子的自由|||[法] 弗朗索瓦·勒洛尔|||https://book.douban.com/subject/26853742/
+320|||作家笔记|||[英] 萨默塞特·毛姆|||https://book.douban.com/subject/5336228/
+321|||鹿苑长春|||[美] 玛•金•罗琳斯|||https://book.douban.com/subject/26801361/
+322|||城堡|||[奥地利] 卡夫卡|||https://book.douban.com/subject/2036561/
+323|||发条橙|||[英] 安东尼·伯吉斯|||https://book.douban.com/subject/6097966/
+324|||魔山|||托马斯·曼|||https://book.douban.com/subject/2050779/
+325|||柑橘与柠檬啊|||[英] 麦克·莫波格|||https://book.douban.com/subject/3594151/
+326|||木麻黄树|||[英] 毛姆|||https://book.douban.com/subject/10473355/
+327|||走出非洲|||（丹麦）卡伦·布里克森|||https://book.douban.com/subject/20266046/
+328|||它|||[美] 斯蒂芬·金|||https://book.douban.com/subject/26954392/
+329|||冷血|||杜鲁门·卡波特|||https://book.douban.com/subject/4245064/
+330|||玛格丽特小镇|||[美] 加·泽文|||https://book.douban.com/subject/26787941/
+331|||族长的秋天|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/25779593/
+332|||安徒生童话故事集|||（丹麦）安徒生|||https://book.douban.com/subject/1046209/
+333|||虔诚的回忆|||[法] 玛格丽特·尤瑟纳尔|||https://book.douban.com/subject/26451389/
+334|||圣诞忆旧集|||[美] 杜鲁门·卡坡蒂|||https://book.douban.com/subject/3326892/
+335|||革命之路|||[美] 理查德·耶茨|||https://book.douban.com/subject/3640067/
+336|||美好的七年|||[以色列] 埃特加·凯雷特|||https://book.douban.com/subject/26642648/
+337|||佩德罗·巴拉莫|||[墨西哥]胡安·鲁尔福|||https://book.douban.com/subject/2295912/
+338|||如何阅读一本文学书|||[美] 托马斯·福斯特|||https://book.douban.com/subject/26676528/
+339|||古典传统|||[美]吉尔伯特·海厄特（Gilbert Highet)|||https://book.douban.com/subject/26594676/
+340|||我还是想你，妈妈|||[白俄]S.A.阿列克谢耶维奇|||https://book.douban.com/subject/26591790/
+341|||语言的第七功能|||[法] 洛朗·比内|||https://book.douban.com/subject/26928435/
+342|||少年Pi的奇幻漂流|||[加拿大] 扬·马特尔|||https://book.douban.com/subject/20326626/
+343|||猜火车|||[英] 欧文·威尔士|||https://book.douban.com/subject/4881998/
+344|||孤独及其所创造的|||[美] 保罗·奥斯特|||https://book.douban.com/subject/3316438/
+345|||朗读者|||[德] 本哈德·施林克|||https://book.douban.com/subject/3537590/
+346|||想象地名私人词典|||[加] A.曼古埃尔、[意] G.盖德鲁培|||https://book.douban.com/subject/26835827/
+347|||法国中尉的女人|||[英] 约翰·福尔斯|||https://book.douban.com/subject/1525761/
+348|||荷马史诗·奥德赛|||[古希腊] 荷马|||https://book.douban.com/subject/1062694/
+349|||白鲸|||[美]赫尔曼·麦尔维尔|||https://book.douban.com/subject/2170030/
+350|||酒吧长谈|||[秘] 马里奥·巴尔加斯·略萨|||https://book.douban.com/subject/5383804/
+351|||安娜·卡列尼娜（上下）|||[俄罗斯] 托尔斯泰|||https://book.douban.com/subject/1010472/
+352|||雷蒙德·卡佛短篇小说自选集|||[美] 雷蒙德·卡佛|||https://book.douban.com/subject/3926717/
+353|||傅科摆|||(意)翁贝托·埃科|||https://book.douban.com/subject/20515828/
+354|||南十字星共和国|||费·索洛古勃、瓦·勃留索夫、安德列·别雷|||https://book.douban.com/subject/26909485/
+355|||包法利夫人|||福楼拜|||https://book.douban.com/subject/1083477/
+356|||小红狼|||[法] 艾美莉·弗雷珊 著绘|||https://book.douban.com/subject/25880365/
+357|||荆棘之城|||[英]萨拉·沃特斯|||https://book.douban.com/subject/4143051/
+358|||乞力马扎罗的雪|||[美]海明威|||https://book.douban.com/subject/1874411/
+359|||福尔摩斯探案全集（上中下）|||[英] 阿·柯南道尔|||https://book.douban.com/subject/1040211/
+360|||现世|||[美] 安妮·迪拉德|||https://book.douban.com/subject/26948155/
+361|||为什么读经典|||[意大利] 伊塔洛·卡尔维诺|||https://book.douban.com/subject/1868698/
+362|||我坦言我曾历尽沧桑|||[智利]巴勃罗·聂鲁达|||https://book.douban.com/subject/26323408/
+363|||广岛之恋|||[法] 玛格丽特・杜拉斯|||https://book.douban.com/subject/1400707/
+364|||亚辛：牧神加布埃尔1|||[西] 迪米特里·维、[西] 曼·阿尔纳斯|||https://book.douban.com/subject/26924013/
+365|||万有引力之虹|||[美国] 托马斯·品钦|||https://book.douban.com/subject/3327495/
+366|||出轨|||[爱尔兰] 威廉·特雷弗|||https://book.douban.com/subject/26298590/
+367|||巴黎评论·作家访谈2|||《巴黎评论》编辑部|||https://book.douban.com/subject/26591590/
+368|||小说的艺术|||[捷克] 米兰·昆德拉|||https://book.douban.com/subject/1063796/
+369|||伤心咖啡馆之歌|||[美] 卡森·麦卡勒斯|||https://book.douban.com/subject/2061644/
+370|||我们|||[俄] 尤金·扎米亚金|||https://book.douban.com/subject/1434071/
+371|||一个无政府主义者的意外死亡|||[意] 达里奥·福|||https://book.douban.com/subject/26649304/
+372|||梦书之城|||[德]瓦尔特·莫尔斯|||https://book.douban.com/subject/25831096/
+373|||阿莱夫|||[阿根廷]豪·路·博尔赫斯|||https://book.douban.com/subject/3003258/
+374|||说吧，记忆|||[美] 弗拉基米尔·纳博科夫|||https://book.douban.com/subject/3649661/
+375|||心灵的焦灼|||斯台芬·茨威格|||https://book.douban.com/subject/2146279/
+376|||波斯少年|||[英] 玛丽·瑞瑙特|||https://book.douban.com/subject/4175473/
+377|||终结的感觉|||[英] 朱利安·巴恩斯|||https://book.douban.com/subject/10746177/
+378|||天蓝色的彼岸|||（英）希尔|||https://book.douban.com/subject/1041128/
+379|||毛姆传|||[英]塞琳娜· 黑斯廷斯|||https://book.douban.com/subject/26262141/
+380|||充满奇想的一年|||琼·狄迪恩|||https://book.douban.com/subject/2136135/
+381|||里尔克诗选|||[奥] 里尔克|||https://book.douban.com/subject/1417878/
+382|||奇爱博士|||[英] 彼得·乔治|||https://book.douban.com/subject/26791409/
+383|||痛苦与狂喜|||[美] 欧文·斯通|||https://book.douban.com/subject/26640091/
+384|||第二十二条军规|||[美] 约瑟夫·海勒|||https://book.douban.com/subject/1088812/
+385|||等你呼唤我的名字|||[西] 阿尔伯特·埃斯皮诺萨|||https://book.douban.com/subject/27073403/
+386|||癌症楼|||[俄罗斯]亚历山大·索尔仁尼琴|||https://book.douban.com/subject/2228707/
+387|||愤怒的葡萄|||[美]斯坦贝克|||https://book.douban.com/subject/2036569/
+388|||冬日笔记|||[美] 保罗·奥斯特|||https://book.douban.com/subject/26723433/
+389|||迪士尼大电影双语阅读.加勒比海盗5：死无对证|||迪士尼|||https://book.douban.com/subject/27078961/
+390|||西线无战事|||[德国]埃里希·玛丽亚·雷马克|||https://book.douban.com/subject/2254615/
+391|||复活节游行|||（美）理查德·耶茨、Richard Yates|||https://book.douban.com/subject/4105444/
+392|||浮生梦|||[英] 达芙妮·杜穆里埃|||https://book.douban.com/subject/26591906/
+393|||这是不是个人|||[意] 普里莫·莱维|||https://book.douban.com/subject/26666138/
+394|||风之影|||[西] 卡洛斯·鲁依斯·萨丰|||https://book.douban.com/subject/1917078/
+395|||那些忧伤的年轻人|||F·S·菲茨杰拉德(Fitzgerald.F.S.)|||https://book.douban.com/subject/5321895/
+396|||阿特拉斯耸耸肩（上下）|||安·兰德|||https://book.douban.com/subject/2302217/
+397|||人生的枷锁|||[英]毛姆|||https://book.douban.com/subject/6313524/
+398|||微物之神|||[印度] 阿兰达蒂·洛伊|||https://book.douban.com/subject/1771464/
+399|||涅朵奇卡·涅茨瓦诺娃|||陀思妥耶夫斯基|||https://book.douban.com/subject/2131426/
+400|||搅局者|||[法]埃马纽埃尔·卡雷尔|||https://book.douban.com/subject/27008864/
+401|||Flipped|||Wendelin Van Draanen|||https://book.douban.com/subject/2669319/
+402|||试刊号|||[意] 翁贝托·埃科|||https://book.douban.com/subject/26808761/
+403|||分成两半的子爵|||[意大利] 伊塔洛•卡尔维诺|||https://book.douban.com/subject/10555486/
+404|||荷马史诗·伊利亚特|||[古希腊] 荷马|||https://book.douban.com/subject/1212469/
+405|||静默|||[法] 维罗妮克·普兰|||https://book.douban.com/subject/26849452/
+406|||苦妓回忆录|||加西亚·马尔克斯|||https://book.douban.com/subject/26276279/
+407|||云图|||(英) 大卫·米切尔|||https://book.douban.com/subject/4202422/
+408|||三杯茶|||[美] 葛瑞格·摩顿森、[美] 大卫·奥利佛·瑞林|||https://book.douban.com/subject/3266345/
+409|||断头王后|||[奥] 斯蒂芬·茨威格|||https://book.douban.com/subject/1051524/
+410|||青春|||[南非] J.M.库切|||https://book.douban.com/subject/1067293/
+411|||努门诺尔与中洲之未完的传说|||[英]J.R.R.托尔金 著、[英]克里斯托弗·托尔金 编|||https://book.douban.com/subject/26765930/
+412|||寻找时间的人|||[爱尔兰] 凯特·汤普森|||https://book.douban.com/subject/3098548/
+413|||君士坦丁堡最后之恋|||[塞尔维亚]米洛拉德·帕维奇|||https://book.douban.com/subject/26431618/
+414|||好人难寻|||(美) 奥康纳|||https://book.douban.com/subject/4213981/
+415|||英国病人|||[加拿大] 迈克尔·翁达杰|||https://book.douban.com/subject/10583075/
+416|||等待戈多|||[爱尔兰] 萨缪尔·贝克特|||https://book.douban.com/subject/1051714/
+417|||见信如晤|||[英]肖恩·亚瑟|||https://book.douban.com/subject/26667282/
+418|||离别时刻|||[美] 朱迪·皮考特|||https://book.douban.com/subject/26870453/
+419|||二十首情诗与绝望的歌|||聂鲁达|||https://book.douban.com/subject/1045352/
+420|||蓝熊船长的13条半命|||[德] 瓦尔特·莫尔斯|||https://book.douban.com/subject/1007952/
+421|||死屋手记|||[俄] 陀思妥耶夫斯基|||https://book.douban.com/subject/1088418/
+422|||小镇的甜品屋|||维多利亚·希斯洛普 (Victoria Hislop)|||https://book.douban.com/subject/25955853/
+423|||比利战争|||[美] 丹尼尔·凯斯|||https://book.douban.com/subject/26390426/
+424|||卡罗尔|||[美] 帕特里夏·海史密斯|||https://book.douban.com/subject/26689063/
+425|||再见，萤火虫小巷|||[美] 克莉丝汀·汉娜|||https://book.douban.com/subject/26844525/
+426|||文学讲稿|||弗拉基米尔·纳博科夫|||https://book.douban.com/subject/1312558/
+427|||一个女孩的镜像世界|||[英] 加文·伊克斯坦|||https://book.douban.com/subject/26944471/
+428|||爱情笔记|||（英）阿兰·德波顿|||https://book.douban.com/subject/1079252/
+429|||幸福过了头|||艾丽丝·门罗|||https://book.douban.com/subject/25747874/
+430|||苦炼|||[法] 玛格丽特·尤瑟纳尔|||https://book.douban.com/subject/10546888/
+431|||跳房子|||[阿根廷] 胡利奥·科塔萨尔|||https://book.douban.com/subject/2969263/
+432|||亲爱的生活|||[加]艾丽丝·门罗|||https://book.douban.com/subject/25870629/
+433|||蝴蝶梦|||[英] 达夫妮·杜穆里埃|||https://book.douban.com/subject/1085021/
+434|||宇宙的尺度|||[美]大卫·布拉特纳（David Blatner）|||https://book.douban.com/subject/27030789/
+435|||青铜骑士|||(俄)普希金|||https://book.douban.com/subject/2093212/
+436|||九三年|||[法]雨果|||https://book.douban.com/subject/2042629/
+437|||你往何处去|||[波]显克维奇|||https://book.douban.com/subject/3733083/
+438|||收藏家|||[英] 约翰·福尔斯|||https://book.douban.com/subject/25977520/
+439|||弗兰妮与祖伊|||(美)J.D.塞林格|||https://book.douban.com/subject/2251691/
+440|||堂吉诃德|||塞万提斯、屠孟超|||https://book.douban.com/subject/1005918/
+441|||微暗的火|||[美]弗拉基米尔·纳博科夫|||https://book.douban.com/subject/2973335/
+442|||校园秘史|||(美)唐娜·塔特|||https://book.douban.com/subject/1962078/
+443|||搏击俱乐部|||[美] 恰克·帕拉尼克|||https://book.douban.com/subject/3821057/
+444|||黑狼罗密欧|||[美]尼克·詹斯 著|||https://book.douban.com/subject/27082538/
+445|||神曲（全三册）|||但丁|||https://book.douban.com/subject/1055234/
+446|||后来|||[英] 罗莎蒙德•勒普顿|||https://book.douban.com/subject/6861087/
+447|||眼泪与圣徒|||[法] E. M. 齐奥朗|||https://book.douban.com/subject/25774978/
+448|||金翅雀|||[美] 唐娜·塔特|||https://book.douban.com/subject/26653000/
+449|||忏悔录|||卢梭|||https://book.douban.com/subject/1048173/
+450|||失乐园|||弥尔顿|||https://book.douban.com/subject/2032523/
+451|||番石榴飘香|||[哥伦比亚] 加西亚·马尔克斯、[哥伦比亚] 门多萨|||https://book.douban.com/subject/26022097/
+452|||窄门|||[法] 安德烈·纪德|||https://book.douban.com/subject/4246979/
+453|||圣殿春秋（上）|||[英] 肯·福莱特|||https://book.douban.com/subject/3783409/
+454|||星辰时刻|||(巴西)克拉丽丝·李斯佩克朵|||https://book.douban.com/subject/25699387/
+455|||默尔索案调查|||[阿尔及利亚] 卡迈勒·达乌德|||https://book.douban.com/subject/26962683/
+456|||海底两万里|||[法国] 儒尔·凡尔纳|||https://book.douban.com/subject/1085470/
+457|||几乎没有记忆|||[美] 莉迪亚·戴维斯|||https://book.douban.com/subject/26264210/
+458|||纳博科夫短篇小说全集|||[美] 弗拉基米尔·纳博科夫|||https://book.douban.com/subject/27079433/
+459|||一生的故事（全六册）|||[俄] 康·帕乌斯托夫斯基|||https://book.douban.com/subject/1482496/
+460|||奥狄浦斯王|||[古希腊] 索福克勒斯|||https://book.douban.com/subject/1076330/
+461|||天意|||[英] 安妮塔·布鲁克纳|||https://book.douban.com/subject/26752646/
+462|||博尔赫斯短篇小说集|||[阿根廷] 博尔赫斯|||https://book.douban.com/subject/1768642/
+463|||树号|||[俄] 维克托·阿斯塔菲耶夫|||https://book.douban.com/subject/26892159/
+464|||时时刻刻|||(美)迈克尔·坎宁安|||https://book.douban.com/subject/6861517/
+465|||写在身体上|||[英] 珍妮特·温特森|||https://book.douban.com/subject/5940829/
+466|||巨匠与杰作|||[英] 萨默塞特·毛姆|||https://book.douban.com/subject/3190550/
+467|||带艾伯特回家|||[美] 霍默·希卡姆|||https://book.douban.com/subject/26938056/
+468|||致薇拉|||[美] 弗拉基米尔·纳博科夫|||https://book.douban.com/subject/26854223/
+469|||爱德华的奇妙之旅|||[美] 凯特·迪卡米洛、[美]马格拉姆·伊巴图林|||https://book.douban.com/subject/1982200/
+470|||赎罪|||[英] 伊恩·麦克尤恩|||https://book.douban.com/subject/2980471/
+471|||契诃夫小说全集|||[俄] 契诃夫|||https://book.douban.com/subject/25841074/
+472|||野性的呼唤|||杰克·伦敦|||https://book.douban.com/subject/1883353/
+473|||岛屿之书|||【英】艾米·利普特罗特|||https://book.douban.com/subject/27081332/
+474|||巴别塔之犬|||[美] 卡罗琳·帕克丝特|||https://book.douban.com/subject/2139305/
+475|||最接近生活的事物|||[英] 詹姆斯·伍德|||https://book.douban.com/subject/27073501/
+476|||大师|||[爱尔兰] 科尔姆·托宾|||https://book.douban.com/subject/3138839/
+477|||单身（50周年典藏纪念版）|||[美] 克里斯托弗·艾什伍德|||https://book.douban.com/subject/10564102/
+478|||若非此时，何时？|||[意大利] 普里莫·莱维|||https://book.douban.com/subject/26657701/
+479|||游戏的终结|||[阿根廷] 胡利奥·科塔萨尔|||https://book.douban.com/subject/10522844/
+480|||一路两个人|||(美)盖尔·考德威尔|||https://book.douban.com/subject/10763918/
+481|||皮囊之下|||[英] 米歇尔·法柏|||https://book.douban.com/subject/26866448/
+482|||阁楼上的疯女人|||[美] S.M.吉尔伯特、[美] 苏珊·古芭|||https://book.douban.com/subject/25986620/
+483|||克鲁索|||[德] 卢茨·赛勒|||https://book.douban.com/subject/27071457/
+484|||过于喧嚣的孤独 底层的珍珠|||[捷] 博·赫拉巴尔|||https://book.douban.com/subject/1291199/
+485|||深夜小狗神秘事件|||〔英〕马克•哈登 Mark Haddon|||https://book.douban.com/subject/5988558/
+486|||上升的一切必将汇合|||[美]弗兰纳里·奥康纳|||https://book.douban.com/subject/10483439/
+487|||旧地重游|||[英]伊夫林·沃（Evelyn Waugh）|||https://book.douban.com/subject/3765092/
+488|||格林童话全集|||格林兄弟|||https://book.douban.com/subject/1043008/
+489|||达摩流浪者|||[美] 杰克·凯鲁亚克|||https://book.douban.com/subject/3151990/
+490|||与你重逢|||[法] 马克·李维（Marc Levy）|||https://book.douban.com/subject/26971527/
+491|||笑忘录|||[捷克] 米兰·昆德拉|||https://book.douban.com/subject/1016486/
+492|||你在天堂里遇见的五个人|||[美] 米奇·阿尔博姆|||https://book.douban.com/subject/2193877/
+493|||静静的顿河（全四册）|||[苏] 肖洛霍夫|||https://book.douban.com/subject/1035478/
+494|||死于威尼斯|||[德] 托马斯·曼|||https://book.douban.com/subject/4621099/
+495|||莎士比亚全集（全8册）|||[英] 莎士比亚|||https://book.douban.com/subject/1089049/
+496|||北极梦|||[美] 巴里·洛佩兹|||https://book.douban.com/subject/26892088/
+497|||我弥留之际|||福克纳|||https://book.douban.com/subject/1082946/
+498|||小城|||（美）劳伦斯·布洛克|||https://book.douban.com/subject/4105439/
+499|||我不要你死于一事无成|||[阿富汗] 法齐娅·库菲|||https://book.douban.com/subject/10598170/
+500|||时间与河流|||(美)托马斯·沃尔夫|||https://book.douban.com/subject/5381541/
+501|||里尔克诗全集 珍藏版（全四卷）|||[奥] 里尔克|||https://book.douban.com/subject/26677797/
+502|||莎乐美|||[英]奥斯卡·王尔德、比亚兹莱  插图|||https://book.douban.com/subject/3129584/
+503|||芬尼根的守灵夜（第一卷）|||[爱尔兰] 詹姆斯·乔伊斯|||https://book.douban.com/subject/11604737/
+504|||守望灯塔|||(英)詹妮特·温特森|||https://book.douban.com/subject/1468997/
+505|||巴托比症候群|||[西班牙] 恩里克·比拉-马塔斯|||https://book.douban.com/subject/25959838/
+506|||人间食粮|||[法]安德烈·纪德|||https://book.douban.com/subject/2301475/
+507|||审判|||弗兰茨·卡夫卡|||https://book.douban.com/subject/1837654/
+508|||北美殉道者花园|||[美] 托拜厄斯·沃尔夫|||https://book.douban.com/subject/26297872/
+509|||法国文人相轻史|||(法)安娜•博凯尔、(法)艾蒂安•克恩|||https://book.douban.com/subject/6085413/
+510|||我是女兵,也是女人|||S.A.阿列克谢耶维奇|||https://book.douban.com/subject/26602467/
+511|||古拉格群岛（上中下）|||[俄] 亚历山大·索尔仁尼琴|||https://book.douban.com/subject/1315844/
+512|||天真的和感伤的小说家|||[土耳其] 奥尔罕·帕慕克|||https://book.douban.com/subject/10749924/
+513|||丧钟为谁而鸣|||海明威|||https://book.douban.com/subject/1174721/
+514|||从卡夫卡到昆德拉|||吴晓东|||https://book.douban.com/subject/1064707/
+515|||恋爱中的男人|||[德] 马丁·瓦尔泽(Martin Walser)|||https://book.douban.com/subject/4105424/
+516|||龙文身的女孩|||[瑞典] 斯蒂格·拉森|||https://book.douban.com/subject/4292149/
+517|||被束缚的人|||[奥] 伊尔泽·艾辛格尔|||https://book.douban.com/subject/26810715/
+518|||雾中回忆|||[澳] 凯特·莫顿|||https://book.douban.com/subject/26763171/
+519|||隐秘的幸福|||[巴西] 克拉丽丝·李斯佩克朵|||https://book.douban.com/subject/26716997/
+520|||小毛驴与我|||[西] 希梅内斯|||https://book.douban.com/subject/6974199/
+521|||走进大文豪的家|||【英】尼克·钱纳|||https://book.douban.com/subject/27064860/
+522|||猎人笔记|||屠格涅夫|||https://book.douban.com/subject/1894740/
+523|||剧院风情|||[英] 萨默塞特·毛姆|||https://book.douban.com/subject/3010128/
+524|||教授与疯子|||[英]西蒙·温切斯特|||https://book.douban.com/subject/3826293/
+525|||枯枝败叶|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/20392525/
+526|||彼得·潘|||[英] 詹姆斯·巴里、孙国双 图|||https://book.douban.com/subject/1001136/
+527|||当呼吸化为空气|||[美] 保罗·卡拉尼什|||https://book.douban.com/subject/26896859/
+528|||爱伦·坡暗黑故事全集（上册）|||[美] 爱伦•坡|||https://book.douban.com/subject/20493367/
+529|||加缪文集|||[法] 阿尔贝·加缪|||https://book.douban.com/subject/1034066/
+530|||曼哈顿的孤独诊所|||[美] 约书亚·弗里斯|||https://book.douban.com/subject/26893262/
+531|||文学阅读指南|||[英] 特里·伊格尔顿|||https://book.douban.com/subject/26286751/
+532|||蒂凡尼的早餐|||[美] 杜鲁门·卡波特|||https://book.douban.com/subject/3246904/
+533|||神谕之夜|||[美] 保罗·奥斯特|||https://book.douban.com/subject/2160292/
+534|||哈利·波特与阿兹卡班的囚徒|||[英] J. K. 罗琳|||https://book.douban.com/subject/1071241/
+535|||不存在的父亲|||[英] 迈克尔·道布斯|||https://book.douban.com/subject/26837789/
+536|||重返美丽新世界|||[英]阿道司·赫胥黎|||https://book.douban.com/subject/26266067/
+537|||十九世纪文学主流（共六册）|||勃兰兑斯|||https://book.douban.com/subject/1042006/
+538|||哈利·波特与被诅咒的孩子|||[英] 约翰·蒂法尼、杰克·索恩、J.K.罗琳|||https://book.douban.com/subject/26871656/
+539|||重生|||[美] 斯蒂芬·金|||https://book.douban.com/subject/26910593/
+540|||纸牌的秘密|||(挪)乔斯坦·贾德|||https://book.douban.com/subject/2296687/
+541|||爱伦·坡短篇小说集|||（美）爱伦・坡|||https://book.douban.com/subject/1083429/
+542|||看不见的世界|||[美]莉兹·摩尔|||https://book.douban.com/subject/27078321/
+543|||人都是要死的|||[法] 西蒙娜·德·波伏瓦|||https://book.douban.com/subject/6310320/
+544|||阿尔伯特·卡埃罗|||[葡萄牙]费尔南多·佩索阿|||https://book.douban.com/subject/24856615/
+545|||无人生还|||[英] 阿加莎・克里斯蒂|||https://book.douban.com/subject/3006581/
+546|||如何读，为什么读|||[美] 哈罗德·布鲁姆|||https://book.douban.com/subject/5326883/
+547|||遇见野兔的那一年|||[芬] 阿托·帕西林纳|||https://book.douban.com/subject/26983143/
+548|||练习告别|||[英]玛丽安·库茨Marion Coutts|||https://book.douban.com/subject/27042271/
+549|||礼拜二午睡时刻|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/26276923/
+550|||寂然的狂喜|||[爱尔兰] 威廉·巴特勒·叶芝、科尔姆·托宾 理查德·戈尔曼 依婉·伯兰 李昶 等|||https://book.douban.com/subject/26888764/
+551|||私货|||[英] 詹姆斯·伍德|||https://book.douban.com/subject/27073507/
+552|||俄罗斯文学讲稿|||[美] 弗拉基米尔·纳博科夫|||https://book.douban.com/subject/26286330/
+553|||雨后|||[爱尔兰] 威廉·特雷弗|||https://book.douban.com/subject/19950785/
+554|||戴上手套擦泪|||[瑞典] 乔纳斯·嘉德尔|||https://book.douban.com/subject/27006491/
+555|||妹妹|||[英] 罗莎蒙德·勒普顿|||https://book.douban.com/subject/6539917/
+556|||城市与狗|||（秘鲁）略萨|||https://book.douban.com/subject/2073481/
+557|||山月记|||中岛敦|||https://book.douban.com/subject/20473505/
+558|||空荡荡的家|||(爱尔兰)科尔姆·托宾|||https://book.douban.com/subject/19950784/
+559|||四七社|||[德] 赫尔穆特·伯蒂格|||https://book.douban.com/subject/27015567/
+560|||特朗斯特罗姆诗歌全集|||[瑞典] 托马斯·特朗斯特罗姆|||https://book.douban.com/subject/10485026/
+561|||纪伯伦诗集|||（黎巴嫩）纪·哈·纪伯伦（Gibran,K.）|||https://book.douban.com/subject/1451270/
+562|||只爱陌生人|||[英] 伊恩·麦克尤恩|||https://book.douban.com/subject/4151134/
+563|||权力与荣耀|||[英] 格雷厄姆·格林|||https://book.douban.com/subject/2568438/
+564|||爱有失落时|||[美] 马修·奎克|||https://book.douban.com/subject/26871658/
+565|||伍尔夫读书随笔|||[英] 弗吉尼亚·伍尔夫|||https://book.douban.com/subject/1760730/
+566|||邮差总按两遍铃|||[美] 詹姆斯·M.凯恩|||https://book.douban.com/subject/5921802/
+567|||血色子午线|||科马克·麦卡锡|||https://book.douban.com/subject/20444771/
+568|||一个市民的自白|||[匈] 马洛伊·山多尔|||https://book.douban.com/subject/26253801/
+569|||安德的游戏·三部曲|||[美] 奥森·斯科特·卡德|||https://book.douban.com/subject/26779789/
+570|||Infinite Jest|||David Foster Wallace|||https://book.douban.com/subject/1767750/
+571|||南瓜花|||[以] 马蒂·弗里德曼|||https://book.douban.com/subject/26902259/
+572|||魔桶|||(美)伯纳德·马拉默德|||https://book.douban.com/subject/7060197/
+573|||少年维特的烦恼|||[德] 歌德|||https://book.douban.com/subject/1047138/
+574|||芭巴拉少校|||萧伯纳(英)|||https://book.douban.com/subject/1026916/
+575|||年轻的心在哭泣|||[美] 理查德·耶茨、Richard Yates|||https://book.douban.com/subject/6060418/
+576|||生命最后的读书会|||﹝美﹞威尔•施瓦尔贝|||https://book.douban.com/subject/24875416/
+577|||暗店街|||[法] 帕特里克·莫迪亚诺|||https://book.douban.com/subject/26110579/
+578|||纸牌屋|||迈克尔·道布斯|||https://book.douban.com/subject/25808056/
+579|||唐璜（上下册）|||拜伦|||https://book.douban.com/subject/2364762/
+580|||自杀俱乐部|||[英] 尼克·霍恩比|||https://book.douban.com/subject/2280027/
+581|||安尼尔的鬼魂|||[加拿大] 迈克尔·翁达杰|||https://book.douban.com/subject/26728131/
+582|||纠正|||乔纳森·弗兰岑|||https://book.douban.com/subject/24719080/
+583|||大河湾|||[英] V. S. 奈保尔|||https://book.douban.com/subject/25919825/
+584|||天堂之火|||[英] 玛丽·瑞瑙特|||https://book.douban.com/subject/26342182/
+585|||盲刺客|||玛·阿特伍德|||https://book.douban.com/subject/1960035/
+586|||西方正典|||[美] 哈罗德·布鲁姆|||https://book.douban.com/subject/1331454/
+587|||名利场|||[英]萨克雷|||https://book.douban.com/subject/2174410/
+588|||牛虻|||伏尼契(爱尔兰)|||https://book.douban.com/subject/1012637/
+589|||推销员之死|||[美]阿瑟·米勒|||https://book.douban.com/subject/3127852/
+590|||你好，法奈利|||[美] 杰西卡•诺尔|||https://book.douban.com/subject/27003599/
+591|||恐惧|||(奥)茨威格|||https://book.douban.com/subject/10563555/
+592|||哈姆莱特|||[英] 莎士比亚|||https://book.douban.com/subject/1006197/
+593|||暗杀大师：死亡信使|||[美] 丹尼尔·席尔瓦|||https://book.douban.com/subject/26861447/
+594|||写作这回事|||[美]斯蒂芬·金|||https://book.douban.com/subject/3888123/
+595|||别的声音，别的房间|||[美] 杜鲁门·卡波特|||https://book.douban.com/subject/5448179/
+596|||杜撰集|||(阿根廷)博尔赫斯|||https://book.douban.com/subject/25796061/
+597|||小妇人|||（美）路易莎・梅・奥尔科特|||https://book.douban.com/subject/1427288/
+598|||人贩|||[意]洛蕾塔·拿波里奥尼|||https://book.douban.com/subject/26980356/
+599|||好笑的爱|||米兰・昆德拉|||https://book.douban.com/subject/1064828/
+600|||会说话的猪|||《世界文学》编辑部 编|||https://book.douban.com/subject/2033688/
+601|||探讨别集|||(阿根廷)豪·路·博尔赫斯|||https://book.douban.com/subject/3003475/
+602|||复活|||[俄]列夫·托尔斯泰|||https://book.douban.com/subject/1255288/
+603|||玩笑|||米兰 · 昆德拉|||https://book.douban.com/subject/1052828/
+604|||幻影书|||[美] 保罗·奥斯特|||https://book.douban.com/subject/2214350/
+605|||卡夫卡全集（全10卷）|||叶廷芳 主编|||https://book.douban.com/subject/1430657/
+606|||柳林风声|||[英] 肯尼斯·格雷厄姆 著、[澳] 罗伯特·英潘 绘|||https://book.douban.com/subject/10794550/
+607|||新千年文学备忘录|||(意)伊塔洛·卡尔维诺|||https://book.douban.com/subject/3643270/
+608|||瞎猫头鹰|||[伊朗] 侯赛因·莫尔塔扎依扬·阿布克那尔、[伊朗] 胡尚格·古尔希里、[伊朗] 萨迪克·赫达亚特|||https://book.douban.com/subject/27068696/
+609|||乡村生活图景|||[以色列] 阿摩司·奥兹|||https://book.douban.com/subject/26602780/
+610|||元素周期表|||普里莫·莱维|||https://book.douban.com/subject/26612656/
+611|||雾都孤儿|||[英]狄更斯|||https://book.douban.com/subject/1203251/
+612|||孤儿列车|||[英] 克里斯蒂娜·贝克·克兰|||https://book.douban.com/subject/26349261/
+613|||我们飞|||[瑞士] 彼得·施塔姆|||https://book.douban.com/subject/26704178/
+614|||海浪|||(英)弗吉尼亚·伍尔夫|||https://book.douban.com/subject/3402988/
+615|||从前喜欢一个人，现在喜欢一个人|||【美】凯特·波里克|||https://book.douban.com/subject/27081920/
+616|||忽然七日|||[美] 劳伦·奥利弗|||https://book.douban.com/subject/5391766/
+617|||最后一个故事，就这样啦|||[以色列] 埃特加·凯雷特、Etgar Keret|||https://book.douban.com/subject/26881656/
+618|||星星上的人|||[美] 卡罗琳·帕克丝特|||https://book.douban.com/subject/26969635/
+619|||索拉里斯星|||[波] 斯坦尼斯拉夫·莱姆|||https://book.douban.com/subject/1440243/
+620|||笑面人|||雨果|||https://book.douban.com/subject/1885262/
+621|||福尔摩斯探案全集（思维导图版）：巴斯克维尔的猎犬|||阿瑟•柯南•道尔|||https://book.douban.com/subject/27043783/
+622|||往事与随想|||(俄)赫尔岑|||https://book.douban.com/subject/1926728/
+623|||里尔克传|||[英] 唐纳德·普拉特|||https://book.douban.com/subject/26920198/
+624|||我曾侍候过英国国王|||（捷克）赫拉巴尔|||https://book.douban.com/subject/1038656/
+625|||直捣蜂窝的女孩|||[瑞典] 斯蒂格·拉森|||https://book.douban.com/subject/5993310/
+626|||肉桂色铺子|||[波兰]布鲁诺·舒尔茨|||https://book.douban.com/subject/4191701/
+627|||一天|||(英)大卫·尼克斯|||https://book.douban.com/subject/6890671/
+628|||爱达或爱欲|||[美] 弗拉基米尔·纳博科夫|||https://book.douban.com/subject/24871651/
+629|||泰戈尔诗集|||[印] 罗宾德拉纳特·泰戈尔|||https://book.douban.com/subject/1170801/
+630|||抵达之谜|||奈保尔|||https://book.douban.com/subject/1154561/
+631|||给樱桃以性别|||[英] 珍妮特·温特森|||https://book.douban.com/subject/10740054/
+632|||戴上手套擦泪|||[瑞典] 乔纳斯·嘉德尔|||https://book.douban.com/subject/27006493/
+633|||斯·茨威格中短篇小说选|||斯·茨威格|||https://book.douban.com/subject/1818583/
+634|||魔法坏女巫|||[美] 格雷戈里·马奎尔(Gregory Maguire）|||https://book.douban.com/subject/27000960/
+635|||逃离2147|||[美] A.G.里德尔|||https://book.douban.com/subject/27003797/
+636|||浮士德博士|||(德)托马斯·曼|||https://book.douban.com/subject/10473352/
+637|||欧·亨利短篇小说选|||[美] 欧·亨利(O’Henry)|||https://book.douban.com/subject/1254731/
+638|||青春咖啡馆|||[法] 帕特里克·莫迪亚诺|||https://book.douban.com/subject/4714018/
+639|||线|||〔英〕维多利亚·希斯洛普|||https://book.douban.com/subject/25890145/
+641|||大卫·科波菲尔（上下）|||（英）狄更斯|||https://book.douban.com/subject/1014144/
+642|||葬礼竞技会|||[英] 玛丽·瑞瑙特|||https://book.douban.com/subject/26686803/
+643|||不适之地|||[美] 茱帕·拉希里|||https://book.douban.com/subject/5321892/
+644|||哀伤的墙|||[法] 雅斯米纳·卡黛哈|||https://book.douban.com/subject/26798156/
+645|||戏梦巴黎|||(英) 阿代尔|||https://book.douban.com/subject/4262685/
+646|||希腊人左巴|||[希腊] 尼科斯·卡赞扎基斯|||https://book.douban.com/subject/26892803/
+647|||希区柯克悬念故事集|||（美）希区柯克|||https://book.douban.com/subject/4116629/
+648|||欲望号街车|||[美]田纳西·威廉斯|||https://book.douban.com/subject/4247000/
+649|||夜|||[美] 埃利·威塞尔|||https://book.douban.com/subject/25900687/
+650|||漫长的告别|||[美] 雷蒙德·钱德勒|||https://book.douban.com/subject/3013903/
+651|||骑兵军|||（俄）伊萨克・巴别尔|||https://book.douban.com/subject/1074155/
+652|||哈利·波特与密室|||[英] J. K. 罗琳|||https://book.douban.com/subject/1039487/
+653|||一个人的朝圣2|||蕾秋·乔伊斯|||https://book.douban.com/subject/26584387/
+654|||给一个未出生孩子的信|||[意] 法拉奇|||https://book.douban.com/subject/4266008/
+655|||魔兽世界编年史|||[美] 克里斯·梅森 等|||https://book.douban.com/subject/26792804/
+656|||小城畸人|||[美]舍伍德·安德森|||https://book.douban.com/subject/3136267/
+657|||马丁·伊登|||（美）杰克・伦敦|||https://book.douban.com/subject/1075371/
+658|||雨必将落下|||(英)米歇尔·法柏|||https://book.douban.com/subject/6560651/
+659|||小说鉴赏|||[美]克林斯·布鲁克斯（C. Brooks）、[美]罗伯特·潘·沃伦（R. P. Warren）|||https://book.douban.com/subject/1950154/
+660|||世上另一个我(修订版)|||[美] 萨拉·帕坎南|||https://book.douban.com/subject/6041708/
+661|||衣橱里的女孩|||[法]弗朗丝•盖兰、[法]尼古拉斯•托朗|||https://book.douban.com/subject/27049049/
+662|||爱在别离时|||【美】安娜·昆德兰|||https://book.douban.com/subject/27044645/
+663|||会消失的人|||[法] 纪尧姆·米索|||https://book.douban.com/subject/26931567/
+664|||猫的私人词典|||[法] 弗雷德里克·维杜|||https://book.douban.com/subject/26835895/
+665|||一个人消失在世上|||[意]亚历山德罗·巴里科|||https://book.douban.com/subject/24861167/
+666|||北回归线|||亨利・米勒|||https://book.douban.com/subject/1083317/
+667|||苦水音乐|||(美)查尔斯·布考斯基|||https://book.douban.com/subject/21778349/
+668|||远大前程|||（英）狄更斯|||https://book.douban.com/subject/1011228/
+669|||霍比特人|||[英] J.R.R.托尔金|||https://book.douban.com/subject/20370889/
+670|||V字仇杀队|||(美)阿兰·摩尔、大卫·劳埃德|||https://book.douban.com/subject/25733467/
+671|||疑问集|||[智利] 巴勃罗 • 聂鲁达|||https://book.douban.com/subject/25986497/
+672|||希腊三部曲Ⅰ 追逐阳光之岛|||Gerald Durrell|||https://book.douban.com/subject/3023897/
+673|||更多的人死于心碎|||[美]索尔·贝娄(Saul Bellow)|||https://book.douban.com/subject/1438394/
+674|||神经外科的黑色喜剧|||[美]法兰克·佛杜锡克 著、吴程远 译|||https://book.douban.com/subject/1852700/
+675|||夜色温柔|||[美]F·S·菲茨杰拉德|||https://book.douban.com/subject/5406557/
+676|||中央公园西路|||[美] 伍迪·艾伦|||https://book.douban.com/subject/4732188/
+677|||恋爱中的骗子|||[美] 理查德·耶茨|||https://book.douban.com/subject/6041086/
+678|||我曾这样寂寞生活：辛波斯卡诗选2|||[波]维斯拉瓦·辛波斯卡|||https://book.douban.com/subject/25801080/
+679|||拜伦 雪莱 济慈 抒情诗精选集|||G.G.拜伦、P.B.雪莱、J.济慈|||https://book.douban.com/subject/2073345/
+680|||单程票|||[法] 迪迪尔·范·考韦拉尔特|||https://book.douban.com/subject/26840109/
+681|||The Crimson Petal and the White|||Michel Faber|||https://book.douban.com/subject/2721880/
+682|||雪|||[土] 奥尔罕·帕慕克|||https://book.douban.com/subject/2062599/
+683|||狐狸与星|||[英]科拉莉•比克福德-史密斯|||https://book.douban.com/subject/26945674/
+684|||恋人絮语|||[法]罗兰·巴特|||https://book.douban.com/subject/3765331/
+685|||茫茫黑夜漫游|||[法] 路易·费迪南·塞利纳|||https://book.douban.com/subject/3324036/
+686|||博尔赫斯文集|||[阿根廷] 博尔赫斯|||https://book.douban.com/subject/1005255/
+687|||被背叛的遗嘱|||米兰・昆德拉|||https://book.douban.com/subject/1023709/
+688|||爱是地狱冥犬|||[美] 布考斯基|||https://book.douban.com/subject/26889424/
+689|||恶棍列传|||[阿根廷]豪·路·博尔赫斯|||https://book.douban.com/subject/3003466/
+690|||热爱生命|||(美)杰克·伦敦著|||https://book.douban.com/subject/1082147/
+691|||炽焰燃烧|||(美) 罗恩·拉什|||https://book.douban.com/subject/6791412/
+692|||特别的猫|||[英] 多丽丝·莱辛|||https://book.douban.com/subject/2996596/
+693|||请你安静些，好吗？|||(美)雷蒙德·卡佛|||https://book.douban.com/subject/20425433/
+694|||冠军早餐 囚鸟|||（美）冯内古特|||https://book.douban.com/subject/2255871/
+695|||一间自己的屋子|||[英] 弗吉尼亚·伍尔夫|||https://book.douban.com/subject/2375988/
+696|||无知|||[捷克] 米兰·昆德拉|||https://book.douban.com/subject/1057197/
+697|||索多瑪120天|||薩德侯爵(Marquis de Sade)|||https://book.douban.com/subject/1363379/
+698|||潜水钟与蝴蝶|||[法] 让-多米尼克·鲍比|||https://book.douban.com/subject/2243692/
+699|||牡蛎男孩忧郁之死|||(美)蒂姆·伯顿|||https://book.douban.com/subject/6844341/
+700|||美好的事物无法久存|||[美] 罗恩·拉什|||https://book.douban.com/subject/26346222/
+701|||根西岛文学与土豆皮馅饼俱乐部|||(美) 谢弗, (美) 拜罗斯著、Mary Ann Shaffer , Annie Barrows|||https://book.douban.com/subject/4152770/
+702|||爱情没那么美好|||[法] 布里吉特·吉罗|||https://book.douban.com/subject/5394486/
+703|||大鱼|||【美】丹尼尔·华莱士|||https://book.douban.com/subject/21681263/
+704|||撒马尔罕|||[法] 阿敏·马卢夫|||https://book.douban.com/subject/27081283/
+705|||假如给我三天光明|||海伦・凯勒(helen keller)|||https://book.douban.com/subject/1040397/
+706|||希腊神话故事|||[德] 古斯塔夫·施瓦布|||https://book.douban.com/subject/1603984/
+707|||巴塞尔姆的60个故事|||[美] 唐纳德·巴塞尔姆|||https://book.douban.com/subject/26412776/
+708|||动物寓言集|||[阿根廷] 胡利奥·科塔萨尔|||https://book.douban.com/subject/6010144/
+709|||在你说“喂”之前|||[意] 伊塔洛·卡尔维诺|||https://book.douban.com/subject/26377363/
+710|||押沙龙，押沙龙！|||[美] 威廉·福克纳|||https://book.douban.com/subject/4619135/
+711|||神话：希腊、罗马及北欧的神话故事和英雄传说|||[美] 依迪丝·汉密尔顿(Edith Hamilton) 著、陈嘉映 编|||https://book.douban.com/subject/25829274/
+712|||国王鞠躬，国王杀人|||[德] 赫塔·米勒|||https://book.douban.com/subject/5299919/
+713|||英国文学名篇选注|||王佐良、李赋宁、周珏良、刘承沛 主编|||https://book.douban.com/subject/1242927/
+714|||走在蓝色的田野上|||[爱尔兰]克莱尔·吉根|||https://book.douban.com/subject/5980585/
+715|||鸟人|||[美] 威廉·沃顿|||https://book.douban.com/subject/26742636/
+716|||叶芝诗集（上中下）|||（爱尔兰）叶芝|||https://book.douban.com/subject/1426852/
+717|||荒野侦探|||[智利] 罗贝托·波拉尼奥|||https://book.douban.com/subject/3861531/
+718|||海上提琴师|||【法】吉尔伯特·博尔德|||https://book.douban.com/subject/27059874/
+719|||梦想家彼得|||[英] 伊恩·麦克尤恩|||https://book.douban.com/subject/3689118/
+720|||爱与战争的日日夜夜|||[乌拉圭] 爱德华多·加莱亚诺|||https://book.douban.com/subject/26372186/
+721|||精灵宝钻|||托尔金|||https://book.douban.com/subject/1063401/
+722|||莎士比亚四大悲剧|||威廉·莎士比亚|||https://book.douban.com/subject/1882915/
+723|||恶心|||[法] 让-保罗·萨特|||https://book.douban.com/subject/1030554/
+724|||飞越疯人院|||[美] 肯·克西|||https://book.douban.com/subject/3263006/
+725|||钢铁是怎样炼成的|||[苏] 尼·奥斯特洛夫斯基|||https://book.douban.com/subject/1013502/
+726|||印象与风景|||[西班牙] 加西亚·洛尔迦|||https://book.douban.com/subject/26843077/
+727|||饥饿艺术家|||（奥）卡夫卡|||https://book.douban.com/subject/3215997/
+728|||裸体午餐|||(美)威廉·巴勒斯|||https://book.douban.com/subject/24523682/
+729|||钟形罩|||（美）西尔维娅·普拉斯|||https://book.douban.com/subject/2283762/
+730|||水之乡|||格雷厄姆·斯威夫特|||https://book.douban.com/subject/4121656/
+731|||重生：桑塔格日记与笔记1947～1963|||(美)苏珊·桑塔格 著、(美)里夫编|||https://book.douban.com/subject/20375515/
+732|||永恒的终结|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/25829693/
+733|||爱情半夜餐|||(法)米歇尔·图尼埃|||https://book.douban.com/subject/10604943/
+734|||罗尼|||[英] 安德鲁·麦克尔·赫尔利|||https://book.douban.com/subject/26959630/
+735|||世界上的另一个你|||[美] 朗·霍尔(Ron Hall)、[美] 丹佛·摩尔(Denver Moore)|||https://book.douban.com/subject/10512506/
+736|||女巫的子孙|||[加] 玛格丽特·阿特伍德|||https://book.douban.com/subject/27065494/
+737|||神经漫游者|||[美] 威廉·吉布森|||https://book.douban.com/subject/24107596/
+738|||莎士比亚|||[英]安东尼·伯吉斯|||https://book.douban.com/subject/26310659/
+739|||一个自行发完病毒的病例|||[英] 格雷厄姆·格林|||https://book.douban.com/subject/3174506/
+740|||成为农夫|||[美] 道格·范恩|||https://book.douban.com/subject/27017251/
+741|||小谎言|||[澳]莉安·莫利亚提|||https://book.douban.com/subject/26756561/
+742|||诗人的迟缓|||范晔|||https://book.douban.com/subject/25908110/
+743|||王尔德作品集|||[英] 奥斯卡·王尔德|||https://book.douban.com/subject/1316652/
+744|||荷马史诗中的生与死|||[英]加斯帕·格里芬（Jasper Griffin）|||https://book.douban.com/subject/26657198/
+745|||契诃夫短篇小说选|||契诃夫|||https://book.douban.com/subject/1083435/
+746|||桤木王|||米歇尔·图尼埃|||https://book.douban.com/subject/1461987/
+747|||玩偶之家|||易卜生|||https://book.douban.com/subject/1373788/
+748|||谢里宝贝|||(法)科莱特|||https://book.douban.com/subject/24851826/
+749|||转念|||[美]拜伦•凯蒂（Byron Katie）迈克尔•卡茨（Michael Katz）|||https://book.douban.com/subject/27088801/
+750|||里斯本夜车|||(瑞士)帕斯卡·梅西耶|||https://book.douban.com/subject/20435635/
+751|||大树|||[法] 贝纳尔·韦尔贝|||https://book.douban.com/subject/3871911/
+752|||两个她的奇幻之旅|||[英] 菲德拉•帕特里克|||https://book.douban.com/subject/27072817/
+753|||十日谈|||薄迦丘|||https://book.douban.com/subject/1279212/
+754|||博尔赫斯全集：诗歌卷 (上册)|||[阿根廷]豪·路·博尔赫斯|||https://book.douban.com/subject/24872823/
+755|||柠檬桌子|||[英] 朱利安·巴恩斯|||https://book.douban.com/subject/10774932/
+756|||慢|||米兰・昆德拉|||https://book.douban.com/subject/1025336/
+757|||童年与故乡|||[挪威] 古尔布兰生|||https://book.douban.com/subject/5383175/
+758|||你好，忧愁|||[法] 弗朗索瓦丝·萨冈|||https://book.douban.com/subject/1455933/
+759|||孤独鸽|||（美）拉里·麦克默特里|||https://book.douban.com/subject/1329403/
+760|||一瞬一生|||周作人|||https://book.douban.com/subject/27050466/
+761|||碟形世界：猫和少年魔笛手|||[英] 特里·普拉切特|||https://book.douban.com/subject/27059884/
+762|||耻|||（南非）J.M.库切|||https://book.douban.com/subject/1077638/
+763|||莫里哀先生传|||布尔加科夫|||https://book.douban.com/subject/26910989/
+764|||巴黎的忧郁|||（法）波德莱尔|||https://book.douban.com/subject/1041896/
+765|||凯尔特的薄暮|||(爱尔兰)W.B.叶芝|||https://book.douban.com/subject/2267630/
+766|||我们所有人|||(美)雷蒙德·卡佛|||https://book.douban.com/subject/20425439/
+767|||托马斯·伯恩哈德自传小说五部曲|||[奥地利] 托马斯·伯恩哈德|||https://book.douban.com/subject/26848050/
+768|||如何独处|||[美] 乔纳森·弗兰岑|||https://book.douban.com/subject/26430928/
+769|||海上大教堂|||[西班牙] 伊德方索·法孔内斯(Ildefonso Falcones)|||https://book.douban.com/subject/4233385/
+770|||新手|||[美] 雷蒙德·卡佛|||https://book.douban.com/subject/26375108/
+771|||萧伯纳戏剧选|||[爱尔兰] 乔治·萧伯纳、George Bernard Shaw|||https://book.douban.com/subject/1950749/
+772|||孤独或类似的东西|||[日] 大崎善生|||https://book.douban.com/subject/27131077/
+773|||曼德施塔姆夫人回忆录|||(俄罗斯)娜杰日达·曼德施塔姆|||https://book.douban.com/subject/24738206/
+774|||波多里诺|||[意] 翁贝托·埃科|||https://book.douban.com/subject/2003092/
+775|||祖与占|||[法]  亨利-皮埃尔·罗什|||https://book.douban.com/subject/4898547/
+776|||摹仿论|||[德] 埃里希·奥尔巴赫|||https://book.douban.com/subject/25708977/
+777|||白夜|||[俄] 陀思妥耶夫斯基|||https://book.douban.com/subject/21993104/
+778|||法官和他的刽子手|||（瑞士）弗·迪伦马特|||https://book.douban.com/subject/1084794/
+779|||中性|||[美] 杰弗里·尤金尼德斯|||https://book.douban.com/subject/2568067/
+780|||是，大臣|||(英)乔纳森·林恩、(英)安东尼·杰伊 编著|||https://book.douban.com/subject/10764363/
+781|||路边狗|||[波兰] 切斯瓦夫·米沃什|||https://book.douban.com/subject/26955196/
+782|||福楼拜的鹦鹉|||朱利安·巴恩斯|||https://book.douban.com/subject/4869637/
+783|||东方故事集|||(法)玛格丽特·尤瑟纳尔|||https://book.douban.com/subject/3024319/
+784|||黑暗的心|||约瑟夫·康拉德|||https://book.douban.com/subject/1535600/
+785|||美好古董衣店|||[美]斯特凡尼·莱曼|||https://book.douban.com/subject/26248587/
+786|||听客溪的朝圣|||[美] 安妮·迪拉德|||https://book.douban.com/subject/26348734/
+787|||奥丁的子女|||[爱尔兰] 帕德里克·科勒姆、Padraic Colum|||https://book.douban.com/subject/26718529/
+788|||殡葬人的秘密|||[美] 雷·布拉德伯里|||https://book.douban.com/subject/26789635/
+789|||轻舔丝绒|||[英]萨拉·沃特斯|||https://book.douban.com/subject/4198469/
+790|||众生安眠|||(美)库尔特·冯内古特|||https://book.douban.com/subject/20380988/
+791|||陌生的女儿|||[美] 金伯莉·麦克奎格（Kimberly McCreight）|||https://book.douban.com/subject/26911045/
+792|||美洲纳粹文学|||[智利] 罗贝托·波拉尼奥|||https://book.douban.com/subject/25837539/
+793|||异形：契约|||[美] 艾伦·迪恩·福斯特|||https://book.douban.com/subject/27063968/
+794|||魔戒（第一部）|||[英国] 托尔金|||https://book.douban.com/subject/1040104/
+795|||在德黑兰读《洛丽塔》|||（伊朗）阿扎尔·纳菲西|||https://book.douban.com/subject/5404221/
+796|||别样的色彩|||[土耳其] 奥尔罕·帕慕克|||https://book.douban.com/subject/5419801/
+797|||加薪秘诀|||[法] 乔治·佩雷克|||https://book.douban.com/subject/27046786/
+798|||汤姆叔叔的小屋|||（美）斯托夫人（Stowe,H.B.）|||https://book.douban.com/subject/1430530/
+799|||鹰的王座|||[墨西哥] 卡洛斯·富恩特斯|||https://book.douban.com/subject/27087311/
+800|||菲雅尔塔的春天|||纳博科夫|||https://book.douban.com/subject/1105150/
+801|||The Fault in Our Stars|||John Green|||https://book.douban.com/subject/6897140/
+802|||匙河集|||[美] 马斯特斯|||https://book.douban.com/subject/27082097/
+803|||爸爸，我们去哪儿？|||[法] 让-路易·傅尼叶|||https://book.douban.com/subject/4732123/
+804|||幽灵之家|||(智利)伊莎贝尔·阿连德|||https://book.douban.com/subject/2061444/
+805|||守望之心|||[美] 哈珀·李|||https://book.douban.com/subject/26909081/
+806|||鲁滨逊漂流记|||[英] 笛福|||https://book.douban.com/subject/1016003/
+807|||我为什么要写作|||乔治·奥威尔|||https://book.douban.com/subject/2135139/
+808|||读诗的艺术|||[美] 哈罗德·布鲁姆 等|||https://book.douban.com/subject/4299250/
+809|||狗心|||[俄] 布尔加科夫|||https://book.douban.com/subject/4191696/
+810|||与往事说再见|||(法)菲利普·贝松|||https://book.douban.com/subject/10345585/
+811|||夏威夷史诗|||[美]詹姆斯·米切纳|||https://book.douban.com/subject/26274359/
+812|||庆祝无意义|||[法]米兰·昆德拉|||https://book.douban.com/subject/25881325/
+813|||人间喜剧|||巴尔扎克|||https://book.douban.com/subject/4199233/
+814|||黑书|||(土耳其)奥尔罕·帕慕克(Orhan Pamuk)|||https://book.douban.com/subject/2124556/
+815|||挪威的森林|||[日] 村上春树|||https://book.douban.com/subject/1046265/
+816|||去他的戒律|||[法] 弗朗索瓦·齐博|||https://book.douban.com/subject/26916869/
+817|||草叶集|||(美)瓦尔特.惠特曼|||https://book.douban.com/subject/1039809/
+818|||八月之光|||[美]威廉·福克纳|||https://book.douban.com/subject/3131613/
+819|||孤独的池塘|||[法] 弗朗索瓦丝·萨冈|||https://book.douban.com/subject/6874612/
+820|||加西亚·马尔克斯中短篇小说集|||加西亚·马尔克斯|||https://book.douban.com/subject/1807562/
+821|||地下世界|||(美)唐·德里罗|||https://book.douban.com/subject/11597313/
+822|||Their Eyes Were Watching God|||Zora Neale Hurston|||https://book.douban.com/subject/1418860/
+823|||牧歌|||[古罗马] 维吉尔|||https://book.douban.com/subject/3662554/
+824|||爱丽尔|||[美] 西尔维娅·普拉斯|||https://book.douban.com/subject/26258374/
+825|||王尔德全集|||[英] 奥斯卡·王尔德|||https://book.douban.com/subject/1000251/
+826|||王尔德喜剧|||[英]王尔德（Oscar Wilde）|||https://book.douban.com/subject/26982527/
+827|||夏日遇见狄更斯|||[美] 雷·布拉德伯里|||https://book.douban.com/subject/26834592/
+828|||痛苦与狂喜：众神之巅|||[美]欧文·斯通|||https://book.douban.com/subject/26695251/
+829|||蓝色笔记本|||[俄] 丹尼尔·哈尔姆斯|||https://book.douban.com/subject/26910978/
+830|||过于喧嚣的孤独|||博·赫拉巴尔|||https://book.douban.com/subject/4285240/
+831|||笼中的爱人|||[英] 蕾切尔·阿博特|||https://book.douban.com/subject/26666917/
+832|||他方世界|||[美]约翰·克劳利|||https://book.douban.com/subject/25805143/
+833|||一千零一夜|||纳训|||https://book.douban.com/subject/1035848/
+834|||上帝的图书馆|||[美] 司各特·霍金斯|||https://book.douban.com/subject/26656291/
+835|||我已经结婚了  我心情还不好|||[挪威]阿澜·卢|||https://book.douban.com/subject/26108007/
+836|||房间|||(爱尔兰)爱玛·多诺霍|||https://book.douban.com/subject/7007231/
+837|||寻找光的小女孩|||[法]希里尔•马萨霍托、Cyril Massarotto|||https://book.douban.com/subject/26802228/
+838|||锌皮娃娃兵|||S.A.阿列克谢耶维奇|||https://book.douban.com/subject/25940556/
+839|||我在雨中等你|||[美] 加思·斯坦|||https://book.douban.com/subject/3302645/
+840|||动荡|||[德]汉斯·马格努斯·恩岑斯贝格尔|||https://book.douban.com/subject/26938857/
+841|||第十三个故事|||[英] 戴安娜·赛特菲尔德|||https://book.douban.com/subject/3055316/
+842|||已知的世界|||[美] 爱德华·P. 琼斯|||https://book.douban.com/subject/4894979/
+843|||老妇还乡|||[瑞士] 迪伦马特|||https://book.douban.com/subject/1047325/
+844|||巴黎伦敦落魄记|||[英]乔治·奥威尔|||https://book.douban.com/subject/1607478/
+845|||爱，始于冬季|||[英] 西蒙·范·布伊|||https://book.douban.com/subject/6003394/
+846|||风沙星辰|||[法] 安东尼•德•圣埃克苏佩里、Antoine de Saint Exupéry|||https://book.douban.com/subject/10439392/
+847|||西南联大英文课|||陈福田 (作者)、胡晓凯 (编者, 丛书主编)|||https://book.douban.com/subject/27015443/
+848|||哈利·波特与火焰杯|||[英] J. K. 罗琳|||https://book.douban.com/subject/1009257/
+849|||伊斯坦布尔假期|||(法)马克·李维|||https://book.douban.com/subject/19950612/
+850|||老无所依|||(美)科马克·麦卡锡|||https://book.douban.com/subject/6833935/
+851|||The Door|||Magda Szabo|||https://book.douban.com/subject/26321442/
+852|||变形记|||奥维德|||https://book.douban.com/subject/1185912/
+853|||岩石旅社|||【英】彼得•尼克尔斯|||https://book.douban.com/subject/26962627/
+854|||廊桥遗梦|||（美）罗伯特・沃勒|||https://book.douban.com/subject/1011702/
+855|||寂寞芳心小姐|||[美] 纳撒尼尔·韦斯特|||https://book.douban.com/subject/6428983/
+856|||弗兰肯斯坦|||[英]玛丽·雪莱|||https://book.douban.com/subject/2042631/
+857|||沙与沫|||卡里・纪伯伦、廖欣|||https://book.douban.com/subject/1219090/
+858|||母与子|||(爱尔兰)科尔姆·托宾|||https://book.douban.com/subject/6712398/
+859|||恶时辰|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/20392524/
+860|||火 一弹解千愁|||[法] 玛格丽特·尤瑟纳尔|||https://book.douban.com/subject/1269972/
+861|||烟雾弥漫你的眼|||凯特琳·道蒂、Caitlin Doughty|||https://book.douban.com/subject/26653460/
+862|||船夫日记|||[匈牙利] 凯尔泰斯·伊姆莱|||https://book.douban.com/subject/26253701/
+863|||想象共和国|||[美] 阿扎尔·纳菲西|||https://book.douban.com/subject/26835963/
+864|||她他|||[英] 简·莫里斯|||https://book.douban.com/subject/26862163/
+865|||七夜|||[阿根廷] 博尔赫斯|||https://book.douban.com/subject/26270304/
+866|||一个青年艺术家的画像|||[爱尔兰] 詹姆斯·乔伊斯|||https://book.douban.com/subject/3898308/
+867|||危险的关系|||[法] 拉克洛|||https://book.douban.com/subject/5321896/
+868|||天生就会跑|||克里斯托弗•麦克杜格尔(Christopher McDougall)|||https://book.douban.com/subject/11542577/
+869|||查密莉雅|||[吉尔吉斯斯坦] 艾特玛托夫|||https://book.douban.com/subject/1115505/
+870|||天使与魔鬼|||[美] 丹.布朗|||https://book.douban.com/subject/1228110/
+871|||带着鲑鱼去旅行|||（意大利）安伯托・艾柯|||https://book.douban.com/subject/1017839/
+872|||真相|||[瑞士]若埃尔·迪克|||https://book.douban.com/subject/25996181/
+873|||当尼采哭泣|||（美）欧文 D.亚隆（Irvin D.Yalom）|||https://book.douban.com/subject/5940553/
+874|||博尔赫斯谈艺录|||[阿根廷] 豪尔赫·路易斯·博尔赫斯|||https://book.douban.com/subject/1444558/
+875|||爱的教育|||（意）亚米契斯|||https://book.douban.com/subject/1077778/
+876|||逆天|||[法] 乔里-卡尔·于斯曼|||https://book.douban.com/subject/4719265/
+877|||三个火枪手|||大仲马|||https://book.douban.com/subject/1203244/
+878|||我们的小镇|||(美)桑顿·怀尔德|||https://book.douban.com/subject/24838958/
+879|||霍夫曼博士的魔鬼欲望机器|||[英] 安吉拉·卡特|||https://book.douban.com/subject/26220631/
+880|||理智与情感|||（英）简・奥斯丁|||https://book.douban.com/subject/1397467/
+881|||学生托乐思的迷惘|||(奥地利)罗伯特·穆齐尔|||https://book.douban.com/subject/10809021/
+882|||偶发空缺|||[英] J. K. 罗琳|||https://book.douban.com/subject/19898714/
+883|||安妮日记|||安妮.弗兰克|||https://book.douban.com/subject/1042434/
+884|||死于黎明：洛尔迦诗选|||[西] 费德里科•加西亚•洛尔迦 （Federico García Lorca ）|||https://book.douban.com/subject/26835830/
+885|||法兰西组曲|||[法] 伊莱娜·内米洛夫斯基|||https://book.douban.com/subject/1780277/
+886|||爱无可忍|||[英] 伊恩·麦克尤恩|||https://book.douban.com/subject/5366441/
+887|||康拉德小说选|||[英] 约瑟夫·康拉德|||https://book.douban.com/subject/1949579/
+888|||玉米人|||[危地马拉]米盖尔·安赫尔·阿斯图里亚斯|||https://book.douban.com/subject/24737018/
+889|||姐姐的守护者|||[美] 朱迪·皮考特|||https://book.douban.com/subject/3137289/
+890|||毛姆经典短篇集|||[英]威廉· 萨摩赛特 ·毛姆|||https://book.douban.com/subject/26717204/
+891|||希腊神话|||尼·库恩|||https://book.douban.com/subject/1880825/
+892|||米德尔马契（全二册）|||乔治 艾略特|||https://book.douban.com/subject/1780564/
+893|||她比烟花寂寞|||希拉里•杜普蕾、皮尔斯•杜普蕾|||https://book.douban.com/subject/10442281/
+894|||野棕榈|||（美）威廉·福克纳|||https://book.douban.com/subject/3431637/
+895|||加缪手记：第二卷|||[法] 阿尔贝·加缪|||https://book.douban.com/subject/26828226/
+896|||长腿叔叔|||[美] 简·韦伯斯特|||https://book.douban.com/subject/1072319/
+897|||猫的摇篮|||[美国]库尔特·冯内古特、Kurt Vonnegut|||https://book.douban.com/subject/1470235/
+898|||柏辽兹回忆录|||[法] 埃克托尔·柏辽兹|||https://book.douban.com/subject/26924030/
+899|||夏日谎言|||[德] 伯恩哈德·施林克|||https://book.douban.com/subject/10608317/
+900|||抛锚|||(瑞士)迪伦马特|||https://book.douban.com/subject/20559350/
+901|||丹麦女孩|||大卫•埃贝尔舍夫|||https://book.douban.com/subject/26861450/
+902|||夜航|||圣埃克苏佩里|||https://book.douban.com/subject/11508896/
+903|||血战钢锯岭|||[美] 布特恩·赫顿 著|||https://book.douban.com/subject/27028222/
+904|||而河马被煮死在水槽里|||(美)杰克·凯鲁亚克、(美)威廉·巴勒斯|||https://book.douban.com/subject/4856199/
+905|||费尔南多·佩索阿诗选|||(葡萄牙)费尔南多·佩索阿|||https://book.douban.com/subject/1428154/
+906|||一加一|||[英]乔乔·莫伊斯|||https://book.douban.com/subject/26756565/
+907|||麦克白|||[英] 莎士比亚|||https://book.douban.com/subject/1001065/
+908|||西方文学之旅|||徐葆耕|||https://book.douban.com/subject/1042638/
+909|||埃涅阿斯纪|||维吉尔|||https://book.douban.com/subject/1185910/
+910|||暗处|||[美] 吉莉安·弗琳|||https://book.douban.com/subject/26992627/
+911|||关于来洛尼亚王国的十三个童话故事|||[波兰] 莱·柯拉柯夫斯基|||https://book.douban.com/subject/1982096/
+912|||爱伦·坡集|||（美）爱伦·坡|||https://book.douban.com/subject/1255006/
+913|||遗产|||[美] 菲利普·罗斯|||https://book.douban.com/subject/6085417/
+914|||驱魔人|||[美]威廉·彼得·布拉蒂|||https://book.douban.com/subject/26281315/
+915|||人间喜剧 第一卷|||(法)巴尔扎克|||https://book.douban.com/subject/1072015/
+916|||一个自杀者的传说|||(美)大卫·范恩|||https://book.douban.com/subject/25871958/
+917|||双重人格 地下室手记|||[俄国] 陀思妥耶夫斯基|||https://book.douban.com/subject/1083030/
+918|||在少女花影下|||[法] 马塞尔·普鲁斯特 著、[荷] 凡·东恩 绘|||https://book.douban.com/subject/4199421/
+919|||谁动了我的奶酪？|||[美] 斯宾塞·约翰逊|||https://book.douban.com/subject/1021056/
+920|||米沃什词典|||[波兰] 切斯瓦夫·米沃什|||https://book.douban.com/subject/1050951/
+921|||孤独的精确度|||[挪威]尤·奈斯博|||https://book.douban.com/subject/25913219/
+922|||钱商|||[加] 阿瑟·黑利|||https://book.douban.com/subject/26376865/
+923|||复明症漫记|||(葡)若泽·萨拉马戈|||https://book.douban.com/subject/25748132/
+924|||幻灭|||(法)巴尔扎克|||https://book.douban.com/subject/1045934/
+925|||马尔特手记|||[奥]里尔克|||https://book.douban.com/subject/6720810/
+926|||古拉格气象学家|||[法] 奥利维埃·罗兰|||https://book.douban.com/subject/26798155/
+927|||梵高传|||[美] 欧文·斯通|||https://book.douban.com/subject/1092149/
+928|||布登勃洛克一家|||(德)托马斯·曼|||https://book.douban.com/subject/3583331/
+929|||冷峻的良心：奥威尔传|||[美] 杰弗里·迈耶斯|||https://book.douban.com/subject/26777025/
+930|||世界和其他地方|||[英] 珍妮特·温特森|||https://book.douban.com/subject/11584608/
+931|||寂静的春天|||[美]蕾切尔·卡森|||https://book.douban.com/subject/2350407/
+932|||卡尔维诺文集（第五卷）|||[意大利] 卡尔维诺|||https://book.douban.com/subject/1032431/
+933|||三怪客泛舟记|||莫厄特|||https://book.douban.com/subject/1065410/
+934|||渴望之书|||莱昂纳德·科恩|||https://book.douban.com/subject/6784965/
+935|||人性的污秽|||[美国] 菲利普·罗斯|||https://book.douban.com/subject/5996568/
+936|||陀思妥耶夫斯基文集（布面精装珍藏本）|||【俄】陀思妥耶夫斯基|||https://book.douban.com/subject/26775452/
+937|||源氏物语|||紫式部(日)|||https://book.douban.com/subject/1006113/
+938|||茨维塔耶娃文集：诗歌|||茨维塔耶娃|||https://book.douban.com/subject/1046680/
+939|||44号孩子|||[英] 汤姆·罗伯·史密斯|||https://book.douban.com/subject/4870150/
+940|||告诉我，你怎样去生活|||[英] 阿加莎·克里斯蒂|||https://book.douban.com/subject/4160472/
+941|||抬高房梁，木匠们；西摩：小传|||[美] J.D.塞林格|||https://book.douban.com/subject/3438303/
+942|||妈妈走的那一年|||[美]威廉·麦克斯韦尔|||https://book.douban.com/subject/26755625/
+943|||返老还童|||[美] 菲茨杰拉德|||https://book.douban.com/subject/3563287/
+944|||骂观众|||(奥地利)彼得·汉德克|||https://book.douban.com/subject/10955921/
+945|||亲爱的提奥|||[荷]文森特·凡高|||https://book.douban.com/subject/4903265/
+946|||古希腊悲剧喜剧全集（全8册）|||[古希腊] 埃斯库罗斯 等|||https://book.douban.com/subject/2219098/
+947|||人之链|||[爱尔兰]谢默斯·希尼|||https://book.douban.com/subject/26793134/
+948|||俄国文学史（上下卷）|||[俄] 德·斯·米尔斯基|||https://book.douban.com/subject/21325488/
+949|||树敌|||[意] 翁贝托·埃科|||https://book.douban.com/subject/26704405/
+950|||星尘|||[英] 尼尔·盖曼|||https://book.douban.com/subject/3210683/
+951|||艾丽丝·门罗作品|||(加)艾丽丝·门罗|||https://book.douban.com/subject/25751315/
+952|||红字|||霍桑|||https://book.douban.com/subject/1186350/
+953|||古董衣情缘|||[英] 伊莎贝尔 沃尔夫|||https://book.douban.com/subject/6973816/
+954|||奥斯卡·王尔德传|||[美] 理查德·艾尔曼|||https://book.douban.com/subject/25986499/
+955|||莫瑞斯|||（英）E·M·福斯特|||https://book.douban.com/subject/3908391/
+956|||史诗|||[美] 哈罗德·布鲁姆|||https://book.douban.com/subject/26436987/
+957|||我在伦敦买了一头狮子|||[澳] 安东尼·布尔克、[澳] 约翰·兰道尔|||https://book.douban.com/subject/26881067/
+958|||染血之室与其他故事|||[英] 安吉拉·卡特|||https://book.douban.com/subject/25959972/
+959|||伊凡·伊里奇的死|||(俄)列夫·托尔斯泰|||https://book.douban.com/subject/2266567/
+960|||被掩埋的巨人|||[英] 石黑一雄|||https://book.douban.com/subject/26575658/
+961|||一个无政府主义者的意外死亡|||（意大利）达里奥·福|||https://book.douban.com/subject/1006991/
+962|||寒鸦行动|||(英)肯·福莱特|||https://book.douban.com/subject/22606931/
+963|||流浪的星星|||[法]勒克莱齐奥|||https://book.douban.com/subject/4219120/
+964|||长日留痕|||[英] 石黑一雄|||https://book.douban.com/subject/7046857/
+965|||岁月的泡沫|||[法] 鲍里斯·维昂|||https://book.douban.com/subject/5248289/
+966|||耶鲁美国小历史|||[美]詹姆斯·韦斯特·戴维森（James West Davidson）|||https://book.douban.com/subject/27045325/
+967|||我所有的朋友都死了|||艾弗里·蒙森、乔里·约翰|||https://book.douban.com/subject/24736805/
+968|||坎特伯雷故事|||（英）乔叟|||https://book.douban.com/subject/1066217/
+969|||书店的灯光|||[美] 刘易斯·布兹比|||https://book.douban.com/subject/3253854/
+970|||大地蓝得像一只橙子|||[法] 保罗·艾吕雅|||https://book.douban.com/subject/27074630/
+971|||死刑判决|||(法) 莫里斯·布朗肖|||https://book.douban.com/subject/26133488/
+972|||内心活动|||J.M.库切|||https://book.douban.com/subject/5275373/
+973|||新年快乐|||[巴西] 鲁本·丰塞卡|||https://book.douban.com/subject/26717934/
+974|||在春天走进果园|||鲁米|||https://book.douban.com/subject/24855421/
+975|||小世界|||[英] 戴维·洛奇|||https://book.douban.com/subject/1959270/
+976|||圣殿春秋（下）|||[英] 肯·福莱特|||https://book.douban.com/subject/3783412/
+977|||天谴|||[尼加拉瓜] 塞尔希奥·拉米雷斯|||https://book.douban.com/subject/26841613/
+978|||达洛卫夫人|||[英]弗吉尼亚·伍尔夫|||https://book.douban.com/subject/2174400/
+979|||中午的黑暗|||【英】阿瑟·库斯勒|||https://book.douban.com/subject/1040053/
+980|||魔鬼詩篇|||[英] 塞爾曼·鲁西迪|||https://book.douban.com/subject/1339959/
+981|||在轮下|||[德] 赫尔曼·黑塞|||https://book.douban.com/subject/2165084/
+982|||南极|||[爱尔兰]克莱尔·吉根|||https://book.douban.com/subject/4845007/
+983|||隐之书|||[英] A·S·拜雅特|||https://book.douban.com/subject/3073401/
+984|||现代诗歌的结构|||胡戈·弗里德里希|||https://book.douban.com/subject/4729502/
+985|||此时此地|||[美] 保罗·奥斯特、[南非] J.M.库切|||https://book.douban.com/subject/25985804/
+986|||格拉斯医生|||(瑞典)雅尔玛尔·瑟德尔贝里|||https://book.douban.com/subject/10801039/
+987|||莫泊桑短篇小说精选|||[法] 莫泊桑|||https://book.douban.com/subject/26773323/
+988|||是，首相|||(英)乔纳森·林恩、(英)安东尼·杰伊 编著|||https://book.douban.com/subject/20425489/
+989|||奥兰多|||(英)弗吉尼亚﹒吴尔夫|||https://book.douban.com/subject/1415226/
+990|||第一个人|||(法)阿尔贝·加缪|||https://book.douban.com/subject/24257317/
+991|||朝圣者之歌|||[德]赫尔曼·黑塞|||https://book.douban.com/subject/10875996/
+992|||序跋集|||[英] W. H. 奥登|||https://book.douban.com/subject/26577699/
+993|||沉默的羔羊|||[美] 汤玛士·哈里斯|||https://book.douban.com/subject/1082159/
+994|||模仿者|||[英] V. S. 奈保尔|||https://book.douban.com/subject/26365959/
+995|||在中国屏风上|||[英] 威廉·萨默塞特·毛姆|||https://book.douban.com/subject/21690414/
+996|||告别圆舞曲|||米兰・昆德拉|||https://book.douban.com/subject/1037954/
+997|||知更鸟女孩3|||[美] 查克·温迪格|||https://book.douban.com/subject/27046906/
+998|||耶稣之子|||[美] 丹尼斯·约翰逊|||https://book.douban.com/subject/11528311/
+999|||月亮的光是借来的|||[德] 昆特·布霍茨 绘、[捷克]米兰·昆德拉、[土耳其]奥尔罕·帕慕克 等著|||https://book.douban.com/subject/26613544/
+1000|||岛屿书|||（德）朱迪丝·莎兰斯基|||https://book.douban.com/subject/10537645/

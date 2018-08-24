@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class=" book-new-nav">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>豆瓣图书标签</title>
+
+    <script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+
+    </script>
+
+
+
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+
+    <script>var _head_start = new Date();</script>
+
+    <link href="https://img3.doubanio.com/f/book/2a9d3621c543a0d97f93d6b04d778a368ec2596e/css/book/master.css"
+          rel="stylesheet" type="text/css">
+
+    <link href="https://img3.doubanio.com/f/book/222a5c61e041638af8defc87cf97f4a863a77922/css/book/base/init.css"
+          rel="stylesheet">
+    <style type="text/css"></style>
+    <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+    <script src="https://img3.doubanio.com/f/book/40dc052cc026d9a49378e8a9183e42b2e6c782fb/js/book/master.js"></script>
+
+
+    <style>
+.tagCol{width:100%}
+.tagCol td{width:20%;font-size:14px}
+.tagCol td b{
+  font-weight:normal;
+  color:#aaa;
+}
+.indent { line-height: 2.5 }
+.tag-view-type {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+.tag-title-wrapper { cursor: inherit; }
+
+.tag_cloud {overflow: hidden;}
+.tag_cloud .cloud {
+    overflow: hidden;
+    float: left;
+    width: 19%;
+}
+
+    </style>
+
+    <script></script>
+    <!-- COLLECTED CSS -->
+
+    <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+<script>var _body_start = new Date();</script>
+
+
+<link href="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+<div id="db-global-nav" class="global-nav">
+    <div class="bd">
+
+        <div class="top-nav-info">
+            <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+            <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+        </div>
+
+
+        <div class="top-nav-doubanapp">
+            <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+            <div id="top-nav-appintro" class="more-items">
+                <p class="appintro-title">豆瓣</p>
+                <p class="qrcode">扫码直接下载</p>
+                <div class="download">
+                    <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+                    <span>·</span>
+                    <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android"
+                       class="download-android">Android</a>
+                </div>
+                <div id="doubanapp-tip">
+                    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 5.0 全新发布</a>
+                    <a href="javascript: void 0;" class="tip-close">×</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="global-nav-items">
+            <ul>
+                <li class="">
+                    <a href="https://www.douban.com" target="_blank"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+                </li>
+                <li class="on">
+                    <a href="https://book.douban.com"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+                </li>
+                <li class="">
+                    <a href="https://movie.douban.com" target="_blank"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+                </li>
+                <li class="">
+                    <a href="https://music.douban.com" target="_blank"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+                </li>
+                <li class="">
+                    <a href="https://www.douban.com/location" target="_blank"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+                </li>
+                <li class="">
+                    <a href="https://www.douban.com/group" target="_blank"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+                </li>
+                <li class="">
+                    <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+                </li>
+                <li class="">
+                    <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+                </li>
+                <li class="">
+                    <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+                </li>
+                <li class="">
+                    <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web"
+                       target="_blank"
+                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+                </li>
+                <li>
+                    <a href="#more" class="bn-more"><span>更多</span></a>
+                    <div class="more-items">
+                        <table cellpadding="0" cellspacing="0">
+                            <tbody>
+                            <tr>
+                                <td>
+                                    <a href="https://ypy.douban.com" target="_blank"
+                                       data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+
+</script>
+
+
+<script src="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.js" defer="defer"></script>
+
+
+<link href="//img3.doubanio.com/dae/accounts/resources/19507ad/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+<div id="db-nav-book" class="nav">
+    <div class="nav-wrap">
+        <div class="nav-primary">
+            <div class="nav-logo">
+                <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+            </div>
+            <div class="nav-search">
+                <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+                    <fieldset>
+                        <legend>搜索：</legend>
+                        <label for="inp-query">
+                        </label>
+                        <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60"
+                                                placeholder="书名、作者、ISBN" value=""></div>
+                        <div class="inp-btn"><input type="submit" value="搜索"></div>
+                        <input type="hidden" name="cat" value="1001"/>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="nav-secondary">
+
+
+        <div class="nav-items">
+            <ul>
+                <li><a href="https://book.douban.com/cart/"
+                >购书单</a>
+                </li>
+                <li><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+                       target="_blank"
+                >电子图书</a>
+                </li>
+                <li>
+                    <a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+                    >豆瓣书店</a>
+                </li>
+                <li><a href="https://book.douban.com/annual/2017?source=navigation"
+                       target="_blank"
+                >2017年度榜单</a>
+                </li>
+                <li><a href="https://book.douban.com/standbyme/2017?source=navigation"
+                       target="_blank"
+                >2017读书报告</a>
+                </li>
+                <li class=" book-cart"
+                >
+                    <a href="https://market.douban.com/cart/?biz_type=book&utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+                       target="_blank"
+                    >购物车</a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+
+</script>
+
+
+<script src="//img3.doubanio.com/dae/accounts/resources/19507ad/book/bundle.js" defer="defer"></script>
+
+
+<div id="wrapper">
+
+
+    <div id="content">
+
+        <h1>豆瓣图书标签</h1>
+
+        <div class="grid-16-8 clearfix">
+
+            <div class="article">
+                <div class="tag-view-type clearfix">
+    <span class="rr greyinput">
+        <a href="https://book.douban.com/tag/?view=type">分类浏览</a> /
+        所有热门标签
+    </span>
+                </div>
+
+                <div class="">
+                    <div class="indent tag_cloud">
+
+
+                        <table class="tagCol">
+                            <tbody>
+                            <tr>
+                                <td><a href="/tag/小说">小说</a><b>(5081936)</b></td>
+                                <td><a href="/tag/日本">日本</a><b>(1961193)</b></td>
+                                <td><a href="/tag/历史">历史</a><b>(1959112)</b></td>
+                                <td><a href="/tag/外国文学">外国文学</a><b>(1834397)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/文学">文学</a><b>(1480136)</b></td>
+                                <td><a href="/tag/中国">中国</a><b>(1286561)</b></td>
+                                <td><a href="/tag/心理学">心理学</a><b>(1284381)</b></td>
+                                <td><a href="/tag/漫画">漫画</a><b>(1241855)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/随笔">随笔</a><b>(1085515)</b></td>
+                                <td><a href="/tag/哲学">哲学</a><b>(1066594)</b></td>
+                                <td><a href="/tag/中国文学">中国文学</a><b>(983820)</b></td>
+                                <td><a href="/tag/推理">推理</a><b>(896573)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/经典">经典</a><b>(872052)</b></td>
+                                <td><a href="/tag/美国">美国</a><b>(871082)</b></td>
+                                <td><a href="/tag/绘本">绘本</a><b>(869455)</b></td>
+                                <td><a href="/tag/爱情">爱情</a><b>(839841)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/日本文学">日本文学</a><b>(777053)</b></td>
+                                <td><a href="/tag/传记">传记</a><b>(744426)</b></td>
+                                <td><a href="/tag/文化">文化</a><b>(683287)</b></td>
+                                <td><a href="/tag/散文">散文</a><b>(659347)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/社会学">社会学</a><b>(644746)</b></td>
+                                <td><a href="/tag/青春">青春</a><b>(637718)</b></td>
+                                <td><a href="/tag/英国">英国</a><b>(565233)</b></td>
+                                <td><a href="/tag/旅行">旅行</a><b>(554182)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/科普">科普</a><b>(545333)</b></td>
+                                <td><a href="/tag/东野圭吾">东野圭吾</a><b>(534349)</b></td>
+                                <td><a href="/tag/科幻">科幻</a><b>(503299)</b></td>
+                                <td><a href="/tag/生活">生活</a><b>(498216)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/言情">言情</a><b>(488744)</b></td>
+                                <td><a href="/tag/成长">成长</a><b>(485901)</b></td>
+                                <td><a href="/tag/艺术">艺术</a><b>(472542)</b></td>
+                                <td><a href="/tag/悬疑">悬疑</a><b>(464274)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/村上春树">村上春树</a><b>(424959)</b></td>
+                                <td><a href="/tag/经济学">经济学</a><b>(403325)</b></td>
+                                <td><a href="/tag/管理">管理</a><b>(397553)</b></td>
+                                <td><a href="/tag/设计">设计</a><b>(389122)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/思维">思维</a><b>(388956)</b></td>
+                                <td><a href="/tag/台湾">台湾</a><b>(382372)</b></td>
+                                <td><a href="/tag/法国">法国</a><b>(381724)</b></td>
+                                <td><a href="/tag/励志">励志</a><b>(379889)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/心理">心理</a><b>(373266)</b></td>
+                                <td><a href="/tag/社会">社会</a><b>(369691)</b></td>
+                                <td><a href="/tag/政治">政治</a><b>(344951)</b></td>
+                                <td><a href="/tag/经济">经济</a><b>(324952)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/诗歌">诗歌</a><b>(311656)</b></td>
+                                <td><a href="/tag/奇幻">奇幻</a><b>(311645)</b></td>
+                                <td><a href="/tag/武侠">武侠</a><b>(306154)</b></td>
+                                <td><a href="/tag/女性">女性</a><b>(290538)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/商业">商业</a><b>(286706)</b></td>
+                                <td><a href="/tag/摄影">摄影</a><b>(284663)</b></td>
+                                <td><a href="/tag/童话">童话</a><b>(282643)</b></td>
+                                <td><a href="/tag/日本漫画">日本漫画</a><b>(279249)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/金融">金融</a><b>(265183)</b></td>
+                                <td><a href="/tag/人生">人生</a><b>(265168)</b></td>
+                                <td><a href="/tag/建筑">建筑</a><b>(262885)</b></td>
+                                <td><a href="/tag/韩寒">韩寒</a><b>(262533)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/好书，值得一读">好书，值得一读</a><b>(257144)</b></td>
+                                <td><a href="/tag/耽美">耽美</a><b>(247944)</b></td>
+                                <td><a href="/tag/推理小说">推理小说</a><b>(243127)</b></td>
+                                <td><a href="/tag/宗教">宗教</a><b>(241814)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/英国文学">英国文学</a><b>(241127)</b></td>
+                                <td><a href="/tag/电影">电影</a><b>(234706)</b></td>
+                                <td><a href="/tag/亦舒">亦舒</a><b>(234507)</b></td>
+                                <td><a href="/tag/美国文学">美国文学</a><b>(230659)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/互联网">互联网</a><b>(228903)</b></td>
+                                <td><a href="/tag/儿童文学">儿童文学</a><b>(224380)</b></td>
+                                <td><a href="/tag/计算机">计算机</a><b>(222705)</b></td>
+                                <td><a href="/tag/古典文学">古典文学</a><b>(220333)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/王小波">王小波</a><b>(215658)</b></td>
+                                <td><a href="/tag/投资">投资</a><b>(215071)</b></td>
+                                <td><a href="/tag/我想读这本书">我想读这本书</a><b>(213333)</b></td>
+                                <td><a href="/tag/数学">数学</a><b>(211381)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/政治学">政治学</a><b>(211123)</b></td>
+                                <td><a href="/tag/杂文">杂文</a><b>(210311)</b></td>
+                                <td><a href="/tag/名著">名著</a><b>(208742)</b></td>
+                                <td><a href="/tag/网络小说">网络小说</a><b>(203681)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/三毛">三毛</a><b>(202937)</b></td>
+                                <td><a href="/tag/职场">职场</a><b>(202837)</b></td>
+                                <td><a href="/tag/教育">教育</a><b>(197045)</b></td>
+                                <td><a href="/tag/余华">余华</a><b>(194507)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/个人管理">个人管理</a><b>(193273)</b></td>
+                                <td><a href="/tag/美食">美食</a><b>(187346)</b></td>
+                                <td><a href="/tag/张爱玲">张爱玲</a><b>(186254)</b></td>
+                                <td><a href="/tag/香港">香港</a><b>(181626)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/人性">人性</a><b>(181289)</b></td>
+                                <td><a href="/tag/人类学">人类学</a><b>(176169)</b></td>
+                                <td><a href="/tag/安妮宝贝">安妮宝贝</a><b>(172923)</b></td>
+                                <td><a href="/tag/回忆录">回忆录</a><b>(165323)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/工具书">工具书</a><b>(164747)</b></td>
+                                <td><a href="/tag/東野圭吾">東野圭吾</a><b>(164595)</b></td>
+                                <td><a href="/tag/中国历史">中国历史</a><b>(163395)</b></td>
+                                <td><a href="/tag/纪实">纪实</a><b>(162139)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/德国">德国</a><b>(158300)</b></td>
+                                <td><a href="/tag/郭敬明">郭敬明</a><b>(153164)</b></td>
+                                <td><a href="/tag/编程">编程</a><b>(151620)</b></td>
+                                <td><a href="/tag/穿越">穿越</a><b>(150962)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/思想">思想</a><b>(149291)</b></td>
+                                <td><a href="/tag/阿加莎·克里斯蒂">阿加莎·克里斯蒂</a><b>(148516)</b></td>
+                                <td><a href="/tag/游记">游记</a><b>(147937)</b></td>
+                                <td><a href="/tag/金庸">金庸</a><b>(147707)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/营销">营销</a><b>(147678)</b></td>
+                                <td><a href="/tag/治愈">治愈</a><b>(144657)</b></td>
+                                <td><a href="/tag/英语">英语</a><b>(142103)</b></td>
+                                <td><a href="/tag/教材">教材</a><b>(141160)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/轻小说">轻小说</a><b>(140914)</b></td>
+                                <td><a href="/tag/散文随笔">散文随笔</a><b>(140253)</b></td>
+                                <td><a href="/tag/国学">国学</a><b>(138765)</b></td>
+                                <td><a href="/tag/当代文学">当代文学</a><b>(136978)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/时间管理">时间管理</a><b>(136866)</b></td>
+                                <td><a href="/tag/日系推理">日系推理</a><b>(135883)</b></td>
+                                <td><a href="/tag/科幻小说">科幻小说</a><b>(133912)</b></td>
+                                <td><a href="/tag/心灵">心灵</a><b>(133179)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/法国文学">法国文学</a><b>(132620)</b></td>
+                                <td><a href="/tag/温暖">温暖</a><b>(126233)</b></td>
+                                <td><a href="/tag/政治哲学">政治哲学</a><b>(125750)</b></td>
+                                <td><a href="/tag/科学">科学</a><b>(125350)</b></td>
+                            </tr>
+                            <tr>
+                                <td><a href="/tag/英文原版">英文原版</a><b>(122217)</b></td>
+                                <td><a href="/tag/灵修">灵修</a><b>(121154)</b></td>
+                                <td><a href="/tag/毛姆">毛姆</a><b>(119911)</b></td>
+                                <td><a href="/tag/BL">BL</a><b>(119310)</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+            <div class="aside">
+
+
+                <h2>
+                    <span class="">标签直达</span>
+                    &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+                </h2>
+
+
+                <form name="tsp_form" action="https://book.douban.com/tag/" method="GET">
+                    <input name="search_text" class="j a_search_text" type="text" size="24" maxlength="36" title="去其他标签"
+                           value=""/>
+                    <input class="butt" type="submit" value="进入"/>
+                </form>
+
+                <br/><br/>
+
+                <!-- douban ad begin -->
+                <div id="dale_book_tags_top_right"></div>
+                <!-- douban ad end -->
+
+
+            </div>
+            <div class="extra">
+
+                <!-- douban ad begin -->
+                <div id="dale_book_tag_bottom_banner"></div>
+                <!-- douban ad end -->
+
+            </div>
+        </div>
+    </div>
+
+
+    <div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2018 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+        <a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+        <span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+    </div>
+
+</div>
+
+
+<!-- COLLECTED JS -->
+<!-- mako -->
+
+
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = '27Ln--ew9Oc',
+            criteria = '3:/tag/?view=cloud',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_tags_top_right', 'dale_book_tag_bottom_banner'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/adjs/f886512b31842ce18a9450be3e80f90c23f25260/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+
+</script>
+
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+
+</script>
+
+
+<!-- dis8-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

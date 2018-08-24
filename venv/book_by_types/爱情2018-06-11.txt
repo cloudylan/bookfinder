@@ -1,0 +1,999 @@
+1|||我的前半生|||亦舒|||https://book.douban.com/subject/2230208/
+2|||霍乱时期的爱情|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/10594787/
+3|||飘|||[美国] 玛格丽特·米切尔|||https://book.douban.com/subject/1068920/
+4|||爱你就像爱生命|||王小波、李银河|||https://book.douban.com/subject/3071717/
+5|||亲密关系（第5版）|||罗兰•米勒 (Rowland Miller)、丹尼尔•珀尔曼 (Daniel Perlman)|||https://book.douban.com/subject/5952488/
+6|||恋情的终结|||[英] 格雷厄姆·格林|||https://book.douban.com/subject/26279019/
+7|||爱的艺术|||[美] 艾·弗洛姆|||https://book.douban.com/subject/3026879/
+8|||一个陌生女人的来信|||[奥] 斯台芬·茨威格|||https://book.douban.com/subject/2154960/
+9|||倾城之恋|||张爱玲|||https://book.douban.com/subject/1090043/
+10|||情人|||[法] 玛格丽特·杜拉斯|||https://book.douban.com/subject/1400705/
+11|||挪威的森林|||[日] 村上春树|||https://book.douban.com/subject/1046265/
+12|||平如美棠|||饶平如|||https://book.douban.com/subject/23008971/
+13|||傲慢与偏见|||[英] 奥斯丁|||https://book.douban.com/subject/1083428/
+14|||亲密关系|||[美] 莎伦·布雷姆、丹尼尔·珀尔曼、罗兰·米勒、苏珊·坎贝尔|||https://book.douban.com/subject/1437973/
+15|||智惠子抄|||[日] 高村光太郎|||https://book.douban.com/subject/27035254/
+16|||荆棘鸟|||[澳] 考琳·麦卡洛|||https://book.douban.com/subject/1086249/
+17|||喜宝|||亦舒|||https://book.douban.com/subject/2022979/
+18|||面纱|||[英] W.萨默塞特·毛姆|||https://book.douban.com/subject/10560798/
+19|||穆斯林的葬礼|||霍达|||https://book.douban.com/subject/1082334/
+20|||情书|||[日] 岩井俊二|||https://book.douban.com/subject/1080370/
+21|||爱情和其他魔鬼|||[哥伦比亚] 加西亚·马尔克斯|||https://book.douban.com/subject/26451351/
+22|||朱生豪情书全集|||朱生豪、宋清如|||https://book.douban.com/subject/21360827/
+23|||简爱（英文全本）|||[英] 夏洛蒂·勃朗特|||https://book.douban.com/subject/1141406/
+24|||半生缘|||张爱玲|||https://book.douban.com/subject/1963684/
+25|||明天也是小春日和|||[日] 津端英子、[日] 津端修一|||https://book.douban.com/subject/26733854/
+26|||红玫瑰与白玫瑰|||张爱玲|||https://book.douban.com/subject/1014278/
+27|||生死桥|||李碧华|||https://book.douban.com/subject/1731521/
+28|||呼啸山庄|||艾米莉·勃朗特|||https://book.douban.com/subject/1119522/
+29|||致D|||[法] 安德烈·高兹|||https://book.douban.com/subject/4313207/
+30|||每天早上和你一起醒来|||五十块、蔡要要|||https://book.douban.com/subject/26974850/
+31|||时间旅行者的妻子|||[美] 奥德丽·尼芬格|||https://book.douban.com/subject/2056749/
+32|||恋人絮语|||[法]罗兰·巴特|||https://book.douban.com/subject/3765331/
+33|||爱的五种语言|||盖瑞·查普曼|||https://book.douban.com/subject/1444900/
+34|||查令十字街84号|||[美] 海莲·汉芙|||https://book.douban.com/subject/1316648/
+35|||金锁记|||张爱玲|||https://book.douban.com/subject/3017857/
+36|||向左走·向右走|||幾米|||https://book.douban.com/subject/1066462/
+37|||请以你的名字呼唤我|||安德烈·艾席蒙|||https://book.douban.com/subject/11535042/
+38|||余生，请多指教|||柏林石匠|||https://book.douban.com/subject/26872990/
+39|||二十首情诗与绝望的歌|||聂鲁达|||https://book.douban.com/subject/1045352/
+40|||洛丽塔|||[美] 弗拉基米尔·纳博科夫|||https://book.douban.com/subject/1465324/
+41|||Me Before You|||Jojo Moyes|||https://book.douban.com/subject/10432334/
+42|||我的爱情生活|||[日] 荒木阳子、[日] 荒木经惟|||https://book.douban.com/subject/27082511/
+43|||爱在黎明破晓前&爱在日落黄昏时|||理查德·林克莱特、金·克里桑|||https://book.douban.com/subject/25924242/
+44|||纯真博物馆|||[土耳其] 奥尔罕·帕慕克|||https://book.douban.com/subject/4154988/
+45|||倒悬的地平线|||[法] 马克·李维|||https://book.douban.com/subject/27081345/
+46|||三生三世 十里桃花|||唐七公子|||https://book.douban.com/subject/3426869/
+47|||爱情笔记|||（英）阿兰·德波顿|||https://book.douban.com/subject/1079252/
+48|||茶花女|||小仲马|||https://book.douban.com/subject/1013380/
+49|||摆渡人|||[英]克莱儿·麦克福尔|||https://book.douban.com/subject/26356948/
+50|||如何让女人免于心碎|||半岛璞|||https://book.douban.com/subject/27027055/
+51|||琥珀·恋爱的犀牛|||廖一梅|||https://book.douban.com/subject/3010133/
+52|||伪装成独白的爱情|||[匈] 马洛伊·山多尔|||https://book.douban.com/subject/26577690/
+53|||何以笙箫默|||顾漫|||https://book.douban.com/subject/1461903/
+54|||想你|||[英]凯特·埃伯利恩|||https://book.douban.com/subject/27045517/
+55|||如何在爱中修行|||[美] 芭芭拉•安吉丽思|||https://book.douban.com/subject/26846721/
+56|||爱得太多的女人|||[美] 罗宾·诺伍德|||https://book.douban.com/subject/6957796/
+57|||那个不为人知的故事|||twentine|||https://book.douban.com/subject/26680113/
+58|||消失的爱人|||[美]吉莉安·弗琳|||https://book.douban.com/subject/24541883/
+59|||岛|||[英] 维多利亚·希斯洛普|||https://book.douban.com/subject/3673651/
+60|||华胥引（全二册）|||唐七公子|||https://book.douban.com/subject/5916880/
+61|||玛格丽特小镇|||[美] 加·泽文|||https://book.douban.com/subject/26787941/
+62|||偏爱你的甜|||苏亦|||https://book.douban.com/subject/27082275/
+63|||想牵着你的手，在青山绿水间|||沈从文|||https://book.douban.com/subject/27053578/
+64|||我有个恋爱想和你谈下|||烟波人长安|||https://book.douban.com/subject/26384985/
+65|||与往事说再见|||(法)菲利普·贝松|||https://book.douban.com/subject/10345585/
+66|||致我们终将逝去的青春|||辛夷坞|||https://book.douban.com/subject/2209098/
+67|||在最好的时候遇到你|||方小孬|||https://book.douban.com/subject/26925163/
+68|||陆犯焉识|||严歌苓|||https://book.douban.com/subject/6880158/
+69|||微微一笑很倾城|||顾漫|||https://book.douban.com/subject/3879301/
+70|||朗读者|||[德] 本哈德·施林克|||https://book.douban.com/subject/3537590/
+71|||男人来自火星 女人来自金星|||[美] 约翰·格雷|||https://book.douban.com/subject/1223845/
+72|||另一座城|||唐颖|||https://book.douban.com/subject/27054735/
+73|||荷西 我爱你|||三毛|||https://book.douban.com/subject/3054373/
+74|||夜莺|||[美] 克里斯汀·汉娜|||https://book.douban.com/subject/26905360/
+75|||广岛之恋|||[法] 玛格丽特・杜拉斯|||https://book.douban.com/subject/1400707/
+76|||Flipped|||Wendelin Van Draanen|||https://book.douban.com/subject/2669319/
+77|||会饮篇|||柏拉图|||https://book.douban.com/subject/21570668/
+78|||浮生梦|||[英] 达芙妮·杜穆里埃|||https://book.douban.com/subject/26591906/
+79|||从你的全世界路过|||张嘉佳|||https://book.douban.com/subject/25747921/
+80|||失乐园|||渡边淳一|||https://book.douban.com/subject/1008074/
+81|||潮骚|||（日）三岛由纪夫|||https://book.douban.com/subject/3391246/
+82|||醒来觉得甚是爱你|||朱生豪|||https://book.douban.com/subject/26798331/
+83|||卡罗尔|||[美] 帕特里夏·海史密斯|||https://book.douban.com/subject/26689063/
+84|||我在最温暖的地方等你|||刘墨闻|||https://book.douban.com/subject/26335687/
+85|||悲观主义的花朵|||廖一梅|||https://book.douban.com/subject/3010130/
+86|||我们为什么会分手？|||毛路、赵珈禾|||https://book.douban.com/subject/26146992/
+87|||伊豆的舞女|||[日] 川端康成|||https://book.douban.com/subject/1005521/
+88|||霸王别姬 青蛇|||李碧华|||https://book.douban.com/subject/1018577/
+89|||天意|||[英] 安妮塔·布鲁克纳|||https://book.douban.com/subject/26752646/
+90|||古拉格之恋|||[英] 奥兰多·费吉斯|||https://book.douban.com/subject/26840828/
+91|||致薇拉|||[美] 弗拉基米尔·纳博科夫|||https://book.douban.com/subject/26854223/
+92|||伤逝|||鲁迅|||https://book.douban.com/subject/1157014/
+93|||我知道你会来，所以我等|||骆瑞生|||https://book.douban.com/subject/26970384/
+94|||婚姻的意义|||提摩太·凯勒 (Timothy Keller)、凯西·凯勒 (Kathy Keller)|||https://book.douban.com/subject/26303520/
+95|||假如你愿意你就恋爱吧|||王小波|||https://book.douban.com/subject/1807769/
+96|||拂过冬季到云来|||夏茗悠|||https://book.douban.com/subject/27059051/
+97|||与你重逢|||[法] 马克·李维（Marc Levy）|||https://book.douban.com/subject/26971527/
+98|||曾有一个人，爱我如生命|||舒仪|||https://book.douban.com/subject/3506871/
+99|||梦里花落知多少|||郭敬明|||https://book.douban.com/subject/1016300/
+100|||一天|||(英)大卫·尼克斯|||https://book.douban.com/subject/6890671/
+101|||我还是很喜欢你|||苏豆芽|||https://book.douban.com/subject/26889862/
+102|||恋爱中的男人|||[德] 马丁·瓦尔泽(Martin Walser)|||https://book.douban.com/subject/4105424/
+103|||雾中回忆|||[澳] 凯特·莫顿|||https://book.douban.com/subject/26763171/
+104|||浮生若梦1|||缪娟|||https://book.douban.com/subject/10807374/
+105|||柔软|||廖一梅|||https://book.douban.com/subject/11501640/
+106|||青蛇|||李碧华|||https://book.douban.com/subject/1261153/
+107|||看了高兴的爱情故事|||方悄悄|||https://book.douban.com/subject/26849731/
+108|||蒙马特遗书|||邱妙津|||https://book.douban.com/subject/11527634/
+109|||那些年，我们一起追的女孩|||九把刀|||https://book.douban.com/subject/1958227/
+110|||上海堡垒|||江南|||https://book.douban.com/subject/3268399/
+111|||苦妓回忆录|||加西亚·马尔克斯|||https://book.douban.com/subject/26276279/
+112|||七夜雪|||沧月|||https://book.douban.com/subject/1919201/
+113|||为何爱会伤人|||武志红|||https://book.douban.com/subject/20270670/
+114|||波斯少年|||[英] 玛丽·瑞瑙特|||https://book.douban.com/subject/4175473/
+115|||千江有水千江月|||萧丽红|||https://book.douban.com/subject/1791664/
+116|||大明宫词|||郑重、王要|||https://book.douban.com/subject/1393218/
+117|||他知道风从哪个方向来|||玖月晞|||https://book.douban.com/subject/26662515/
+118|||一个女人的史诗|||严歌苓|||https://book.douban.com/subject/1792984/
+119|||亲密关系|||[加] 克里斯多福·孟|||https://book.douban.com/subject/6052834/
+120|||余欢|||刘瑜|||https://book.douban.com/subject/1972266/
+121|||夜旅人|||赵熙之|||https://book.douban.com/subject/26853361/
+122|||莲花|||安妮宝贝|||https://book.douban.com/subject/1529893/
+123|||荆棘之城|||[英]萨拉·沃特斯|||https://book.douban.com/subject/4143051/
+124|||少年维特的烦恼|||[德] 歌德|||https://book.douban.com/subject/1047138/
+125|||花街往事|||路内|||https://book.douban.com/subject/25716611/
+126|||圆舞|||[加] 亦舒|||https://book.douban.com/subject/1470158/
+127|||爱情没那么美好|||[法] 布里吉特·吉罗|||https://book.douban.com/subject/5394486/
+128|||匆匆那年（上下）|||九夜茴|||https://book.douban.com/subject/2567919/
+129|||麦琪的礼物|||[美] 欧·亨利|||https://book.douban.com/subject/1051193/
+130|||所有的放不下，其实都是因为不甘心|||捏张的娃娃|||https://book.douban.com/subject/27068517/
+131|||我的前半生|||（香港）亦舒|||https://book.douban.com/subject/1055187/
+132|||玫瑰的故事|||亦舒|||https://book.douban.com/subject/2115040/
+133|||失恋33天|||鲍鲸鲸|||https://book.douban.com/subject/4238754/
+134|||原来你还在这里|||辛夷坞|||https://book.douban.com/subject/2331434/
+135|||线|||〔英〕维多利亚·希斯洛普|||https://book.douban.com/subject/25890145/
+136|||守望灯塔|||(英)詹妮特·温特森|||https://book.douban.com/subject/1468997/
+137|||一半是海水一半是火焰|||王朔|||https://book.douban.com/subject/1049477/
+138|||会消失的人|||[法] 纪尧姆·米索|||https://book.douban.com/subject/26931567/
+139|||幸福的婚姻|||[美] 约翰·戈特曼、[美] 娜恩·西尔弗|||https://book.douban.com/subject/25833051/
+140|||七月与安生|||安妮宝贝 原著、鬼鬼 改编绘画|||https://book.douban.com/subject/1006073/
+141|||春琴抄|||谷崎润一郎|||https://book.douban.com/subject/1434435/
+142|||最初不过你好|||鹿人三千|||https://book.douban.com/subject/26879486/
+143|||The Fault in Our Stars|||John Green|||https://book.douban.com/subject/6897140/
+144|||彼岸花|||安妮宝贝|||https://book.douban.com/subject/1065970/
+145|||那时，我们还不怕相爱|||飞行官小北|||https://book.douban.com/subject/26358169/
+146|||山月不知心底事|||辛夷坞|||https://book.douban.com/subject/3061282/
+147|||山楂树之恋|||艾米|||https://book.douban.com/subject/2243213/
+148|||我们始终牵手旅行|||左手|||https://book.douban.com/subject/11506941/
+149|||四月间事|||尾鱼|||https://book.douban.com/subject/26996758/
+150|||那些年的情敌|||鲁引弓|||https://book.douban.com/subject/27063399/
+151|||色，戒|||张爱玲|||https://book.douban.com/subject/2267883/
+152|||神雕侠侣|||金庸|||https://book.douban.com/subject/1255624/
+153|||打火机与公主裙·荒草园|||Twentine|||https://book.douban.com/subject/26978506/
+154|||海上提琴师|||【法】吉尔伯特·博尔德|||https://book.douban.com/subject/27059874/
+155|||悟空传|||今何在|||https://book.douban.com/subject/1003000/
+156|||初夏荷花时期的爱情|||朱天心|||https://book.douban.com/subject/4901590/
+157|||爱情故事|||张佳玮|||https://book.douban.com/subject/26394204/
+158|||佳期如梦|||匪我思存|||https://book.douban.com/subject/1962929/
+159|||千只鹤|||[日] 川端康成|||https://book.douban.com/subject/24736900/
+160|||好好说再见|||狄仁六|||https://book.douban.com/subject/26997818/
+161|||人生若只如初见|||安意如|||https://book.douban.com/subject/1856285/
+162|||你是我的命运|||[日] 白石一文|||https://book.douban.com/subject/26654687/
+163|||孤城闭|||米兰Lady|||https://book.douban.com/subject/3290028/
+164|||三行情书|||北川理惠|||https://book.douban.com/subject/6404040/
+165|||笼中的爱人|||[英] 蕾切尔·阿博特|||https://book.douban.com/subject/26666917/
+166|||她比烟花寂寞|||（香港）亦舒|||https://book.douban.com/subject/1030153/
+167|||如何让你爱的人爱上你|||[美] 莉尔·朗兹|||https://book.douban.com/subject/6507262/
+168|||开到荼蘼|||亦舒|||https://book.douban.com/subject/2284090/
+169|||面包树上的女人|||张小娴|||https://book.douban.com/subject/1045247/
+170|||小张和小丽|||朝华出版社|||https://book.douban.com/subject/25728092/
+171|||不想与你相见恨早|||猫步旅人|||https://book.douban.com/subject/27053886/
+172|||十年一品温如言|||书海沧生|||https://book.douban.com/subject/6732193/
+173|||岩石旅社|||【英】彼得•尼克尔斯|||https://book.douban.com/subject/26962627/
+174|||廊桥遗梦|||（美）罗伯特・沃勒|||https://book.douban.com/subject/1011702/
+175|||危险的关系|||[法] 拉克洛|||https://book.douban.com/subject/5321896/
+176|||查密莉雅|||[吉尔吉斯斯坦] 艾特玛托夫|||https://book.douban.com/subject/1115505/
+177|||流金岁月|||（香港）亦舒|||https://book.douban.com/subject/1046172/
+178|||谢谢你离开我|||张小娴|||https://book.douban.com/subject/3521168/
+179|||理智与情感|||（英）简・奥斯丁|||https://book.douban.com/subject/1397467/
+180|||第三种爱情|||自由行走|||https://book.douban.com/subject/2376306/
+181|||橘生淮南·暗恋|||八月长安|||https://book.douban.com/subject/6773643/
+182|||白蛇|||严歌苓|||https://book.douban.com/subject/1290398/
+183|||长腿叔叔|||[美] 简·韦伯斯特|||https://book.douban.com/subject/1072319/
+184|||不知爱将至|||板栗子|||https://book.douban.com/subject/27058728/
+185|||秒速五厘米|||[日] 新海诚|||https://book.douban.com/subject/21460732/
+186|||世界上到底有没有百分之百的异性恋|||方悄悄|||https://book.douban.com/subject/26880577/
+187|||美人为馅|||丁墨|||https://book.douban.com/subject/26365847/
+188|||恋爱的贡多拉|||[日] 东野圭吾|||https://book.douban.com/subject/27007486/
+189|||金粉世家（上下）|||张恨水|||https://book.douban.com/subject/1040924/
+190|||完美关系的秘密|||杨冰阳|||https://book.douban.com/subject/26183848/
+191|||青梅竹马|||[日] 樋口一叶|||https://book.douban.com/subject/5299766/
+192|||中国北方的情人|||[法] 玛格丽特·杜拉斯|||https://book.douban.com/subject/1793713/
+193|||想念|||张小娴|||https://book.douban.com/subject/6392678/
+194|||我在回忆里等你|||辛夷坞|||https://book.douban.com/subject/4241870/
+195|||此岸|||马曳|||https://book.douban.com/subject/26772226/
+196|||逆光而行|||沈南乔|||https://book.douban.com/subject/27012039/
+197|||加油！你是最胖的|||自由极光|||https://book.douban.com/subject/27068872/
+198|||岁月的泡沫|||[法] 鲍里斯·维昂|||https://book.douban.com/subject/5248289/
+199|||1980年代的爱情|||野夫|||https://book.douban.com/subject/25696089/
+200|||藏地白皮书|||傅真、毛铭基|||https://book.douban.com/subject/3065232/
+201|||遥远的救世主|||豆豆|||https://book.douban.com/subject/1322455/
+202|||爱的多重奏|||[法] 阿兰·巴迪欧|||https://book.douban.com/subject/19964304/
+203|||野兽绅士|||巫家民（Tango）|||https://book.douban.com/subject/26960524/
+204|||来不及说我爱你|||匪我思存|||https://book.douban.com/subject/1886385/
+205|||真实的颜色|||克里斯汀·汉娜|||https://book.douban.com/subject/4832482/
+206|||记忆修理屋|||奔放的招财猫|||https://book.douban.com/subject/27011703/
+207|||因为深爱，所以放手|||[美]科林•胡佛、Colleen Hoover|||https://book.douban.com/subject/25913147/
+208|||爱如繁星|||匪我思存|||https://book.douban.com/subject/27078198/
+209|||骄阳似我|||顾漫|||https://book.douban.com/subject/23795254/
+210|||我与世界只差一个你|||张皓宸|||https://book.douban.com/subject/26357479/
+211|||昨日之旅|||[奥地利]茨威格|||https://book.douban.com/subject/4173402/
+212|||长相思|||桐华|||https://book.douban.com/subject/21242062/
+213|||恋爱中毒|||(日)山本文绪|||https://book.douban.com/subject/20488770/
+214|||NANA（1-13）|||[日] 矢泽爱|||https://book.douban.com/subject/1474842/
+215|||我们纯真的青春|||一织|||https://book.douban.com/subject/27036632/
+216|||诫律|||艾伦・费恩、雪莉・施赖伯、陈茗芬|||https://book.douban.com/subject/1310112/
+217|||聶魯達一百首愛的十四行詩|||聶魯達|||https://book.douban.com/subject/1818384/
+218|||纯真年代|||[美] 伊迪丝·华顿|||https://book.douban.com/subject/1098639/
+219|||罗密欧与朱丽叶（名著名译插图本）|||（英）莎士比亚|||https://book.douban.com/subject/1212488/
+220|||我的鸵鸟先生|||含胭|||https://book.douban.com/subject/26590271/
+221|||假如爱情是游戏这就是规则|||切丽・卡特-斯考特|||https://book.douban.com/subject/1077488/
+222|||第一炉香|||张爱玲|||https://book.douban.com/subject/1082162/
+223|||寿美子哲，越过山去|||大出哲|||https://book.douban.com/subject/27046320/
+224|||全世界我只想和你在一起3|||米西亚|||https://book.douban.com/subject/27040713/
+225|||与我十年长跑的女友明天要嫁人了|||李海波|||https://book.douban.com/subject/24882309/
+226|||第一次的亲密接触|||蔡智恒|||https://book.douban.com/subject/1024217/
+227|||读懂恋人心|||〔美〕阿米尔•莱文　雷切尔•S.F.海勒|||https://book.douban.com/subject/11442509/
+228|||爱玛|||[英] 简·奥斯丁|||https://book.douban.com/subject/1093098/
+229|||六世达赖仓央嘉措情歌及秘史|||仓央嘉措|||https://book.douban.com/subject/1780032/
+230|||爱上浪漫|||德波顿 著|||https://book.douban.com/subject/1036395/
+231|||获得幸福婚姻的7法则|||[美] 约翰·戈特曼、纳恩·西尔弗|||https://book.douban.com/subject/5361568/
+232|||把所有失眠的夜都给你|||眠去|||https://book.douban.com/subject/26282087/
+233|||一厘米的阳光|||墨宝非宝|||https://book.douban.com/subject/26255776/
+234|||你的怪兽男友|||叶小白|||https://book.douban.com/subject/27077325/
+235|||误入浮华|||不经语|||https://book.douban.com/subject/26289739/
+236|||藍宇|||北京同志|||https://book.douban.com/subject/1394433/
+237|||爱的设计|||[美] 阿兰·布鲁姆（Allan Bloom）|||https://book.douban.com/subject/26992827/
+238|||春天对樱桃树做的事|||阿郎|||https://book.douban.com/subject/27017918/
+239|||爱你，是我做过最好的事|||笙离|||https://book.douban.com/subject/3183785/
+240|||我们夜里在美术馆谈恋爱|||文珍|||https://book.douban.com/subject/26236436/
+241|||他来了，请闭眼|||丁墨|||https://book.douban.com/subject/25912734/
+242|||隔壁女子|||[日] 向田邦子|||https://book.douban.com/subject/5423775/
+243|||其实你没那么爱他|||[美] 丽姿·塔西露（Liz Tuccillo）|||https://book.douban.com/subject/26922895/
+244|||良辰多喜欢2|||原城|||https://book.douban.com/subject/26587749/
+245|||世界微尘里|||木浮生|||https://book.douban.com/subject/25851002/
+246|||你的一切好与坏我都眷恋|||杨西凝|||https://book.douban.com/subject/26652086/
+247|||亚当夏娃在拂晓|||[美]克里斯托弗•莱恩（Christopher Ryan）、[美]卡西尔达•杰萨（Cacilda Jethá）|||https://book.douban.com/subject/27018506/
+248|||沉落的黄昏|||[日] 江国香织|||https://book.douban.com/subject/1949925/
+249|||Lens·目客002：我这样爱你|||Lens|||https://book.douban.com/subject/26431215/
+250|||我明白你会来，所以我等|||沈从文|||https://book.douban.com/subject/26662988/
+251|||你看起来很下饭|||余笙|||https://book.douban.com/subject/27025865/
+252|||停车暂借问|||钟晓阳|||https://book.douban.com/subject/6527141/
+253|||我愛過，所以我活過|||張小嫻|||https://book.douban.com/subject/3864464/
+254|||爱的五种能力|||赵永久|||https://book.douban.com/subject/21764541/
+255|||每天都是小春日和|||[日]津端英子、[日]津端修一|||https://book.douban.com/subject/27028717/
+256|||我想恋爱，正好你在|||汪海英|||https://book.douban.com/subject/27012319/
+257|||莫失莫忘|||秋微|||https://book.douban.com/subject/21346610/
+258|||等待|||[美] 哈金|||https://book.douban.com/subject/1547677/
+259|||许我向你看|||辛夷坞|||https://book.douban.com/subject/3293231/
+260|||爱，是不能忘记的|||张洁|||https://book.douban.com/subject/2002992/
+261|||有生之年|||Twentine|||https://book.douban.com/subject/26599743/
+262|||八月未央|||安妮宝贝|||https://book.douban.com/subject/1029159/
+263|||火车上的女孩|||（英）宝拉·霍金斯|||https://book.douban.com/subject/26609809/
+264|||化学家|||[美] 斯蒂芬妮·梅尔|||https://book.douban.com/subject/26992628/
+265|||让爱情成为你想要的样子|||赵格羽|||https://book.douban.com/subject/27013743/
+266|||欲爱书|||蒋勋|||https://book.douban.com/subject/7916066/
+267|||泡沫之夏|||明晓溪|||https://book.douban.com/subject/1596305/
+268|||胭脂扣|||李碧华|||https://book.douban.com/subject/1705507/
+269|||我依然爱你，我只是不喜欢你了|||小岩井|||https://book.douban.com/subject/26293455/
+270|||猜心游戏|||安念青|||https://book.douban.com/subject/27017271/
+271|||九幽|||逍遥兽|||https://book.douban.com/subject/26914805/
+272|||微妙|||(法) 大卫•冯金诺斯|||https://book.douban.com/subject/25887981/
+273|||亲密关系的秘密|||杰夫·艾伦|||https://book.douban.com/subject/26285423/
+274|||回归|||[英] 维多利亚·希斯洛普|||https://book.douban.com/subject/4038610/
+275|||我的盖世英熊|||鲍鲸鲸|||https://book.douban.com/subject/26628022/
+276|||仓央嘉措诗传|||苗欣宇、马辉|||https://book.douban.com/subject/3873355/
+277|||越洋情书（上下卷）|||[法] 西蒙娜・德・波伏娃|||https://book.douban.com/subject/1068246/
+278|||沥川往事|||玄隐|||https://book.douban.com/subject/3674353/
+279|||遇见你真好|||白峻也|||https://book.douban.com/subject/27053574/
+280|||别爱上任何人|||[美] 玛丽·库比卡|||https://book.douban.com/subject/26848052/
+281|||情人|||渡边淳一|||https://book.douban.com/subject/26665723/
+282|||动物形状的烟火|||张悦然、双雪涛、旧海棠、孙频、手指、郑小驴、朱个、于一爽、常小琥|||https://book.douban.com/subject/27053654/
+283|||当我足够好，才会遇见你|||Lydia|||https://book.douban.com/subject/25852441/
+284|||戴珍珠耳环的少女|||[美] 特蕾西·雪佛兰|||https://book.douban.com/subject/2245301/
+285|||不如，重新开始|||刘玮 编绘、刘玮、董源 绘|||https://book.douban.com/subject/26899836/
+286|||亲爱的另一个我|||康沛|||https://book.douban.com/subject/26340704/
+287|||用男人的思维跟男人谈恋爱|||乖爷到|||https://book.douban.com/subject/22233895/
+288|||罗茜计划|||[澳] 格雷姆·辛浦生|||https://book.douban.com/subject/26758995/
+289|||世界停在我吻你的时候|||纳兰妙殊|||https://book.douban.com/subject/23765239/
+290|||阿南|||Twentine|||https://book.douban.com/subject/26825085/
+291|||伊斯坦布尔假期|||(法)马克·李维|||https://book.douban.com/subject/19950612/
+292|||会有天使替我爱你|||明晓溪|||https://book.douban.com/subject/1291760/
+293|||暮色|||[美] 斯蒂芬妮·梅尔|||https://book.douban.com/subject/3124525/
+294|||凯旋门|||(德)雷马克|||https://book.douban.com/subject/2050776/
+295|||东宫|||匪我思存|||https://book.douban.com/subject/4871447/
+296|||欢乐颂  第一季|||阿耐|||https://book.douban.com/subject/11625032/
+297|||你好像一点也不想我|||鹿满川|||https://book.douban.com/subject/27043726/
+298|||浮生物语|||裟椤双树|||https://book.douban.com/subject/5363651/
+299|||一首情诗一场爱|||北雪|||https://book.douban.com/subject/27055105/
+300|||我愿意舍弃一切，以想念你终此一生：朱生豪情书精选|||朱生豪|||https://book.douban.com/subject/26324451/
+301|||阿尼玛|||蔡智恒|||https://book.douban.com/subject/25830077/
+302|||我就喜欢你这样的地方|||(日)堀川波|||https://book.douban.com/subject/1050083/
+303|||曾许诺|||桐华|||https://book.douban.com/subject/5980360/
+304|||等一个人咖啡|||九把刀|||https://book.douban.com/subject/1049070/
+305|||爱上双人舞|||李中莹|||https://book.douban.com/subject/1220789/
+306|||致爱情里的聋哑人士|||H|||https://book.douban.com/subject/26994758/
+307|||東京愛的故事 1|||柴门文|||https://book.douban.com/subject/1776127/
+308|||当我足够爱，才敢失去你|||朱沐（Lydia ）|||https://book.douban.com/subject/26417674/
+309|||明天的我与昨天的你约会|||[日] 七月隆文|||https://book.douban.com/subject/26926542/
+310|||在世界尽头遇见你|||景行|||https://book.douban.com/subject/25985525/
+311|||卿卿如晤|||C.S.路易斯|||https://book.douban.com/subject/2066445/
+312|||影子里的恋人|||慢三|||https://book.douban.com/subject/27074765/
+313|||特工皇妃楚乔传|||潇湘冬儿|||https://book.douban.com/subject/27012341/
+314|||完美伴侣|||德永 (Adam)|||https://book.douban.com/subject/3875750/
+315|||爱的博弈|||约翰·戈特曼 (John Gottman)、娜恩·西尔弗 (Nan Silver)|||https://book.douban.com/subject/25809012/
+316|||魔道祖师|||墨香铜臭|||https://book.douban.com/subject/26763013/
+317|||知更鸟女孩|||[美] 查克·温迪格|||https://book.douban.com/subject/26707942/
+318|||分手信|||[美] 尼古拉斯·斯帕克思|||https://book.douban.com/subject/3242857/
+319|||什刹海追爱记|||张晓芸|||https://book.douban.com/subject/26994790/
+320|||全世界我只想和你在一起2|||米西亚|||https://book.douban.com/subject/26980729/
+321|||三七年夏至|||未再|||https://book.douban.com/subject/26984976/
+322|||舞姬|||[日]森鸥外|||https://book.douban.com/subject/26797105/
+323|||不眠之爱|||[澳] 莉安·莫利亚提|||https://book.douban.com/subject/26937591/
+324|||姑娘，我们一起合租吧|||宋小君、宋君|||https://book.douban.com/subject/10771015/
+325|||52赫兹鲸|||关聪慧|||https://book.douban.com/subject/27000802/
+326|||唯爱与美食不可辜负|||山亭夜宴|||https://book.douban.com/subject/25807523/
+327|||玩命爱一个姑娘|||宋小君|||https://book.douban.com/subject/26449387/
+328|||坏女人有人爱|||（美）阿尔戈|||https://book.douban.com/subject/4152112/
+329|||不负如来不负卿1|||小春|||https://book.douban.com/subject/3123939/
+330|||爱，上了瘾|||伊东明|||https://book.douban.com/subject/2990695/
+331|||那些我们没谈过的事|||马克·李维|||https://book.douban.com/subject/26359759/
+332|||烛烬|||[匈] 马洛伊·山多尔|||https://book.douban.com/subject/26580084/
+333|||别拿男人不当动物|||杨冰阳|||https://book.douban.com/subject/5939058/
+334|||恋文|||(日)连城三纪彦|||https://book.douban.com/subject/6731202/
+335|||遇到百分之百的女孩|||[日] 村上春树|||https://book.douban.com/subject/1079440/
+336|||白拉姆客栈|||宋晓俐|||https://book.douban.com/subject/26951871/
+337|||永别了，武器|||(美)海明威|||https://book.douban.com/subject/1883349/
+338|||闺蜜|||艾明雅|||https://book.douban.com/subject/10564563/
+339|||胭脂扣 生死桥|||李碧华|||https://book.douban.com/subject/1032581/
+340|||告别薇安|||安妮宝贝|||https://book.douban.com/subject/1016523/
+341|||地久天长|||王小波|||https://book.douban.com/subject/3264644/
+342|||他其实没那么喜欢你|||（美）格莱哥·贝伦特、（美）丽兹·塔西露|||https://book.douban.com/subject/3276681/
+343|||亲爱的，我们别吵了|||[美] 苏珊•约翰逊|||https://book.douban.com/subject/5300082/
+344|||天台上的萤火虫|||黙鱼|||https://book.douban.com/subject/27013698/
+345|||我的奇妙男友2|||水阡墨|||https://book.douban.com/subject/26741658/
+346|||嫡谋|||面北眉南|||https://book.douban.com/subject/26896979/
+347|||人类要是没有爱情就好了|||邵艺辉（@红拂夜奔不复还）|||https://book.douban.com/subject/26892411/
+348|||我要对你做，春天对樱桃树做的事|||飞扬|||https://book.douban.com/subject/26613396/
+349|||我们|||辛夷坞|||https://book.douban.com/subject/26671435/
+350|||我们是不是该结婚了|||[日]石田衣良|||https://book.douban.com/subject/26180267/
+351|||秘密|||[日] 东野圭吾|||https://book.douban.com/subject/3102324/
+352|||岁月是朵两生花|||唐七公子|||https://book.douban.com/subject/4115227/
+353|||云中歌1|||桐华|||https://book.douban.com/subject/2283084/
+354|||全世界我只想和你在一起|||米西亚|||https://book.douban.com/subject/26907263/
+355|||1Q84 BOOK 3|||[日] 村上春树|||https://book.douban.com/subject/5502995/
+356|||祖先的爱情|||陆源|||https://book.douban.com/subject/4813438/
+357|||亲爱的，我不会把你交给绝望|||(美)查尔斯·马丁|||https://book.douban.com/subject/20513013/
+358|||老师的提包|||[日] 川上弘美|||https://book.douban.com/subject/1914625/
+359|||那个送我筋斗云的美少年|||代琮|||https://book.douban.com/subject/27053309/
+360|||你属于黑夜，我属于你|||小岛|||https://book.douban.com/subject/26969700/
+361|||倾世风华|||水何采采|||https://book.douban.com/subject/26353351/
+362|||全世爱|||苏小懒|||https://book.douban.com/subject/3108829/
+363|||两地书|||鲁迅、许广平|||https://book.douban.com/subject/1960244/
+364|||我们始终没有牵手旅行|||曾忆城|||https://book.douban.com/subject/1986074/
+365|||左耳|||饶雪漫|||https://book.douban.com/subject/1469051/
+366|||窄门|||[法] 安德烈·纪德|||https://book.douban.com/subject/4246979/
+367|||南方与北方|||盖斯凯尔夫人|||https://book.douban.com/subject/1758926/
+368|||见过爱情的人|||穆熙妍|||https://book.douban.com/subject/26847907/
+369|||爱情故事|||[美] 埃里奇.西格尔|||https://book.douban.com/subject/2050806/
+370|||贞爱无敌|||白峻也|||https://book.douban.com/subject/27036657/
+371|||散落星河的记忆1：迷失|||桐华|||https://book.douban.com/subject/26981838/
+372|||The Course of Love|||Alain de Botton|||https://book.douban.com/subject/26808270/
+373|||夜空最亮的星|||颜月溪|||https://book.douban.com/subject/26666471/
+374|||永不永不说再见|||张小娴|||https://book.douban.com/subject/3053868/
+375|||香蜜沉沉烬如霜|||电线|||https://book.douban.com/subject/3903387/
+376|||爱情是一个故事|||[美] 罗伯特•斯滕伯格|||https://book.douban.com/subject/26974024/
+377|||寂寞空庭春欲晚|||匪我思存|||https://book.douban.com/subject/1489555/
+378|||銀座紅牌馭男術|||蝴蝶|||https://book.douban.com/subject/3742938/
+379|||花千骨（上下）|||Fresh果果|||https://book.douban.com/subject/4224758/
+380|||欢乐颂  第三季|||阿耐|||https://book.douban.com/subject/20259330/
+381|||我爱问连岳Ⅱ|||连岳|||https://book.douban.com/subject/3080607/
+382|||男人来自火星，女人来自金星2|||[美] 约翰·格雷|||https://book.douban.com/subject/5356341/
+383|||翻译官|||纪媛媛|||https://book.douban.com/subject/1925218/
+384|||恰到好处的恋爱|||赵永久|||https://book.douban.com/subject/27064915/
+385|||两个人|||[英]菲丽帕·赖斯|||https://book.douban.com/subject/26431212/
+386|||迎男而上|||燕公子、薛好大|||https://book.douban.com/subject/20472534/
+387|||起风了|||(日)堀辰雄|||https://book.douban.com/subject/25714740/
+388|||忽而今夏|||明前雨后|||https://book.douban.com/subject/1748232/
+389|||无出路咖啡馆|||严歌苓|||https://book.douban.com/subject/3160327/
+390|||那么，爱呢？|||刘瑜|||https://book.douban.com/subject/1444225/
+391|||谁可以这样爱我|||(美)弗兰辛•瑞福尔|||https://book.douban.com/subject/5954613/
+392|||我坐在彼德拉河畔，哭泣|||(巴西)保罗·柯艾略|||https://book.douban.com/subject/5347700/
+393|||忍冬|||Twentine|||https://book.douban.com/subject/26743436/
+394|||红字|||霍桑|||https://book.douban.com/subject/1186350/
+395|||王朔文集（纯情卷）|||王朔|||https://book.douban.com/subject/1440490/
+396|||此刻不爱的人，都有罪|||[韩] 卢熙京|||https://book.douban.com/subject/26905604/
+397|||法国人如何发明爱情|||(美)玛丽莲﹒亚隆|||https://book.douban.com/subject/26657920/
+398|||爱情笔记|||[英] 阿兰·德波顿|||https://book.douban.com/subject/19894466/
+399|||黛丽拉和她的20个前男友|||卡琳•波斯纳克（Karyn Bosnak）|||https://book.douban.com/subject/4903295/
+400|||昼颜|||[日]井上由美子、[日]百濑忍|||https://book.douban.com/subject/26309151/
+401|||你的爱情，终将温暖|||主编韩素因|||https://book.douban.com/subject/27011408/
+402|||愛的進化論|||艾倫.狄波頓(Alain de Botton)|||https://book.douban.com/subject/26751840/
+403|||吸引家|||潇邦|||https://book.douban.com/subject/27082407/
+404|||斯普特尼克恋人|||[日] 村上春树|||https://book.douban.com/subject/1020959/
+405|||看得见风景的房间|||[英]E·M·福斯特|||https://book.douban.com/subject/2036576/
+406|||你和我的倾城时光|||丁墨|||https://book.douban.com/subject/26148475/
+407|||莎乐美|||[英]奥斯卡·王尔德、比亚兹莱  插图|||https://book.douban.com/subject/3129584/
+408|||爱丽丝没有仙境|||喜宝|||https://book.douban.com/subject/26335587/
+409|||黑白|||朝小诚|||https://book.douban.com/subject/27041189/
+410|||新性愛聖經|||Comfort, Alex、Quilliam, Susan|||https://book.douban.com/subject/3348764/
+411|||男人约会往北，女人约会往南|||约翰·格雷|||https://book.douban.com/subject/1444770/
+412|||吃了再爱，还是爱了再吃？|||匡靖|||https://book.douban.com/subject/26866648/
+413|||何欢|||步微澜|||https://book.douban.com/subject/10876729/
+414|||女孩像你|||康沛|||https://book.douban.com/subject/25963932/
+415|||你是我唯一的星光|||总攻大人|||https://book.douban.com/subject/26857100/
+416|||醉玲珑（上卷）|||十四夜|||https://book.douban.com/subject/2281912/
+417|||吃饱了才有力气谈恋爱|||蔡要要不吃药|||https://book.douban.com/subject/26602109/
+418|||她从梦里来|||陆茸|||https://book.douban.com/subject/27070105/
+419|||恋爱中的波伏瓦|||[法]伊雷娜·弗兰|||https://book.douban.com/subject/26357036/
+420|||爱让我们更好了|||李荷西|||https://book.douban.com/subject/26840198/
+421|||漂洋过海来看你|||姚瑶|||https://book.douban.com/subject/26979407/
+422|||上流法则|||[美] 埃默·托尔斯|||https://book.douban.com/subject/27096813/
+423|||失落在记忆里的人|||吴忠全|||https://book.douban.com/subject/27021570/
+424|||十年一品温如言|||书海沧生|||https://book.douban.com/subject/21321839/
+425|||此时此刻相爱的能力|||鹿满川|||https://book.douban.com/subject/26672590/
+426|||冷眼观爱2：一切情感问题的答案|||冷爱|||https://book.douban.com/subject/26852140/
+427|||恰似水之于巧克力|||[墨] 劳拉·埃斯基韦尔|||https://book.douban.com/subject/2141646/
+428|||晚秋|||[韩] 金泰勇、[韩] 李林裔|||https://book.douban.com/subject/10530128/
+429|||那些有伤的年轻人|||庄雅婷|||https://book.douban.com/subject/5293030/
+430|||爱的进化论|||（英）阿兰·德波顿|||https://book.douban.com/subject/27073878/
+431|||賢者之愛|||山田詠美|||https://book.douban.com/subject/26785388/
+432|||爱人、情人和怪人|||吴宝沛|||https://book.douban.com/subject/26354161/
+433|||钟爱一生|||内勒 (Naylor Helen)|||https://book.douban.com/subject/1243172/
+434|||女神一号|||冯唐|||https://book.douban.com/subject/26362908/
+435|||我喜欢当年喜欢你的我|||郝蕾、眠去、这么、岂有此女、囧之女神daisy、刘小昭、曾胜昔、郝多多|||https://book.douban.com/subject/10773363/
+436|||月族 1|||[美] 玛丽莎·梅尔|||https://book.douban.com/subject/26811147/
+437|||人淡如菊|||[加] 亦舒|||https://book.douban.com/subject/3073494/
+438|||余生都是你|||若雪飞扬|||https://book.douban.com/subject/27007883/
+439|||二三事|||安妮宝贝|||https://book.douban.com/subject/1058234/
+440|||抑郁的爱|||[美]苏珊·福沃德 琼·托雷斯|||https://book.douban.com/subject/25799422/
+441|||让时间停止的女孩|||[美] 罗伯特·富兰克林·杨|||https://book.douban.com/subject/26879323/
+442|||夏有乔木雅望天堂|||籽月|||https://book.douban.com/subject/4887524/
+443|||小确幸不如大欢喜|||牛莹|||https://book.douban.com/subject/26889498/
+444|||巴黎没有摩天轮|||浅白色|||https://book.douban.com/subject/3671351/
+445|||时光有你记忆成花|||顾西爵|||https://book.douban.com/subject/27062444/
+446|||水仙已乘鲤鱼去|||张悦然|||https://book.douban.com/subject/1018153/
+447|||爱的自然史|||[美] 戴安娜•阿克曼著|||https://book.douban.com/subject/27026456/
+448|||花神录|||柏夏|||https://book.douban.com/subject/26954554/
+449|||和你在一起才是全世界|||大柠|||https://book.douban.com/subject/26695285/
+450|||成为简•奥斯丁|||乔•亨特•斯宾塞|||https://book.douban.com/subject/25766893/
+451|||步步惊心|||桐华|||https://book.douban.com/subject/1812439/
+452|||你丫上瘾了|||柴鸡蛋|||https://book.douban.com/subject/26732446/
+453|||英儿|||顾城、雷米|||https://book.douban.com/subject/1457149/
+454|||如何挽回你的爱|||花镇|||https://book.douban.com/subject/27081736/
+455|||被时光掩埋的秘密|||桐华|||https://book.douban.com/subject/3336465/
+456|||在爱中修行|||素黑|||https://book.douban.com/subject/3005066/
+457|||生命的每一天都是奇遇|||三盅|||https://book.douban.com/subject/26357209/
+458|||衣香鬓影|||寐语者|||https://book.douban.com/subject/2354969/
+459|||英国病人|||[加拿大] 迈克尔·翁达杰|||https://book.douban.com/subject/10583075/
+460|||我的曲奇之恋|||立立成|||https://book.douban.com/subject/26853479/
+461|||除了爱，我们什么都不会|||张晓晗|||https://book.douban.com/subject/26287355/
+462|||迷雾围城（全两册）|||匪我思存|||https://book.douban.com/subject/6313955/
+463|||为了你，我愿意热爱整个世界|||唐家三少|||https://book.douban.com/subject/26796537/
+464|||爱是唯一的真相|||［美］布莱恩• 魏斯|||https://book.douban.com/subject/26873207/
+465|||你会想念你自己吗|||张小娴|||https://book.douban.com/subject/26590273/
+466|||我们如何走到这一步|||庄雅婷|||https://book.douban.com/subject/23197834/
+467|||喜欢你的150个小细节|||isolan麦葵|||https://book.douban.com/subject/21355911/
+468|||拥抱|||张小娴|||https://book.douban.com/subject/3099359/
+469|||满满都是我对你的爱|||顾西爵|||https://book.douban.com/subject/25789570/
+470|||通俗爱情|||叶扬（独眼）|||https://book.douban.com/subject/10946179/
+471|||Why Men Love Bitches|||Sherry Argov|||https://book.douban.com/subject/1463494/
+472|||梅廿九|||姚璎|||https://book.douban.com/subject/27007860/
+473|||冷山|||查尔斯・弗雷泽|||https://book.douban.com/subject/1026278/
+474|||一个人的欢喜与忧伤|||笙离|||https://book.douban.com/subject/4037337/
+475|||朝花夕拾|||亦舒|||https://book.douban.com/subject/1361268/
+476|||佳期如梦之海上繁花|||匪我思存|||https://book.douban.com/subject/3284067/
+477|||男人的伎俩 女人的道行|||赵永久|||https://book.douban.com/subject/6999545/
+478|||我是海明威的巴黎妻子|||保拉·麦克莱恩（Paula McLain）|||https://book.douban.com/subject/20451782/
+479|||别拿爱情说事儿|||不经语|||https://book.douban.com/subject/11443061/
+480|||仓央嘉措|||高平|||https://book.douban.com/subject/4880885/
+481|||亲爱的闺蜜|||[日] 绵矢莉莎|||https://book.douban.com/subject/25845649/
+482|||爱我少一点，爱我久一点|||眠去 主编|||https://book.douban.com/subject/26439450/
+483|||我的青春从爱你开始|||桔子树|||https://book.douban.com/subject/4098989/
+484|||完美的爱，不完美的关系|||约翰·威尔伍德|||https://book.douban.com/subject/4151190/
+485|||锦绣缘|||念一|||https://book.douban.com/subject/1104760/
+486|||完美爱情标本店|||殷小棠|||https://book.douban.com/subject/27046309/
+487|||和你在一起才是全世界2|||大柠|||https://book.douban.com/subject/26965318/
+488|||季凉川，爱了你这么多年Ⅱ|||左瞳|||https://book.douban.com/subject/20282798/
+489|||你迟到了许多年|||金陵雪|||https://book.douban.com/subject/11524816/
+490|||从文家书|||沈从文、张兆和、沈虎雏编选|||https://book.douban.com/subject/1103569/
+491|||安妮宝贝系列|||安妮宝贝|||https://book.douban.com/subject/3224818/
+492|||愛·小時光|||PUUUNG|||https://book.douban.com/subject/26856769/
+493|||苏菲的选择|||[美] 威廉·斯泰隆|||https://book.douban.com/subject/4191879/
+494|||格子间女人|||舒仪|||https://book.douban.com/subject/3359739/
+495|||大漠谣|||桐华|||https://book.douban.com/subject/1925232/
+496|||寄在信封里的灵魂|||朱生豪 宋清如、宋清如 编|||https://book.douban.com/subject/1467138/
+497|||那些再与你无关的幸福|||肆一|||https://book.douban.com/subject/25926869/
+498|||我终究是爱你的|||张小娴|||https://book.douban.com/subject/4230591/
+499|||再美也美不过想象|||耀一|||https://book.douban.com/subject/25978608/
+500|||幸好，没有在一起|||吴桐|||https://book.douban.com/subject/25975473/
+501|||遇见弗洛伊德的眼泪|||盈风|||https://book.douban.com/subject/26937209/
+502|||爱自己，和谁结婚都一样|||德〕爱娃－玛丽亚·楚尔霍斯特|||https://book.douban.com/subject/4767452/
+503|||小执着|||微凉维夏|||https://book.douban.com/subject/27000478/
+504|||至此终年|||墨宝非宝|||https://book.douban.com/subject/24339872/
+505|||苹果笔记本|||(英)珍妮特·温特森|||https://book.douban.com/subject/6806555/
+506|||如果墙会说话|||亦舒|||https://book.douban.com/subject/1892491/
+507|||苏丝黄的世界|||[英] 理查德•梅森（Richard Mason）|||https://book.douban.com/subject/26593037/
+508|||香草山|||余杰|||https://book.douban.com/subject/1030470/
+509|||积极恋爱心理学|||赵永久|||https://book.douban.com/subject/25975450/
+510|||应许之日|||辛夷坞|||https://book.douban.com/subject/25900190/
+511|||许我向你看（终结篇）|||辛夷坞|||https://book.douban.com/subject/3730731/
+512|||上海往事|||张浩音|||https://book.douban.com/subject/1272840/
+513|||愛，不由自主|||島本理生|||https://book.douban.com/subject/1780559/
+514|||亲爱的，这不只是一场旅行|||汤佳|||https://book.douban.com/subject/10762249/
+515|||檞寄生|||蔡智恒|||https://book.douban.com/subject/1012203/
+516|||我喜欢你，你知道吗？|||我和你|||https://book.douban.com/subject/4920175/
+517|||琥珀|||[美] 凯瑟琳·温莎|||https://book.douban.com/subject/1208002/
+518|||街角的奇迹|||[肯] 肯尼迪·欧戴德（Kennedy Odede）、[美] 杰茜卡·波斯纳（Jessica Posner）|||https://book.douban.com/subject/26980502/
+519|||幸福，需要等待|||[法]安娜·戈华达|||https://book.douban.com/subject/26945560/
+520|||脚趾上的星光|||[台]姚谦|||https://book.douban.com/subject/10733279/
+521|||那么短的快感，那么长的人生|||颜彦清|||https://book.douban.com/subject/26952152/
+522|||泡沫之夏Ⅲ|||明晓溪|||https://book.douban.com/subject/2062430/
+523|||三生三世十里桃花|||唐七公子|||https://book.douban.com/subject/19936010/
+524|||恋爱口语|||燕公子|||https://book.douban.com/subject/26614208/
+525|||初恋爱|||九夜茴|||https://book.douban.com/subject/4175252/
+526|||我把四季用来等你|||贾九峰|||https://book.douban.com/subject/26771781/
+527|||她和他|||（法）马克•李维|||https://book.douban.com/subject/26847654/
+528|||只要在一起|||(法)安娜·卡瓦尔达|||https://book.douban.com/subject/2059994/
+529|||恋爱与牺牲|||(法)莫罗阿|||https://book.douban.com/subject/25806269/
+530|||爱的基本语法|||十三|||https://book.douban.com/subject/23765279/
+531|||再錯也要談戀愛|||蔡康永|||https://book.douban.com/subject/1794333/
+532|||在寂与寞的川流上|||寐语者|||https://book.douban.com/subject/4849493/
+533|||嫁给风的女孩|||[法] 莉莲安·古戎|||https://book.douban.com/subject/3015783/
+534|||分手清单|||[英] 麦克·盖尔|||https://book.douban.com/subject/2146336/
+535|||爱的历史|||[美]妮可·克劳斯|||https://book.douban.com/subject/3818410/
+536|||我又不是怪兽|||朱肖影|||https://book.douban.com/subject/27058867/
+537|||我爱问连岳Ⅲ|||连岳|||https://book.douban.com/subject/3886010/
+538|||我们相爱一生， 一生还是太短|||沈从文|||https://book.douban.com/subject/26992730/
+539|||阿道尔夫|||[法]邦雅曼·贡斯当|||https://book.douban.com/subject/2213892/
+540|||曾经，我爱过一个少年|||陆小寒|||https://book.douban.com/subject/26676261/
+541|||你在北京还好吗|||陆禾|||https://book.douban.com/subject/26686028/
+542|||生死遗言|||伊能静|||https://book.douban.com/subject/1000034/
+543|||初恋总是诀恋|||(摩洛哥)塔哈尔·本·杰伦|||https://book.douban.com/subject/6874619/
+544|||嫡谋：终章|||面北眉南|||https://book.douban.com/subject/27024334/
+545|||多年前，她曾闯入他的城|||云檀|||https://book.douban.com/subject/26845171/
+546|||然后、爱情随遇而安|||长着翅膀的大灰狼|||https://book.douban.com/subject/6534919/
+547|||痴人之爱|||（日本）谷崎润一郎|||https://book.douban.com/subject/1069210/
+548|||我勒个去,分手|||PP殿下|||https://book.douban.com/subject/11541361/
+549|||人生若只初相见|||梅子黄时雨|||https://book.douban.com/subject/4124855/
+550|||當男孩遇見女孩|||約書亞.哈里斯|||https://book.douban.com/subject/3221766/
+551|||南极绝恋|||吴有音|||https://book.douban.com/subject/27009727/
+552|||每个人都爱别人|||徐昊原|||https://book.douban.com/subject/27016203/
+553|||丘比特之箭|||（美）罗伯特・J・斯滕伯格|||https://book.douban.com/subject/1020110/
+554|||关于爱与性的一切，你全错了|||[美] 佩珀·舒瓦茨|||https://book.douban.com/subject/4882155/
+555|||明星与素琴|||云从龙|||https://book.douban.com/subject/26992888/
+556|||那些叫爱情的伤，我们总会痊愈的|||月下|||https://book.douban.com/subject/26346186/
+557|||智斗|||缪娟|||https://book.douban.com/subject/5414084/
+558|||邮差|||[智利] 安东尼奥·斯卡尔梅达|||https://book.douban.com/subject/2277795/
+559|||紫阳花日记|||[日] 渡边淳一|||https://book.douban.com/subject/3101457/
+560|||死刑判决|||(法) 莫里斯·布朗肖|||https://book.douban.com/subject/26133488/
+561|||如果蜗牛有爱情|||丁墨|||https://book.douban.com/subject/25767862/
+562|||《我和你，那一场风花雪月的事》|||梁华|||https://book.douban.com/subject/26925656/
+563|||爱就是彼此珍惜|||[美] 苏珊·海特乐 著、黄维仁 改写|||https://book.douban.com/subject/1423583/
+564|||衾何以堪|||木浮生|||https://book.douban.com/subject/4162625/
+565|||烈火如歌|||明晓溪|||https://book.douban.com/subject/1083257/
+566|||世间始终你好|||[美]劳伦·弗莱施曼|||https://book.douban.com/subject/26711232/
+567|||信封|||[德国] 海纳·格兰钦|||https://book.douban.com/subject/3105174/
+568|||世界这么大，还是遇见你|||嘉倩、meiya、吴桐、Su、29°、刀劈三观荔枝、邓安庆、优等生杜小明、花衣云影、了之、流云在天、毛路、没头脑也很高兴、米没了、沐风而遇周星星、你看起来很美味、书生柏小齐、紫书、张君雅、曾良君|||https://book.douban.com/subject/24089617/
+569|||凤囚凰（上中）|||天衣有风|||https://book.douban.com/subject/3561591/
+570|||再不相爱就软了|||彭浩翔|||https://book.douban.com/subject/6904615/
+571|||第二次握手|||张扬|||https://book.douban.com/subject/3015561/
+572|||阁楼里的女孩|||[美] 弗吉尼亚·安德鲁斯|||https://book.douban.com/subject/26861449/
+573|||在世界中心呼唤爱|||[日] 片山恭一|||https://book.douban.com/subject/1001985/
+574|||致橡树|||舒婷|||https://book.douban.com/subject/1137147/
+575|||寄居者|||严歌苓|||https://book.douban.com/subject/3546250/
+576|||爱情太短 而遗忘太长|||慕容素衣|||https://book.douban.com/subject/26688077/
+577|||特别的他|||(爱尔兰)塞西莉亚·艾亨|||https://book.douban.com/subject/10725024/
+578|||夏至未至|||郭敬明|||https://book.douban.com/subject/4119322/
+579|||念及她名|||[美]弗朗西斯科•高德曼|||https://book.douban.com/subject/7175251/
+580|||黑骑士的王国|||李银河|||https://book.douban.com/subject/26847563/
+581|||心碎是爱情最美的样子|||[美]梅根·莱斯洛琦|||https://book.douban.com/subject/26463891/
+582|||过客，匆匆|||飘阿兮|||https://book.douban.com/subject/3293232/
+583|||就是要你说爱我|||平林漠漠|||https://book.douban.com/subject/26705811/
+584|||人若犯我（全二册）|||四十二吨|||https://book.douban.com/subject/26878059/
+585|||泡沫之夏Ⅱ|||明晓溪|||https://book.douban.com/subject/1855343/
+586|||路途遥远，我们在一起吧|||蔚蓝|||https://book.douban.com/subject/25718741/
+587|||我想陪你去麦加|||简直|||https://book.douban.com/subject/10785589/
+588|||珍妮的肖像|||劳伯特 纳珊|||https://book.douban.com/subject/1920037/
+589|||十五年等待候鸟|||盈风|||https://book.douban.com/subject/5068504/
+590|||在爱情与欲望之间|||[英]阿兰·德波顿|||https://book.douban.com/subject/26813110/
+591|||迷宫中的恋人|||陈雪|||https://book.douban.com/subject/26414520/
+592|||玉昭词|||时久|||https://book.douban.com/subject/26738061/
+593|||蔡康永爱情短信|||蔡康永|||https://book.douban.com/subject/19963130/
+594|||破晓|||[美] 斯蒂芬妮·梅尔|||https://book.douban.com/subject/3723866/
+595|||别对我撒谎|||莉安•莫利亚提（Liane Moriarty）|||https://book.douban.com/subject/25984842/
+596|||情爱现象学|||[法] 马礼荣 (Jean-Luc Marion)|||https://book.douban.com/subject/25912914/
+597|||你是在恋爱，还是在发神经|||丛扬洋|||https://book.douban.com/subject/25729298/
+598|||我们无处安放的青春|||吕挽|||https://book.douban.com/subject/1194465/
+599|||结婚十年|||苏青|||https://book.douban.com/subject/3988842/
+600|||为什么男人爱说谎 女人爱哭|||[澳] 亚伦·皮斯、芭芭拉•皮斯|||https://book.douban.com/subject/3771081/
+601|||我喜欢你|||桑德尔・斯托达德・沃伯格|||https://book.douban.com/subject/1145428/
+602|||他来了请闭眼之暗粼|||丁墨|||https://book.douban.com/subject/26997209/
+603|||小时代1.0折纸时代|||郭敬明|||https://book.douban.com/subject/3191328/
+604|||鹤唳华亭|||雪满梁园|||https://book.douban.com/subject/3606570/
+605|||丝绸|||（意）亚历山德罗•巴里科|||https://book.douban.com/subject/11588823/
+606|||空中小姐|||王朔|||https://book.douban.com/subject/1791682/
+607|||堕落天使|||纪媛媛|||https://book.douban.com/subject/2359687/
+608|||暮光之城·新月|||史蒂芬妮·梅爾|||https://book.douban.com/subject/3315827/
+609|||浮世浮城|||辛夷坞|||https://book.douban.com/subject/6087472/
+610|||她的二三事|||亦舒|||https://book.douban.com/subject/1456597/
+611|||吃南瓜的人|||亦舒|||https://book.douban.com/subject/1322066/
+612|||有一种病叫爱情|||克雷格・巴克、苏珊・福沃德|||https://book.douban.com/subject/1085659/
+613|||张爱玲作品集|||张爱玲|||https://book.douban.com/subject/1578609/
+614|||写给年少回不去的爱|||一草|||https://book.douban.com/subject/20277950/
+615|||He's Just Not That Into You|||Greg Behrendt、Liz Tuccillo|||https://book.douban.com/subject/3394930/
+616|||我爱你，时间没什么了不起|||猫司令、宋小君、你看起来很美味、杜小明、毛路、宁子、虫二雪先生、苏狗狗、米周、2koo、小黄兔、喜北、小和尚、小王纸、罗丹、阿卡纳、起床吃饭、酒肉猴|||https://book.douban.com/subject/25733641/
+617|||春雪|||[日] 三岛由纪夫|||https://book.douban.com/subject/3987362/
+618|||活在爱中的秘诀|||黄维仁|||https://book.douban.com/subject/4188027/
+619|||南方有乔木|||小狐濡尾|||https://book.douban.com/subject/26612679/
+620|||爱眉小札|||徐志摩|||https://book.douban.com/subject/1052123/
+621|||匣心记1|||伍倩|||https://book.douban.com/subject/26855761/
+622|||一段愛情，兩個人成長|||張小嫻|||https://book.douban.com/subject/4273408/
+623|||爱是一种病|||【美】劳伦·奥利弗|||https://book.douban.com/subject/6539848/
+624|||徐志摩诗|||徐志摩|||https://book.douban.com/subject/1019009/
+625|||身将腐朽，其爱不渝|||虫鸣|||https://book.douban.com/subject/4895097/
+626|||情种起源|||海伦·费舍尔|||https://book.douban.com/subject/25917736/
+627|||我爱你，我也不爱|||阿莱|||https://book.douban.com/subject/27007585/
+628|||天歌|||伍家格格|||https://book.douban.com/subject/26874571/
+629|||恋爱戒律|||郑洁心|||https://book.douban.com/subject/5401757/
+630|||似水年华|||黄磊|||https://book.douban.com/subject/1040589/
+631|||茧|||[日] 青山七恵|||https://book.douban.com/subject/27041521/
+632|||一封陌生女子的来信|||[奥地利] 茨威格|||https://book.douban.com/subject/1210726/
+633|||你喜欢勃拉姆斯吗……|||[法] 弗朗索瓦丝·萨冈|||https://book.douban.com/subject/1455950/
+634|||愛與欲望之螺旋 1|||冬森雪湖|||https://book.douban.com/subject/6094586/
+635|||歌尽桃花|||靡宝|||https://book.douban.com/subject/2699701/
+636|||租来的人生|||吴淡如|||https://book.douban.com/subject/4210973/
+637|||The Notebook|||Nicholas Sparks|||https://book.douban.com/subject/1340832/
+638|||倾慕|||榛生|||https://book.douban.com/subject/21327874/
+639|||一场关于前男友的葬礼|||张躲躲|||https://book.douban.com/subject/26744849/
+640|||亦舒作品集(共60册)|||亦舒|||https://book.douban.com/subject/1002895/
+641|||天空的城1|||超级大坦克科比|||https://book.douban.com/subject/26930726/
+642|||遇見你之前|||喬喬·莫伊絲、Jojo Moyes|||https://book.douban.com/subject/26834259/
+643|||歧路|||脉脉、渥丹|||https://book.douban.com/subject/7056649/
+644|||鲸鱼女孩 池塘男孩|||蔡智恒|||https://book.douban.com/subject/4774018/
+645|||柔福帝姬|||米兰Lady|||https://book.douban.com/subject/1464085/
+646|||再不相爱就老了|||吴虹飞|||https://book.douban.com/subject/5281331/
+647|||千山暮雪|||匪我思存|||https://book.douban.com/subject/3727329/
+648|||超级恋爱催眠术|||林贞年|||https://book.douban.com/subject/10794605/
+649|||我曾爱过你，想起就心酸|||自由极光|||https://book.douban.com/subject/11538355/
+650|||我想你，前任|||张躲躲|||https://book.douban.com/subject/25870251/
+651|||6点27分的朗读者|||[法] 让-保尔•迪迪耶洛朗|||https://book.douban.com/subject/26285734/
+652|||东京塔|||江国香织|||https://book.douban.com/subject/1157648/
+653|||恋爱课|||陈雪|||https://book.douban.com/subject/26385621/
+654|||依然美丽|||[美] 玛丽·盖茨基尔|||https://book.douban.com/subject/4252085/
+655|||张小娴作品集|||张小娴|||https://book.douban.com/subject/1058098/
+656|||陪你到最后|||[荷兰] 瑞·科伦|||https://book.douban.com/subject/3315714/
+657|||白马啸西风|||金庸|||https://book.douban.com/subject/1793132/
+658|||黑骏马|||张承志|||https://book.douban.com/subject/1086468/
+659|||夜行歌（上下）|||紫微流年|||https://book.douban.com/subject/3924481/
+661|||江山美人谋·终章|||袖唐|||https://book.douban.com/subject/26836228/
+662|||为什么我们爱得这么累|||[日]加藤谛三|||https://book.douban.com/subject/26430576/
+663|||我的丁一之旅|||史铁生|||https://book.douban.com/subject/1461195/
+664|||你不必讨全世界的欢心|||菠菜|||https://book.douban.com/subject/26713431/
+665|||情人书|||张嘉佳|||https://book.douban.com/subject/4159518/
+666|||再见之后，说再见|||汉蒂·艾特利|||https://book.douban.com/subject/26662977/
+667|||后宫·甄嬛传Ⅰ|||流潋紫|||https://book.douban.com/subject/2004407/
+668|||在切瑟尔海滩上|||[英] 伊恩·麦克尤恩|||https://book.douban.com/subject/3158733/
+669|||承欢记|||亦舒|||https://book.douban.com/subject/1484300/
+670|||我的另一种人生|||[美]萨拉•帕坎南|||https://book.douban.com/subject/20515419/
+671|||嫌疑人X的献身|||[日] 东野圭吾|||https://book.douban.com/subject/3211779/
+672|||一瞬的光线、色彩和阴影|||张惠雯|||https://book.douban.com/subject/26611551/
+673|||好想和你在一起|||北倾|||https://book.douban.com/subject/26844861/
+674|||七里香|||席慕蓉|||https://book.douban.com/subject/5302695/
+675|||在另一种生命里|||[法]马克•李维|||https://book.douban.com/subject/26593331/
+676|||今天也想表白你：小绿和小蓝|||笛子Ocarina|||https://book.douban.com/subject/26997263/
+677|||天子谋|||青垚|||https://book.douban.com/subject/4135947/
+678|||成都，今夜请将我遗忘|||慕容雪村|||https://book.douban.com/subject/1024854/
+679|||大唐后妃传：珍珠传奇 I|||沧溟水|||https://book.douban.com/subject/2183875/
+680|||画中情缘|||[英]伊莎贝尔·沃尔夫|||https://book.douban.com/subject/20458893/
+681|||花凋|||张爱玲|||https://book.douban.com/subject/2010279/
+682|||当最美的我遇见最好的你|||乔雪言|||https://book.douban.com/subject/27040865/
+683|||北京，你是我今夜不及的梦|||私奔锦|||https://book.douban.com/subject/25856322/
+684|||印度墨|||亦舒|||https://book.douban.com/subject/1957045/
+685|||一粒红尘|||独木舟|||https://book.douban.com/subject/25867688/
+686|||回眸|||蔡智恒|||https://book.douban.com/subject/3295326/
+687|||冷眼观爱|||冷爱|||https://book.douban.com/subject/26760391/
+688|||了不起的盖茨比|||菲茨杰拉德|||https://book.douban.com/subject/1008988/
+689|||Blue is the Warmest Color|||Julie Maroh|||https://book.douban.com/subject/24716772/
+690|||永失我爱|||王朔|||https://book.douban.com/subject/1143696/
+691|||沉香如屑《上》|||蘇寞|||https://book.douban.com/subject/10809121/
+692|||明月照人来|||寐语者|||https://book.douban.com/subject/3829004/
+693|||漫长的婚约|||（法）塞巴斯蒂安|||https://book.douban.com/subject/1255321/
+694|||爱的流放地|||(日)渡边淳一|||https://book.douban.com/subject/2247138/
+695|||草样年华|||孙睿|||https://book.douban.com/subject/1007334/
+696|||最寒冷的冬天是旧金山的夏季|||吴越|||https://book.douban.com/subject/1777173/
+697|||我们的关系如此狭窄|||苍井暖|||https://book.douban.com/subject/26614247/
+698|||那一年，我们爱得闪闪发亮|||[日] 江国香织|||https://book.douban.com/subject/24882924/
+699|||东京80年代|||安童夕马、大石知征|||https://book.douban.com/subject/1800714/
+700|||愛的成人式|||乾胡桃|||https://book.douban.com/subject/26184241/
+701|||拽丫头与校草同居||||||https://book.douban.com/subject/4002363/
+702|||妳是我學生又怎樣|||田畈|||https://book.douban.com/subject/6712214/
+703|||像女人一样行动 像男人一样思考|||史蒂夫·哈维|||https://book.douban.com/subject/3829573/
+704|||我曾这样深切爱过你|||长宇宙|||https://book.douban.com/subject/26853589/
+705|||Why Men Marry Bitches|||Sherry Argov|||https://book.douban.com/subject/1726684/
+706|||只记花开不记年|||艾小图|||https://book.douban.com/subject/26943688/
+707|||甩啦，甩啦，甩了他|||[美] 葛瑞哥·贝伦特、阿蜜拉·茹欧托拉·贝伦特|||https://book.douban.com/subject/2226350/
+708|||三个A Cup的女人|||张小娴|||https://book.douban.com/subject/1028780/
+709|||楼市与爱情|||刘璐|||https://book.douban.com/subject/26605901/
+710|||那年夏天我还爱你|||戴宾雅|||https://book.douban.com/subject/25942442/
+711|||达尔文告诉你，为什么男人不坏女人不爱|||(比) 马克·内利森|||https://book.douban.com/subject/26628226/
+712|||月食|||[美] 斯蒂芬妮·梅尔|||https://book.douban.com/subject/3364853/
+713|||我可能不會愛你原創劇本|||徐譽庭、八大電視股份有限公司|||https://book.douban.com/subject/6870233/
+714|||调情的艺术|||[德] 布里吉特·布森克普夫|||https://book.douban.com/subject/1004538/
+715|||相性|||三浦友和|||https://book.douban.com/subject/24754129/
+716|||瑪嘉烈與大衛的綠豆 Margaret and David - Green Bean|||南方舞廳|||https://book.douban.com/subject/26713941/
+717|||由于男人都不在了|||(法)菲利普·贝松|||https://book.douban.com/subject/10000764/
+718|||Fifty Shades of Grey|||E L James|||https://book.douban.com/subject/10553822/
+719|||瑪嘉烈與大衛的蒼蠅|||南方舞廳|||https://book.douban.com/subject/25921542/
+720|||周恩来邓颖超通信选集|||周恩来、邓颖超|||https://book.douban.com/subject/1108590/
+721|||谢你不娶之恩|||[英]克莱尔•加柏|||https://book.douban.com/subject/26680733/
+722|||十一味爱|||文珍|||https://book.douban.com/subject/6722956/
+723|||我来过你爱过的世界|||夏风颜、黄雷蕾Linali|||https://book.douban.com/subject/26893021/
+724|||我的波塞冬|||缪娟|||https://book.douban.com/subject/3335951/
+725|||I"s|||桂正和|||https://book.douban.com/subject/1764915/
+726|||此去共浮生|||晏生|||https://book.douban.com/subject/27012629/
+727|||暖暖|||蔡智恒|||https://book.douban.com/subject/2340955/
+728|||夏济安日记|||夏济安|||https://book.douban.com/subject/1038078/
+729|||如果没有遇见你|||[法]纪尧姆·米索、Guillaume Musso|||https://book.douban.com/subject/10483855/
+730|||我希望有人在什么地方等我|||[法] 安娜·加瓦尔达|||https://book.douban.com/subject/1078017/
+731|||亚当夏娃的秘密日记|||吐温(美),肖俊风|||https://book.douban.com/subject/1030642/
+732|||飞往巴黎的末班机|||[日] 渡边淳一|||https://book.douban.com/subject/3525046/
+733|||借来的时间|||[美] 保罗·莫奈|||https://book.douban.com/subject/6963561/
+734|||曾许诺·殇|||桐华|||https://book.douban.com/subject/6120039/
+735|||至爱游戏|||[加]莱昂纳德·科恩|||https://book.douban.com/subject/25973090/
+736|||灵性亲密关系|||李安妮|||https://book.douban.com/subject/21249031/
+737|||平行世界的我们|||米娅|||https://book.douban.com/subject/27061143/
+738|||我终于可以不再爱你了|||自由极光|||https://book.douban.com/subject/6969203/
+739|||李碧华经典作品集|||李碧华|||https://book.douban.com/subject/1122285/
+740|||你会在那儿吗？|||[法] 纪尧姆·米索|||https://book.douban.com/subject/3101896/
+741|||门|||(日) 夏目漱石|||https://book.douban.com/subject/4311471/
+742|||再見溪谷|||吉田修一|||https://book.douban.com/subject/5341262/
+743|||ab日记|||春十三少|||https://book.douban.com/subject/5936030/
+744|||我还爱着你，比想象中更深|||冷莹|||https://book.douban.com/subject/26298713/
+745|||认得清自己，付得起代价|||廖玮雯|||https://book.douban.com/subject/26839404/
+746|||可我还是喜欢你|||由宾|||https://book.douban.com/subject/26884309/
+747|||1945年的恋人|||[英]路辛达•丽雷|||https://book.douban.com/subject/6920283/
+748|||爱情社会学|||孙中兴|||https://book.douban.com/subject/26992957/
+749|||你是人间四月天|||林徽因|||https://book.douban.com/subject/1444217/
+750|||一瞬之光|||[日]白石一文|||https://book.douban.com/subject/25859249/
+751|||我的名字叫回忆|||【美】安•布拉谢尔  Ann Brashares 著|||https://book.douban.com/subject/6019809/
+752|||我爱问连岳Ⅳ|||连岳|||https://book.douban.com/subject/5337231/
+753|||衣香鬓影2·千秋素光同|||寐语者|||https://book.douban.com/subject/3697979/
+754|||光芒纪·微光|||侧侧轻寒|||https://book.douban.com/subject/26866300/
+755|||最美：唯有时间了解爱|||《时尚芭莎》主编|||https://book.douban.com/subject/25735954/
+756|||偷影子的人|||(法)马克·李维|||https://book.douban.com/subject/10763902/
+757|||当爱冲昏头|||哈洛德·柯依瑟尔|||https://book.douban.com/subject/24872433/
+758|||爱情就是一物降一物|||李一帆|||https://book.douban.com/subject/10530039/
+759|||我是爱你的，你是自由的|||初小轨|||https://book.douban.com/subject/26968515/
+760|||不羁的风|||亦舒|||https://book.douban.com/subject/1322328/
+761|||恋爱宝典|||蒋峰|||https://book.douban.com/subject/4137847/
+762|||想念，却不想见的人|||肆一|||https://book.douban.com/subject/25796204/
+763|||寄给与我相同的灵魂|||伍丹农|||https://book.douban.com/subject/26775800/
+764|||你有没有见过他|||姬霄、「一个」工作室监制|||https://book.douban.com/subject/26284829/
+765|||致亲爱的你|||云葭|||https://book.douban.com/subject/26804074/
+766|||恋爱影像学|||七七|||https://book.douban.com/subject/26452834/
+767|||走吧，为了爱|||谢谢和菜菜|||https://book.douban.com/subject/6982202/
+768|||初恋|||[俄]伊・屠格涅夫|||https://book.douban.com/subject/1205419/
+769|||爱情心理学|||莎伦·布雷姆(Sharon S.Brehm)|||https://book.douban.com/subject/4256998/
+770|||时光若有张不老的脸|||沐清雨|||https://book.douban.com/subject/6059063/
+771|||流水迢迢（全两册）|||箫楼|||https://book.douban.com/subject/3584141/
+772|||男人需要尊重 女人需要爱|||爱默生.艾格里奇|||https://book.douban.com/subject/2339932/
+773|||博士的爱情算式|||（日）小川洋子|||https://book.douban.com/subject/1420339/
+774|||嵇康|||张冰筱|||https://book.douban.com/subject/26981826/
+775|||无心法师 第三卷|||尼罗|||https://book.douban.com/subject/26603434/
+776|||歌剧魅影|||[法] 卡斯顿·勒胡|||https://book.douban.com/subject/1102497/
+777|||爱情是个冷笑话|||荞麦|||https://book.douban.com/subject/3069229/
+778|||爱你就像爱生命|||王小波|||https://book.douban.com/subject/26897375/
+779|||时光隔山海|||容光|||https://book.douban.com/subject/26873651/
+780|||比如，单身|||独眼|||https://book.douban.com/subject/1947357/
+781|||冷静与热情之间|||江国香织、辻 仁成|||https://book.douban.com/subject/1027802/
+782|||重启人|||[美]艾米·亭特拉|||https://book.douban.com/subject/26777044/
+783|||你若懂我，该有多好|||清枫语|||https://book.douban.com/subject/26114897/
+784|||温暖的弦|||安宁|||https://book.douban.com/subject/3028009/
+785|||等待提拉米苏|||时久|||https://book.douban.com/subject/26847843/
+786|||闫小姐不嫁了|||冯小茶|||https://book.douban.com/subject/26731137/
+787|||锦绣|||宫本辉|||https://book.douban.com/subject/2735770/
+788|||沈从文家书|||沈从文|||https://book.douban.com/subject/4270633/
+789|||边缘少年|||简暗|||https://book.douban.com/subject/5397152/
+790|||致我们单纯的小美好|||赵乾乾|||https://book.douban.com/subject/26598971/
+791|||恋爱写真|||[日] 市川拓司|||https://book.douban.com/subject/1414622/
+792|||这世上我最爱你|||时久|||https://book.douban.com/subject/6560283/
+793|||边城|||沈从文、黄永玉 卓雅 插图.|||https://book.douban.com/subject/1057244/
+794|||异恋|||[日]小池真理子|||https://book.douban.com/subject/25887244/
+795|||拉拉手，在一起： 女同志影像故事|||王嘉菲|||https://book.douban.com/subject/26635413/
+796|||爱上了你|||张小娴|||https://book.douban.com/subject/3045175/
+797|||爱了就会活过来|||蔡康永|||https://book.douban.com/subject/25711205/
+798|||我的一生|||(意)贾科莫·卡萨诺瓦|||https://book.douban.com/subject/1840759/
+799|||玫瑰引力|||林笛儿|||https://book.douban.com/subject/26940579/
+800|||佛罗伦斯月光下|||萨默塞特·毛姆（Somerset W. Maugham）|||https://book.douban.com/subject/2084797/
+801|||纸婚|||叶萱|||https://book.douban.com/subject/3891452/
+802|||老师好美|||严歌苓|||https://book.douban.com/subject/25923591/
+803|||原諒他77次|||李敏|||https://book.douban.com/subject/26997584/
+804|||高潮|||奇坦·巴哈特|||https://book.douban.com/subject/10765457/
+805|||瑪嘉烈與大衛的前度|||南方舞廳|||https://book.douban.com/subject/26359540/
+806|||爱情市场|||[美] 玛丽娜·艾德谢德|||https://book.douban.com/subject/27041249/
+807|||蔷薇之名|||紫微流年|||https://book.douban.com/subject/26256209/
+808|||时光若有张不老的脸|||沐清雨|||https://book.douban.com/subject/26982855/
+809|||爱的告别式|||[日] 乾胡桃|||https://book.douban.com/subject/26876999/
+810|||女心|||十二|||https://book.douban.com/subject/20396705/
+811|||你可以爱我|||琉玄|||https://book.douban.com/subject/21792502/
+812|||世界上有千百种喜欢|||黎琼|||https://book.douban.com/subject/26868339/
+813|||漫长的告白|||阿德里安娜·翠吉亚妮|||https://book.douban.com/subject/24758483/
+814|||爱情简史|||史钧|||https://book.douban.com/subject/27039402/
+815|||擅長捉弄人的高木同學(01)|||山本崇一朗|||https://book.douban.com/subject/27015621/
+816|||浓情巧克力|||[英] 乔安娜·哈里斯|||https://book.douban.com/subject/5972402/
+817|||爱在长生不老时|||(美)加里·施特恩加特|||https://book.douban.com/subject/19928991/
+818|||每当想起你|||[英 ]萝西·埃里森|||https://book.douban.com/subject/20506307/
+819|||大爱晚成|||金陵雪|||https://book.douban.com/subject/3333758/
+820|||每天懂一点恋爱心理学|||原田玲仁|||https://book.douban.com/subject/5037451/
+821|||十三封自杀告别信|||[德]克斯汀·吉尔、Kerstin Gier|||https://book.douban.com/subject/4836690/
+822|||爱情问题|||史铁生|||https://book.douban.com/subject/6966293/
+823|||那片星空，那片海|||桐华|||https://book.douban.com/subject/26369208/
+824|||劝导|||[英国] 简·奥斯丁|||https://book.douban.com/subject/1033057/
+825|||嗨，我的男人|||漫漫红糖水|||https://book.douban.com/subject/3671352/
+826|||念念|||狄戈|||https://book.douban.com/subject/27064409/
+827|||不分|||天蓝若空|||https://book.douban.com/subject/2058783/
+828|||人间四月天-徐志摩的浪漫爱情故事|||王惠玲|||https://book.douban.com/subject/1057201/
+829|||你是我疲惫生活里的温柔梦想|||【台湾】百勒丝|||https://book.douban.com/subject/26383619/
+830|||特别敢，又特别美|||艾明雅|||https://book.douban.com/subject/27041619/
+831|||为什么有些人永不受伤|||夏东豪|||https://book.douban.com/subject/21722944/
+832|||被偷走的那五年|||八月长安|||https://book.douban.com/subject/24877306/
+833|||第八号当铺|||深雪|||https://book.douban.com/subject/1980686/
+834|||写给单身的你|||乐嘉|||https://book.douban.com/subject/26557144/
+835|||北城天街|||非天夜翔|||https://book.douban.com/subject/27050072/
+836|||最爱你的那座城，春暖花开|||歌月|||https://book.douban.com/subject/26718234/
+837|||我喜欢的样子，你都有|||慕容素衣|||https://book.douban.com/subject/26818078/
+838|||锦城梦华录|||疏狂老鬼|||https://book.douban.com/subject/6983676/
+839|||暧昧纯友谊|||[英] 麦克·盖尔|||https://book.douban.com/subject/2310605/
+840|||人生对人生观开的玩笑|||毛路|||https://book.douban.com/subject/25789689/
+841|||你的名字|||［日］新海诚|||https://book.douban.com/subject/26916709/
+842|||情迷佛罗伦萨|||(英)威廉·萨默塞特·毛姆|||https://book.douban.com/subject/24737038/
+843|||裂锦|||思存|||https://book.douban.com/subject/1420368/
+844|||爱情心理学|||Robert J.Steinberg|||https://book.douban.com/subject/4889277/
+845|||这些年，二哥哥很想你|||九把刀|||https://book.douban.com/subject/4269890/
+846|||亲吻与诉说|||[英] 阿兰·德波顿|||https://book.douban.com/subject/1043395/
+847|||明天在丽江一起醒来|||摩卡、孙佳|||https://book.douban.com/subject/5038466/
+848|||我最亲爱的你|||玖玖|||https://book.douban.com/subject/26599744/
+849|||我需要你的爱|||拜伦·凯蒂|||https://book.douban.com/subject/4834886/
+850|||维奥莱特罗曼史|||(法)马努里伯爵夫人|||https://book.douban.com/subject/1187879/
+851|||没有你的天堂|||奥菲尔·图塞·贾夫拉|||https://book.douban.com/subject/26260066/
+852|||慈悲客栈|||连三月|||https://book.douban.com/subject/26386710/
+853|||要饭的帅哥|||多美动漫|||https://book.douban.com/subject/26993018/
+854|||黑白|||朝小诚|||https://book.douban.com/subject/10794265/
+855|||本司汀|||张艳华|||https://book.douban.com/subject/26972398/
+856|||我微笑，是为了你微笑|||张小娴|||https://book.douban.com/subject/1010967/
+857|||控虫师|||彭柳蓉|||https://book.douban.com/subject/27056309/
+858|||后来我们都哭了|||夏七夕|||https://book.douban.com/subject/4874245/
+859|||在最美的时光里遇见最好的爱情|||慕容素衣|||https://book.douban.com/subject/26970924/
+860|||不期而遇的温暖|||板栗子|||https://book.douban.com/subject/26866433/
+861|||天生情人16种|||亚历山大・阿维拉|||https://book.douban.com/subject/1040096/
+862|||Half Girlfriend|||Chetan Bhagat|||https://book.douban.com/subject/26115886/
+863|||我们之间的距离|||[英]玛姬·欧法洛|||https://book.douban.com/subject/6035273/
+864|||坏女人有人娶|||（美）阿尔戈|||https://book.douban.com/subject/3074772/
+865|||爱上双人舞|||李中莹|||https://book.douban.com/subject/6009051/
+866|||不婚女王|||自由极光|||https://book.douban.com/subject/26533562/
+867|||若无相欠，怎会相见|||桑妮|||https://book.douban.com/subject/26361806/
+868|||当我开始与世界独处|||周宏翔|||https://book.douban.com/subject/27064748/
+869|||如果这一秒，我没遇见你|||匪我思存|||https://book.douban.com/subject/1886402/
+870|||原来，懂比爱更重要|||作家出版社|||https://book.douban.com/subject/26429949/
+871|||蛀空|||月下|||https://book.douban.com/subject/26640118/
+872|||如果没有你|||陶立夏|||https://book.douban.com/subject/26423164/
+873|||这么远，那么近|||晴空蓝兮|||https://book.douban.com/subject/3289609/
+874|||达夫尼斯和赫洛亚 真实的故事|||【古希腊】朗戈斯、【古希腊】卢奇安|||https://book.douban.com/subject/1910450/
+875|||只想和你过好这一生|||武志红、朱建军、李子勋、胡慎之、韩湘景|||https://book.douban.com/subject/26871348/
+876|||毕业那天我们一起失恋|||何员外|||https://book.douban.com/subject/1043201/
+877|||婚姻心理学|||[美] 霍妮|||https://book.douban.com/subject/25693207/
+878|||回忆找到我|||张抗抗|||https://book.douban.com/subject/27012120/
+879|||姑娘，你是你自己，不同于任何|||蔡要要不吃药|||https://book.douban.com/subject/26732962/
+880|||BJ单身日记|||海伦·菲尔丁|||https://book.douban.com/subject/2044028/
+881|||单身恋习题|||旷文溱|||https://book.douban.com/subject/22763917/
+882|||爱的自然史|||黛安娜·阿克曼|||https://book.douban.com/subject/3198655/
+883|||爱情的容量|||周国平|||https://book.douban.com/subject/3747984/
+884|||忘川茶舍|||简小扇|||https://book.douban.com/subject/26781270/
+885|||情人(玛格丽特·杜拉斯)|||20.0|||https://book.douban.com/subject/3551720/
+886|||因为是你,晚一点没关系|||残小雪|||https://book.douban.com/subject/26695296/
+887|||与青春有关的日子|||叶京|||https://book.douban.com/subject/2071122/
+888|||你走以后|||[英]玛姬·欧法洛|||https://book.douban.com/subject/5408861/
+889|||让你的名字住进我的表白里|||肖爻悄悄|||https://book.douban.com/subject/26671076/
+890|||盛世华族梦|||靡宝|||https://book.douban.com/subject/26416371/
+891|||思念成城|||君子以泽（天籁纸鸢）|||https://book.douban.com/subject/25704797/
+892|||Letter from an Unknown Woman|||Stefan Zweig|||https://book.douban.com/subject/4108901/
+893|||我的爱如此麻辣|||张小娴|||https://book.douban.com/subject/6392676/
+894|||绾青丝Ⅰ|||波波|||https://book.douban.com/subject/2009825/
+895|||烈爱|||[美] 萨姆·卡什纳、[美] 南希·勋伯格|||https://book.douban.com/subject/10863332/
+896|||最后一颗子弹留给我|||刘猛|||https://book.douban.com/subject/1392588/
+897|||富士山禁恋|||(日)松本清张|||https://book.douban.com/subject/7153418/
+898|||一粒红尘2|||独木舟|||https://book.douban.com/subject/26662343/
+899|||锦瑟|||洛塘|||https://book.douban.com/subject/3704893/
+900|||在这善变的世界里，我想和你看一看永远|||余言|||https://book.douban.com/subject/26999562/
+901|||寻找爱情的邹小姐|||匪我思存|||https://book.douban.com/subject/25789595/
+902|||銀座媽媽桑教的，男人就是吃這套!|||田辺まりこ|||https://book.douban.com/subject/11511943/
+903|||绿毛水怪|||王小波|||https://book.douban.com/subject/3518332/
+904|||三生三世十里桃花2·緣之卷|||唐七公子|||https://book.douban.com/subject/5921737/
+905|||少年维特的烦恼 亲合力|||[德] 歌德|||https://book.douban.com/subject/1092558/
+906|||你若懂我，该有多好|||贾九峰|||https://book.douban.com/subject/26108020/
+907|||刚刚好的你|||艾小图|||https://book.douban.com/subject/26769896/
+908|||阿修罗|||亦舒|||https://book.douban.com/subject/3439437/
+909|||撒哈拉的故事|||三毛|||https://book.douban.com/subject/1361264/
+910|||三嫁惹君心（上下）|||明月听风|||https://book.douban.com/subject/20503653/
+911|||那些回不去的年少时光（套装上下册）|||桐华|||https://book.douban.com/subject/20504749/
+912|||一生一世，美人骨|||墨宝非宝|||https://book.douban.com/subject/25803547/
+913|||复乐园|||渡边淳一|||https://book.douban.com/subject/4240395/
+914|||相聚一刻（1）|||高橋留美子|||https://book.douban.com/subject/1458194/
+915|||男人的一半是女人|||张贤亮|||https://book.douban.com/subject/1086449/
+916|||最初的相遇，最后的别离|||舒仪|||https://book.douban.com/subject/26346686/
+917|||哀歌|||钟晓阳|||https://book.douban.com/subject/3429859/
+918|||我也会爱上别人的|||自由极光|||https://book.douban.com/subject/25697705/
+919|||发现爱.找回爱-亲密关系的重建|||【美】雪莉•葛莱丝博士  【美】珍•科波克•丝黛海利|||https://book.douban.com/subject/20435744/
+920|||最后的歌|||（美）尼古拉斯·斯帕克思|||https://book.douban.com/subject/5267345/
+921|||爱与其他不可能的追求|||[美] 阿耶莱·沃尔德曼|||https://book.douban.com/subject/3113159/
+922|||医生与我，恋君已是第七年|||未卜|||https://book.douban.com/subject/26641015/
+923|||那小子真帅|||[韩] 可爱淘|||https://book.douban.com/subject/1036067/
+924|||落花时节又逢君|||蜀客|||https://book.douban.com/subject/4218539/
+925|||长相思2|||桐华|||https://book.douban.com/subject/24714201/
+926|||快乐|||[日] 青山七惠|||https://book.douban.com/subject/26939969/
+927|||卍|||[日] 谷崎润一郎|||https://book.douban.com/subject/4850848/
+928|||啼笑因缘|||张恨水|||https://book.douban.com/subject/1022158/
+929|||花与雾|||宁以安|||https://book.douban.com/subject/27068561/
+930|||电光幻影|||亦舒|||https://book.douban.com/subject/2244170/
+931|||相亲以后|||爱拉囡囡|||https://book.douban.com/subject/3239048/
+932|||杜兰葛山庄|||[英] 安妮塔·布鲁克纳|||https://book.douban.com/subject/26812850/
+933|||人生|||路遥|||https://book.douban.com/subject/3803820/
+934|||好想好想谈恋爱|||李樯 原著、袁梅 改编|||https://book.douban.com/subject/1312689/
+935|||潘金莲之前世今生 诱僧|||李碧华|||https://book.douban.com/subject/1009931/
+936|||恋爱厚黑学|||杨冰阳（Ayawawa）|||https://book.douban.com/subject/4032621/
+937|||不一样的恋爱心理学|||卢淼|||https://book.douban.com/subject/5301484/
+938|||原来，你已不在|||(日)城山三郎|||https://book.douban.com/subject/6795311/
+939|||化妆|||[日] 渡边淳一|||https://book.douban.com/subject/1003155/
+940|||爱，为什么痛？|||[法] 伊娃•易洛斯 (Eva Illouz)|||https://book.douban.com/subject/26640915/
+941|||为约会立界线|||亨利·克劳德 , 约翰·汤森德|||https://book.douban.com/subject/4073606/
+942|||四幕戏·结|||唐七|||https://book.douban.com/subject/26992019/
+943|||一生所爱|||呼葱觅蒜|||https://book.douban.com/subject/27011617/
+944|||我爱你|||〔意〕弗朗西斯科·阿尔贝罗尼（Francesco Alberoni）著|||https://book.douban.com/subject/26969221/
+945|||世界需要更好的你|||我走路带风|||https://book.douban.com/subject/26915707/
+946|||丹尼海格|||缪娟|||https://book.douban.com/subject/4135618/
+947|||再嫁侯门·完结篇（上下）|||意千重|||https://book.douban.com/subject/25742357/
+948|||马语者|||尼古拉斯·埃文斯|||https://book.douban.com/subject/1895846/
+949|||左耳|||饶雪漫|||https://book.douban.com/subject/1796596/
+950|||美人为馅2·大结局|||丁墨|||https://book.douban.com/subject/26365848/
+951|||絕頂愛情|||倪震|||https://book.douban.com/subject/1418734/
+952|||张爱玲色戒|||蔡登山|||https://book.douban.com/subject/2246783/
+953|||杉杉来吃|||顾漫|||https://book.douban.com/subject/6792678/
+954|||小闲事|||赵瑜|||https://book.douban.com/subject/4038426/
+955|||藏地情书|||榛生|||https://book.douban.com/subject/4874143/
+956|||在所有的风景里，我最喜欢你|||李森|||https://book.douban.com/subject/25928115/
+957|||鬼恋|||徐訏|||https://book.douban.com/subject/1505936/
+958|||圣殿下的私语|||[法] 蒙克利夫 编|||https://book.douban.com/subject/1045834/
+959|||男人不可以穷|||薛可正|||https://book.douban.com/subject/25958629/
+960|||南烟斋笔录·如梦令|||左小翎、壳小杀|||https://book.douban.com/subject/26802130/
+961|||为了回家，所以旅行|||安德鲁•麦卡锡 Andrew McCarthy|||https://book.douban.com/subject/25812993/
+962|||不负如来不负卿Ⅱ·大结局|||小春|||https://book.douban.com/subject/3218402/
+963|||孤芳不自赏|||风弄著、九歌绘|||https://book.douban.com/subject/2078225/
+964|||海德格尔与妻书|||[德]葛尔特鲁特·海德格尔 选编|||https://book.douban.com/subject/26826909/
+965|||花|||刘捷|||https://book.douban.com/subject/7154686/
+966|||相思长梦河|||简暗|||https://book.douban.com/subject/5376367/
+967|||江山为聘|||行烟烟|||https://book.douban.com/subject/5245615/
+968|||浮生六记|||（清）沈复|||https://book.douban.com/subject/1088581/
+969|||蔓蔓青萝（全2册）|||桩桩|||https://book.douban.com/subject/2300626/
+970|||当我们变理智，如何谈爱情|||张躲躲|||https://book.douban.com/subject/26430432/
+971|||我的朋友陈白露小姐：金屋一梦|||海棠|||https://book.douban.com/subject/26797669/
+972|||李中莹亲密关系全面技巧（升级版）|||李中莹|||https://book.douban.com/subject/26661766/
+973|||寂靜的爆彈|||吉田修一|||https://book.douban.com/subject/26831673/
+974|||亦筝笙|||风凝雪舞|||https://book.douban.com/subject/6823882/
+975|||日光微澜|||浅白色|||https://book.douban.com/subject/4255002/
+976|||28岁未成年|||Black.F|||https://book.douban.com/subject/6435156/
+977|||青青子衿|||胡马依|||https://book.douban.com/subject/26653757/
+978|||醉流年|||云葭|||https://book.douban.com/subject/26914106/
+979|||和空姐同居的日子|||三十|||https://book.douban.com/subject/1442620/
+980|||既然爱情留不住|||刘小昭|||https://book.douban.com/subject/25785796/
+981|||当时已惘然|||吴越|||https://book.douban.com/subject/2119444/
+982|||离歌（Ⅰ）|||饶雪漫|||https://book.douban.com/subject/3024352/
+983|||异乡人1|||[美] 戴安娜·加瓦尔东|||https://book.douban.com/subject/26657576/
+984|||不換|||蔡智恆|||https://book.douban.com/subject/26895053/
+985|||木范情书|||木木|||https://book.douban.com/subject/6711374/
+986|||善男信女|||步微澜|||https://book.douban.com/subject/25927528/
+987|||海妖|||饭卡|||https://book.douban.com/subject/4842735/
+988|||落落清欢|||南东北西|||https://book.douban.com/subject/3205245/
+989|||凤途|||纸薇|||https://book.douban.com/subject/27030242/
+990|||不是每个故事都有结局|||王豖|||https://book.douban.com/subject/26755527/
+991|||番茄爱上西红柿|||柒先生|||https://book.douban.com/subject/26879353/
+992|||情人杜拉斯|||扬·安德烈亚|||https://book.douban.com/subject/2003634/
+993|||何所冬暖，何所夏凉|||顾西爵|||https://book.douban.com/subject/26255773/
+994|||爱是光着脚的哲学|||[美]大卫•奥•康纳|||https://book.douban.com/subject/25918085/
+995|||One Day|||David Nicholls|||https://book.douban.com/subject/5353250/
+996|||标本师|||夏商|||https://book.douban.com/subject/26776211/
+997|||魅力何来|||戴维·迈尔斯|||https://book.douban.com/subject/10799782/
+998|||白色流淌一片|||蒋峰|||https://book.douban.com/subject/26301984/
+999|||我还没有男朋友|||猎手|||https://book.douban.com/subject/26948681/
+1000|||小半生|||榛生|||https://book.douban.com/subject/3172507/

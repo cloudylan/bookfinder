@@ -1,0 +1,995 @@
+1|||经济学原理（上下）|||[美] 曼昆|||https://book.douban.com/subject/1028842/
+2|||通往奴役之路|||(英)弗里德利希·奥古斯特·哈耶克|||https://book.douban.com/subject/1077528/
+3|||国富论|||[英] 亚当·斯密|||https://book.douban.com/subject/1261560/
+4|||激荡三十年（上）|||吴晓波|||https://book.douban.com/subject/1970428/
+5|||大国大城|||陆铭|||https://book.douban.com/subject/26824237/
+6|||合适|||[日] 坂井丰贵|||https://book.douban.com/subject/26877827/
+7|||经济学通识|||薛兆丰|||https://book.douban.com/subject/26582558/
+8|||中央帝国的财政密码|||郭建龙|||https://book.douban.com/subject/27007549/
+9|||认识商业|||[美] 威廉·尼科尔斯、[美] 詹姆斯·麦克修、[美] 苏珊·麦克修|||https://book.douban.com/subject/3922162/
+10|||伟大的博弈|||[美] 约翰·S. 戈登|||https://book.douban.com/subject/1220853/
+11|||策略思维|||阿维纳什・K・迪克西特、巴里・J・奈尔伯夫|||https://book.douban.com/subject/1084435/
+12|||怪诞行为学|||[美] 丹·艾瑞里|||https://book.douban.com/subject/3223711/
+13|||自由选择|||[美] 米尔顿·弗里德曼、罗丝·弗里德曼|||https://book.douban.com/subject/3097539/
+14|||经济学的思维方式（第11版）|||[美] 保罗·海恩、[美] 彼得·勃特克、[美] 大卫·普雷契特科|||https://book.douban.com/subject/3055719/
+15|||聪明的投资者|||本杰明·格雷厄姆、Benjamin Graham|||https://book.douban.com/subject/5243775/
+16|||资本论（第一卷）|||马克思|||https://book.douban.com/subject/1150503/
+17|||激荡三十年（下）|||吴晓波|||https://book.douban.com/subject/2380307/
+18|||行动的勇气|||[美]本·伯南克|||https://book.douban.com/subject/26756140/
+19|||致命的自负|||（英）哈耶克|||https://book.douban.com/subject/1070007/
+21|||经济学原理(第7版)|||曼昆 (N.Gregory Mankiw)|||https://book.douban.com/subject/26435630/
+22|||贸易的猜忌|||[英]伊斯特凡•洪特|||https://book.douban.com/subject/27002570/
+23|||理性乐观派|||（美）马特·里德利（Matt Ridley）|||https://book.douban.com/subject/6913343/
+24|||摩根财团|||[美]罗恩·彻诺(Ron Chernow)|||https://book.douban.com/subject/25844463/
+25|||牛奶可乐经济学|||[美] 罗伯特·弗兰克|||https://book.douban.com/subject/3000997/
+26|||富爸爸，穷爸爸|||（美）罗伯特・T・清崎、莎伦・L・莱希特|||https://book.douban.com/subject/1033778/
+27|||贫穷的本质|||阿比吉特•班纳吉 (Abhijit V.Banerjee)、埃斯特•迪弗洛 (Esther Duflo)|||https://book.douban.com/subject/21966353/
+28|||大败局|||吴晓波|||https://book.douban.com/subject/1072438/
+29|||金融炼金术|||[美] 乔治·索罗斯|||https://book.douban.com/subject/1058131/
+30|||斯坦福极简经济学|||[美] 蒂莫西‧泰勒|||https://book.douban.com/subject/26314063/
+31|||货币战争|||宋鸿兵 编著|||https://book.douban.com/subject/2081876/
+32|||历代经济变革得失|||吴晓波|||https://book.douban.com/subject/24851460/
+33|||货币金融学|||弗雷德里克·S·米什金|||https://book.douban.com/subject/2005726/
+34|||大而不倒|||安德鲁·罗斯·索尔金|||https://book.douban.com/subject/5297291/
+35|||黑天鹅|||[美] 纳西姆·尼古拉斯·塔勒布|||https://book.douban.com/subject/3025921/
+36|||魔鬼经济学|||[美] 史蒂芬·列维特、[美] 史蒂芬·都伯纳|||https://book.douban.com/subject/1473250/
+37|||经济学|||(美)保罗﹒萨缪尔森、（美）诺德豪斯|||https://book.douban.com/subject/1082593/
+38|||长尾理论|||[美] 克里斯·安德森|||https://book.douban.com/subject/1919072/
+39|||金融的逻辑|||陈志武|||https://book.douban.com/subject/3891900/
+40|||21世纪资本论|||[法] 托马斯·皮凯蒂（Thomas Piketty）|||https://book.douban.com/subject/25947310/
+41|||一课经济学|||（美）亨利·黑兹利特|||https://book.douban.com/subject/3225979/
+42|||就业、利息和货币通论|||（英）约翰・梅纳德・凯恩斯|||https://book.douban.com/subject/1137246/
+43|||信用创造、货币供求与经济结构|||李斌、伍戈|||https://book.douban.com/subject/26314075/
+44|||王二的经济学故事|||郭凯|||https://book.douban.com/subject/10733032/
+45|||集体行动的逻辑|||曼瑟尔·奥尔森|||https://book.douban.com/subject/1196945/
+46|||诡辩与真相|||[美] 托马斯·索维尔|||https://book.douban.com/subject/6429781/
+47|||天才的回声|||［美］托德·布赫霍尔茨|||https://book.douban.com/subject/26924324/
+48|||美国货币史 1867—1960|||[美] 米尔顿·弗里德曼等、[美] 安娜·J.施瓦茨|||https://book.douban.com/subject/3427304/
+49|||道德情操论|||(英)亚当·斯密|||https://book.douban.com/subject/1116367/
+50|||变革中国|||罗纳德•哈里•科斯、王宁|||https://book.douban.com/subject/20366370/
+51|||與中國打交道|||亨利‧鮑爾森Henry M. Paulson|||https://book.douban.com/subject/27010498/
+52|||大江东去（共三部）|||阿耐|||https://book.douban.com/subject/3432304/
+53|||别做正常的傻瓜|||奚恺元|||https://book.douban.com/subject/1874488/
+54|||世界是平的|||[美] 托马斯·弗里德曼|||https://book.douban.com/subject/1867642/
+55|||跌荡一百年（下）|||吴晓波|||https://book.douban.com/subject/4010186/
+56|||穷查理宝典|||[美]彼得·考夫曼 (编)|||https://book.douban.com/subject/5346110/
+57|||红色资本|||[美]卡尔·沃尔特(Carl E. Walter)、[美]弗雷泽·豪伊(Fraser J. Howie)|||https://book.douban.com/subject/25717107/
+58|||公司理财|||斯蒂芬A.罗斯|||https://book.douban.com/subject/1082512/
+59|||无价|||[美] 威廉·庞德斯通|||https://book.douban.com/subject/5914475/
+60|||经济解释卷一： 科学说需求 （神州增订版）|||张五常|||https://book.douban.com/subject/4860448/
+61|||小岛经济学|||[美]彼得·希夫、[美]安德鲁·希夫|||https://book.douban.com/subject/26897464/
+62|||漫步华尔街|||麦基尔|||https://book.douban.com/subject/3043970/
+63|||消费者行为学 （第8版·中国版）|||[美] 迈克尔·R. 所罗门|||https://book.douban.com/subject/3869711/
+64|||凯恩斯传|||罗伯特·斯基德尔斯基|||https://book.douban.com/subject/1780208/
+65|||大空头|||（美）迈克尔•刘易斯|||https://book.douban.com/subject/5408886/
+66|||稀缺|||塞德希尔·穆来纳森、埃尔德·沙菲尔|||https://book.douban.com/subject/26178426/
+67|||逃不开的经济周期|||拉斯·特维德|||https://book.douban.com/subject/3265599/
+68|||随机漫步的傻瓜|||纳西姆·尼古拉斯·塔勒布|||https://book.douban.com/subject/10773362/
+69|||渐行渐远的红利|||彭文生|||https://book.douban.com/subject/23789345/
+70|||博弈与社会|||张维迎|||https://book.douban.com/subject/21329758/
+71|||八次危机|||温铁军|||https://book.douban.com/subject/20394150/
+72|||One Billion Customers|||James McGregor|||https://book.douban.com/subject/2791877/
+73|||分享经济的爆发|||阿鲁·萨丹拉彻|||https://book.douban.com/subject/26984686/
+74|||说谎者的扑克牌|||[美] 迈克尔·刘易斯|||https://book.douban.com/subject/1972412/
+75|||亚洲大趋势|||乔•史塔威尔|||https://book.douban.com/subject/25893995/
+76|||共享经济没有告诉你的事|||[加] 汤姆·斯利（Tom Slee）|||https://book.douban.com/subject/26969957/
+77|||自由秩序原理|||(英)弗里德利希・冯・哈耶克|||https://book.douban.com/subject/1005813/
+78|||投资中最简单的事|||邱国鹭|||https://book.douban.com/subject/26163553/
+79|||思考，快与慢|||[美] 丹尼尔·卡尼曼|||https://book.douban.com/subject/10785583/
+81|||自私的皮球|||辉格|||https://book.douban.com/subject/10544307/
+82|||时寒冰说：未来二十年，经济大趋势（现实篇）|||时寒冰|||https://book.douban.com/subject/25902226/
+83|||哈耶克文选|||哈耶克|||https://book.douban.com/subject/1032570/
+84|||城市的胜利|||[美] 爱德华·格莱泽|||https://book.douban.com/subject/20373351/
+85|||白银资本|||贡德・弗兰克|||https://book.douban.com/subject/1006020/
+86|||思想的力量：智识之旅的非常规自传|||雅诺什·科尔奈 (Janos Kornai)|||https://book.douban.com/subject/24704563/
+87|||新经济，新规则|||[美]Kevin Kelly|||https://book.douban.com/subject/25908079/
+88|||人类活动中的理性|||[美]赫伯特·西蒙|||https://book.douban.com/subject/26934266/
+89|||非理性繁荣|||(美)罗伯特.J.希勒|||https://book.douban.com/subject/1085935/
+90|||1844年经济学哲学手稿|||[德] 马克思|||https://book.douban.com/subject/1252057/
+91|||人的行為|||米塞斯|||https://book.douban.com/subject/1873802/
+92|||断层线|||[美] 拉古拉迈·拉詹|||https://book.douban.com/subject/6720539/
+93|||有闲阶级论|||[美] 凡勃伦|||https://book.douban.com/subject/1171881/
+94|||货币的教训|||周其仁|||https://book.douban.com/subject/10439662/
+95|||博弈论基础|||(美)罗伯特.吉本斯|||https://book.douban.com/subject/1448727/
+96|||世界是红的：看懂中国经济格局的一本书|||白云先生|||https://book.douban.com/subject/27038809/
+97|||大转型|||[英] 卡尔·波兰尼|||https://book.douban.com/subject/2079931/
+98|||时运变迁|||[美] 保罗·沃尔克、[日] 行天丰雄|||https://book.douban.com/subject/26894273/
+99|||博弈论|||让・梯若尔、朱・弗登博格|||https://book.douban.com/subject/1211972/
+100|||卧底经济学（全4册）|||[英] 蒂姆·哈福德|||https://book.douban.com/subject/26958016/
+101|||权力与繁荣|||（美）曼瑟・奥尔森|||https://book.douban.com/subject/1315182/
+102|||穿越历史聊经济|||汪凌燕、汪通|||https://book.douban.com/subject/26873728/
+103|||投资学|||Zvi Bodie、Alex Kane、Alan J. Marcus|||https://book.douban.com/subject/1420638/
+104|||经济运行的逻辑|||高善文|||https://book.douban.com/subject/24696672/
+105|||跌荡一百年（上）|||吴晓波|||https://book.douban.com/subject/3313327/
+106|||“错误”的行为|||理查德·泰勒|||https://book.douban.com/subject/26697774/
+107|||自由与繁荣的国度|||[奥] 路德维希·冯·米瑟斯|||https://book.douban.com/subject/1043419/
+108|||解读中国经济|||林毅夫|||https://book.douban.com/subject/11626951/
+109|||渐行渐近的金融周期|||彭文生|||https://book.douban.com/subject/27053704/
+110|||经济与社会（第一卷）|||[德] 马克斯·韦伯|||https://book.douban.com/subject/4122414/
+111|||资本主义、社会主义与民主|||(美)约瑟夫·熊彼特|||https://book.douban.com/subject/1038949/
+112|||亚洲教父|||[美] 乔·史塔威尔|||https://book.douban.com/subject/6556296/
+113|||一本书读懂财报|||肖星|||https://book.douban.com/subject/25926542/
+114|||货币、银行信贷与经济周期|||[西]赫苏斯·韦尔塔·德索托（J.Huerta de Soto）|||https://book.douban.com/subject/10765392/
+115|||中央银行与货币供给|||盛松成、翟春|||https://book.douban.com/subject/26383233/
+116|||免费|||[美] 克里斯·安德森|||https://book.douban.com/subject/3932520/
+117|||统计数字会撒谎|||[美] 达莱尔·哈夫|||https://book.douban.com/subject/3595095/
+118|||中国的经济制度|||张五常|||https://book.douban.com/subject/4012145/
+119|||第四消费时代|||[日] 三浦展|||https://book.douban.com/subject/26201890/
+120|||改革中国|||傅子恒|||https://book.douban.com/subject/27037187/
+121|||国富国穷|||戴维 S. 兰德斯|||https://book.douban.com/subject/4193722/
+122|||白银帝国|||徐瑾|||https://book.douban.com/subject/26969182/
+123|||江村经济|||费孝通|||https://book.douban.com/subject/1325507/
+124|||货币的非国家化|||弗里德里希·冯·哈耶克|||https://book.douban.com/subject/2155342/
+125|||改革的逻辑|||周其仁|||https://book.douban.com/subject/24878818/
+126|||千年金融史|||威廉·戈兹曼|||https://book.douban.com/subject/27026691/
+127|||创新的先知|||[美] 托马斯·麦克劳|||https://book.douban.com/subject/4931700/
+128|||市场的逻辑|||张维迎|||https://book.douban.com/subject/4893663/
+129|||怪诞行为学2|||[美]丹·艾瑞里|||https://book.douban.com/subject/5253757/
+130|||资本社会的17个矛盾|||[美] 大卫·哈维 (David Harvey)|||https://book.douban.com/subject/26884338/
+131|||一炮走红的国家|||鲁奇尔·夏尔马|||https://book.douban.com/subject/24700123/
+132|||社会主义|||路德维希·冯·米瑟斯|||https://book.douban.com/subject/3260366/
+133|||经济学基础|||曼昆(N.Gregory Mankiw)|||https://book.douban.com/subject/4312139/
+134|||以自由看待发展|||[印] 阿马蒂亚·森|||https://book.douban.com/subject/1084434/
+135|||投资最重要的事|||[美] 霍华德·马克斯 Howard Marks|||https://book.douban.com/subject/10799082/
+136|||看得见的手|||小艾尔弗雷德·D.钱德勒|||https://book.douban.com/subject/1053848/
+137|||金融的本质|||【美】伯南克|||https://book.douban.com/subject/25843334/
+138|||卖桔者言|||张五常|||https://book.douban.com/subject/1438948/
+139|||彼得·林奇的成功投资|||[美] 彼得·林奇、约翰·罗瑟查尔德|||https://book.douban.com/subject/1958714/
+140|||从0到1|||彼得·蒂尔、布莱克·马斯特斯|||https://book.douban.com/subject/26297606/
+141|||行为经济学讲义|||汪丁丁|||https://book.douban.com/subject/6795916/
+142|||人、经济与国家|||[美] 穆雷·N. 罗斯巴德|||https://book.douban.com/subject/26358478/
+143|||经济学思想史讲义|||汪丁丁|||https://book.douban.com/subject/2375990/
+144|||经济人的末日|||[美] 彼得·德鲁克|||https://book.douban.com/subject/26378573/
+145|||浩荡两千年|||吴晓波|||https://book.douban.com/subject/6980818/
+146|||空间的力量|||陆铭|||https://book.douban.com/subject/22538508/
+147|||与机器赛跑|||[美]埃里克·布林约尔松（Erik Brynjolfsson）、[美]安德鲁·麦卡菲（Andrew McAfee）|||https://book.douban.com/subject/21326266/
+148|||15至18世纪的物质文明、经济和资本主义（全三卷）|||[法] 费尔南·布罗代尔|||https://book.douban.com/subject/1038279/
+149|||信息规则|||[美] 卡尔・夏皮罗(Carl Shapiro)、[美] 哈尔・瓦里安(Hal Varian)|||https://book.douban.com/subject/1011731/
+150|||魔鬼经济学（罗辑思维独家定制版）|||[美]史蒂芬 · 列维特、美]史蒂芬 · 都伯纳|||https://book.douban.com/subject/26799211/
+151|||自由的伦理|||[美] 穆瑞·罗斯巴德|||https://book.douban.com/subject/3237711/
+152|||经济与社会（第二卷 上下）|||[德] 马克斯·韦伯|||https://book.douban.com/subject/4730209/
+153|||中国经济史|||钱穆 讲授、叶龙 记录整理、林毅夫 序|||https://book.douban.com/subject/25719688/
+154|||吴晓波中国企业史三部曲完整典藏版|||吴晓波|||https://book.douban.com/subject/10453927/
+155|||宏观经济学|||N·格里高利·曼昆|||https://book.douban.com/subject/1281898/
+156|||城乡中国（上）|||周其仁|||https://book.douban.com/subject/24878434/
+157|||妙趣横生博弈论|||（美）奈尔伯夫、（美）迪克西特|||https://book.douban.com/subject/4012040/
+158|||市场营销原理|||（美）菲利普.科特勒（Philip Kotler）等|||https://book.douban.com/subject/1913066/
+159|||郎咸平说：我们的日子为什么这么难|||郎咸平|||https://book.douban.com/subject/5283699/
+160|||门口的野蛮人|||布赖恩·伯勒、约翰·希利亚尔|||https://book.douban.com/subject/4953707/
+161|||城市化转型与土地陷阱|||华生|||https://book.douban.com/subject/25766497/
+162|||西方世界的兴起|||[美]道格拉斯·诺斯、罗伯特·托马斯|||https://book.douban.com/subject/4187474/
+163|||当音乐停止之后|||艾伦·布林德|||https://book.douban.com/subject/25912159/
+164|||不确定状况下的判断|||[美] 丹尼尔·卡尼曼、[美] 保罗·斯洛维奇、[美] 阿莫斯·特沃斯基|||https://book.douban.com/subject/3248694/
+165|||大衰退|||（美）辜朝明|||https://book.douban.com/subject/3276034/
+166|||房债|||[美]阿蒂夫·迈恩（Atif Mian）、阿米尔·苏非（Amir Sufi）|||https://book.douban.com/subject/26576499/
+167|||微观经济学|||[美] 哈尔·R·范里安|||https://book.douban.com/subject/1139881/
+168|||经济分析史（第一卷）|||[美] 约瑟夫·熊彼特|||https://book.douban.com/subject/1074178/
+169|||伟大的中国工业革命|||文一|||https://book.douban.com/subject/26834083/
+170|||货币、方法与市场过程|||路德维希·冯·米塞斯|||https://book.douban.com/subject/2155338/
+171|||选择的悖论|||巴里•施瓦茨 (Barry Schwartz)|||https://book.douban.com/subject/21346249/
+172|||美国大萧条|||[美] 默里·罗斯巴德|||https://book.douban.com/subject/3558787/
+173|||时寒冰说|||时寒冰、时菱蔓 绘|||https://book.douban.com/subject/6403593/
+174|||资本主义与自由|||[美] 米尔顿·弗里德曼|||https://book.douban.com/subject/1465419/
+175|||卧底经济学|||蒂姆·哈福德|||https://book.douban.com/subject/1837823/
+176|||期权、期货和其他衍生品（第5版）|||（加）约翰.赫尔（John C. Hull ）|||https://book.douban.com/subject/1776987/
+177|||凯恩斯大战哈耶克|||（美）尼古拉斯•韦普肖特|||https://book.douban.com/subject/21371574/
+178|||金融学|||(美)博迪、莫顿|||https://book.douban.com/subject/1017213/
+179|||镜厅|||[美] 巴里·埃森格林、Barry Eichengreen|||https://book.douban.com/subject/26851886/
+180|||资本的秘密|||赫尔南多·德·索托|||https://book.douban.com/subject/2006592/
+181|||国家的兴衰|||[美] 曼瑟·奥尔森|||https://book.douban.com/subject/2068710/
+182|||金融市场与金融机构基础|||弗兰克·J·法博齐、弗兰科·莫迪利亚尼、弗兰克·J·琼斯|||https://book.douban.com/subject/5271687/
+183|||资本的游戏|||房西苑|||https://book.douban.com/subject/3233988/
+184|||金融的解释|||王福重|||https://book.douban.com/subject/26032227/
+185|||米塞斯大传|||[德]约尔格·吉多·许尔斯曼|||https://book.douban.com/subject/26857930/
+186|||增长的本质|||凯萨·伊达尔戈|||https://book.douban.com/subject/26656350/
+187|||富足|||彼得•戴曼迪斯 (Peter H. Diamandis)、史蒂芬•科特勒 (Steven Kotler)|||https://book.douban.com/subject/25849758/
+188|||零边际成本社会|||[美]杰里米·里夫金|||https://book.douban.com/subject/25986746/
+189|||超越金融|||乔治·索罗斯|||https://book.douban.com/subject/4244859/
+190|||权力与市场|||穆雷·罗斯巴德|||https://book.douban.com/subject/2155344/
+191|||正义的成本：当法律遇上经济学|||熊秉元|||https://book.douban.com/subject/25869991/
+192|||公司财务原理|||理查德 A.布雷利、斯图尔特 C.迈尔斯|||https://book.douban.com/subject/1157539/
+193|||杨小凯谈经济|||杨小凯|||https://book.douban.com/subject/1074525/
+194|||冬吴相对论|||吴伯凡、梁冬|||https://book.douban.com/subject/4124834/
+195|||财报就像一本故事书|||刘顺仁|||https://book.douban.com/subject/2048893/
+196|||信号与噪声|||[美] 纳特•西尔弗|||https://book.douban.com/subject/24872278/
+197|||货币银行学|||易纲、吴有昌|||https://book.douban.com/subject/1149697/
+198|||贫困与饥荒|||阿马蒂亚·森|||https://book.douban.com/subject/1340525/
+199|||利息理论|||[美]菲歇尔|||https://book.douban.com/subject/1419377/
+200|||社会共通资本|||[日] 宇泽弘文|||https://book.douban.com/subject/27039944/
+201|||第一本经济学|||[美]墨菲|||https://book.douban.com/subject/6952770/
+202|||价值评估|||蒂姆·科勒|||https://book.douban.com/subject/2015368/
+203|||博弈论与经济行为|||冯・诺伊曼、摩根斯顿|||https://book.douban.com/subject/1263734/
+204|||官僚体制·反资本主义的心态|||路德维希·冯·米塞斯|||https://book.douban.com/subject/2155341/
+205|||中国是部金融史|||陈雨露、杨忠恕|||https://book.douban.com/subject/21331443/
+206|||金融的逻辑1|||陈志武|||https://book.douban.com/subject/26319391/
+207|||十年轮回|||沈联涛|||https://book.douban.com/subject/3931857/
+208|||吴敬琏传|||吴晓波|||https://book.douban.com/subject/4238939/
+209|||压力测试|||蒂莫西·F•盖特纳|||https://book.douban.com/subject/26327897/
+210|||国民经济学原理|||（奥）卡尔・门格尔|||https://book.douban.com/subject/1315186/
+211|||蜜蜂的寓言|||[荷] 伯纳德·曼德维尔（Bernard Mandeville）|||https://book.douban.com/subject/1000506/
+212|||产权与制度变迁|||周其仁|||https://book.douban.com/subject/1188729/
+213|||经济学规则|||丹尼·罗德里克|||https://book.douban.com/subject/26981031/
+214|||理性选民的神话|||(美)布赖恩·卡普兰|||https://book.douban.com/subject/5348296/
+215|||制度、制度变迁与经济绩效|||道格拉斯·C·诺斯|||https://book.douban.com/subject/3300402/
+216|||创业的国度|||"[美]丹•塞诺（Dan Senor）、[以]索尔•辛格（Saul Singer）|||https://book.douban.com/subject/5269192/
+217|||企业、市场与法律|||（美）罗纳德·哈里·科斯|||https://book.douban.com/subject/3825687/
+218|||还原真实的美联储|||王健|||https://book.douban.com/subject/25751995/
+219|||灰犀牛|||[美] 米歇尔·渥克 (Michele Wucker)|||https://book.douban.com/subject/26961851/
+221|||两次全球大危机的比较研究|||刘鹤|||https://book.douban.com/subject/21964791/
+222|||个人主义与经济秩序|||哈耶克|||https://book.douban.com/subject/1004329/
+223|||古典自由主义|||大卫·鲍兹|||https://book.douban.com/subject/4062752/
+224|||暴力与社会秩序|||道格拉斯·C. 诺思、约翰· 约瑟夫· 瓦利斯、巴里·R. 韦格斯特|||https://book.douban.com/subject/24751865/
+225|||一沙一世界|||郭凯|||https://book.douban.com/subject/5378548/
+226|||用地图看懂世界经济|||生命科学编辑团队|||https://book.douban.com/subject/25831015/
+227|||冲突的战略|||（美）托马斯.谢林|||https://book.douban.com/subject/1480720/
+228|||生活中的经济学|||茅于轼|||https://book.douban.com/subject/2222030/
+229|||动物精神|||乔治·阿克洛夫、罗伯特·席勒|||https://book.douban.com/subject/3824134/
+230|||集装箱改变世界|||MARC LEVINSON|||https://book.douban.com/subject/2354988/
+231|||The Undoing Project|||Michael Lewis|||https://book.douban.com/subject/26861524/
+232|||Why Nations Fail|||Daron Acemoglu、James Robinson|||https://book.douban.com/subject/6833967/
+233|||隐性动机|||[美]尤里·格尼茨（Uri Gneezy）、[美]约翰·李斯特（John List）|||https://book.douban.com/subject/26388011/
+234|||中国的奇迹|||林毅夫、蔡昉、李周|||https://book.douban.com/subject/1088096/
+235|||世界上最简单的会计书|||（美）达雷尔•穆利斯、朱迪丝•奥洛夫|||https://book.douban.com/subject/25747852/
+236|||钓愚|||[美]乔治·阿克洛夫、罗伯特·席勒|||https://book.douban.com/subject/26697242/
+237|||债|||[美]大卫·格雷伯|||https://book.douban.com/subject/20272111/
+238|||财产·法律与政府|||（法）巴斯夏|||https://book.douban.com/subject/1076446/
+239|||A Man for All Markets|||Edward O. Thorp|||https://book.douban.com/subject/26934189/
+240|||巨富|||[美]克里斯蒂娅•弗里兰|||https://book.douban.com/subject/25758308/
+241|||引爆点|||[美] 马尔科姆·格拉德威尔|||https://book.douban.com/subject/3900987/
+242|||信任|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/1025829/
+243|||中国巨债|||刘海影|||https://book.douban.com/subject/26142366/
+244|||市场与大师|||[美] 杰瑞·穆勒|||https://book.douban.com/subject/26700368/
+245|||价值起源|||威廉·N·戈兹曼、K·哥特·罗文霍斯特|||https://book.douban.com/subject/4882119/
+246|||经济数据背后的财富密码|||李迅雷|||https://book.douban.com/subject/27072556/
+247|||当代中国经济改革教程|||吴敬琏|||https://book.douban.com/subject/4262048/
+248|||世界的逻辑|||[美]大卫·哈维|||https://book.douban.com/subject/26921231/
+249|||债务和魔鬼|||阿代尔·特纳勋爵|||https://book.douban.com/subject/26801676/
+250|||金钱不能买什么|||迈克尔•桑德尔 (Michael Sandel)|||https://book.douban.com/subject/20366367/
+251|||短缺经济学（上下）|||(匈)科尔纳(Kornal,J.)|||https://book.douban.com/subject/2137745/
+252|||公司金融理论（上下册）|||让·梯若尔|||https://book.douban.com/subject/2347627/
+253|||亚当·斯密以前的经济思想|||[美]默里•N.罗斯巴德|||https://book.douban.com/subject/19977784/
+254|||金融之王|||[美]利雅卡特•艾哈迈德|||https://book.douban.com/subject/6148690/
+255|||会计学基础|||罗伯特·N.安东尼|||https://book.douban.com/subject/1910216/
+256|||中国人的焦虑从哪里来|||茅于轼|||https://book.douban.com/subject/20563189/
+257|||货币战争2|||宋鸿兵|||https://book.douban.com/subject/3836277/
+258|||以利为利|||周飞舟|||https://book.douban.com/subject/10587755/
+259|||穷人的银行家|||（孟）穆罕默德·尤努斯|||https://book.douban.com/subject/1812833/
+260|||Capitalism with Chinese Characteristics|||Yasheng Huang|||https://book.douban.com/subject/3233097/
+261|||经济思想史|||[美]兰德雷斯，[美]柯南德尔|||https://book.douban.com/subject/6876957/
+262|||投资学基础|||(澳)科拉多等|||https://book.douban.com/subject/2171619/
+263|||资本的规则|||张巍（清澄君）|||https://book.douban.com/subject/27069302/
+264|||东南亚的贸易时代|||安东尼·瑞德|||https://book.douban.com/subject/4322858/
+265|||对冲基金风云录|||[美] 巴顿·比格斯|||https://book.douban.com/subject/1949744/
+266|||畅销的原理|||[爱尔兰] 马修·威尔科克斯（Matthew Willcox）|||https://book.douban.com/subject/26919762/
+267|||富可敌国|||[美] 塞巴斯蒂安·马拉比|||https://book.douban.com/subject/5914480/
+268|||高级计量经济学及Stata应用|||陈强|||https://book.douban.com/subject/25930690/
+269|||菜场经济学|||财上海|||https://book.douban.com/subject/26866034/
+270|||数理经济学的基本方法|||蒋中一、凯尔文·温赖特|||https://book.douban.com/subject/1961174/
+271|||投资银行、对冲基金和私募股权投资|||(美)戴维·斯托厄尔|||https://book.douban.com/subject/23760469/
+272|||24堂财富课|||陈志武|||https://book.douban.com/subject/3845101/
+273|||价格理论及其应用|||杰克•赫舒拉发(Jack Hirshleifer)、阿米亥•格雷泽(Amihai Glazer)、大卫•赫舒拉发(David Hirshleifer)|||https://book.douban.com/subject/3598279/
+274|||超级版图|||帕拉格·康纳|||https://book.douban.com/subject/26786410/
+275|||失去的二十年|||池田信夫|||https://book.douban.com/subject/10572016/
+276|||美国经济史|||[美]乔纳森•休斯、路易斯•P.凯恩|||https://book.douban.com/subject/5946317/
+277|||另一条道路|||赫尔南多·德·索托|||https://book.douban.com/subject/2016501/
+278|||货币数量、利率调控与政策转型|||伍戈、李斌|||https://book.douban.com/subject/26756689/
+279|||诚信的背后|||弗兰克·帕特诺伊|||https://book.douban.com/subject/1443196/
+280|||非同寻常的大众幻想与群众性癫狂|||（英）麦基|||https://book.douban.com/subject/1057378/
+281|||乱世华尔街|||渔阳|||https://book.douban.com/subject/5921785/
+282|||小的是美好的|||E.F.舒马赫|||https://book.douban.com/subject/2004425/
+283|||为什么中国人勤劳而不富有|||陈志武|||https://book.douban.com/subject/3248513/
+284|||从资本家手中拯救资本主义|||拉古拉迈・拉詹 等|||https://book.douban.com/subject/1068793/
+285|||与全世界做生意|||柯纳·伍德曼、Conor Woodman|||https://book.douban.com/subject/5299847/
+286|||欲望与利益|||(美) 阿尔伯特·赫希曼|||https://book.douban.com/subject/26304280/
+287|||新政治经济学讲义|||汪丁丁|||https://book.douban.com/subject/24758859/
+288|||十年沧桑|||金雁、秦晖|||https://book.douban.com/subject/1278268/
+289|||让数字说话|||金十七|||https://book.douban.com/subject/1438147/
+290|||不平等的代价|||（美）约瑟夫 E. 斯蒂格利茨|||https://book.douban.com/subject/24745480/
+291|||金钱永不眠|||香帅无花(唐涯)|||https://book.douban.com/subject/26986691/
+292|||时寒冰说：未来二十年，经济大趋势（未来篇）|||时寒冰|||https://book.douban.com/subject/25927672/
+293|||生活在极限之内|||哈丁|||https://book.douban.com/subject/2068662/
+294|||大银行家|||马丁・迈耶|||https://book.douban.com/subject/1022374/
+295|||人类行为的经济分析|||加里・S・贝克尔|||https://book.douban.com/subject/1203329/
+296|||大拐点|||袁剑|||https://book.douban.com/subject/10566136/
+297|||人人都爱经济学|||王福重|||https://book.douban.com/subject/3184668/
+298|||高盛帝国（上）|||[美] 查尔斯·埃利斯|||https://book.douban.com/subject/4217139/
+299|||我在高盛的经济预测法|||[美] 约瑟夫 H. 埃利斯|||https://book.douban.com/subject/6517366/
+300|||从黄河文明到“一带一路”.第1卷|||李晓鹏|||https://book.douban.com/subject/26676661/
+301|||疯狂经济学|||[英]唐·汤普森|||https://book.douban.com/subject/24880341/
+302|||消费者行为学|||利昂·G·希夫曼|||https://book.douban.com/subject/2015536/
+303|||经济学思想史进阶讲义|||汪丁丁|||https://book.douban.com/subject/26589347/
+304|||价格游戏|||利•考德威尔|||https://book.douban.com/subject/21363088/
+305|||让顾客自己来定价|||[美] 贾格莫汉•拉古、张忠|||https://book.douban.com/subject/10484709/
+306|||财富的帝国|||【美】约翰.S.戈登|||https://book.douban.com/subject/26627811/
+307|||动荡的世界|||[美]艾伦•格林斯潘|||https://book.douban.com/subject/25800850/
+308|||利率史|||（美）悉尼·霍默、（美）理查德·西勒|||https://book.douban.com/subject/4139254/
+309|||经济思想史|||斯坦利・L・布鲁、兰迪・R・格兰特|||https://book.douban.com/subject/2985723/
+310|||一转念|||兰小欢|||https://book.douban.com/subject/6398075/
+311|||资本主义简史|||[德] 于尔根·科卡|||https://book.douban.com/subject/26981887/
+312|||金钱有术|||知乎|||https://book.douban.com/subject/26237302/
+313|||第三次工业革命|||[美] 杰里米•里夫金(Jeremy Rifkin)|||https://book.douban.com/subject/10580810/
+314|||行为社会科学基本问题|||汪丁丁|||https://book.douban.com/subject/26974897/
+315|||稳定不稳定的经济|||海曼·P.明斯基|||https://book.douban.com/subject/4222014/
+316|||自我颠覆的倾向|||[美]赫希曼|||https://book.douban.com/subject/25767815/
+317|||卢瑟经济学|||安生|||https://book.douban.com/subject/19895515/
+318|||商业无边界|||薛兆丰|||https://book.douban.com/subject/3274991/
+319|||不可思议的年代|||[美] 乔舒亚·库珀·雷默|||https://book.douban.com/subject/4882102/
+320|||博弈论：战略分析入门|||[美] 麦凯恩（McCain，R.A|||https://book.douban.com/subject/1809644/
+321|||A Course in Game Theory|||Martin J. Osborne、Ariel Rubinstein|||https://book.douban.com/subject/1466989/
+322|||七天读懂宏观经济|||戴维·A·莫斯|||https://book.douban.com/subject/3164293/
+323|||助推|||[美] 理查德·H·泰勒、[美] 卡斯·H·桑斯坦|||https://book.douban.com/subject/4022709/
+324|||Der Hass auf den Westen|||Jean Ziegler|||https://book.douban.com/subject/25860723/
+325|||新卖桔者言|||张五常|||https://book.douban.com/subject/4238941/
+326|||策略与博弈|||普拉伊特・K.杜塔、施锡铨|||https://book.douban.com/subject/1320278/
+327|||只剩一个角落的繁华|||陈文茜|||https://book.douban.com/subject/10745270/
+328|||商业冒险|||[美] 约翰·布鲁克斯|||https://book.douban.com/subject/26362997/
+329|||鲍尔货币金融学|||劳伦斯·鲍尔|||https://book.douban.com/subject/10484710/
+330|||风吹江南之互联网金融|||陈宇（江南愤青）|||https://book.douban.com/subject/25890247/
+331|||银行的秘密|||默里·罗斯巴德|||https://book.douban.com/subject/6849713/
+332|||金融与好的社会|||罗伯特·希勒|||https://book.douban.com/subject/20386252/
+333|||经济发展理论|||(美)熊彼特|||https://book.douban.com/subject/2137823/
+334|||历代经济变革得失（典藏版）|||吴晓波|||https://book.douban.com/subject/26882283/
+335|||巴菲特致股东的信|||(美)巴菲特(Buffett.W.E.)|||https://book.douban.com/subject/1046164/
+336|||见证失衡|||余永定|||https://book.douban.com/subject/4233354/
+337|||论社会主义市场经济|||江泽民|||https://book.douban.com/subject/1821123/
+338|||证券分析|||本杰明·格雷厄姆、戴维·多德|||https://book.douban.com/subject/1013378/
+339|||中国货币史|||彭信威|||https://book.douban.com/subject/3031727/
+340|||顾准文集|||顾准|||https://book.douban.com/subject/2025235/
+341|||经济学讲义（上）|||李俊慧|||https://book.douban.com/subject/11632329/
+342|||货币生产的伦理|||[德] 约尔格·吉多·许尔斯曼|||https://book.douban.com/subject/5394483/
+343|||第三次浪潮|||托夫勒|||https://book.douban.com/subject/1789444/
+344|||金融街|||梁成|||https://book.douban.com/subject/26980769/
+345|||大分流|||（美）彭慕兰|||https://book.douban.com/subject/1070147/
+346|||经济学百科|||英国DK出版社|||https://book.douban.com/subject/25815267/
+347|||重启改革议程|||吴敬琏、马国川|||https://book.douban.com/subject/20507192/
+348|||Economic Origins of Dictatorship and Democracy|||Daron Acemoglu、James A. Robinson|||https://book.douban.com/subject/1841848/
+349|||拼实业|||[美]阿瑟·赫尔曼|||https://book.douban.com/subject/27037093/
+350|||你所不知道的冰冷经济真相|||袁浩|||https://book.douban.com/subject/10555456/
+351|||力挽狂澜：保罗•沃尔克和他改变的金融世界|||【美】威廉·西尔伯(William Silber)|||https://book.douban.com/subject/24741682/
+352|||共享经济|||[美] 罗宾•蔡斯|||https://book.douban.com/subject/26611892/
+353|||社会选择与个人价值|||[美]肯尼斯·约瑟夫·阿罗、Kenneth Joseph Arrow|||https://book.douban.com/subject/4326049/
+354|||理念的力量|||张维迎|||https://book.douban.com/subject/26258214/
+355|||家庭论|||加里·斯坦利·贝克尔|||https://book.douban.com/subject/1390512/
+356|||佃农理论|||张五常|||https://book.douban.com/subject/1011216/
+357|||价值投资|||布鲁斯·格林威尔|||https://book.douban.com/subject/1511636/
+358|||政治经济学及赋税原理|||大卫·李嘉图|||https://book.douban.com/subject/1430069/
+359|||演化与博弈论|||[英] 约翰·梅纳德·史密斯|||https://book.douban.com/subject/3241909/
+360|||解释的工具：生活中的经济学原理|||熊秉元|||https://book.douban.com/subject/25862667/
+361|||經濟學的最後基礎|||米塞斯|||https://book.douban.com/subject/2995495/
+362|||经济增长理论史|||[美]罗斯托|||https://book.douban.com/subject/26733967/
+363|||货币哲学|||[德] 西美尔|||https://book.douban.com/subject/1012962/
+364|||经济学（上下册）（第三版）|||（美）约瑟夫.E.斯蒂格利茨（Joseph E. Stiglitz）等|||https://book.douban.com/subject/1410322/
+365|||中世纪晚期欧洲经济社会史|||詹姆斯•W.汤普逊|||https://book.douban.com/subject/1089405/
+366|||财务自由之路|||博多·舍费尔|||https://book.douban.com/subject/4249967/
+367|||货币的祸害|||[美] 米尔顿·弗里德曼|||https://book.douban.com/subject/1860877/
+368|||广厦天下|||陈淮|||https://book.douban.com/subject/6742735/
+369|||社会主义体制|||[匈牙利]雅诺什·科尔奈|||https://book.douban.com/subject/2078097/
+370|||纳什博弈论论文集|||纳什 (JOHN F.NASH.JR)|||https://book.douban.com/subject/1423046/
+371|||一盘大棋？中国新命运解析|||[英] 罗思义（John Ross）|||https://book.douban.com/subject/26771310/
+372|||微观动机与宏观行为|||[美] 托马斯·C. 谢林|||https://book.douban.com/subject/1446417/
+373|||专业投机原理|||维克托·斯波朗迪|||https://book.douban.com/subject/3027464/
+374|||长尾理论2.0|||安德森|||https://book.douban.com/subject/3685204/
+375|||冬吴相对论2|||梁冬、吴伯凡|||https://book.douban.com/subject/6976968/
+376|||石器时代经济学|||[美]马歇尔·萨林斯|||https://book.douban.com/subject/4071865/
+377|||计量经济学导论|||杰弗里·M·伍德里奇(Jeffrey M.Wooldridge)|||https://book.douban.com/subject/5068097/
+378|||民族国家与经济政策|||韦伯(德)|||https://book.douban.com/subject/1000093/
+379|||郁金香热|||【英】迈克·达什|||https://book.douban.com/subject/26361453/
+380|||金融是本故事书|||许敬、中国基金博物馆 策划整理|||https://book.douban.com/subject/26765359/
+381|||街头生意经|||（美）布罗茨基，（美）博林翰|||https://book.douban.com/subject/4225644/
+382|||同意的计算|||(美)布坎南、(美)塔洛克|||https://book.douban.com/subject/1550973/
+383|||梦想与浮沉|||王骥跃、班妮|||https://book.douban.com/subject/26695863/
+384|||《21世纪资本论》导读本|||何帆|||https://book.douban.com/subject/26279564/
+385|||这个国家会好吗|||李晓鹏|||https://book.douban.com/subject/11605939/
+386|||先放一把火|||何帆|||https://book.douban.com/subject/26434054/
+387|||1929年大崩盘|||约翰·肯尼斯·加尔布雷思|||https://book.douban.com/subject/1928404/
+388|||手把手教你读财报|||唐朝|||https://book.douban.com/subject/26290085/
+389|||自由的界限|||詹姆斯·M.布坎南|||https://book.douban.com/subject/20503759/
+390|||法律的经济分析(上下)|||[美] 理查德·A.波斯纳(Richard A.Posner)|||https://book.douban.com/subject/1016929/
+391|||富爸爸财务自由之路|||Robert T.;Lechter, Sharon L. Kiyosaki|||https://book.douban.com/subject/1004118/
+392|||金融战败|||[日] 吉川元忠|||https://book.douban.com/subject/1010197/
+393|||经济分析史（第二卷）|||[美] 约瑟夫·熊彼特|||https://book.douban.com/subject/1053707/
+394|||货币战争3|||宋鸿兵|||https://book.douban.com/subject/5447147/
+395|||信贷的逻辑与常识|||刘元庆|||https://book.douban.com/subject/27038261/
+396|||MBA教不了的创富课|||老雕|||https://book.douban.com/subject/5921213/
+397|||加图决策者手册|||[美]加图研究所|||https://book.douban.com/subject/6849285/
+398|||不可不知的经济真相|||许树泽 著|||https://book.douban.com/subject/26872427/
+399|||吾民无地|||文贯中|||https://book.douban.com/subject/25912364/
+400|||不顾诸神|||爱德华·卢斯|||https://book.douban.com/subject/2301436/
+401|||萧条经济学的回归和2008年经济危机|||保罗•克鲁格曼|||https://book.douban.com/subject/3507422/
+402|||中国证券市场批判|||袁剑|||https://book.douban.com/subject/1417775/
+403|||制度经济学|||（德）柯武刚、史漫飞|||https://book.douban.com/subject/1077260/
+404|||金融炼金术的终结|||默文·金|||https://book.douban.com/subject/26883450/
+405|||古典经济学|||[美]默瑞•N.罗斯巴德|||https://book.douban.com/subject/20379631/
+406|||几位著名经济思想家的生平、时代和思想|||[美]罗伯特·L·海尔布罗纳|||https://book.douban.com/subject/1792738/
+407|||赤裸裸的统计学|||[美]查尔斯·韦兰|||https://book.douban.com/subject/25717380/
+408|||全球经济史|||[英]罗伯特·C.艾伦|||https://book.douban.com/subject/26345472/
+409|||国家的视角|||詹姆斯・C・斯科特|||https://book.douban.com/subject/1190181/
+410|||选择做富人|||徐建明|||https://book.douban.com/subject/26374984/
+411|||资本主义的动力|||[法]费尔南·布罗代尔(Fernand Braudel)|||https://book.douban.com/subject/1002574/
+412|||理解公司|||张维迎|||https://book.douban.com/subject/25911445/
+413|||牛奶可乐经济学2|||[美] 罗伯特·弗兰克|||https://book.douban.com/subject/3348742/
+414|||制造繁荣|||Gary P.Pisano、Willy C.Shih|||https://book.douban.com/subject/25963342/
+415|||比特币|||李钧、长铗|||https://book.douban.com/subject/25781918/
+416|||机构投资的创新之路|||大卫·F·史文森|||https://book.douban.com/subject/4748753/
+417|||大数据|||涂子沛|||https://book.douban.com/subject/10799984/
+418|||中国是部金融史2|||陈雨露、杨忠恕|||https://book.douban.com/subject/25840005/
+419|||规模与范围|||[美] 小艾尔弗雷德·钱德勒、[日] 引野隆志协助|||https://book.douban.com/subject/1484103/
+420|||M型社会|||（日）大前研一|||https://book.douban.com/subject/2253697/
+421|||不确定条件下的投资|||(美)阿维纳什﹒迪克西特(Avinash K. Dixit) (美)罗伯特﹒平迪克(Robert S. Pindyck)、罗伯特·平迪克|||https://book.douban.com/subject/1547736/
+422|||博弈论与信息经济学|||张维迎|||https://book.douban.com/subject/1262630/
+423|||基于实践的微观经济学|||[美] 赫伯特·西蒙|||https://book.douban.com/subject/3702843/
+424|||财产权利与制度变迁|||[美] R. H. 科斯(Coase, R. H.)、[美] 阿尔钦（Alchain A.)、[美] 诺斯（North D.)|||https://book.douban.com/subject/1133991/
+425|||人口原理|||[英] 马尔萨斯|||https://book.douban.com/subject/1274030/
+426|||史上最伟大的交易|||[美] 格里高利•祖克曼|||https://book.douban.com/subject/4923147/
+427|||经济思想史的趣味|||赖建诚|||https://book.douban.com/subject/6963612/
+428|||必然|||[美] 凯文·凯利|||https://book.douban.com/subject/26658379/
+429|||资本主义与二十一世纪|||[美] 黄仁宇|||https://book.douban.com/subject/1047001/
+430|||中国改革三部曲|||吴敬琏|||https://book.douban.com/subject/27027689/
+431|||峭壁边缘|||亨利·保尔森|||https://book.douban.com/subject/4720006/
+432|||财务报表分析|||黄世忠|||https://book.douban.com/subject/2111085/
+433|||新兴古典经济学与超边际分析|||杨小凯、张永生|||https://book.douban.com/subject/1085393/
+434|||第二次机器革命|||[美]埃里克·布莱恩约弗森|||https://book.douban.com/subject/25953932/
+435|||预知社会|||菲利普·鲍尔|||https://book.douban.com/subject/2338638/
+436|||经济学原理|||张维迎|||https://book.douban.com/subject/26617517/
+437|||伟大的中国经济转型|||[美] 劳伦·勃兰特、[美] 托马斯·罗斯基 编|||https://book.douban.com/subject/4074403/
+438|||亚当·斯密传|||伊安•罗斯|||https://book.douban.com/subject/24232359/
+439|||一件T恤的全球经济之旅|||（美）皮翠拉•瑞沃莉|||https://book.douban.com/subject/5408889/
+440|||维基经济学|||[加] 唐·泰普斯科特、[英] 安东尼·D·威廉姆斯|||https://book.douban.com/subject/2265341/
+441|||《跌荡一百年》（上、下）（全二册）|||吴晓波|||https://book.douban.com/subject/25858897/
+442|||師父-那些我在課堂外學會的本事|||Brodsky, Norm、Burlingham, Bo|||https://book.douban.com/subject/4063315/
+443|||经济分析史（第三卷）|||[美] 约瑟夫·熊彼特|||https://book.douban.com/subject/1028005/
+444|||米塞斯回忆录|||[奥地利]路德维希·冯·米塞斯|||https://book.douban.com/subject/26584055/
+445|||告别百年激进|||温铁军|||https://book.douban.com/subject/26806801/
+446|||和约的经济后果|||[英] 约翰·梅纳德·凯恩斯|||https://book.douban.com/subject/2983307/
+447|||在星巴克要买大杯咖啡！|||[日] 吉本佳生|||https://book.douban.com/subject/2363744/
+448|||比较政治经济学|||朱天飚|||https://book.douban.com/subject/1454953/
+449|||经济学原理|||杨小凯|||https://book.douban.com/subject/2255991/
+450|||郎咸平说：谁在谋杀中国经济|||郎咸平|||https://book.douban.com/subject/3776679/
+451|||人为制造的脆弱性|||[美]查尔斯·凯罗米里斯|||https://book.douban.com/subject/26612357/
+452|||金融心理学|||拉斯·特维德|||https://book.douban.com/subject/1141543/
+453|||理性与自由|||[印]阿马蒂亚·森|||https://book.douban.com/subject/1878630/
+454|||城乡中国（下）|||周其仁|||https://book.douban.com/subject/25953827/
+455|||小趋势|||[美] 马克·佩恩、[美] E. 金尼·扎莱纳|||https://book.douban.com/subject/3200450/
+456|||石油大博弈（上）|||丹尼尔·耶金|||https://book.douban.com/subject/3189919/
+457|||公共事物的治理之道|||(美)埃莉诺﹒奥斯特罗姆著|||https://book.douban.com/subject/1661368/
+458|||风险、不确定性与利润|||弗兰克.H.奈特|||https://book.douban.com/subject/1485722/
+459|||收入是一连串事件|||周其仁|||https://book.douban.com/subject/1146264/
+460|||看懂世界格局的第一本书|||王伟|||https://book.douban.com/subject/5992743/
+461|||经济学思维|||李子旸|||https://book.douban.com/subject/26895402/
+462|||中国改革|||华生|||https://book.douban.com/subject/19955707/
+463|||奥地利学派的大师们|||［美］Randall G. Holcombe  编|||https://book.douban.com/subject/26293301/
+464|||博弈论的诡计|||王春永|||https://book.douban.com/subject/2026086/
+465|||超级合作者|||[美]马丁•诺瓦克 (Martin A. Nowak)、[美]罗杰•海菲尔德 (Roger Highfield)|||https://book.douban.com/subject/25720885/
+466|||金融的哲学|||周洛华|||https://book.douban.com/subject/25975503/
+467|||金融帝国|||迈克尔·赫德森|||https://book.douban.com/subject/3225659/
+468|||大裂变|||阿夫纳·格雷夫|||https://book.douban.com/subject/3184472/
+469|||投资的护城河|||[美]希瑟·布里林特（Heather Brilliant）、[美]伊丽莎白·柯林斯（Elizabeth Collins）|||https://book.douban.com/subject/26898052/
+470|||卖竹竿的小贩为什么不会倒？|||[日] 山田真哉|||https://book.douban.com/subject/1968264/
+471|||现代宏观经济学|||[英] 布莱恩·斯诺登、[英] 霍华德·R. 文|||https://book.douban.com/subject/3518436/
+472|||货币战争5|||宋鸿兵|||https://book.douban.com/subject/25777447/
+473|||论经济学和经济学家|||罗纳德·H.科斯(Coase.R.H.)|||https://book.douban.com/subject/4898529/
+474|||哈耶克评传|||(美)布鲁斯·考德威尔|||https://book.douban.com/subject/2152822/
+475|||Mostly Harmless Econometrics|||Joshua D. Angrist、Jörn-Steffen Pischke|||https://book.douban.com/subject/3162523/
+476|||微观经济学|||平狄克|||https://book.douban.com/subject/1086275/
+477|||朋友还是对手|||[美]马克·史库森(Mark Skousen)|||https://book.douban.com/subject/1961159/
+478|||为什么我们的钱变薄了|||[美]默瑞•N.罗斯巴德|||https://book.douban.com/subject/3242450/
+479|||当中国统治世界|||(英)马丁·雅克、Martin Jacques|||https://book.douban.com/subject/4175450/
+480|||中国经济到了最危险的边缘|||郎咸平、孙晋|||https://book.douban.com/subject/10607197/
+481|||资本的限度|||[英] 大卫·哈维|||https://book.douban.com/subject/26981868/
+482|||货币政策实施|||乌尔里希·宾德赛尔 (Ulrich Bindseil)|||https://book.douban.com/subject/26190562/
+483|||实力、运气与成功|||[美]迈克尔·莫布森|||https://book.douban.com/subject/26214776/
+484|||合作的复杂性|||[美]阿克塞尔罗德|||https://book.douban.com/subject/3094759/
+485|||田园诗与狂想曲|||秦晖、金雁|||https://book.douban.com/subject/4243276/
+486|||经济思想简史|||[德]海因茨·D库尔茨|||https://book.douban.com/subject/26957921/
+487|||活学活用博弈论|||詹姆斯·米勤|||https://book.douban.com/subject/1461267/
+488|||房价的本质|||老蛮|||https://book.douban.com/subject/6998576/
+489|||令人惊艳的十年|||[美]珍妮特•耶伦(Janet L.Yellen )、[美]艾伦•布林德(Alan S. Blinder)|||https://book.douban.com/subject/25941373/
+490|||资本主义还有未来吗|||伊曼纽尔·沃勒斯坦 (Immanuel Wallerstein)、兰德尔·柯林斯 (Randall Collins)、迈克尔·曼 (Michael Mann)、格奥吉·杰尔卢吉扬 (Georgi Derluguia)、克雷格•卡尔霍恩|||https://book.douban.com/subject/25864125/
+491|||体验经济|||（美）B.约瑟夫·派恩（B.Joseph Pine Ⅱ）詹姆斯 H.吉尔摩（James H.Gilmore）|||https://book.douban.com/subject/10516877/
+492|||经济史上的结构和变革|||道格纳斯.C.诺思|||https://book.douban.com/subject/1510737/
+493|||大繁荣|||【美】埃德蒙•费尔普斯|||https://book.douban.com/subject/25712458/
+494|||近代英国工业革命揭秘|||[英]罗伯特•艾伦|||https://book.douban.com/subject/10759564/
+495|||大衰退：宏观经济学的圣杯|||[美]辜朝明|||https://book.douban.com/subject/26922908/
+496|||政治经济学|||[瑞典]T.佩尔森、[意]G.塔贝里尼|||https://book.douban.com/subject/1964540/
+497|||韩娱经济学|||王丛|||https://book.douban.com/subject/26689271/
+498|||Microeconomic Theory|||Andreu Mas-Colell、Michael D. Whinston、Jerry R. Green|||https://book.douban.com/subject/1418276/
+499|||底特律往事|||(美) 比尔•弗拉斯科|||https://book.douban.com/subject/25756203/
+500|||债券市场分析和策略|||弗兰克·J.法博兹|||https://book.douban.com/subject/2013150/
+501|||病有所医当问谁|||周其仁|||https://book.douban.com/subject/3193403/
+502|||权力的转移|||[美]阿尔文•托夫勒|||https://book.douban.com/subject/1832047/
+503|||企业生命周期|||爱迪思|||https://book.douban.com/subject/1084649/
+504|||美联储|||威廉·格雷德|||https://book.douban.com/subject/22741516/
+505|||中国土地制度史|||赵冈、陈钟毅|||https://book.douban.com/subject/1871281/
+506|||投资学精要|||兹维·博迪、亚历克斯·凯恩、艾伦·马科斯|||https://book.douban.com/subject/1104482/
+507|||财富的革命|||托夫勒|||https://book.douban.com/subject/1789440/
+508|||钱商|||[加] 阿瑟·黑利|||https://book.douban.com/subject/26376865/
+509|||房噬|||张捷|||https://book.douban.com/subject/23011117/
+510|||从来就没有救世主|||许小年|||https://book.douban.com/subject/6427157/
+511|||货币、银行与金融市场|||[美]切凯蒂|||https://book.douban.com/subject/2025649/
+512|||十六世纪明代中国之财政与税收|||黄仁宇|||https://book.douban.com/subject/1006419/
+513|||众包|||杰夫·豪|||https://book.douban.com/subject/3717165/
+514|||经济分析基础|||（美）保罗·A.萨缪尔森|||https://book.douban.com/subject/2012517/
+515|||身份与暴力|||[印]阿马蒂亚·森|||https://book.douban.com/subject/4126261/
+516|||一个经济杀手的自白|||约翰·珀金斯|||https://book.douban.com/subject/1958147/
+517|||低智商社会|||(日) 大前研一|||https://book.douban.com/subject/4292120/
+518|||为增长而竞争|||张军、周黎安 编|||https://book.douban.com/subject/2372640/
+519|||转型中的地方政府|||周黎安|||https://book.douban.com/subject/3347568/
+520|||世纪大拍卖|||克里斯蒂娅・弗里兰、刘卫、张春霖|||https://book.douban.com/subject/1010915/
+521|||China's Economy|||Arthur R. Kroeber|||https://book.douban.com/subject/26725600/
+522|||经济学的真理|||(美)弗兰克·H.奈特|||https://book.douban.com/subject/26865187/
+523|||The Chinese Economy|||Barry J. Naughton|||https://book.douban.com/subject/2265236/
+524|||这次不一样|||卡门 M. 莱因哈特、肯尼斯 S. 罗格夫|||https://book.douban.com/subject/11613937/
+525|||商务与经济统计|||安德森(Anderson D R.)、斯威尼(Sweeney D J.)、威廉斯(Williams T A.)|||https://book.douban.com/subject/10557289/
+526|||统计学的世界|||[美] 戴维·S.穆尔|||https://book.douban.com/subject/1138353/
+527|||白人的负担|||威廉•伊斯特利|||https://book.douban.com/subject/3257745/
+528|||现代资本主义|||(美)托马斯·K·麦克劳|||https://book.douban.com/subject/1032803/
+529|||货币野史|||【美】菲利克斯•马汀|||https://book.douban.com/subject/26220124/
+530|||强权与富足|||[美] 罗纳德·芬德利、[美] 凯文·奥罗克|||https://book.douban.com/subject/10750408/
+531|||走向繁荣的战略选择|||厉以宁、孟晓苏、李源潮、李克强|||https://book.douban.com/subject/4774429/
+532|||企业的性质|||威廉姆森、温特|||https://book.douban.com/subject/2038122/
+533|||新企业的起源与演进|||阿玛尔·毕海德|||https://book.douban.com/subject/1159542/
+534|||纯粹经济学|||王福重|||https://book.douban.com/subject/26342274/
+535|||在商言商|||冯筱才|||https://book.douban.com/subject/1183711/
+536|||真实的人的经济学|||吉恩·卡拉汉 (Gene Callahan)|||https://book.douban.com/subject/24876734/
+537|||经济学|||杨小凯|||https://book.douban.com/subject/1137749/
+538|||十字路口的中国经济|||陆铭|||https://book.douban.com/subject/4166301/
+539|||低欲望社會|||大前研一|||https://book.douban.com/subject/26889057/
+540|||海盗经济学|||[美]彼得•里森|||https://book.douban.com/subject/6119948/
+541|||赌客信条|||孙惟微|||https://book.douban.com/subject/4265573/
+542|||逃离不平等|||[美]安格斯·迪顿|||https://book.douban.com/subject/25979459/
+543|||搞懂金融的第一本书|||文晞、路瑞锁|||https://book.douban.com/subject/10434287/
+544|||剑桥欧洲经济史（第一卷）|||[英]M.M.波斯坦[M|||https://book.douban.com/subject/1510768/
+545|||国际经济学|||[美]保罗·R·克鲁格曼等|||https://book.douban.com/subject/1928447/
+546|||商业的常识|||申音|||https://book.douban.com/subject/6548683/
+547|||狡猾的情感|||Eyal Winter|||https://book.douban.com/subject/26847674/
+548|||癫狂与恐慌|||【美】巴顿•比格斯（Barton Biggs）|||https://book.douban.com/subject/26666438/
+549|||商业的本质|||[美] 杰克·韦尔奇、[美] 苏茜·韦尔奇|||https://book.douban.com/subject/26743607/
+550|||技术革命与金融资本|||佩蕾丝；田|||https://book.douban.com/subject/2326852/
+551|||策略博弈|||阿维纳什 K.迪克西特(Avinash K.Dixit) (作者), 苏珊·斯克丝 (Susan Skeath) (作者)|||https://book.douban.com/subject/3618093/
+552|||房间里最精明的人|||（美）贝萨尼·麦克莱恩|||https://book.douban.com/subject/1977840/
+553|||被掩盖的经济真相|||托马斯·索维尔|||https://book.douban.com/subject/3315951/
+554|||神经经济学分析基础|||保罗·格莱姆齐(Paul W.Glimcher)|||https://book.douban.com/subject/26879503/
+555|||饺子馆和高级餐厅，哪个更赚钱？|||（日）林总|||https://book.douban.com/subject/3032198/
+556|||泡沫经济学|||（日）野口悠纪雄|||https://book.douban.com/subject/1262816/
+557|||娱乐产业经济学|||Harold L.Vogel|||https://book.douban.com/subject/25769112/
+558|||财政学|||哈维·S·罗森(Harvey.S.Rosen)、特德·盖亚|||https://book.douban.com/subject/4048193/
+559|||合作的物种|||[美] 塞缪尔·鲍尔斯、[美] 赫伯特·金迪斯|||https://book.douban.com/subject/26593901/
+560|||财富的帝国|||约翰.S.戈登|||https://book.douban.com/subject/2131777/
+561|||听故事学会计|||朱迪丝·奥洛夫、达雷尔·穆利斯|||https://book.douban.com/subject/4002726/
+562|||人类货币史|||David Orrell|||https://book.douban.com/subject/27018212/
+563|||经济学理论与认知科学|||唐·罗斯|||https://book.douban.com/subject/5922121/
+564|||资本与利息|||欧根·冯·庞巴维克|||https://book.douban.com/subject/6004589/
+565|||环保的暴力|||[捷克] 瓦茨拉夫·克劳斯|||https://book.douban.com/subject/11580821/
+566|||富裕社会|||约翰·肯尼思·加尔布雷思|||https://book.douban.com/subject/3693086/
+567|||过去的钱值多少钱|||邵义|||https://book.douban.com/subject/5419238/
+568|||无快乐的经济|||(美)提勃尔.西托夫斯基(Tibor de Scitovsky)|||https://book.douban.com/subject/3140334/
+569|||战胜命运|||林毅夫、[喀麦隆] 塞勒斯汀·孟加|||https://book.douban.com/subject/27026912/
+570|||超爆魔鬼经济学|||史蒂芬•列维特、史蒂芬•都伯纳|||https://book.douban.com/subject/4720572/
+571|||罗斯柴尔德家族.第1部|||尼尔·弗格森|||https://book.douban.com/subject/3905263/
+572|||经济学讲义|||李俊慧|||https://book.douban.com/subject/26957863/
+573|||货币政策|||(英）基思•贝恩、(英)彼得•豪厄尔斯|||https://book.douban.com/subject/20451565/
+574|||经济通史|||马克斯·韦伯|||https://book.douban.com/subject/1948897/
+575|||犹太致富金律|||Rabbi Daniel Lapin [美]丹尼尔·拉平|||https://book.douban.com/subject/27004772/
+576|||世界经济千年史|||[英]麦迪森（Angus Maddison）|||https://book.douban.com/subject/1140879/
+577|||黄金、美元与权力|||[美] 弗朗西斯·加文|||https://book.douban.com/subject/6793942/
+578|||百辩经济学|||瓦特·布拉克|||https://book.douban.com/subject/5029370/
+579|||看得見與看不見的|||[法]弗雷德里克·巴斯夏|||https://book.douban.com/subject/24381413/
+581|||哈佛商学院启示录|||丘凯怡|||https://book.douban.com/subject/1144530/
+582|||第四次工业革命|||克劳斯·施瓦布|||https://book.douban.com/subject/26800364/
+583|||日本蜡烛图技术|||（美）史蒂夫.尼森|||https://book.douban.com/subject/1087737/
+584|||牛角包一样的会计|||马津|||https://book.douban.com/subject/4137490/
+585|||欧元的悲剧|||[西]菲利普•巴格斯|||https://book.douban.com/subject/24863293/
+586|||在增长的迷雾中求索|||威廉·伊斯特利|||https://book.douban.com/subject/1220041/
+587|||增长的极限|||（美）丹尼斯·米都斯|||https://book.douban.com/subject/1196938/
+588|||金融可以颠覆历史|||王巍|||https://book.douban.com/subject/24705392/
+589|||罗纳德·科斯传|||[美]斯蒂文·G.米德玛|||https://book.douban.com/subject/26919644/
+590|||NO LOGO|||[加] 娜奥米·克莱恩|||https://book.douban.com/subject/3669688/
+591|||经济学是如何忘记历史的|||杰弗里·M·霍奇逊|||https://book.douban.com/subject/3000263/
+592|||官僚体制的政治|||(美) 塔洛克|||https://book.douban.com/subject/4140489/
+593|||世界是部金融史|||陈雨露、杨栋|||https://book.douban.com/subject/26795403/
+594|||经济指标解读|||伯纳德•鲍莫尔（Bernard Baumohl）|||https://book.douban.com/subject/4023402/
+595|||现代奥地利学派经济学的基础|||[美] 埃德温•多兰 编、[美]伊斯雷尔•科兹纳 穆雷•罗斯巴德等 著|||https://book.douban.com/subject/3266550/
+596|||巴比伦最富有的人|||乔治·克拉森|||https://book.douban.com/subject/3925917/
+597|||投资：一部历史|||[美]诺顿·雷默 杰西·唐宁|||https://book.douban.com/subject/26995362/
+598|||金钱关系|||尼尔·弗格森|||https://book.douban.com/subject/10550572/
+599|||中产阶级如何保护自己的财富|||yevon_ou 欧成效|||https://book.douban.com/subject/27015138/
+600|||能源重塑世界（上下）|||【美】丹尼尔·耶金|||https://book.douban.com/subject/11601459/
+601|||图解全球资源真相|||[日]柴田明夫|||https://book.douban.com/subject/26883446/
+602|||价格理论|||米尔顿·弗里德曼|||https://book.douban.com/subject/3060949/
+603|||哈耶克传|||阿兰・艾伯斯坦|||https://book.douban.com/subject/1057779/
+604|||产权的经济分析|||Y.巴泽尔|||https://book.douban.com/subject/1169104/
+605|||新金融秩序|||罗伯特 希勒|||https://book.douban.com/subject/25760062/
+606|||现代经济学的历程|||马克·斯考森(Mark Skousen)|||https://book.douban.com/subject/1705302/
+607|||权力与货币|||[比利时] 厄内斯特·曼德尔|||https://book.douban.com/subject/1055273/
+608|||牛奶可乐经济学3|||[美]罗伯特·弗兰克|||https://book.douban.com/subject/4039355/
+609|||最底层的10亿人|||保罗•科利尔 （Paul Collier）|||https://book.douban.com/subject/3141521/
+610|||房地产周期百年史|||Huo Yi Te|||https://book.douban.com/subject/6877419/
+611|||经济学之路|||本力, 曹毅|||https://book.douban.com/subject/7154659/
+612|||商业模式新生代|||亚历山大•奥斯特瓦德 (Alexander Osterwalder)、伊夫•皮尼厄 (Yves Pigneur)|||https://book.douban.com/subject/6718487/
+613|||经济学的邀请|||雅尼斯·瓦鲁法克斯|||https://book.douban.com/subject/3413327/
+614|||从西潮到东风|||林毅夫|||https://book.douban.com/subject/11632327/
+615|||政治博弈论|||[美] 诺兰·麦卡蒂、[美] 亚当·梅罗威茨|||https://book.douban.com/subject/4159397/
+616|||经济学方法论探究|||卡尔·门格尔|||https://book.douban.com/subject/2155336/
+617|||金融大骗局|||林育诗、叶佛和|||https://book.douban.com/subject/25757019/
+618|||奢侈与资本主义|||维尔纳·桑巴特|||https://book.douban.com/subject/1315171/
+619|||日本经济奇迹的终结|||都留重人|||https://book.douban.com/subject/2381199/
+621|||发展经济学|||杨小凯|||https://book.douban.com/subject/1139211/
+622|||轻松读懂财报|||胜间和代|||https://book.douban.com/subject/4012148/
+623|||弗里德曼的生活经济学|||[美] 戴维·弗里德曼|||https://book.douban.com/subject/1769189/
+624|||拯救日本|||吉莲·泰特|||https://book.douban.com/subject/1179158/
+625|||金融市场技术分析|||（美）约翰·墨菲|||https://book.douban.com/subject/4906492/
+626|||若有所失|||何帆|||https://book.douban.com/subject/25832032/
+627|||兜售繁荣|||保罗·克鲁格曼|||https://book.douban.com/subject/4721724/
+628|||身边的博弈|||董志强|||https://book.douban.com/subject/1936599/
+629|||纳什均衡与博弈论|||（美）汤姆．齐格弗里德|||https://book.douban.com/subject/6423666/
+630|||国际经济学|||[美] 保罗·克鲁格曼、茅瑞斯·奥伯斯法尔德|||https://book.douban.com/subject/1263907/
+631|||钱的外遇|||周显|||https://book.douban.com/subject/3994868/
+632|||反常识经济学|||[美] 加里·S. 贝克尔、[美] 理查德·A. 波斯纳|||https://book.douban.com/subject/5408891/
+633|||看不见的心|||[美] 罗塞尔·罗伯茨|||https://book.douban.com/subject/1031253/
+634|||中国怎么办|||时寒冰|||https://book.douban.com/subject/3376690/
+635|||歧视经济学|||[美]加里·贝克尔|||https://book.douban.com/subject/26127453/
+636|||弗里德曼文萃（上下册）|||米尔顿.弗里德曼|||https://book.douban.com/subject/1391816/
+637|||免费|||Chris Anderson|||https://book.douban.com/subject/26778836/
+638|||货币战争4|||宋鸿兵|||https://book.douban.com/subject/6977935/
+639|||宽客人生|||Emanuel Derman|||https://book.douban.com/subject/2139493/
+640|||魔鬼经济学3|||[美] 史蒂芬·列维特、[美] 史蒂芬·都伯纳|||https://book.douban.com/subject/26853102/
+641|||穷爸爸富爸爸(5DVD)|||黑龙江文化电子音像出版社|||https://book.douban.com/subject/3636245/
+642|||盐铁论|||桓宽|||https://book.douban.com/subject/1049686/
+643|||在不确定的世界|||罗伯特・鲁宾、李晓岗、王荣军、张凡|||https://book.douban.com/subject/1186753/
+644|||狂人、知识分子和学术涂鸦人|||韦恩•A•雷顿、爱德华. J. 洛佩斯|||https://book.douban.com/subject/25923191/
+645|||群居的艺术|||辉格|||https://book.douban.com/subject/27058538/
+646|||盐铁论校注|||桓宽|||https://book.douban.com/subject/1066155/
+647|||一以贯之|||戴立宁|||https://book.douban.com/subject/25845610/
+648|||货币简史|||卡比尔·塞加尔|||https://book.douban.com/subject/26772766/
+649|||不确定的时代|||约翰·肯尼思·加尔布雷思|||https://book.douban.com/subject/3693088/
+650|||经济学原理|||马歇尔|||https://book.douban.com/subject/1261642/
+651|||公司的力量|||《公司的力量》节目组|||https://book.douban.com/subject/5068453/
+652|||当经济学遇上生物学和心理学|||迈克尔·舍默|||https://book.douban.com/subject/3887659/
+653|||废物星球|||【美】亚当·名特|||https://book.douban.com/subject/26417039/
+654|||蓝海战略|||[韩] W.钱·金、[美] 勒妮·莫博涅|||https://book.douban.com/subject/1318427/
+655|||魔鬼投资学|||[美]迈克尔·莫布森|||https://book.douban.com/subject/2287680/
+656|||承诺的策略|||托马斯·谢林|||https://book.douban.com/subject/3803280/
+657|||失控的未来|||[美]约翰·C·黑文斯|||https://book.douban.com/subject/27020084/
+658|||同理心文明|||[美]杰里米·里夫金（Jeremy Rifkin）|||https://book.douban.com/subject/26612166/
+659|||威权政治|||威廉•伊斯特利|||https://book.douban.com/subject/26869012/
+660|||美国制造|||瓦科拉夫·斯米尔 (Vaclav Smil)|||https://book.douban.com/subject/26279300/
+661|||中国股市|||华生|||https://book.douban.com/subject/20471994/
+662|||市场演进的故事|||[美] 约翰·麦克米兰|||https://book.douban.com/subject/1477425/
+663|||韦伯作品集<Ⅱ>经济与历史支配的类型|||韦伯|||https://book.douban.com/subject/1054633/
+664|||三井帝国在行动|||白益民|||https://book.douban.com/subject/3235204/
+665|||贸易打造的世界|||[美] 彭慕兰、[美] 史蒂文·托皮克|||https://book.douban.com/subject/27155983/
+666|||自由与市场经济|||许小年|||https://book.douban.com/subject/3597843/
+667|||解读中国经济指标|||Tom Orilk|||https://book.douban.com/subject/10595870/
+668|||货币崛起|||[英]尼尔·弗格森|||https://book.douban.com/subject/3698555/
+669|||影子里的中国|||吴敬琏、郑永年、[美]亨利.基辛格|||https://book.douban.com/subject/23764874/
+670|||郎咸平说：新帝国主义在中国 2|||郎咸平|||https://book.douban.com/subject/4831337/
+671|||宏观经济学|||保罗·萨缪尔森、威廉·诺德豪斯|||https://book.douban.com/subject/2983684/
+672|||房地产的繁荣与萧条|||（美）托马斯•索维尔|||https://book.douban.com/subject/25762436/
+673|||台湾往事|||郭岱君|||https://book.douban.com/subject/26315806/
+674|||石油战争|||威廉·恩道尔|||https://book.douban.com/subject/3036524/
+675|||经济决策的概率模型|||罗杰 B.迈尔森|||https://book.douban.com/subject/3738532/
+676|||“中国模式”到底有多独特？|||黄亚生|||https://book.douban.com/subject/6182400/
+677|||资源革命|||斯蒂芬·赫克（Stefan Heck）、马特·罗杰斯（Matt Rogers）、保罗·卡罗尔（Paul Carroll）|||https://book.douban.com/subject/26435017/
+678|||中国人的道德前景|||茅于轼|||https://book.douban.com/subject/1030171/
+679|||正义的成本|||熊秉元|||https://book.douban.com/subject/26358914/
+680|||大国的兴衰|||[美] 保罗·肯尼迪|||https://book.douban.com/subject/1421923/
+681|||资本实证论|||【奥】庞巴维克|||https://book.douban.com/subject/1916259/
+682|||消费心理学|||刘军、王砥 主编|||https://book.douban.com/subject/3667896/
+683|||疯狂、惊恐和崩溃|||查尔斯·P.金德尔伯|||https://book.douban.com/subject/2075831/
+684|||2052：未来四十年的中国与世界|||[挪威] 乔根·兰德斯|||https://book.douban.com/subject/25704047/
+685|||超越恐惧和贪婪|||赫什·舍夫林|||https://book.douban.com/subject/1320298/
+686|||非理性繁荣（第二版）|||罗伯特 J 希勒|||https://book.douban.com/subject/26293878/
+687|||民主的经济理论|||安东尼·唐斯|||https://book.douban.com/subject/1444052/
+688|||欢乐的经济学|||戴维·亨德森|||https://book.douban.com/subject/1860684/
+689|||经济学.英文版·第18版/中国教育部推荐原版引进教材|||Paul A.Samuelson|||https://book.douban.com/subject/1487888/
+690|||华尔街之狼|||乔丹·贝尔福特|||https://book.douban.com/subject/25784098/
+691|||曼昆版《宏观经济学》|||翔高教育经济学教学研究中心 编|||https://book.douban.com/subject/6041183/
+692|||财务是个真实的谎言|||钟文庆 编|||https://book.douban.com/subject/4062213/
+693|||经济学基础文献选读|||罗卫东 编选|||https://book.douban.com/subject/2335325/
+694|||房地产大周期的金融视角|||巴曙松|||https://book.douban.com/subject/10527305/
+695|||农民的道义经济学|||[美] 詹姆斯·C. 斯科特|||https://book.douban.com/subject/1085487/
+696|||开放社会|||[美] 乔治·索罗斯|||https://book.douban.com/subject/1019877/
+697|||资本主义经济制度|||奥利弗·E.威廉姆森|||https://book.douban.com/subject/1186151/
+698|||中国经济制度史论|||赵冈、陈钟毅|||https://book.douban.com/subject/1871328/
+699|||不为公众所知的改革|||张军|||https://book.douban.com/subject/4137172/
+700|||日本经济的悖论|||高柏|||https://book.douban.com/subject/1445685/
+701|||微观经济学十八讲|||平新乔|||https://book.douban.com/subject/1130426/
+702|||万科模式|||华生|||https://book.douban.com/subject/27015516/
+703|||大道至简|||陈淮|||https://book.douban.com/subject/1142995/
+704|||Introduction to Modern Economic Growth|||Daron Acemoglu|||https://book.douban.com/subject/3298715/
+705|||吴敬琏文集（套装共3册）|||吴敬琏|||https://book.douban.com/subject/24465833/
+706|||足球经济学|||西蒙•库珀（Simon Kuper）、史蒂芬•西曼斯基（Stefan Szymanski）|||https://book.douban.com/subject/4241667/
+707|||布雷顿森林货币战|||（美）本•斯泰尔|||https://book.douban.com/subject/25846145/
+708|||成本与选择|||[美]詹姆斯·布坎南|||https://book.douban.com/subject/4047067/
+709|||写给中国人的经济学|||王福重|||https://book.douban.com/subject/4210756/
+710|||纸牌大厦|||安生|||https://book.douban.com/subject/26391828/
+711|||推手|||西尔维娅·娜萨|||https://book.douban.com/subject/23193963/
+712|||资本和收入的性质|||欧文·费雪|||https://book.douban.com/subject/27004022/
+713|||爱情市场|||[美] 玛丽娜·艾德谢德|||https://book.douban.com/subject/27041249/
+714|||真实世界的经济学|||周其仁|||https://book.douban.com/subject/1928411/
+715|||全球视角的宏观经济学|||杰弗里・萨克斯、费利普・拉雷恩、陈昕、费方域|||https://book.douban.com/subject/1172782/
+716|||投资者的敌人|||朱 宁|||https://book.douban.com/subject/25837660/
+717|||非理性亢奋|||陈志武|||https://book.douban.com/subject/3248522/
+718|||朱镕基讲话实录 第一卷|||《朱熔基讲话实录》编辑组|||https://book.douban.com/subject/6822683/
+719|||大变局与新动力|||厉以宁|||https://book.douban.com/subject/27051362/
+720|||美联储传：一部现代金融史|||[美]G.爱德华·格里芬|||https://book.douban.com/subject/27072779/
+721|||时寒冰说|||时寒冰|||https://book.douban.com/subject/11591539/
+722|||行为金融|||威廉·福布斯|||https://book.douban.com/subject/6526466/
+723|||穷思维 富思维|||童大焕|||https://book.douban.com/subject/20312382/
+724|||策略|||Joel Watson[乔尔 沃森]|||https://book.douban.com/subject/5405599/
+725|||犬与鬼|||阿列克斯·科尔|||https://book.douban.com/subject/1758109/
+726|||世界是部金融史|||陈雨露、杨栋|||https://book.douban.com/subject/5912230/
+727|||大势研判|||任泽平|||https://book.douban.com/subject/26840503/
+728|||产权、激励与公司治理|||张维迎|||https://book.douban.com/subject/1486718/
+729|||博弈论与社会契约（第1卷）|||肯·宾默尔|||https://book.douban.com/subject/1131430/
+730|||生活中的经济学|||加里・贝克、吉蒂・贝克|||https://book.douban.com/subject/1042075/
+731|||美学的经济|||詹伟雄|||https://book.douban.com/subject/5408888/
+732|||郎咸平说：热点的背后|||郎咸平|||https://book.douban.com/subject/3216007/
+733|||繁荣的背后|||【美】威廉·伯恩斯坦|||https://book.douban.com/subject/6510691/
+734|||通产省与日本奇迹|||查默斯·约翰逊|||https://book.douban.com/subject/4860587/
+735|||知识资产：在信息经济中赢得竞争优势|||（英）马克斯・H・博伊索特|||https://book.douban.com/subject/1315192/
+736|||制度、技术与中国农业发展|||林毅夫|||https://book.douban.com/subject/1445733/
+737|||经济学原理|||大卫·R.哈克斯|||https://book.douban.com/subject/3726694/
+738|||新帕尔格雷夫经济学大辞典(1-4卷)|||约翰·伊特韦尔|||https://book.douban.com/subject/1039929/
+739|||国际经济学|||克鲁格曼,|||https://book.douban.com/subject/1928449/
+740|||改革历程|||高尚全|||https://book.douban.com/subject/3393295/
+741|||理解资本主义 （第3版）|||塞缪尔·鲍尔斯、理查德·爱德华兹、弗兰克·罗斯福|||https://book.douban.com/subject/4709172/
+742|||积极资产配置投资者理财指南|||马丁·J·普林格|||https://book.douban.com/subject/2678794/
+743|||同业鸦片|||顽石|||https://book.douban.com/subject/25767203/
+744|||网络、群体与市场|||大卫·伊斯利(David Esley)、乔恩·克莱因伯格(Jon Kleinberg)|||https://book.douban.com/subject/6885949/
+745|||解除束缚的普罗米修斯|||大卫·兰德斯|||https://book.douban.com/subject/2009978/
+746|||顾准笔记|||顾准|||https://book.douban.com/subject/1080389/
+747|||奥地利学派|||(西)赫苏斯·韦尔塔·德索托|||https://book.douban.com/subject/5364295/
+748|||小众行为学|||詹姆斯·哈金 (James harkin)|||https://book.douban.com/subject/26320379/
+749|||民主与市场|||（美）普沃斯基|||https://book.douban.com/subject/1281855/
+750|||农业与工业化|||张培刚|||https://book.douban.com/subject/10523687/
+751|||突围集|||周其仁|||https://book.douban.com/subject/27067846/
+752|||市场的力量|||李子旸|||https://book.douban.com/subject/4239246/
+753|||竞争论|||迈克尔•波特|||https://book.douban.com/subject/10945357/
+754|||小狗钱钱|||[德] 博多·舍费尔|||https://book.douban.com/subject/1095634/
+755|||资本主义-牛津通识读本|||[英国] 富尔彻|||https://book.douban.com/subject/10575153/
+756|||现代世界体系(第一卷)|||（美）伊曼纽尔・沃勒斯坦|||https://book.douban.com/subject/1017064/
+757|||制度是如何演化的|||凯瑟琳·西伦(Kathleen Thelen)|||https://book.douban.com/subject/5033884/
+758|||啤酒与尿布|||高勇|||https://book.douban.com/subject/3283973/
+759|||资源角逐|||张捷|||https://book.douban.com/subject/4267929/
+760|||城市经济|||简·雅各布斯|||https://book.douban.com/subject/2230040/
+761|||日本电子产业兴衰录|||[日] 西村吉雄|||https://book.douban.com/subject/26808257/
+762|||纸与铁|||尼尔·弗格森|||https://book.douban.com/subject/10787101/
+763|||公共问题经济学|||[美]罗杰·勒罗伊·米勒、[美]丹尼尔·K·本杰明、[美]道格拉斯·C·诺思|||https://book.douban.com/subject/4016441/
+764|||惯于争鸣的印度人|||（印度）阿马蒂亚·森|||https://book.douban.com/subject/2377819/
+765|||策略投资|||王成、韦笑|||https://book.douban.com/subject/10568233/
+766|||剑桥美国经济史（第一卷）|||斯坦利·L·恩格尔曼等|||https://book.douban.com/subject/3179291/
+767|||哈佛极简宏观经济学|||戴维·莫斯|||https://book.douban.com/subject/26985300/
+768|||五百年来谁著史|||韩毓海|||https://book.douban.com/subject/4198018/
+769|||数据之巅|||涂子沛|||https://book.douban.com/subject/25871778/
+770|||鸿观|||宋鸿兵|||https://book.douban.com/subject/26840394/
+771|||哈佛经济学笔记|||陈晋|||https://book.douban.com/subject/4886251/
+772|||高手|||【美】沃德•法恩斯沃思|||https://book.douban.com/subject/4012118/
+773|||西洋经济史的趣味|||赖建诚|||https://book.douban.com/subject/3364724/
+774|||文明分岔、经济混沌和演化经济动力学|||陈平|||https://book.douban.com/subject/1184899/
+775|||优雅的理性|||熊秉元|||https://book.douban.com/subject/25785749/
+776|||性越多越安全|||[美] 史蒂文·兰兹伯格|||https://book.douban.com/subject/2567247/
+777|||战后经济发展之路|||董磊|||https://book.douban.com/subject/19962028/
+778|||通往工业革命的漫长道路|||[荷]扬· 卢滕· 范赞登|||https://book.douban.com/subject/26717715/
+779|||不流于美好愿望|||[美]迪恩·卡尔兰（Dean Karlan）、[美]雅各布·阿佩尔（Jacob Appel）|||https://book.douban.com/subject/25851669/
+780|||战胜华尔街|||[美]彼得·林奇、约翰·罗瑟查尔德|||https://book.douban.com/subject/2189613/
+781|||极简GDP史|||【英】黛安娜·科伊尔（Diane Coyle）|||https://book.douban.com/subject/27021784/
+782|||彼得·林奇教你理财|||彼得·林奇、约翰·罗瑟查尔德|||https://book.douban.com/subject/4191818/
+783|||理解经济变迁过程|||道格拉斯·诺思|||https://book.douban.com/subject/2413251/
+784|||新结构经济学|||林毅夫|||https://book.douban.com/subject/11626950/
+785|||跟大卫•哈维读《资本论》（第一卷）|||[美] 大卫•哈维|||https://book.douban.com/subject/25839942/
+786|||陈经说|||陈经|||https://book.douban.com/subject/26863595/
+787|||中国为什么有前途|||翟东升|||https://book.douban.com/subject/4873444/
+788|||我在黑道學會的88堂商管課|||路易斯·費倫特、Louis Ferrante|||https://book.douban.com/subject/10537389/
+789|||哈耶克读本|||邓正来 编|||https://book.douban.com/subject/4199738/
+790|||Neuroeconomics, Second Edition|||Academic Press|||https://book.douban.com/subject/25916965/
+791|||正义的理念|||[印] 阿马蒂亚·森|||https://book.douban.com/subject/10581468/
+792|||货币、银行与经济|||洪文金、林志军、罗伯特・Z・阿利伯、托马斯・梅耶|||https://book.douban.com/subject/1176864/
+793|||改造传统农业|||西奥多·W.舒尔茨|||https://book.douban.com/subject/1933951/
+794|||经济黑帮|||雷蒙德·菲斯曼|||https://book.douban.com/subject/4884847/
+795|||凯恩斯思想小史：繁荣的钥匙|||(美)彼得•特明、(美)戴维•瓦因斯|||https://book.douban.com/subject/27040451/
+796|||经济思想的成长|||[美] 亨利·威廉·斯皮格尔|||https://book.douban.com/subject/1436855/
+797|||郎咸平学术文选（全二册）|||郎咸平|||https://book.douban.com/subject/2326487/
+798|||郎咸平说：公司的秘密|||郎咸平|||https://book.douban.com/subject/3142118/
+799|||亲爱的卧底经济学家|||[英] 蒂姆•哈福德|||https://book.douban.com/subject/5336007/
+800|||汇率的本质|||管涛|||https://book.douban.com/subject/26860153/
+801|||CFA注册金融分析师考试中文手册（CFA一级）|||金程教育  编著|||https://book.douban.com/subject/25840750/
+802|||战前中国经济的增长|||托马斯·罗斯基|||https://book.douban.com/subject/4047177/
+803|||The Age of Turbulence|||Alan Greenspan|||https://book.douban.com/subject/2237676/
+804|||经济理论中的最优化方法|||阿维纳什 K.迪克西特|||https://book.douban.com/subject/1787516/
+805|||Who Gets What — and Why|||Alvin E. Roth|||https://book.douban.com/subject/26367420/
+806|||日本经济史|||[日] 浜野洁、井奥成彦、中村宗悦、岸田真、永江雅和、牛岛利明|||https://book.douban.com/subject/4909252/
+807|||机器人时代|||[美]马丁·福特|||https://book.douban.com/subject/26393046/
+808|||The Son Also Rises|||Gregory Clark|||https://book.douban.com/subject/25823535/
+809|||经济学讲义（下）|||李俊慧|||https://book.douban.com/subject/11632330/
+810|||休克主义|||[加拿大] 娜奥米·克莱恩(Naomi Klein)|||https://book.douban.com/subject/4218691/
+811|||改革时期的外国直接投资|||黄亚生|||https://book.douban.com/subject/1442992/
+812|||嚣张的特权|||(美) 艾肯格林|||https://book.douban.com/subject/6967545/
+813|||智慧资本|||［美］托马斯•卡里尔|||https://book.douban.com/subject/26890182/
+814|||The Rise and Fall of American Growth|||Robert J. Gordon|||https://book.douban.com/subject/20536746/
+815|||读懂中国改革|||厉以宁、林毅夫、周其仁|||https://book.douban.com/subject/25790082/
+816|||法的经济解释|||熊秉元|||https://book.douban.com/subject/27038163/
+817|||决策、不确定性和大脑|||[美]保罗·格莱姆齐|||https://book.douban.com/subject/4735950/
+818|||赢者的诅咒|||(美)理查德·Ｈ·泰勒(Richard H.Thaler)|||https://book.douban.com/subject/2030439/
+819|||会计学原理|||约翰·J·怀尔德[|||https://book.douban.com/subject/2077314/
+820|||任你评说|||任志强|||https://book.douban.com/subject/5325844/
+821|||特朗普自传|||[美] 唐纳德·特朗普、[美] 托尼·施瓦茨|||https://book.douban.com/subject/26862478/
+822|||串接的叙事|||汪丁丁|||https://book.douban.com/subject/4054731/
+823|||The Sum of Small Things|||Elizabeth Currid-Halkett|||https://book.douban.com/subject/27063727/
+824|||西方经济学|||高鸿业|||https://book.douban.com/subject/1090736/
+825|||煤老板自述三十年|||老五、劲飞|||https://book.douban.com/subject/6105339/
+826|||盐糖脂|||迈克尔•莫斯|||https://book.douban.com/subject/26659834/
+827|||八〇年代|||柳红|||https://book.douban.com/subject/5325363/
+828|||超越功利主义|||【印】阿玛蒂亚·森、【英】伯纳德·威廉姆斯|||https://book.douban.com/subject/7153506/
+829|||我是如何弄垮巴林银行的|||尼克.李森|||https://book.douban.com/subject/2011330/
+830|||无国界的世界（大前研一经典系列）|||中信出版社|||https://book.douban.com/subject/26546586/
+831|||现代货币理论|||L.兰德尔·雷|||https://book.douban.com/subject/26972468/
+832|||财富公式|||威廉·庞德斯通|||https://book.douban.com/subject/2568149/
+833|||中國的前途<增訂本>|||張五常|||https://book.douban.com/subject/3036843/
+834|||Makers and Takers|||Rana Foroohar|||https://book.douban.com/subject/26811215/
+835|||经济学是什么|||梁小民|||https://book.douban.com/subject/1055038/
+836|||州县官的银两|||曾小萍|||https://book.douban.com/subject/1279947/
+837|||经济社会的起源|||[美] 罗伯特·海尔布罗纳（Robert L. Heilbroner）、威廉·米尔博格（William Milberg）|||https://book.douban.com/subject/4723768/
+838|||与天为敌|||伯恩斯坦|||https://book.douban.com/subject/2151543/
+839|||社会主义：经济计算与企业家才能|||[西班牙] 赫苏斯·韦尔塔·德索托|||https://book.douban.com/subject/5347809/
+840|||金融知识国民读本|||本社|||https://book.douban.com/subject/2004704/
+841|||现在终结萧条！|||[美] 保罗·克鲁格曼|||https://book.douban.com/subject/11601987/
+842|||贫穷的终结|||(美)杰弗里·萨克斯|||https://book.douban.com/subject/2159689/
+843|||一篇读罢头飞雪，重读马克思|||韩毓海|||https://book.douban.com/subject/25804908/
+844|||米塞斯评传|||[英] 伊斯雷尔·M. 柯兹纳|||https://book.douban.com/subject/5379189/
+845|||Time Series Analysis|||James Douglas Hamilton|||https://book.douban.com/subject/1451390/
+846|||凯恩斯、拉斯基、哈耶克：改变世界的三个经济学家|||[美]肯尼斯 R. 胡佛|||https://book.douban.com/subject/24871400/
+847|||经济学的争议|||薛兆丰|||https://book.douban.com/subject/1059914/
+848|||致穷|||孙骁骥|||https://book.douban.com/subject/11631816/
+849|||经理人财务知识一本通|||麦凯因|||https://book.douban.com/subject/3818462/
+850|||從自由到壟斷(全2書)|||朱嘉明|||https://book.douban.com/subject/10432196/
+851|||当代西方经济学主要流派|||方福前|||https://book.douban.com/subject/1619280/
+852|||伦巴第街|||[英] 沃尔特·白芝浩|||https://book.douban.com/subject/27018092/
+853|||不平等，我们能做什么|||安东尼·阿特金森|||https://book.douban.com/subject/26786057/
+854|||选择的价值|||Cass R. Sunstein|||https://book.douban.com/subject/26996408/
+855|||现代经济学与中国经济改革|||钱颖一|||https://book.douban.com/subject/1150808/
+856|||新西方论|||[匈牙利]卡尔·波兰尼|||https://book.douban.com/subject/26912832/
+857|||巴菲特教你读财报|||Mary Buffett|||https://book.douban.com/subject/3591151/
+858|||Dark Money|||Jane Mayer|||https://book.douban.com/subject/26707279/
+859|||理性的边界|||（美）赫伯特•金迪斯|||https://book.douban.com/subject/5419108/
+860|||怪诞经济学|||利玛窦·墨特里尼|||https://book.douban.com/subject/4905944/
+861|||中国经济史|||侯家驹|||https://book.douban.com/subject/2357740/
+862|||最后的狂人|||邹恒甫|||https://book.douban.com/subject/24089470/
+863|||世界土地所有制变迁史|||〔英〕 安德罗•林克雷特|||https://book.douban.com/subject/26695132/
+864|||劳动与垄断资本|||[美]哈里·布雷弗曼|||https://book.douban.com/subject/2971878/
+865|||新货币政策框架下的利率传导机制|||马骏、纪敏|||https://book.douban.com/subject/26791918/
+866|||跟大卫·哈维读《资本论》|||[美] 大卫·哈维|||https://book.douban.com/subject/26388426/
+867|||行为博弈|||科林·凯莫勒|||https://book.douban.com/subject/1792470/
+868|||一本书读懂中国税|||言谭|||https://book.douban.com/subject/25716608/
+869|||从马克思到凯恩斯|||[美]熊彼特、J.A.Schumpeter|||https://book.douban.com/subject/1037572/
+870|||贼巢|||斯图尔特|||https://book.douban.com/subject/1038702/
+871|||大债|||（英）约翰·兰彻斯特|||https://book.douban.com/subject/10481001/
+872|||估值|||（美）埃斯瓦斯·达莫达兰|||https://book.douban.com/subject/24708136/
+873|||自由、市场与国家|||(美)布坎南(Buchanan,J.M.)|||https://book.douban.com/subject/1889476/
+874|||金融市场与机构通论|||[美] 弗兰克·J.法伯兹（Frank|||https://book.douban.com/subject/1317115/
+875|||政府的本分|||秋风|||https://book.douban.com/subject/4846148/
+876|||这个时代的无知与傲慢|||（美）乔治·索罗斯|||https://book.douban.com/subject/11589947/
+877|||个人理财|||Arthur J.Keown|||https://book.douban.com/subject/4894568/
+878|||University Economics|||Armen A. Alchian、William R. Allen|||https://book.douban.com/subject/1456285/
+879|||行为经济学新进展|||科林·F·凯莫勒 编|||https://book.douban.com/subject/4303209/
+880|||城市与国家财富|||(美)简·雅各布斯|||https://book.douban.com/subject/3107126/
+881|||论经济学方法|||林毅夫|||https://book.douban.com/subject/1314996/
+882|||Predictably Irrational|||Dan Ariely|||https://book.douban.com/subject/3845472/
+883|||美国宪法的经济观|||[美]查尔斯·A.比尔德|||https://book.douban.com/subject/4736005/
+884|||混序：维萨与组织的未来形态|||【美】迪伊·霍克|||https://book.douban.com/subject/2334078/
+885|||风险与好的决策|||[德]格尔德·吉仁泽|||https://book.douban.com/subject/26338839/
+886|||看懂财经新闻的第一本书|||陈思进、金蓓蕾|||https://book.douban.com/subject/7060413/
+887|||劳动和人力资源经济学|||陆铭|||https://book.douban.com/subject/2245072/
+888|||供给侧改革|||吴敬琏、等|||https://book.douban.com/subject/26715322/
+889|||21世纪金融监管|||A. Joanne Kellermann，Jakob de Haan，e d|||https://book.douban.com/subject/26704892/
+890|||创造性破坏|||[美] 泰勒•考恩（Tylor Cowen）|||https://book.douban.com/subject/1958122/
+891|||富人国|||【美】罗伯特·弗兰克|||https://book.douban.com/subject/3635974/
+892|||现代决策理论的基石|||赫伯特·西蒙|||https://book.douban.com/subject/3391715/
+893|||粮食危机|||恩道尔|||https://book.douban.com/subject/3229849/
+894|||百年经济史笔记|||苏小和|||https://book.douban.com/subject/26804095/
+895|||曼昆《经济学原理》|||圣才学习网 编|||https://book.douban.com/subject/4236415/
+896|||日本的反省|||[日] 野口悠纪雄|||https://book.douban.com/subject/4158135/
+897|||囚徒的困境|||庞德斯通|||https://book.douban.com/subject/1484425/
+898|||剑桥美国经济史（第三卷）|||斯坦利·L·恩格尔曼等|||https://book.douban.com/subject/3179286/
+899|||有些道理只是逼真|||淡笔社|||https://book.douban.com/subject/25884442/
+900|||好奇者的经济学|||罗伯特•索洛（Robert M.Solow）詹尼斯•默里（Janice Murray）编|||https://book.douban.com/subject/26377140/
+901|||Hit Makers|||Derek Thompson|||https://book.douban.com/subject/26949680/
+902|||增长的方法|||约瑟夫•E•斯蒂格利茨,布鲁斯&#|||https://book.douban.com/subject/27054904/
+903|||计量经济学基础（第四版）（上、下册）|||美古扎拉蒂|||https://book.douban.com/subject/1312035/
+904|||知识分子为什么反对市场|||罗伯特・诺齐克、F.A.哈耶克|||https://book.douban.com/subject/1283521/
+905|||郎咸平说：中国经济的旧制度与新常态|||郎咸平|||https://book.douban.com/subject/26307131/
+906|||世界又热又平又挤|||[美] 托马斯·弗里德曼|||https://book.douban.com/subject/3696561/
+907|||制高点|||丹尼尔・耶金|||https://book.douban.com/subject/1009583/
+908|||24堂财富课|||陈志武|||https://book.douban.com/subject/26953559/
+909|||大众经济学|||[印] Partha Dasgupta|||https://book.douban.com/subject/3030859/
+910|||制度分析基础讲义2 - 社会思想与制度|||汪丁丁|||https://book.douban.com/subject/1393428/
+911|||资本主义精神和社会主义改革|||郎咸平、杨瑞辉|||https://book.douban.com/subject/10439914/
+912|||知识笔记|||朱锡庆|||https://book.douban.com/subject/6798703/
+913|||机器崛起：遗失的控制论历史|||托马斯·瑞德|||https://book.douban.com/subject/27039464/
+914|||宪政经济学|||布坎南|||https://book.douban.com/subject/1169318/
+915|||现代投资组合理论和投资分析|||[美]埃德温·J·埃尔顿等|||https://book.douban.com/subject/1706274/
+916|||成本冲击、通胀容忍度与宏观政策|||伍戈、李斌|||https://book.douban.com/subject/25736115/
+917|||微观经济学|||萨缪·鲍尔斯|||https://book.douban.com/subject/1958530/
+918|||现代竞争分析|||沙伦·奥斯特|||https://book.douban.com/subject/1279618/
+919|||极限金钱|||萨特雅吉特·达斯|||https://book.douban.com/subject/20499466/
+920|||为何资本不从富国流向穷国|||卢卡斯|||https://book.douban.com/subject/1426470/
+921|||企鹅与怪兽|||[美]尤查•本科勒（Yochai Benkler）|||https://book.douban.com/subject/25743457/
+922|||全球分裂|||(美) 赫德森|||https://book.douban.com/subject/4832498/
+923|||繁荣与萧条|||[美]欧文•费雪|||https://book.douban.com/subject/25954597/
+924|||他乡之税|||田毅、赵旭|||https://book.douban.com/subject/3225781/
+925|||世界经济简史|||[美]龙多·卡梅伦、拉里·尼尔|||https://book.douban.com/subject/3826555/
+926|||15至18世纪的物质文明、经济和资本主义（第二卷）|||[法] 费尔南·布罗代尔|||https://book.douban.com/subject/1253267/
+927|||世界是部金融史|||陈雨露，杨栋|||https://book.douban.com/subject/21336693/
+928|||我们怎样阅读中国|||苏小和|||https://book.douban.com/subject/4053033/
+929|||十年轮回 第三版|||沈联涛|||https://book.douban.com/subject/26662174/
+930|||伦巴第街|||沃尔特.白之浩|||https://book.douban.com/subject/2567431/
+931|||商业模式全史|||[日]三谷宏治|||https://book.douban.com/subject/26702089/
+932|||生活的经济解释|||熊秉元|||https://book.douban.com/subject/27038168/
+933|||领导干部金融知识读本|||戴相龙|||https://book.douban.com/subject/1396903/
+934|||郎咸平说：谁都逃不掉的金融危机|||郎咸平|||https://book.douban.com/subject/3315483/
+935|||金融的逻辑2|||陈志武|||https://book.douban.com/subject/26633750/
+936|||战略与结构|||[美] 艾尔弗雷德·D.钱德勒|||https://book.douban.com/subject/1659228/
+937|||亚财政|||洪振快|||https://book.douban.com/subject/25835623/
+938|||掠夺之手|||安德烈・施莱弗、罗伯特・维什尼、安德烈・施莱弗、罗伯特・维什尼、赵红军|||https://book.douban.com/subject/1021340/
+939|||商界局外人|||[美]威廉·桑代克|||https://book.douban.com/subject/26864253/
+940|||经济学的结构|||西尔伯贝 (Silberberg E.)|||https://book.douban.com/subject/1226129/
+941|||期货与期权市场导论|||约翰·C.赫尔|||https://book.douban.com/subject/1961169/
+942|||帝国|||尼尔•弗格森|||https://book.douban.com/subject/7051898/
+943|||AKB48的格子裙经济学|||[日] 田中秀臣|||https://book.douban.com/subject/25957010/
+944|||中国的新革命|||凌志军|||https://book.douban.com/subject/2044286/
+945|||巴菲特致股东的信|||理查德·康纳斯|||https://book.douban.com/subject/4931687/
+946|||政策制定的艺术|||[印]考希克·巴苏|||https://book.douban.com/subject/26877554/
+947|||未来十年|||祁斌 编|||https://book.douban.com/subject/20480825/
+948|||大投机家|||[匈] 安德烈·科斯托拉尼|||https://book.douban.com/subject/1923472/
+949|||政治经济学的国民体系|||弗里德里希.李斯特|||https://book.douban.com/subject/1002253/
+950|||中国传统农村的地权分配|||赵冈|||https://book.douban.com/subject/1871295/
+951|||房势|||张捷|||https://book.douban.com/subject/10555848/
+952|||拿什么拯救中国经济？|||叶檀|||https://book.douban.com/subject/4050760/
+953|||罗马帝国社会经济史（全两册）|||[美] M. 罗斯托夫采夫|||https://book.douban.com/subject/1678257/
+954|||零售的本质：7-Eleven便利店创始人的哲学|||緒方知行, 田口香世|||https://book.douban.com/subject/26828720/
+955|||资本主义发展论|||[美]保罗·斯威齐|||https://book.douban.com/subject/1536542/
+956|||税的真相|||黄凯平、岑科|||https://book.douban.com/subject/7154812/
+957|||经济理论的回顾|||马克•布劳格|||https://book.douban.com/subject/3564833/
+958|||金融经济学基础|||黄奇辅、罗伯特·李兹森伯格|||https://book.douban.com/subject/1511158/
+959|||经济学常识|||[美]詹姆斯·D·格沃特尼、理查德·L·斯特鲁普、德怀特·R·李|||https://book.douban.com/subject/2212007/
+960|||当大脑遇到金钱|||贾森·茨威格|||https://book.douban.com/subject/4139970/
+961|||繁荣的求索|||林毅夫|||https://book.douban.com/subject/19950855/
+962|||帝国的消亡|||[俄] E. T. 盖达尔|||https://book.douban.com/subject/3114621/
+963|||经济学与人类关怀|||何清涟|||https://book.douban.com/subject/1659350/
+964|||郎咸平说：金融超限战|||郎咸平|||https://book.douban.com/subject/3574119/
+965|||银元时代生活史|||陈存仁|||https://book.douban.com/subject/2118743/
+966|||小即是美|||修馬克(E. F. Schumcher)|||https://book.douban.com/subject/3789701/
+967|||重读哈耶克|||韦森|||https://book.douban.com/subject/25712281/
+968|||一只iPhone的全球之旅|||曾航|||https://book.douban.com/subject/6860558/
+969|||美国怎么了？|||（美）保罗·克鲁格曼|||https://book.douban.com/subject/3219365/
+970|||经济解释卷四：制度的选择（神州增订版）|||张五常|||https://book.douban.com/subject/25841476/
+971|||行为金融学|||李国平|||https://book.douban.com/subject/1731087/
+972|||资本主义的失败|||理查德·A·波斯纳|||https://book.douban.com/subject/3981709/
+973|||中国重组|||王世渝|||https://book.douban.com/subject/23155640/
+974|||“三农”问题与制度变迁|||温铁军|||https://book.douban.com/subject/3405045/
+975|||经济增长理论|||[英]阿瑟·刘易斯|||https://book.douban.com/subject/1510734/
+976|||罗斯柴尔德家族（上）|||尼尔·弗格森|||https://book.douban.com/subject/10566133/
+977|||镶嵌：社会网与经济行动（增订版）|||马克·格兰诺维特(Mark Granovetter)|||https://book.douban.com/subject/26663254/
+978|||中国做对了什么|||周其仁|||https://book.douban.com/subject/4256699/
+979|||经济意识形态与日本产业政策|||高柏|||https://book.douban.com/subject/3104586/
+980|||第二天性|||哈伊姆·奥菲克 (Ofek Haim)|||https://book.douban.com/subject/1276947/
+981|||解码信托|||郑智、王文韬|||https://book.douban.com/subject/25941307/
+982|||资本主义|||丹·克莱恩（Dan Cryan)、沙罗恩·沙蒂尔（Sharron Shatil )、皮埃罗（Piero)|||https://book.douban.com/subject/26944429/
+983|||股市长线法宝|||杰里米 J. 西格尔|||https://book.douban.com/subject/3351179/
+984|||金钱与好的生活|||罗伯特·斯基德尔斯基， 爱德华·|||https://book.douban.com/subject/26874502/
+985|||教皇与银行家|||(美) 卡希尔|||https://book.douban.com/subject/10564056/
+986|||地权的逻辑Ⅱ|||贺雪峰|||https://book.douban.com/subject/24708199/
+987|||零售管理|||[美]迈克尔·利维|||https://book.douban.com/subject/1187241/
+988|||绩效致死|||（美）鲍勃•卢茨|||https://book.douban.com/subject/25698920/
+989|||让经济学回归常识|||陈然|||https://book.douban.com/subject/26910938/
+990|||追问阳光财政——2009公民税权手册|||关保英|||https://book.douban.com/subject/25759086/
+991|||政治与市场|||[美] 查尔斯·林德布洛姆|||https://book.douban.com/subject/1008379/
+992|||投资交易笔记|||董德志|||https://book.douban.com/subject/6736909/
+993|||富国论|||亚当·斯密|||https://book.douban.com/subject/1134768/
+994|||经济管理类大学生60部必读经典著作导读|||史秉强、马建国|||https://book.douban.com/subject/26538640/
+995|||风险投资家环球游记|||吉姆·罗杰斯|||https://book.douban.com/subject/1083161/
+996|||The Econometrics of Financial Markets|||John Y. Campbell、Andrew W. Lo、A. Craig MacKinlay|||https://book.douban.com/subject/1776482/
+997|||无国界的世界|||大前研一|||https://book.douban.com/subject/2128083/
+998|||小趋势|||李伟、吴敬琏、夏斌 等 著|||https://book.douban.com/subject/25837631/
+999|||Recursive Methods in Economic Dynamics|||Nancy L. Stokey、Robert E. Lucas Jr.、Edward C. Prescott|||https://book.douban.com/subject/1759703/
+1000|||投资魔法书|||端宏斌|||https://book.douban.com/subject/3111423/

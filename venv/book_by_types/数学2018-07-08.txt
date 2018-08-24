@@ -1,0 +1,1000 @@
+1|||什么是数学|||[美] R·柯朗 H·罗宾 著、I·斯图尔特 修订|||https://book.douban.com/subject/1320282/
+2|||数学之美|||吴军|||https://book.douban.com/subject/10750155/
+3|||高数笔谈|||谢绪恺|||https://book.douban.com/subject/27083477/
+4|||从一到无穷大|||[美] G. 伽莫夫|||https://book.douban.com/subject/1102715/
+5|||怎样解题|||[美] G. 波利亚|||https://book.douban.com/subject/2124114/
+6|||费马大定理|||（英）西蒙・辛格|||https://book.douban.com/subject/1322358/
+7|||概率论与数理统计|||陈希孺|||https://book.douban.com/subject/2201479/
+8|||无言的宇宙|||[美]达纳·麦肯齐|||https://book.douban.com/subject/26337663/
+9|||古今数学思想（一）|||[美] 莫里斯·克莱因|||https://book.douban.com/subject/1277169/
+10|||线性代数及其应用|||（美）莱（Lay D.C.）|||https://book.douban.com/subject/1425950/
+11|||数学：确定性的丧失|||[美] M·克莱因|||https://book.douban.com/subject/1049136/
+12|||高观点下的初等数学|||Felix Klein|||https://book.douban.com/subject/3249247/
+13|||具体数学（英文版第2版）|||[美] Ronald L. Graham、Donald E. Knuth、Oren Patashnik|||https://book.douban.com/subject/1231910/
+14|||思考的乐趣|||顾森|||https://book.douban.com/subject/10779597/
+15|||概率论沉思录|||杰恩斯|||https://book.douban.com/subject/3629804/
+16|||微积分学教程（第一卷）|||[俄罗斯] 菲赫金哥尔茨|||https://book.douban.com/subject/1707158/
+17|||魔鬼数学|||[美] 乔丹•艾伦伯格（Jordan Ellenberg）|||https://book.douban.com/subject/26594366/
+18|||离散数学及其应用（原书第5版）|||[美] Kenneth H. Rosen|||https://book.douban.com/subject/2130743/
+19|||数学|||[英] 蒂莫西•高尔斯|||https://book.douban.com/subject/25829287/
+20|||线性代数应该这样学|||Sheldon Axler|||https://book.douban.com/subject/3715623/
+21|||托马斯微积分|||芬尼、韦尔、焦尔当诺|||https://book.douban.com/subject/1231399/
+22|||天才引导的历程|||William Dunham|||https://book.douban.com/subject/20453160/
+23|||数学女孩|||[日]结城浩|||https://book.douban.com/subject/26677354/
+24|||哥德尔、艾舍尔、巴赫|||[美] 侯世达|||https://book.douban.com/subject/1291204/
+25|||普林斯顿数学指南（第一卷）|||[英] Timothy Gowers|||https://book.douban.com/subject/25817381/
+26|||哥德尔证明|||欧内斯特·内格尔（Ernest Nagel）、詹姆士 R. 纽曼 （James R. Newman）|||https://book.douban.com/subject/3029210/
+27|||陶哲轩实分析|||陶哲轩|||https://book.douban.com/subject/3235486/
+28|||迷人的数学|||[英] 伊凡•莫斯科维奇|||https://book.douban.com/subject/26849163/
+29|||几何原本|||欧几里得|||https://book.douban.com/subject/1725606/
+30|||数学与猜想（第一卷）|||[美] G. 波利亚|||https://book.douban.com/subject/1134230/
+31|||普林斯顿微积分读本|||班纳|||https://book.douban.com/subject/4926707/
+32|||数学天书中的证明|||Martin Aigner、G.M.Ziegler|||https://book.douban.com/subject/3795033/
+33|||自然哲学之数学原理|||(英)牛顿|||https://book.douban.com/subject/1507315/
+34|||数理统计学简史|||陈希孺|||https://book.douban.com/subject/1522839/
+35|||数学指南|||[德]Eberhard Zeidler、[德]Wolfgang Hackbusch、[德]H.-R.Schwarz|||https://book.douban.com/subject/7061949/
+36|||复分析|||(美) 尼达姆 (Needham, T.)|||https://book.douban.com/subject/3788399/
+37|||爱与数学|||[美]爱德华·弗伦克尔	（Edward Frenkel）|||https://book.douban.com/subject/26740091/
+38|||数学、科学和认识论|||[匈] 拉卡托斯|||https://book.douban.com/subject/4859891/
+39|||Introduction to Linear Algebra, Fourth Edition|||Gilbert Strang|||https://book.douban.com/subject/3582335/
+40|||用数学的语言看世界|||大栗博司 (Hirosi Ooquri)|||https://book.douban.com/subject/27034389/
+41|||证明与反驳|||(英)伊姆雷·拉卡托斯|||https://book.douban.com/subject/2124368/
+42|||Convex Optimization|||Stephen Boyd、Lieven Vandenberghe|||https://book.douban.com/subject/1888111/
+43|||数学的发现|||（美）乔治·波利亚|||https://book.douban.com/subject/1850407/
+44|||数学桥|||斯蒂芬·弗莱彻·休森|||https://book.douban.com/subject/5246524/
+45|||重温微积分|||齐民友|||https://book.douban.com/subject/1239791/
+46|||程序员的数学2|||平冈和幸、堀玄|||https://book.douban.com/subject/26593822/
+47|||醉汉的脚步|||列纳德·蒙洛迪诺|||https://book.douban.com/subject/4926595/
+48|||从惊讶到思考|||(美)马丁·加德纳(Martin Gardner)|||https://book.douban.com/subject/1465090/
+49|||数学分析原理|||Walter Rudin|||https://book.douban.com/subject/1230095/
+50|||微积分的历程|||William Dunham|||https://book.douban.com/subject/4904723/
+51|||啊哈，灵机一动|||[美] 马丁·伽德纳|||https://book.douban.com/subject/2249354/
+52|||西方文化中的数学|||[美]M・克莱因|||https://book.douban.com/subject/1080225/
+53|||数学大师|||E·T·贝尔|||https://book.douban.com/subject/1428309/
+54|||概率导论|||Dimitri P.Bertsekas、John N.Tsitsiklis|||https://book.douban.com/subject/4175522/
+55|||程序员的数学|||结城浩|||https://book.douban.com/subject/19949020/
+56|||程序员的数学3|||[日] 平冈和幸、[日] 堀玄|||https://book.douban.com/subject/26740548/
+57|||古今数学思想（二）|||[美] 莫里斯·克莱因|||https://book.douban.com/subject/1211033/
+58|||数学的语言|||齐斯•德福林 (Keith Devlin)|||https://book.douban.com/subject/20370475/
+59|||计算进化史|||[法] 吉尔·多维克|||https://book.douban.com/subject/26975991/
+60|||数学分析新讲（第1册）|||张筑生|||https://book.douban.com/subject/1130381/
+61|||数学（第一卷）|||[俄] A. D. 亚历山大洛夫 等|||https://book.douban.com/subject/1230328/
+62|||数学颂|||[法]阿兰·巴迪欧、[法]吉尔·艾利|||https://book.douban.com/subject/27075745/
+63|||线性代数的几何意义|||任广千、谢聪、胡翠芳|||https://book.douban.com/subject/26651221/
+64|||古今数学思想（三）|||[美] 莫里斯·克莱因|||https://book.douban.com/subject/1211041/
+65|||黎曼猜想漫谈|||卢昌海|||https://book.douban.com/subject/11506872/
+66|||X的奇幻之旅|||[美]史蒂夫·斯托加茨|||https://book.douban.com/subject/25842419/
+67|||大自然的分形几何学|||[波] 伯努瓦·B. 曼德布罗特|||https://book.douban.com/subject/1067279/
+68|||微积分五讲|||龚昇|||https://book.douban.com/subject/1231175/
+69|||统计与真理|||C.R.劳|||https://book.douban.com/subject/1238685/
+70|||简明微积分|||龚昇|||https://book.douban.com/subject/2025549/
+71|||数学的统一性|||阿蒂亚|||https://book.douban.com/subject/3425159/
+72|||概率论及其应用|||威廉·费勒|||https://book.douban.com/subject/1785817/
+73|||数学分析（第一卷）|||[俄]B.A.卓里奇|||https://book.douban.com/subject/1838127/
+74|||高等代数简明教程（上册）|||蓝以中|||https://book.douban.com/subject/1231162/
+75|||一个数学家的辩白|||（英）G.H.Hardy|||https://book.douban.com/subject/2135227/
+76|||做数学之美妙|||塞吉·兰 Serge Lang|||https://book.douban.com/subject/1327048/
+77|||知无涯者|||罗伯特·卡尼格尔|||https://book.douban.com/subject/1437908/
+78|||古今数学思想（四）|||[美] 莫里斯·克莱因|||https://book.douban.com/subject/1227414/
+79|||素数之恋|||(美)约翰·德比希尔|||https://book.douban.com/subject/3541506/
+80|||微积分和数学分析引论（第一卷）|||Richard Courant、Fritz John|||https://book.douban.com/subject/1281343/
+81|||汉声数学图画书|||[美] 富兰克林·布朗利、明德尔•西托默|||https://book.douban.com/subject/25826896/
+82|||机会的数学原理|||[英] 约翰·黑格|||https://book.douban.com/subject/1281171/
+83|||希尔伯特|||[美] 康斯坦丝·瑞德|||https://book.douban.com/subject/1899787/
+84|||数学与知识的探求|||（美）M・克莱因|||https://book.douban.com/subject/1320281/
+85|||度量|||［美］保罗·洛克哈特（Paul Lockhart）|||https://book.douban.com/subject/26420533/
+86|||Real Analysis|||Elias M. Stein、Rami Shakarchi|||https://book.douban.com/subject/1890724/
+87|||现代世界中的数学|||Morris Kline|||https://book.douban.com/subject/2298747/
+88|||解码者|||Jean Francois Dars、Annick Lesne|||https://book.douban.com/subject/5286100/
+89|||统计学的世界|||[美] 戴维·S.穆尔|||https://book.douban.com/subject/1138353/
+90|||Mathematics for Computer Science|||Eric Lehman、F Thomson Leighton、Albert R Meyer|||https://book.douban.com/subject/20472991/
+91|||数学爵士乐|||爱德华·伯格、迈克尔·斯塔伯德|||https://book.douban.com/subject/2185715/
+92|||微积分之屠龙宝刀|||[美]C·亚当斯、J·哈斯、A·汤普森|||https://book.douban.com/subject/1169472/
+93|||数学史（上下）|||卡尔•B．博耶◎著、尤塔•C．梅兹巴赫◎修订|||https://book.douban.com/subject/10732014/
+94|||线性代数及其应用|||（美）拉克斯|||https://book.douban.com/subject/3309541/
+95|||Statistical Inference|||George Casella、Roger L. Berger|||https://book.douban.com/subject/1464795/
+96|||数学与生活|||远山启|||https://book.douban.com/subject/5355281/
+97|||数学那些事儿|||William Dunham|||https://book.douban.com/subject/5977975/
+98|||数值分析|||索尔 (Timothy Sauer)|||https://book.douban.com/subject/4188358/
+99|||微分方程、动力系统与混沌导论|||Smale, Stephen、Devaney, Robert L.、Hirsch, Morris W.|||https://book.douban.com/subject/3027546/
+100|||代数基本概念|||I.R.Shafarevich(I.R.沙法列维奇)|||https://book.douban.com/subject/25862912/
+101|||数学在19世纪的发展（第一卷）|||F.克莱因|||https://book.douban.com/subject/4787994/
+102|||函数论与泛函分析初步|||[俄]A.H.柯尔莫戈洛夫 等|||https://book.douban.com/subject/1707162/
+103|||数学分析八讲|||辛钦|||https://book.douban.com/subject/4825571/
+104|||线性代数五讲|||龚昇 编著|||https://book.douban.com/subject/1627109/
+105|||应用随机过程|||Sheldon M.Ross|||https://book.douban.com/subject/2309401/
+106|||一个定理的诞生|||[法]塞德里克·维拉尼  著、[法]克劳德·龚达尔  绘|||https://book.douban.com/subject/26681315/
+107|||解题·成长·快乐——陶哲轩教你学数学|||[澳] 陶哲轩 (Terence Tao)|||https://book.douban.com/subject/3921816/
+108|||Linear Algebra and Its Applications, 4e|||Gilbert Strang|||https://book.douban.com/subject/1758235/
+109|||数学及其历史|||John Stillwell|||https://book.douban.com/subject/6028251/
+110|||代数学引论（第1卷）|||А. И. 柯斯特利金|||https://book.douban.com/subject/2036531/
+111|||数学分析|||[美]Tom M. Apostol|||https://book.douban.com/subject/1684020/
+112|||拓扑学|||[美]James R.Munkres|||https://book.douban.com/subject/1801389/
+113|||微积分学教程（第2卷）|||F.M.菲赫金哥尔茨|||https://book.douban.com/subject/1728600/
+114|||高等应用数学问题的MATLAB求解|||薛定宇、陈阳泉|||https://book.douban.com/subject/3248794/
+115|||微积分学教程（第3卷）|||Г.М.菲赫金哥尔|||https://book.douban.com/subject/1707156/
+116|||初等概率论（第4版）|||[美] 钟开莱|||https://book.douban.com/subject/4619399/
+117|||混沌与分形|||[德] 佩特根、[德] 于尔根斯、[德] 绍柏|||https://book.douban.com/subject/3258219/
+118|||希尔伯特几何基础|||[德] 希尔伯特|||https://book.douban.com/subject/4085179/
+119|||这才是最好的数学书（全两册）|||[日]笹部贞市郎|||https://book.douban.com/subject/26384117/
+120|||数理逻辑|||艾宾浩斯 (Ebbinghaus H.D.)、J. Flum、W. Thomas|||https://book.douban.com/subject/3132271/
+121|||数学建模方法与分析|||米尔斯切特|||https://book.douban.com/subject/1392709/
+122|||A Course in Probability Theory, Third Edition|||Kai Lai Chung|||https://book.douban.com/subject/1478250/
+123|||研究之美|||[美] Donald E. Knuth|||https://book.douban.com/subject/7064456/
+124|||概率论基础教程|||罗斯|||https://book.douban.com/subject/2066458/
+125|||妈妈教的数学|||孙路弘|||https://book.douban.com/subject/26922761/
+126|||机会的数学|||陈希孺|||https://book.douban.com/subject/1032716/
+127|||走进奇妙的数学世界（全3册）|||(日)安野光雅|||https://book.douban.com/subject/19963465/
+128|||线性代数|||[美] 利昂 Steven J.Leon|||https://book.douban.com/subject/2016789/
+129|||数学沉思录|||[美] 李维(Mario Livio)|||https://book.douban.com/subject/4904722/
+130|||数学哲学|||[美] 保罗·贝纳塞拉夫 希拉里·普特南 编|||https://book.douban.com/subject/1267165/
+131|||数学女孩2|||[日] 结城浩|||https://book.douban.com/subject/26681597/
+132|||Solving Mathematical Problems|||Terence Tao (陶哲軒)|||https://book.douban.com/subject/1859573/
+133|||数学与人类思维|||[法] 大卫·吕埃勒|||https://book.douban.com/subject/26628110/
+134|||组合数学|||布鲁迪|||https://book.douban.com/subject/1231452/
+135|||笛卡儿几何|||[法] 笛卡儿|||https://book.douban.com/subject/3422797/
+136|||微积分|||[美]D.休斯.哈雷特、[美]A.M.克莱逊|||https://book.douban.com/subject/1190595/
+137|||最迷人的数学趣题|||彼得·温克勒(Peter Winkler)|||https://book.douban.com/subject/2362464/
+138|||Calculus|||James Stewart|||https://book.douban.com/subject/1904233/
+139|||12堂魔力数学课|||Arthur Benjamin|||https://book.douban.com/subject/27072149/
+140|||给年青数学人的信|||[英]伊恩•史都华|||https://book.douban.com/subject/24845641/
+141|||微积分及其应用|||Marvin L.Bittinger|||https://book.douban.com/subject/1843597/
+142|||我的大脑敞开了|||（美）布鲁斯·谢克特|||https://book.douban.com/subject/1313462/
+143|||数学分析中的典型问题与方法|||裴礼文 编|||https://book.douban.com/subject/1813616/
+144|||数学小丛书（共18册）|||华罗庚等|||https://book.douban.com/subject/1667659/
+145|||经典力学的数学方法|||[俄]  В. И. 阿诺尔德|||https://book.douban.com/subject/1728598/
+146|||大宇之形|||[美]  丘成桐 史蒂夫·纳迪斯|||https://book.douban.com/subject/20492316/
+147|||数学世纪|||皮耶尔乔治·奥迪弗雷迪|||https://book.douban.com/subject/10471912/
+148|||线性代数|||李尚志|||https://book.douban.com/subject/1884446/
+149|||数学的魔法|||刘炯朗|||https://book.douban.com/subject/27034277/
+150|||矩阵计算|||Gene H. Golub、Charles F. Van Loan|||https://book.douban.com/subject/3745369/
+151|||数学好的人是如何思考的|||【日】永野裕之|||https://book.douban.com/subject/26744883/
+152|||数论概论|||希尔弗曼|||https://book.douban.com/subject/3099540/
+153|||如何求解问题|||Zbigniew Michalewicz、David B.Fogel|||https://book.douban.com/subject/1232071/
+154|||数理统计学教程|||陈希孺|||https://book.douban.com/subject/3996242/
+155|||数理逻辑|||[美]Herbert B.Enderton|||https://book.douban.com/subject/2098492/
+156|||矩阵分析|||（美）合恩（Horn|||https://book.douban.com/subject/1281543/
+157|||集合论基础|||恩德滕|||https://book.douban.com/subject/1801399/
+158|||金融随机分析（共2册）|||史蒂文 E.施里夫|||https://book.douban.com/subject/3369848/
+159|||建筑中的数学之旅|||[美] Alexander J. Hahn|||https://book.douban.com/subject/25793478/
+160|||e的故事|||(以) 马奥尔|||https://book.douban.com/subject/4605553/
+161|||写给所有人的极简统计学|||[日] 永野裕之 著|||https://book.douban.com/subject/27038537/
+162|||神圣几何：人类与自然和谐共存的宇宙法则|||[英] 艾伦·布朗|||https://book.douban.com/subject/25845537/
+163|||3D数学基础|||Fletcher Dunn、Ian Parberry|||https://book.douban.com/subject/1400419/
+164|||从微分观点看拓扑|||[美]John W.Milnor|||https://book.douban.com/subject/3235763/
+165|||当代数学|||(法)迪厄多内|||https://book.douban.com/subject/1660711/
+166|||数论导引|||[英]G.H.Hardy、E.M.Wright|||https://book.douban.com/subject/3275412/
+167|||中学教材全解.八年级数学.下|||薛金星|||https://book.douban.com/subject/1504222/
+168|||统计学|||[美]David Freedman、Robert Pisani、Roger Purves、Ani Adhikari|||https://book.douban.com/subject/1588297/
+169|||漫画傅里叶解析|||涩谷道雄|||https://book.douban.com/subject/4010127/
+170|||运筹学导论|||希利尔|||https://book.douban.com/subject/2253276/
+171|||一個數學家的嘆息|||保羅·拉克哈特、Paul Lockhart|||https://book.douban.com/subject/25746959/
+172|||创造之门|||广中平佑|||https://book.douban.com/subject/4834313/
+173|||漫画线性代数|||[日] 高桥信|||https://book.douban.com/subject/4010125/
+174|||通向实在之路|||[英]罗杰·彭罗斯|||https://book.douban.com/subject/3144300/
+175|||Numerical Optimization|||Jorge Nocedal、Stephen Wright|||https://book.douban.com/subject/2870337/
+176|||微积分之倚天宝剑|||（美）亚当斯|||https://book.douban.com/subject/1391754/
+177|||数学之书|||克利福德·皮寇弗|||https://book.douban.com/subject/26647302/
+178|||复变函数论方法|||[俄罗斯] 拉夫连季耶夫、沙巴特|||https://book.douban.com/subject/1707161/
+179|||傅立叶分析导论|||Elias M. Stein|||https://book.douban.com/subject/1759689/
+180|||数学在科学和社会中的作用|||[美] 冯·诺依曼|||https://book.douban.com/subject/3422711/
+181|||可怕的科学-经典数学系列套装-全12册|||卡佳坦•波斯基特|||https://book.douban.com/subject/7565203/
+182|||数学悖论与三次数学危机|||韩雪涛|||https://book.douban.com/subject/1833087/
+183|||数学概观|||[瑞典] L. 戈丁|||https://book.douban.com/subject/1237999/
+184|||Beat the Dealer|||Edward O. Thorp|||https://book.douban.com/subject/1855468/
+185|||直观几何（上册）|||D.希尔伯特, S.康福森|||https://book.douban.com/subject/21335108/
+186|||代数的历史|||德比希|||https://book.douban.com/subject/4916533/
+187|||代数|||(美)Michael Artin|||https://book.douban.com/subject/3328041/
+188|||数学家的眼光|||张景中|||https://book.douban.com/subject/1008227/
+189|||生活中的魔法数学|||[美] 亚瑟·本杰明、[美] 迈克尔·谢尔默|||https://book.douban.com/subject/2152400/
+190|||概率、随机变量与随机过程|||（美）帕普里斯（Papoulis,A.）、（美）佩莱（Pillai,S.U.）|||https://book.douban.com/subject/1188524/
+191|||密码故事|||[英] 西蒙·辛格|||https://book.douban.com/subject/1036413/
+192|||数学家讲解小学数学|||【美】伍鸿熙 著|||https://book.douban.com/subject/26788824/
+193|||Probability and Statistics|||Morris H. DeGroot、Mark J. Schervish|||https://book.douban.com/subject/4130410/
+194|||From Mathematics to Generic Programming|||Alexander A. Stepanov、Daniel E. Rose|||https://book.douban.com/subject/25882201/
+195|||7天搞定微积分|||石山平、大上丈彦|||https://book.douban.com/subject/4916157/
+196|||数学哲学|||(美)斯图尔特.夏皮罗|||https://book.douban.com/subject/3586999/
+197|||LaTeX入门|||刘海洋|||https://book.douban.com/subject/24703731/
+198|||数学物理方法 I|||[德]R.柯朗、[德]D.希尔伯特|||https://book.douban.com/subject/6722607/
+199|||数学领域中的发明心理学|||雅克·阿达玛|||https://book.douban.com/subject/3069835/
+200|||高等数学引论（第一册）|||华罗庚|||https://book.douban.com/subject/3515083/
+201|||数学分析教程（上册）|||常庚哲、史济怀|||https://book.douban.com/subject/1165179/
+202|||运筹学导论|||Hamdy A.Taha|||https://book.douban.com/subject/3151792/
+203|||数：科学的语言|||（美）T・丹齐克|||https://book.douban.com/subject/1012558/
+204|||数学八年级上册|||课程教材研究所 中学数学课程教材研究开发中心 编|||https://book.douban.com/subject/1680659/
+205|||实变函数论|||那汤松|||https://book.douban.com/subject/4828876/
+206|||高等数学（上册）|||同济大学应用数学系 主编|||https://book.douban.com/subject/1231393/
+207|||实分析中的反例|||汪 林|||https://book.douban.com/subject/4194534/
+208|||张宇高等数学18讲|||张宇|||https://book.douban.com/subject/26552265/
+209|||复分析|||Elias M. Stein|||https://book.douban.com/subject/2108337/
+210|||数学建模|||[美] Frank R.Giordano,Maurice D.Weir,William P.Fox|||https://book.douban.com/subject/1231271/
+211|||数学竞赛研究教程（上下）|||单壿|||https://book.douban.com/subject/1712695/
+212|||最优化理论与方法|||袁亚湘|||https://book.douban.com/subject/1230338/
+213|||Introductory Functional Analysis with Applications|||Erwin Kreyszig|||https://book.douban.com/subject/1478252/
+214|||数学分析习题课讲义（上册）|||谢惠民|||https://book.douban.com/subject/1230275/
+215|||话说微积分|||龚昇|||https://book.douban.com/subject/2982753/
+216|||《科学美国人》趣味数学集锦之一|||马丁·加德纳|||https://book.douban.com/subject/3902335/
+217|||图论导引|||韦斯特|||https://book.douban.com/subject/1740461/
+218|||数学史|||（英）斯科特|||https://book.douban.com/subject/1033334/
+219|||All of Statistics|||Larry Wasserman|||https://book.douban.com/subject/2285151/
+220|||Visual Group Theory|||Nathan Carter|||https://book.douban.com/subject/3808718/
+221|||一本小小的紫色概率书|||布兰登·罗伊尔|||https://book.douban.com/subject/27056719/
+222|||数字情种|||[美] 保罗·霍夫曼|||https://book.douban.com/subject/1047060/
+223|||MATLAB数值计算|||莫勒|||https://book.douban.com/subject/1836464/
+224|||从√2谈起|||张景中|||https://book.douban.com/subject/1254233/
+225|||现代几何学|||(俄)Б.А.杜布洛文、С.П.诺维可夫、А.Т.福明柯|||https://book.douban.com/subject/1932857/
+226|||高等数学导论|||左敦稳、赵剑峰、徐峰|||https://book.douban.com/subject/2260271/
+227|||数理哲学导论|||罗素(Russell B.)|||https://book.douban.com/subject/1248122/
+228|||数学分析新讲（第二册）|||张筑生|||https://book.douban.com/subject/1130384/
+229|||数理经济学的基本方法|||蒋中一、凯尔文·温赖特|||https://book.douban.com/subject/1961174/
+230|||Computational Science and Engineering|||Gilbert Strang|||https://book.douban.com/subject/3011192/
+231|||从大学数学走向现代数学|||徐宗本|||https://book.douban.com/subject/2048547/
+232|||数学手册|||《数学手册》编写组|||https://book.douban.com/subject/1089331/
+233|||概率统治世界|||戴维·汉德 (David Hand)|||https://book.douban.com/subject/26871793/
+234|||数论|||[法]André Weil|||https://book.douban.com/subject/4828877/
+235|||给讨厌数学的人|||（日）小室直树|||https://book.douban.com/subject/1118984/
+236|||数学与自然科学之哲学|||赫尔曼·外尔|||https://book.douban.com/subject/2273757/
+237|||最佳可能的世界|||埃克朗|||https://book.douban.com/subject/11441867/
+238|||拓扑学奇趣|||【苏】伏·巴尔佳斯基（В.Р.Болтянский）、伏·叶夫列莫维奇（В.А.Ефемович）|||https://book.douban.com/subject/1523660/
+239|||The Mathematics of Poker|||Bill Chen、Jerrod Ankenman|||https://book.douban.com/subject/2410223/
+240|||黎曼几何初步|||伍鸿熙、沈纯理、虞言林|||https://book.douban.com/subject/1110681/
+241|||数学分析讲义（第一册）|||陈天权|||https://book.douban.com/subject/3919652/
+242|||初等数论|||潘承洞|||https://book.douban.com/subject/1310584/
+243|||统计思维：程序员数学之概率统计|||Allen B.Downey|||https://book.douban.com/subject/24381562/
+244|||数学分析新讲（第三册）|||张筑生|||https://book.douban.com/subject/1122660/
+245|||写给全人类的数学魔法书|||[日] 永野裕之|||https://book.douban.com/subject/24531914/
+246|||上帝掷骰子吗-混沌之数学|||[英] 伊恩·斯图尔特；|||https://book.douban.com/subject/1888624/
+247|||统计学|||William Mendenhall、Terry Sincich|||https://book.douban.com/subject/4076214/
+248|||跳跃的无穷|||[美] 戴维·福斯特·华莱士|||https://book.douban.com/subject/3689672/
+249|||代数学引论.第二卷,线性代数|||(俄)A.И.柯斯特利金|||https://book.douban.com/subject/2977911/
+250|||Mathematical Statistics and Data Analysis|||John A. Rice|||https://book.douban.com/subject/1464806/
+251|||素数的音乐|||马科斯、Marcus du Sautoy|||https://book.douban.com/subject/2146105/
+252|||Milnor眼中的数学和数学家|||J. W. Milnor|||https://book.douban.com/subject/26987692/
+253|||概率与计算|||米曾马克|||https://book.douban.com/subject/2056370/
+254|||幻想数学大战2|||图画树|||https://book.douban.com/subject/3930338/
+255|||数学分析（第二卷）|||[俄]B.A.卓里奇|||https://book.douban.com/subject/2016788/
+256|||实分析与复分析|||鲁丁 (Walter Rudin)|||https://book.douban.com/subject/1230085/
+257|||Introduction to Linear Optimization|||Dimitris Bertsimas、John N. Tsitsiklis|||https://book.douban.com/subject/2157943/
+258|||All the Mathematics You Missed|||Thomas A. Garrity|||https://book.douban.com/subject/1797658/
+259|||数学物理方法|||顾樵|||https://book.douban.com/subject/10517521/
+260|||迷茫的旅行商|||[美] William J. Cook|||https://book.douban.com/subject/25713498/
+261|||从一元一次方程到伽罗瓦理论|||冯承天|||https://book.douban.com/subject/11637344/
+262|||Asymptotic Statistics|||A. W. van der Vaart|||https://book.douban.com/subject/2856024/
+263|||高等代数（上册）|||丘维声|||https://book.douban.com/subject/4839187/
+264|||A New Kind of Science|||Stephen Wolfram|||https://book.douban.com/subject/1468622/
+265|||金融建模与投资管理中的数学|||塞尔焦·M·福卡尔迪、弗兰克·J·法博齐|||https://book.douban.com/subject/6024108/
+266|||Numerical Recipes 3rd Edition|||William H. Press、Saul A. Teukolsky、William T. Vetterling、Brian P. Flannery|||https://book.douban.com/subject/2173399/
+267|||蚁迹寻踪及其他数学探索|||[美] 戴维·盖尔|||https://book.douban.com/subject/1035596/
+268|||脑洞大开的微积分|||刘祺|||https://book.douban.com/subject/27024419/
+269|||数学游戏（上下）|||郭凯声|||https://book.douban.com/subject/3178576/
+270|||神奇的数字世界|||寄藤文平|||https://book.douban.com/subject/26577879/
+271|||难以企及的人物|||蔡天新|||https://book.douban.com/subject/3667096/
+272|||Proofs without Words|||Roger B. Nelsen|||https://book.douban.com/subject/2053680/
+273|||数学与音乐的创造力|||中岛幸子|||https://book.douban.com/subject/26600976/
+274|||Nonlinear Dynamics And Chaos|||Steven H. Strogatz|||https://book.douban.com/subject/1973407/
+275|||Statistical Rethinking|||Richard McElreath|||https://book.douban.com/subject/26607925/
+276|||对称|||[美] 赫尔曼·外尔|||https://book.douban.com/subject/1033286/
+277|||Stochastic Differential Equations|||Bernt Øksendal|||https://book.douban.com/subject/1464684/
+278|||Our Mathematical Universe|||Max Tegmark|||https://book.douban.com/subject/24537845/
+279|||庞加莱猜想|||[日]春日真人|||https://book.douban.com/subject/26673315/
+280|||概率|||施利亚耶夫|||https://book.douban.com/subject/2221063/
+281|||安野光雅数学绘本|||(日)安野光雅|||https://book.douban.com/subject/6519655/
+282|||爸爸教的数学|||孙路弘|||https://book.douban.com/subject/27055700/
+283|||自然科学问题的数学分析|||B.A.卓里奇|||https://book.douban.com/subject/10785235/
+284|||阿基米德全集|||阿基米德|||https://book.douban.com/subject/1167098/
+285|||高等近世代数|||[美]Joseph J.Rotman|||https://book.douban.com/subject/1953795/
+286|||高等代数简明教程（下册）|||蓝以中|||https://book.douban.com/subject/1231163/
+287|||实变函数论与泛函分析|||夏道行、吴卓人、严绍宗、舒五昌|||https://book.douban.com/subject/4275110/
+288|||微分几何讲义|||陈省身、陈维桓|||https://book.douban.com/subject/1070474/
+289|||计算出人意料|||伊法尔.埃克朗|||https://book.douban.com/subject/1016958/
+290|||Fifty Challenging Problems in Probability with Solutions|||Frederick Mosteller|||https://book.douban.com/subject/2193302/
+291|||不等式|||G.H.哈代|||https://book.douban.com/subject/3283778/
+292|||数学的故事|||理查德・曼凯维奇|||https://book.douban.com/subject/1005319/
+293|||你不可不知的50个数学知识|||Tony Crilly|||https://book.douban.com/subject/5253771/
+294|||常微分方程|||（俄罗斯）Л.C.庞特里亚金|||https://book.douban.com/subject/2083796/
+295|||数学分析习题集|||[俄]吉米多维奇|||https://book.douban.com/subject/4902598/
+296|||高等代数学（第2版）|||张贤科、许甫华|||https://book.douban.com/subject/1231135/
+297|||概率的哲学理论|||吉利斯|||https://book.douban.com/subject/10732575/
+298|||科学美国人趣味数学集锦之二|||马丁·加德纳|||https://book.douban.com/subject/3082090/
+299|||数学经验|||戴维斯 (Philip J.Davis)、赫什 (Reuben Hersh)、马奇索托 (Elena Anne Marchisotto)|||https://book.douban.com/subject/24744093/
+300|||解决问题的策略|||A·恩格尔|||https://book.douban.com/subject/1620154/
+301|||流形上的微积分(双语版)|||[美]  Michael Spivak|||https://book.douban.com/subject/1724359/
+302|||这才是数学|||[英] 乔·博勒 著|||https://book.douban.com/subject/27040309/
+303|||女士品茶|||David Salsburg 萨尔斯伯格|||https://book.douban.com/subject/1626392/
+304|||微分几何|||[法]M.贝尔热、[法]B.戈斯丢|||https://book.douban.com/subject/3865548/
+305|||数学|||基斯·德夫林|||https://book.douban.com/subject/1020280/
+306|||后现代思想的数学根源|||〔加〕弗拉第米尔・塔西奇|||https://book.douban.com/subject/1278442/
+307|||数学恩仇录|||哈尔·赫尔曼|||https://book.douban.com/subject/3654708/
+308|||离散数学导学|||Andrew Simpson、冯速|||https://book.douban.com/subject/1231286/
+309|||怎样解题|||蔡茨|||https://book.douban.com/subject/4888398/
+310|||数学史通论(第2版.翻译版)|||[美] Victor J. Katz|||https://book.douban.com/subject/1667306/
+311|||信息论基础|||[美]ThomasM.Cove|||https://book.douban.com/subject/2305237/
+312|||高等代数学习指南|||蓝以中|||https://book.douban.com/subject/3180280/
+313|||圆的历史：数学推理与物理宇宙|||（美）泽布罗夫斯基|||https://book.douban.com/subject/1075376/
+314|||Mathematics for 3D Game Programming and Computer Graphics, 3rd Edition|||Eric Lengyel|||https://book.douban.com/subject/6675562/
+315|||幻想数学大战1|||（韩）图画树|||https://book.douban.com/subject/3930339/
+316|||概率论与数理统计|||盛骤、谢式千、潘承毅|||https://book.douban.com/subject/1231189/
+317|||数学模型|||姜启源|||https://book.douban.com/subject/1231224/
+318|||Б.П.吉米多维奇数学分析习题集题解(1)(第三版)|||费定晖、周学圣|||https://book.douban.com/subject/1204450/
+319|||平面几何证明方法全书|||沈文选|||https://book.douban.com/subject/1690290/
+320|||微分流形与黎曼几何引论|||布思比|||https://book.douban.com/subject/2254864/
+321|||柏拉图哲学中的数学|||[美] 欧文·埃尔加·米勒|||https://book.douban.com/subject/27021963/
+322|||Probability|||Richard Durrett|||https://book.douban.com/subject/1797985/
+323|||数学之英文写作|||汤涛、丁玖|||https://book.douban.com/subject/21346605/
+324|||数盲|||约翰·艾伦·保罗士|||https://book.douban.com/subject/1843802/
+325|||神圣几何|||斯蒂芬·斯金纳|||https://book.douban.com/subject/5294977/
+326|||数学游戏与欣赏|||[英国] 劳斯·鲍尔、[加拿大] 考克斯特|||https://book.douban.com/subject/1040623/
+327|||绳圈的数学|||姜伯驹|||https://book.douban.com/subject/6751238/
+328|||神奇的数学|||马库斯·杜·索托伊|||https://book.douban.com/subject/20451391/
+329|||算术探索|||高斯|||https://book.douban.com/subject/11502248/
+330|||语言与数学|||冯志伟|||https://book.douban.com/subject/5364355/
+331|||现代几何学（第二卷）|||杜布洛文|||https://book.douban.com/subject/2234922/
+332|||数论I|||[日]加藤和也、[日]黑川信重、[日]斋藤毅|||https://book.douban.com/subject/3779560/
+333|||Introduction To Commutative Algebra|||Michael Atiyah、Ian MacDonald|||https://book.douban.com/subject/1440976/
+334|||圆锥曲线的几何性质|||[英] A. 科克肖特, F. B. 沃尔特斯|||https://book.douban.com/subject/1096817/
+335|||微分几何入门与广义相对论（上册·第二版）|||梁灿彬、周彬|||https://book.douban.com/subject/1725267/
+336|||漫画微积分|||科学出版社|||https://book.douban.com/subject/4010133/
+337|||关于概率的哲学随笔|||P.-S.拉普拉斯|||https://book.douban.com/subject/25719706/
+338|||代数几何|||R.Hartshorne|||https://book.douban.com/subject/1239362/
+339|||深入浅出统计学|||Dawn Griffiths|||https://book.douban.com/subject/7056708/
+340|||游戏|||（德）曼・艾根、（德）乌・文克勒|||https://book.douban.com/subject/1272283/
+341|||测度论|||Paul R.Halmos|||https://book.douban.com/subject/1230546/
+342|||Probability with Martingales|||David Williams|||https://book.douban.com/subject/1797910/
+343|||概率论与数理统计教程|||茆诗松、程依明、濮晓龙|||https://book.douban.com/subject/1191929/
+344|||复分析|||阿尔福斯|||https://book.douban.com/subject/1410002/
+345|||浴缸里的惊叹|||顾森|||https://book.douban.com/subject/25918542/
+346|||数学与人类文明|||蔡天新|||https://book.douban.com/subject/2990527/
+347|||数学的建筑|||布尔巴基|||https://book.douban.com/subject/3422675/
+348|||Vector Calculus|||Paul C. Matthews|||https://book.douban.com/subject/2857142/
+349|||数学分析原理（第一卷）|||Г.М.菲赫金哥尔茨|||https://book.douban.com/subject/22751792/
+350|||二十世纪数学哲学|||叶峰|||https://book.douban.com/subject/5241269/
+351|||Partial Differential Equations|||Lawrence C. Evans|||https://book.douban.com/subject/4767375/
+352|||论可计算数|||[美] 克里斯•伯恩哈特|||https://book.douban.com/subject/26873703/
+353|||纯数学教程|||[英] G.H.Hardy|||https://book.douban.com/subject/1144701/
+354|||实变函数论|||周民强|||https://book.douban.com/subject/1209006/
+355|||新概念几何|||张景中|||https://book.douban.com/subject/1019284/
+356|||数的趣谈|||Isaac Asimov、艾萨克·阿西莫夫|||https://book.douban.com/subject/2080790/
+357|||微积分概念发展史|||卡尔·B·波耶|||https://book.douban.com/subject/2176676/
+358|||稳操胜券（上册）|||[美] 埃尔温·伯莱坎普|||https://book.douban.com/subject/1082795/
+359|||Brownian Motion and Stochastic Calculus|||Ioannis Karatzas、Steven Shreve|||https://book.douban.com/subject/1464794/
+360|||图灵的秘密|||Charles Petzold|||https://book.douban.com/subject/10779604/
+361|||数学思维导论|||[美] Keith Devlin|||https://book.douban.com/subject/26696651/
+362|||数学与哲学|||张景中|||https://book.douban.com/subject/1020679/
+363|||哥德尔|||[美] 王浩|||https://book.douban.com/subject/1079698/
+364|||近世代数基础|||张禾瑞|||https://book.douban.com/subject/1237717/
+365|||分形几何|||法尔科内|||https://book.douban.com/subject/2261630/
+366|||Calculus With Analytic Geometry|||George F. Simmons|||https://book.douban.com/subject/2051555/
+367|||突变论|||（法）托姆|||https://book.douban.com/subject/2133183/
+368|||随机过程|||Sheldon M. Ross|||https://book.douban.com/subject/1541448/
+369|||高中数学精编|||郑日锋 编|||https://book.douban.com/subject/4123703/
+370|||不完备性|||戈德斯坦|||https://book.douban.com/subject/3085353/
+371|||基础拓扑学|||M.A.Armstrong|||https://book.douban.com/subject/1234142/
+372|||概率论基础|||李贤平|||https://book.douban.com/subject/1130106/
+373|||诗魂数学家的沉思|||[德] H. 外尔|||https://book.douban.com/subject/3045502/
+374|||Differential Forms in Algebraic Topology|||R. Bott、L.W. Tu|||https://book.douban.com/subject/2328335/
+375|||美丽心灵|||[美] 西尔维娅·娜萨|||https://book.douban.com/subject/1323573/
+376|||史上最强脑力操|||安德鲁·杰弗瑞|||https://book.douban.com/subject/6811384/
+377|||Algebra|||Serge Lang|||https://book.douban.com/subject/1462025/
+378|||微积分入门I|||[日] 小平邦彦|||https://book.douban.com/subject/3016613/
+379|||代数几何原理|||格里菲思（Griffiths.P.）、哈里斯（Harris.J）|||https://book.douban.com/subject/2196428/
+380|||Abstract Algebra 3E|||David S. Dummit、Richard M. Foote|||https://book.douban.com/subject/2264138/
+381|||华罗庚科普著作选集|||华罗庚|||https://book.douban.com/subject/3227374/
+382|||意料之外的绞刑和其他数学娱乐|||（美）加德纳|||https://book.douban.com/subject/1064678/
+383|||聪明在于勤奋天才在于积累（华罗庚专辑）|||华罗庚|||https://book.douban.com/subject/1973934/
+384|||离散数学|||罗瓦茨|||https://book.douban.com/subject/1914766/
+385|||实用微积分|||Deborah Hughes Hallett、Daniel E.Flath、Patti Frazer Lock、Andrew M.Gleason|||https://book.douban.com/subject/4923184/
+386|||逻辑的引擎|||[美] 马丁·戴维斯|||https://book.douban.com/subject/1391740/
+387|||Math, Better Explained|||Kalid Azad|||https://book.douban.com/subject/24817131/
+388|||泛函分析|||Walter Rudin|||https://book.douban.com/subject/1230125/
+389|||金融时间序列分析|||Ruey S.Tsay|||https://book.douban.com/subject/3776705/
+390|||近代欧氏几何学|||约翰逊(Johnson)|||https://book.douban.com/subject/1551510/
+391|||动态最优化基础|||蒋中一|||https://book.douban.com/subject/1157377/
+392|||Functional Analysis|||Elias M. Stein、Rami Shakarchi|||https://book.douban.com/subject/3390394/
+393|||数学问题|||希尔伯特|||https://book.douban.com/subject/3422719/
+394|||无穷之旅|||[以色列] 伊莱·马奥尔|||https://book.douban.com/subject/1024520/
+395|||庞加莱猜想|||欧谢|||https://book.douban.com/subject/5338169/
+396|||Vector calculus. linear algebra and differential forms - 3rd Edition|||John H.Hubbard|||https://book.douban.com/subject/25788483/
+397|||完美的证明|||(美)玛莎·葛森|||https://book.douban.com/subject/10485326/
+398|||代数学引论(第三卷)基本结构(第2版)|||(俄罗斯)A.И.柯斯特利金|||https://book.douban.com/subject/2977910/
+399|||孙维刚高中数学|||孙维刚|||https://book.douban.com/subject/1622491/
+400|||漫画统计学|||[日] 高桥信|||https://book.douban.com/subject/4010128/
+401|||组合数学教程|||范林特|||https://book.douban.com/subject/2044626/
+402|||Klein数学讲座|||F.克莱因|||https://book.douban.com/subject/21759622/
+403|||计算机代数系统的数学原理|||李超、阮威、张龙、张翔|||https://book.douban.com/subject/5346530/
+404|||最优化导论|||Edwin K. P. Chong、Stanislaw H. Zak|||https://book.douban.com/subject/26732914/
+405|||数学建模算法与应用|||司守奎、孙玺菁|||https://book.douban.com/subject/6828678/
+406|||数论教程|||塞尔|||https://book.douban.com/subject/2117186/
+407|||阿基米德的报复|||(美)保罗.霍夫曼|||https://book.douban.com/subject/1037947/
+408|||数学巨匠|||[英]约安·詹姆斯|||https://book.douban.com/subject/26949571/
+409|||Algebraic Topology|||Allen Hatcher|||https://book.douban.com/subject/2332224/
+410|||金融衍生工具数学导论|||内福斯|||https://book.douban.com/subject/2175108/
+411|||从数学观点看物理世界|||马天|||https://book.douban.com/subject/20387164/
+412|||数学的奇妙|||(美)西奥妮.帕帕斯|||https://book.douban.com/subject/1020974/
+413|||解析几何、立体几何-高中数学精编|||郑日锋 编|||https://book.douban.com/subject/4060578/
+414|||常微分方程|||V.I.阿诺尔德|||https://book.douban.com/subject/1231273/
+415|||数学分析解题指南|||林源渠、方企勤|||https://book.douban.com/subject/1239173/
+416|||爱上统计学|||[美] 尼尔·J. 萨尔金德|||https://book.douban.com/subject/2985995/
+417|||数学基础|||汪芳庭|||https://book.douban.com/subject/1513359/
+418|||算术基础|||G.弗雷格|||https://book.douban.com/subject/1245531/
+419|||Matrix Analysis and Applied Linear Algebra Book and Solutions Manual|||Carl D. Meyer|||https://book.douban.com/subject/1479316/
+420|||Convex Analysis|||Ralph Tyrell Rockafellar|||https://book.douban.com/subject/1876265/
+421|||圆锥曲线论（卷Ⅰ-Ⅳ）|||[古希腊] 阿波罗尼奥斯|||https://book.douban.com/subject/3018479/
+422|||当代大数学家画传|||玛丽安娜·库克  编|||https://book.douban.com/subject/26304641/
+423|||趣味密码术与密写术|||(美)M.加德纳|||https://book.douban.com/subject/3302782/
+424|||心里有数的人生|||【美】史蒂芬•斯托加茨（Steven Strogatz ）|||https://book.douban.com/subject/5260148/
+425|||初等数论及其应用|||Kenneth H．Rosen|||https://book.douban.com/subject/3802271/
+426|||简明复分析|||龚昇|||https://book.douban.com/subject/1110699/
+427|||我要作数学家|||保罗·哈尔莫斯|||https://book.douban.com/subject/1069704/
+428|||不可思议的e|||陈仁政|||https://book.douban.com/subject/1311879/
+429|||算得快|||刘后一|||https://book.douban.com/subject/3032889/
+430|||特殊函数概论|||王竹溪、郭敦仁|||https://book.douban.com/subject/1231554/
+431|||数学史概论|||李文林 编|||https://book.douban.com/subject/1239247/
+432|||可能与不可能的边界|||[美] Lance Fortnow|||https://book.douban.com/subject/25779326/
+433|||数学与人文|||丘成桐、杨乐、季理真 主编|||https://book.douban.com/subject/4859569/
+434|||初等几何的著名问题|||[德]Felix Klein|||https://book.douban.com/subject/1672958/
+435|||数学世界历险记|||柳己韵, 文情厚、苟振红|||https://book.douban.com/subject/25892217/
+436|||数学符号史|||徐品方、张红|||https://book.douban.com/subject/1927608/
+437|||漫画统计学之回归分析|||[日] 高桥信|||https://book.douban.com/subject/4010147/
+438|||矩阵博士的魔法数|||（美）加德纳|||https://book.douban.com/subject/1036094/
+439|||泛函分析（影印版）|||Peter D. Lax|||https://book.douban.com/subject/2105464/
+440|||数学万花筒|||斯图尔特|||https://book.douban.com/subject/4888397/
+441|||Real Analysis|||Gerald B. Folland|||https://book.douban.com/subject/2856363/
+442|||几何与拓扑的概念导引|||古志鸣|||https://book.douban.com/subject/5974094/
+443|||数学分析习题课讲义（下册）|||谢惠民|||https://book.douban.com/subject/1160359/
+444|||泛函分析|||K.Yosida著|||https://book.douban.com/subject/1230523/
+445|||分形学|||尼格尔.高尔顿、威尔.鲁德|||https://book.douban.com/subject/25893254/
+446|||抽象代数讲义（第1卷）|||Nathan Jacobson|||https://book.douban.com/subject/1238134/
+447|||跨越三维空间|||孙维梓|||https://book.douban.com/subject/2382245/
+448|||爱情数学|||[英]汉娜·弗莱|||https://book.douban.com/subject/26713251/
+449|||线性代数与矩阵论|||许以超|||https://book.douban.com/subject/3160836/
+450|||高中数学解题技巧|||陈汝作|||https://book.douban.com/subject/1057032/
+451|||陈省身文集|||王善平、张奠宙|||https://book.douban.com/subject/1397025/
+452|||曲线与曲面的微分几何|||Manfredo Do Carmo|||https://book.douban.com/subject/1220147/
+453|||九章算术|||曾海龙|||https://book.douban.com/subject/1952045/
+454|||自然科学中确定性问题的应用数学|||林家翘|||https://book.douban.com/subject/5373796/
+455|||无穷分析引论（上、下）|||[瑞士] 欧拉|||https://book.douban.com/subject/2009047/
+456|||微分几何与拓扑学简明教程|||[俄]  А. С. 米先柯 А. Т. 福明柯|||https://book.douban.com/subject/1707159/
+457|||安野光雅“美丽的数学”系列绘本|||(日)安野光雅|||https://book.douban.com/subject/19965965/
+458|||历史上最伟大的10个方程|||Robert P.Crease|||https://book.douban.com/subject/4923185/
+459|||The Man Who Loved Only Numbers|||Paul Hoffman|||https://book.douban.com/subject/1474193/
+460|||黎曼全集（第一卷）|||Bernhard Riemann|||https://book.douban.com/subject/26775610/
+461|||这也能想到?——巧妙解答无厘头问题|||Lawrence Weinstein、John A.Adam|||https://book.douban.com/subject/4904724/
+462|||Calculus, 4th edition|||Michael Spivak|||https://book.douban.com/subject/3204188/
+463|||生活中的概率趣事|||彼得·欧佛森 (Peter Olofsson)|||https://book.douban.com/subject/26220204/
+464|||高等代数（下册）|||丘维声|||https://book.douban.com/subject/5330293/
+465|||An Introduction to Manifolds|||Loring W. Tu|||https://book.douban.com/subject/5946276/
+466|||经济理论中的最优化方法|||阿维纳什 K.迪克西特|||https://book.douban.com/subject/1787516/
+467|||世界数学通史|||梁宗巨、王青建、孙宏安|||https://book.douban.com/subject/1685349/
+468|||数学证明之美|||博卡德·波斯特|||https://book.douban.com/subject/10520265/
+469|||天才數學家的秘密賭局|||威廉．龐士東|||https://book.douban.com/subject/3005992/
+470|||数论妙趣|||阿尔伯特·H·贝勒、Albert H. Beiler|||https://book.douban.com/subject/1660981/
+471|||Probability and Random Processes|||Geoffrey R. Grimmett、David R. Stirzaker|||https://book.douban.com/subject/1795673/
+472|||数学基础研究|||[奥]维特根斯坦|||https://book.douban.com/subject/24886534/
+473|||微分学|||H.嘉当|||https://book.douban.com/subject/3716257/
+474|||逻辑人生|||约翰.L.卡斯蒂、维尔纳.德波利|||https://book.douban.com/subject/3121186/
+475|||漫话数学|||张景中 任宏硕|||https://book.douban.com/subject/1008319/
+476|||数学分析（上册）|||陈纪修、於崇华、金路|||https://book.douban.com/subject/1231379/
+477|||数量金融(原书第2版)(第2卷)|||保罗·威尔莫特|||https://book.douban.com/subject/26376914/
+478|||抽象代数基础教程|||罗特曼|||https://book.douban.com/subject/2338513/
+479|||数学物理方法II|||[德]R.柯朗、[德]D.希尔伯特|||https://book.douban.com/subject/10571034/
+480|||近世代数概论|||Garrett Birkhoff、Saunders Mac Lane|||https://book.douban.com/subject/2152447/
+481|||通信之道——从微积分到5G|||杨学志 编著|||https://book.douban.com/subject/26743649/
+482|||超穷数理论基础（第2版）|||[德]格奥尔格·康托|||https://book.douban.com/subject/26787793/
+483|||伊藤清概率论|||伊藤 清(Kiyoshi Ito)|||https://book.douban.com/subject/6038514/
+484|||运筹学|||《运筹学》教材编写组|||https://book.douban.com/subject/1391015/
+485|||The Number Sense|||Stanislas Dehaene|||https://book.douban.com/subject/1474214/
+486|||统计学|||[美] Gudmund R. Iversen,Mary Gerge|||https://book.douban.com/subject/1230154/
+487|||Discrete Mathematics with Applications|||Susanna S. Epp|||https://book.douban.com/subject/5495234/
+488|||Morse Theory|||[美]John W.Milnor|||https://book.douban.com/subject/1902505/
+489|||Mathematics for Economists|||Carl P. Simon、Lawrence Blume|||https://book.douban.com/subject/1686144/
+490|||金融数学|||(美) 马雷克·凯宾斯基, 托马什·扎斯特温尼克著|||https://book.douban.com/subject/3596028/
+491|||20世纪数学的五大指导理论|||（美）约翰・L・卡斯蒂|||https://book.douban.com/subject/1071729/
+492|||流形上的分析|||[美]J.R. Munkres|||https://book.douban.com/subject/10738994/
+493|||Stochastic Calculus for Finance II|||Steven E. Shreve|||https://book.douban.com/subject/1650656/
+494|||图论导引|||[美] Gary Chartrand，（美|||https://book.douban.com/subject/2236899/
+495|||矩阵分析与应用|||张贤达|||https://book.douban.com/subject/1257113/
+496|||Nonlinear Programming|||Dimitri P. Bertsekas、Dimitri P. Bertsekas|||https://book.douban.com/subject/2859076/
+497|||自然之数|||斯图尔特|||https://book.douban.com/subject/2316725/
+498|||Optimization by Vector Space Methods (Series in Decision and Control)|||David G. Luenberger|||https://book.douban.com/subject/2154072/
+499|||经济数学|||霍伊 利弗诺 麦克纳|||https://book.douban.com/subject/1988139/
+500|||越玩越聪明的印度数学|||王擎天|||https://book.douban.com/subject/4039417/
+501|||离散数学|||多西|||https://book.douban.com/subject/2162225/
+502|||The Principles of Mathematics|||Bertrand Russell|||https://book.douban.com/subject/1458233/
+503|||二十世纪伟大的数学书|||季理真|||https://book.douban.com/subject/24845120/
+504|||偏微分方程讲义|||奥列尼克|||https://book.douban.com/subject/3007918/
+505|||Data Analysis Using Regression and Multilevel/Hierarchical Models|||Andrew Gelman、Jennifer Hill|||https://book.douban.com/subject/2859924/
+506|||高等代数|||北京大学数学系几何与代数教研室前代数小组、王萼芳、石生明|||https://book.douban.com/subject/1173952/
+507|||复分析导论（第一卷）|||（俄罗斯）沙巴特|||https://book.douban.com/subject/5939667/
+508|||机遇与混沌|||大卫・吕埃勒|||https://book.douban.com/subject/1078470/
+509|||孩子天生会数学|||[美]格雷格·纳尔逊|||https://book.douban.com/subject/26270430/
+510|||典雅的几何|||M·伦迪|||https://book.douban.com/subject/1170239/
+511|||Geometry, Topology and Physics, Second Edition|||Mikio Nakahara|||https://book.douban.com/subject/1768683/
+512|||折纸与数学|||黄燕苹、李秉彝|||https://book.douban.com/subject/11579804/
+513|||Probability and Measure|||Patrick Billingsley|||https://book.douban.com/subject/1650731/
+514|||小学数学的掌握和教学|||马立平|||https://book.douban.com/subject/6147992/
+515|||爱克斯探长(数学侦探故事)|||李毓佩|||https://book.douban.com/subject/1015241/
+516|||Numerical Linear Algebra|||Lloyd N. Trefethen、David Bau III|||https://book.douban.com/subject/3638826/
+517|||Finite-Dimensional Vector Spaces|||P. R. Halmos|||https://book.douban.com/subject/1919857/
+518|||实变函数论与泛函分析|||夏道行、吴卓人、严绍宗、舒五昌|||https://book.douban.com/subject/4275111/
+519|||数学分析（第一册）|||徐森林、薛春华|||https://book.douban.com/subject/1688416/
+520|||如何切蛋糕|||伊恩·斯图尔特|||https://book.douban.com/subject/4025012/
+521|||微分几何讲义|||丘成桐、孙理察|||https://book.douban.com/subject/1623167/
+522|||证明达尔文|||[美] 格雷戈里·蔡汀|||https://book.douban.com/subject/26282599/
+523|||统计学习理论的本质|||[美] Vladimir N. Vapnik|||https://book.douban.com/subject/1507931/
+524|||高等代数学习指导书（上册）|||丘维声|||https://book.douban.com/subject/1409752/
+525|||对称的历史|||[美]伊恩·斯图尔特|||https://book.douban.com/subject/6731442/
+526|||奇妙数学史|||乔尔·利维 (Joel Levy)|||https://book.douban.com/subject/27007536/
+527|||Monte Carlo Methods in Financial Engineering (Stochastic Modelling and Applied Probability)|||Paul Glasserman|||https://book.douban.com/subject/1462498/
+528|||Causality|||Judea Pearl|||https://book.douban.com/subject/3677371/
+529|||高等数学（下册）|||同济大学应用数学系 主编|||https://book.douban.com/subject/1116520/
+530|||生命·艺术·几何|||M.吉卡|||https://book.douban.com/subject/25829237/
+531|||数量金融(原书第2版)(第1卷)|||保罗·威尔莫特|||https://book.douban.com/subject/26376913/
+532|||虚数的故事|||（美）纳欣|||https://book.douban.com/subject/3535356/
+533|||数学的思维方式与创新|||丘维声|||https://book.douban.com/subject/6002758/
+534|||经济数学方法与模型|||弗恩特|||https://book.douban.com/subject/1131428/
+535|||游戏开发的数学和物理|||［ 日］ 加藤洁|||https://book.douban.com/subject/26274169/
+536|||泛函分析史|||迪厄多内|||https://book.douban.com/subject/26857346/
+537|||令你苦思冥想的数学趣题|||Peter Winkler|||https://book.douban.com/subject/3783784/
+538|||第二重奥秘|||伊恩·斯图尔特|||https://book.douban.com/subject/1521182/
+539|||高等微积分|||Lynn H. Loomis、Shlomo Sternberg|||https://book.douban.com/subject/1674329/
+540|||论概率|||约翰·梅纳德·凯恩斯|||https://book.douban.com/subject/26946083/
+541|||20世纪数学经纬|||张奠宙|||https://book.douban.com/subject/1854182/
+542|||数学花园漫游记|||马希文|||https://book.douban.com/subject/1027753/
+543|||萨姆·劳埃德的数学趣题|||马丁・加德纳|||https://book.douban.com/subject/1010232/
+544|||奇妙的数王国|||李毓佩|||https://book.douban.com/subject/1010147/
+545|||Introduction to Probability|||Joseph K. Blitzstein、Jessica Hwang|||https://book.douban.com/subject/26264047/
+546|||小波十讲|||（美）多布（ingridDaubechies）著李建平译|||https://book.douban.com/subject/1238029/
+547|||系统与控制中的近代数学基础|||程代展|||https://book.douban.com/subject/2184986/
+548|||数学世界漫游记|||[英]艾利克斯·贝洛斯|||https://book.douban.com/subject/26456518/
+549|||变分学讲义|||张恭庆|||https://book.douban.com/subject/6535578/
+550|||拓扑学教程|||[法国]G.肖盖（Gustave Choquet）|||https://book.douban.com/subject/3878841/
+551|||贝叶斯统计|||茆诗松|||https://book.douban.com/subject/1551888/
+552|||时间序列分析的小波方法|||珀西瓦尔|||https://book.douban.com/subject/1683914/
+553|||喚醒你與生俱來的數學力||||||https://book.douban.com/subject/26594361/
+554|||进化动力学|||Martin A. Nowak|||https://book.douban.com/subject/4739526/
+555|||数学是什么|||胡作玄|||https://book.douban.com/subject/3163838/
+556|||The Seven Pillars of Statistical Wisdom|||Stephen M. Stigler|||https://book.douban.com/subject/26742699/
+557|||数理逻辑|||杨跃、郝兆宽、杨睿之|||https://book.douban.com/subject/26276867/
+558|||基础拓扑学讲义|||尤承业|||https://book.douban.com/subject/1230382/
+559|||实用数学手册|||叶其孝 沈永欢|||https://book.douban.com/subject/1505256/
+560|||数学美拾趣|||易南轩|||https://book.douban.com/subject/1239472/
+561|||Arbitrage Theory in Continuous Time|||Tomas Björk|||https://book.douban.com/subject/4065195/
+562|||无法解出的方程|||利维奥|||https://book.douban.com/subject/3084452/
+563|||Representation Theory|||William Fulton、Joe Harris|||https://book.douban.com/subject/1823200/
+564|||几何傻瓜|||让-比埃尔・佩蒂|||https://book.douban.com/subject/1128596/
+565|||科学家的辩白|||[美]N·维纳、[英]G·H·哈代、[英]怀特海|||https://book.douban.com/subject/1032997/
+566|||二维国内外|||伊恩·斯图尔特|||https://book.douban.com/subject/3086499/
+567|||Calculus Made Easy|||Silvanus P. Thompson、Martin Gardner|||https://book.douban.com/subject/1888599/
+568|||A Practical Guide To Quantitative Finance Interviews|||Xinfeng Zhou|||https://book.douban.com/subject/3121870/
+569|||如何培养数字脑|||【英】查尔斯▪菲利普斯|||https://book.douban.com/subject/26550252/
+570|||毕达哥拉斯谜案|||（希腊）特福科洛斯•米哈伊里迪斯|||https://book.douban.com/subject/5038501/
+571|||一位数学家的经历|||(美)S. M. 乌拉姆著|||https://book.douban.com/subject/3126381/
+572|||Div, Grad, Curl, and All That|||Hm Schey|||https://book.douban.com/subject/2863847/
+573|||趣味学数学|||［美］邦尼•埃弗巴克、［美］奥林•钱恩|||https://book.douban.com/subject/26854225/
+574|||矩阵论|||方保镕|||https://book.douban.com/subject/1231268/
+575|||数学分析（上册）|||华东师范大学数学系 编|||https://book.douban.com/subject/1160646/
+576|||一生受用的公式|||M・沃特金斯、M・特威德|||https://book.douban.com/subject/1170235/
+577|||Linear Algebra and Geometry|||Igor R. Shafarevich、Alexey O. Remizov|||https://book.douban.com/subject/11232143/
+578|||Stochastic Models, Information Theory, and Lie Groups|||Gregory S. Chirikjian|||https://book.douban.com/subject/4595494/
+579|||中国大百科全书·数学|||华罗庚、苏步青|||https://book.douban.com/subject/1060227/
+580|||One Thousand Exercises in Probability|||Geoffrey R. Grimmett、David R. Stirzaker|||https://book.douban.com/subject/2866744/
+581|||几何学|||约翰.塔巴克|||https://book.douban.com/subject/3013704/
+582|||基础偏微分方程|||(美)布利克、(美)科达斯|||https://book.douban.com/subject/1954341/
+583|||Naive Set Theory|||P. R. Halmos|||https://book.douban.com/subject/2006139/
+584|||数学犹聊天|||德夫林|||https://book.douban.com/subject/3567251/
+585|||近世代数引论|||冯克勤、李尚志、章璞|||https://book.douban.com/subject/4201293/
+586|||Characteristic Classes|||John Milnor、James D. Stasheff|||https://book.douban.com/subject/2264978/
+587|||计算几何|||Mark de Berg、Otfried Cheong、Marc van Kreveld、Mark Overmars|||https://book.douban.com/subject/1445320/
+588|||数学家妙谈股市|||（美）保罗斯、John Allen Paulos|||https://book.douban.com/subject/1083994/
+589|||MATLAB实用教程|||穆尔(Holly Moore)|||https://book.douban.com/subject/4254318/
+590|||逻辑与形而上学教科书系列：作为哲学的数理逻辑|||杨睿之|||https://book.douban.com/subject/26943353/
+591|||漫画微分方程|||佐藤实|||https://book.douban.com/subject/5354677/
+592|||影响数学发展的20个大问题|||[英] Tony Crilly|||https://book.douban.com/subject/10549822/
+593|||概率论和统计学|||塔巴克|||https://book.douban.com/subject/1965554/
+594|||三角函数超入门|||坂江正|||https://book.douban.com/subject/1311600/
+595|||有趣的统计|||[美] Bruce Frey|||https://book.douban.com/subject/25945475/
+596|||数学与文化|||齐民友|||https://book.douban.com/subject/3182075/
+597|||数学工作者必知的范畴学 第2版|||M.lane|||https://book.douban.com/subject/1231208/
+598|||解析几何|||丘维声|||https://book.douban.com/subject/1122143/
+599|||布尔巴基学派的兴衰|||胡作玄|||https://book.douban.com/subject/3694043/
+600|||代数学I|||B. L. van der Waerden|||https://book.douban.com/subject/3771737/
+601|||Introduction to Smooth Manifolds|||John M. Lee|||https://book.douban.com/subject/10757509/
+602|||线性代数辅导讲义|||李永乐|||https://book.douban.com/subject/2108334/
+603|||悭悭宇宙|||沈�|||https://book.douban.com/subject/1071144/
+604|||统计学（第三版）|||吴喜之 编著|||https://book.douban.com/subject/4605951/
+605|||不确定之美|||[荷兰]基斯·范迪姆特（Kees van Deemter）|||https://book.douban.com/subject/26709885/
+606|||A First Course in Bayesian Statistical Methods|||Peter D. Hoff|||https://book.douban.com/subject/4321340/
+607|||数学分析教程（下册）|||常庚哲、史济怀|||https://book.douban.com/subject/1237679/
+608|||世界著名数学家传记|||吴文俊|||https://book.douban.com/subject/1231314/
+609|||数字之书|||巴纳比·罗杰森|||https://book.douban.com/subject/26696932/
+610|||数学简史|||凯兹|||https://book.douban.com/subject/1189599/
+611|||训练思考能力的数学书|||冈部恒治|||https://book.douban.com/subject/1288603/
+612|||如何唤醒数学脑|||[日] 永野裕之 著|||https://book.douban.com/subject/26857187/
+613|||MATLAB在数学建模中的应用|||卓金武 编|||https://book.douban.com/subject/6052205/
+614|||数量金融(原书第2版)(第3卷)|||保罗·威尔莫特|||https://book.douban.com/subject/26376915/
+615|||大自然中的数学|||[加] 莉安·弗拉特、（加）阿什莉·巴伦|||https://book.douban.com/subject/26815642/
+616|||有趣的数学旅行|||2012-5|||https://book.douban.com/subject/10768127/
+617|||组合优化|||William J. Cook    William H. Cunningham    William R. Pulleyblank    Alexander Schrijver|||https://book.douban.com/subject/6041508/
+618|||Set Theory|||Thomas Jech|||https://book.douban.com/subject/1437294/
+619|||数学的源与流|||张顺燕|||https://book.douban.com/subject/1170518/
+620|||非线性优化计算方法|||袁亚湘|||https://book.douban.com/subject/3007147/
+621|||数学圈1|||H.W.伊弗斯|||https://book.douban.com/subject/2185757/
+622|||测试你的逻辑推理能力|||乔治J.萨默斯|||https://book.douban.com/subject/1067085/
+623|||幻想数学大战|||图画树|||https://book.douban.com/subject/6245382/
+624|||热的解析理论|||傅立叶|||https://book.douban.com/subject/3140717/
+625|||Mathematical Methods in the Physical Sciences|||Mary L. Boas|||https://book.douban.com/subject/1800704/
+626|||让数据告诉你|||陆立强|||https://book.douban.com/subject/3029844/
+627|||怎样证明数学题|||Daniel J. Velleman|||https://book.douban.com/subject/3810450/
+628|||Problems and Theorems in Analysis I|||George Pólya、Gábor Szegő|||https://book.douban.com/subject/1873369/
+629|||常微分方程教程|||丁同仁、李承治|||https://book.douban.com/subject/1191930/
+630|||华尔街数学|||樊一中|||https://book.douban.com/subject/24521449/
+631|||测度论与概率论基础|||程士宏 编|||https://book.douban.com/subject/1237821/
+632|||Algebra|||Paolo Aluffi|||https://book.douban.com/subject/4593877/
+633|||数学加德纳|||戴维·A·克拉纳、David A.Klarner|||https://book.douban.com/subject/1936962/
+634|||数学与经济（第二辑）|||史树中|||https://book.douban.com/subject/3182078/
+635|||數論導引|||華羅庚|||https://book.douban.com/subject/3014539/
+636|||数学万花筒3|||［英］伊恩·斯图尔特|||https://book.douban.com/subject/26980245/
+637|||经济学的结构|||西尔伯贝 (Silberberg E.)|||https://book.douban.com/subject/1226129/
+638|||数字信徒|||马恺文|||https://book.douban.com/subject/10442140/
+639|||数学家读报|||约翰艾伦保罗斯|||https://book.douban.com/subject/3559691/
+640|||高等数学学习手册|||徐小湛|||https://book.douban.com/subject/1725246/
+641|||揭示宇宙奥秘的13个常数|||［美］James D.Stein|||https://book.douban.com/subject/11501496/
+642|||黎曼博士的零点|||卡尔·萨巴|||https://book.douban.com/subject/1820047/
+643|||爱+恨数学|||[美]鲁本•赫什、[美]薇拉•约翰-斯坦纳|||https://book.douban.com/subject/25703113/
+644|||Differential Geometry, Lie Groups, and Symmetric Spaces|||Sigurdur Helgason|||https://book.douban.com/subject/2270077/
+645|||赤裸裸的统计学|||[美]查尔斯·韦兰|||https://book.douban.com/subject/25717380/
+646|||如何破解达芬奇密码？|||[英] Richard Elwes|||https://book.douban.com/subject/10605458/
+647|||概率论基础学习指导书|||李贤平^陈子毅|||https://book.douban.com/subject/6750834/
+648|||神秘的阿列夫|||阿米尔·艾克塞尔|||https://book.douban.com/subject/3144869/
+649|||幻想数学大战|||图画树|||https://book.douban.com/subject/4867736/
+650|||The Mathematical Theory of Communication|||Claude E Shannon、Warren Weaver|||https://book.douban.com/subject/1918022/
+651|||General Topology|||John L. Kelley|||https://book.douban.com/subject/1998808/
+652|||An Invitation to Mathematics|||Dierk Schleicher、Malte Lackmann|||https://book.douban.com/subject/6712840/
+653|||蒙特卡罗统计方法|||罗伯特(Christian P.Robert)、George Casella|||https://book.douban.com/subject/4136491/
+654|||30秒探索：数学||||||https://book.douban.com/subject/26868236/
+655|||工程数学.线性代数|||同济大学数学系|||https://book.douban.com/subject/2197140/
+656|||时间序列分析及应用|||Jonathan D.Cryer、Kung-Sik Chan|||https://book.douban.com/subject/5416787/
+657|||数学物理方法|||吴崇试|||https://book.douban.com/subject/1154867/
+658|||数论II|||[日]黑川信重、[日]栗原将人、[日]斋藤毅|||https://book.douban.com/subject/3779561/
+659|||统计学习方法|||李航|||https://book.douban.com/subject/10590856/
+660|||数学分析讲义|||[俄]Г.И.阿黑波|||https://book.douban.com/subject/1838129/
+661|||数学物理方法|||梁昆淼 编、刘法 缪国庆 修订|||https://book.douban.com/subject/1182629/
+662|||数值数学|||夸特罗尼|||https://book.douban.com/subject/1734213/
+663|||凸优化理论|||博赛克斯|||https://book.douban.com/subject/5419002/
+664|||数学真美妙|||刘勇|||https://book.douban.com/subject/23169799/
+665|||调和分析|||Elias M. Stein|||https://book.douban.com/subject/1974604/
+666|||Adventures of a Mathematician|||Stanislaw M. Ulam|||https://book.douban.com/subject/1766488/
+667|||普通高中课程标准实验教科书 数学1 必修A版|||钱珮玲 编|||https://book.douban.com/subject/2070882/
+668|||数学的意义|||约翰·查尔顿·珀金霍恩（主编）|||https://book.douban.com/subject/25815520/
+669|||谁谋杀了希尔伯特教授？|||[希腊]托多雷斯•安德利尔普洛斯|||https://book.douban.com/subject/27076782/
+670|||微分拓扑学|||Morris W.Hirsch|||https://book.douban.com/subject/1184697/
+671|||交换代数|||David Eisenbud|||https://book.douban.com/subject/3180766/
+672|||计算机图形学几何工具算法详解|||史奈德|||https://book.douban.com/subject/1224798/
+673|||三角之美|||[以]马奥尔|||https://book.douban.com/subject/4860419/
+674|||陈省身文选|||陈省身|||https://book.douban.com/subject/6893675/
+675|||线性代数|||[美] 利昂 Steven J. Leon|||https://book.douban.com/subject/5276440/
+676|||马小跳玩数学|||杨红樱|||https://book.douban.com/subject/2025972/
+677|||数学珍宝|||李文林|||https://book.douban.com/subject/1548928/
+678|||数学分析原理（第二卷）|||Г.М.菲赫金哥尔茨|||https://book.douban.com/subject/22751794/
+679|||Introduction to Graph Theory|||Richard J. Trudeau|||https://book.douban.com/subject/2193381/
+680|||Problems and Theorems in Analysis II|||George Pólya、Gábor Szegő|||https://book.douban.com/subject/1873367/
+681|||史丰收速算法|||史丰收|||https://book.douban.com/subject/5385161/
+682|||一线串通的初等数学|||张景中|||https://book.douban.com/subject/3925593/
+683|||同调代数导论|||[美国] 韦伯尔著|||https://book.douban.com/subject/1194116/
+684|||紧黎曼曲面引论|||伍鸿熙 吕以辇 陈志华|||https://book.douban.com/subject/1237532/
+685|||伯克利数学问题集（第3版）|||[美]Paulo Ney de Souza、[美]Jorge-Nuno Silva|||https://book.douban.com/subject/2066460/
+686|||爱上数学|||亨宁·安德森|||https://book.douban.com/subject/10520824/
+687|||Time Series Analysis|||James Douglas Hamilton|||https://book.douban.com/subject/1451390/
+688|||现代几何学（第3卷）|||胥鸣伟|||https://book.douban.com/subject/2197148/
+689|||幻想数学大战|||图画树|||https://book.douban.com/subject/4867734/
+690|||好玩的数学|||谈祥柏|||https://book.douban.com/subject/2037627/
+691|||初等数学复习及研究（平面几何）|||梁绍鸿|||https://book.douban.com/subject/3291114/
+692|||Graph Theory|||Reinhard Diestel|||https://book.douban.com/subject/1921943/
+693|||数学那玩意|||韩旭|||https://book.douban.com/subject/5388389/
+694|||无限之书：从宇宙边界到人类极限|||约翰·D.巴罗(John D. Barrow)|||https://book.douban.com/subject/26891198/
+695|||复变函数论|||钟玉泉|||https://book.douban.com/subject/1169435/
+696|||吉米多维奇数学分析习题集题解|||郭大钧、费定晖、周学圣、邵品琮|||https://book.douban.com/subject/1204448/
+697|||自然之数|||伊恩·斯图尔特|||https://book.douban.com/subject/1982917/
+698|||Inside Interesting Integrals|||Paul J. Nahin|||https://book.douban.com/subject/25987021/
+699|||培养几何直觉的100道趣题|||皮埃尔·贝洛坎|||https://book.douban.com/subject/1840992/
+700|||流形拓扑学|||马天|||https://book.douban.com/subject/5277829/
+701|||金融数学|||Joseph Stampfli、Victor Goodman|||https://book.douban.com/subject/1146446/
+702|||谐振仪 音乐数学原理的可视化向导|||安东尼·艾希顿|||https://book.douban.com/subject/10511216/
+703|||离散数学教程|||耿素云、屈婉玲、王捍贫|||https://book.douban.com/subject/1230394/
+704|||欧几里得在中国|||[荷] 安国风|||https://book.douban.com/subject/3766398/
+705|||数理金融引论|||E.T.道林|||https://book.douban.com/subject/1230469/
+706|||复分析|||阿尔福斯|||https://book.douban.com/subject/1230127/
+707|||旋量代数与李群、李代数|||戴建生|||https://book.douban.com/subject/25866583/
+708|||随机金融基础|||施利亚耶夫|||https://book.douban.com/subject/3014203/
+709|||无穷小计算|||J.迪厄多内|||https://book.douban.com/subject/10558598/
+710|||勾股定理|||Eli Maor|||https://book.douban.com/subject/4842265/
+711|||Combinatorial Optimization|||Christos H. Papadimitriou、Kenneth Steiglitz|||https://book.douban.com/subject/1823805/
+712|||趣味几何学|||别莱利曼(苏)|||https://book.douban.com/subject/1078706/
+713|||精通MATLAB R2011a|||张志涌 等|||https://book.douban.com/subject/7046813/
+714|||射影几何趣谈|||冯克勤|||https://book.douban.com/subject/10828579/
+715|||线性代数与解析几何|||俞正光等|||https://book.douban.com/subject/1310376/
+716|||线性代数|||李炯生、查建国|||https://book.douban.com/subject/1516607/
+717|||Calculus|||Gilbert Strang|||https://book.douban.com/subject/1781319/
+718|||数学真好玩|||安娜·伽拉佐利|||https://book.douban.com/subject/4899412/
+719|||数字密码|||尼德曼|||https://book.douban.com/subject/1884435/
+720|||统计学及其应用|||萨拉·博斯劳 (Sarah Boslaugh)|||https://book.douban.com/subject/26856715/
+721|||平面几何中的小花|||单墫|||https://book.douban.com/subject/2316108/
+722|||集合论基础|||A.Shen、N.K.Vereshchagin|||https://book.douban.com/subject/25739302/
+723|||数学万花筒2|||斯图尔特|||https://book.douban.com/subject/10482113/
+724|||数理统计学导论（原书第7版）|||（美）霍格|||https://book.douban.com/subject/26380308/
+725|||数理统计(第2版)|||（美）邵军 (Jun Shao)|||https://book.douban.com/subject/4136490/
+726|||3-8岁儿童的数学经验|||罗莎琳德·查尔斯沃斯|||https://book.douban.com/subject/2990698/
+727|||基础代数学|||项武义|||https://book.douban.com/subject/1579064/
+728|||The Computational Beauty of Nature|||Gary William Flake|||https://book.douban.com/subject/1458241/
+729|||抽象代数基础|||李克正|||https://book.douban.com/subject/2052836/
+730|||数学思想史|||王树禾|||https://book.douban.com/subject/1106575/
+731|||The Geometry of Schemes|||David Eisenbud、Joe Harris|||https://book.douban.com/subject/1775437/
+732|||A First Course in Optimization Theory|||Rangarajan K. Sundaram|||https://book.douban.com/subject/2133446/
+733|||程序员的数学思维修炼（趣味解读）|||周颖|||https://book.douban.com/subject/25854719/
+734|||初等数论|||闵嗣鹤|||https://book.douban.com/subject/1239910/
+735|||数学在19世纪的发展（第二卷）|||F.克莱因(Felix Klein)|||https://book.douban.com/subject/6990041/
+736|||Calculus, Vol. 1|||Tom M. Apostol|||https://book.douban.com/subject/1987206/
+737|||数值分析|||金凯德|||https://book.douban.com/subject/1453848/
+738|||The Shape of Space (Pure and Applied Mathematics)|||Jeffrey R. Weeks|||https://book.douban.com/subject/1799284/
+739|||引人入胜的数学趣题|||马丁・加德纳|||https://book.douban.com/subject/1029293/
+740|||千年难题|||Keith J. Devlin (基思·德夫林)|||https://book.douban.com/subject/2084363/
+741|||The Theory That Would Not Die|||Sharon Bertsch McGrayne|||https://book.douban.com/subject/6399608/
+742|||高等代数|||胡适耕|||https://book.douban.com/subject/1999382/
+743|||解析函数论初步|||H.嘉当|||https://book.douban.com/subject/3135003/
+744|||Computers and Intractability|||M R Garey、D S Johnson|||https://book.douban.com/subject/2330824/
+745|||传奇数学家华罗庚|||丘成桐、杨乐、季理真|||https://book.douban.com/subject/5282719/
+746|||植物的算法美|||（加）普鲁辛凯维奇，（加）林德梅叶|||https://book.douban.com/subject/3117569/
+747|||华罗庚|||王元|||https://book.douban.com/subject/1078545/
+748|||幻想数学大战4|||李学权|||https://book.douban.com/subject/3930341/
+749|||伽罗瓦传|||A.达尔玛|||https://book.douban.com/subject/3302970/
+750|||Mathematics as Metaphor|||Yuri I. Manin|||https://book.douban.com/subject/5333693/
+751|||数学魔法|||卡尔文·克劳森|||https://book.douban.com/subject/1391763/
+752|||代数曲线|||P.格列菲斯|||https://book.douban.com/subject/1237768/
+753|||儿童枕边数学书|||[美]劳拉.欧文德克 著、[美]吉姆.佩洛特 绘|||https://book.douban.com/subject/26678379/
+754|||数学锻炼大脑|||(美国)G.波利亚等著、陆柱家译|||https://book.douban.com/subject/1137457/
+755|||从庞加莱到佩雷尔曼|||刘培杰|||https://book.douban.com/subject/6890216/
+756|||代数|||Thomas W.Hungerford|||https://book.douban.com/subject/1230525/
+757|||随机性|||[美] 黛博拉·J. 本内特|||https://book.douban.com/subject/1077838/
+758|||第三次数学危机|||胡作玄|||https://book.douban.com/subject/1847799/
+759|||科学与假设|||彭加勒|||https://book.douban.com/subject/1894641/
+760|||微积分|||沃伯格(Dale Varberg)^柏塞尔(Edwin J.Purcell)^里格登(Steven E.Rigdon)|||https://book.douban.com/subject/6822205/
+761|||帮你学数学|||张景中|||https://book.douban.com/subject/1003301/
+762|||高等数学习题全解指南|||本社|||https://book.douban.com/subject/2112349/
+763|||语言学中的数学方法|||Partee, Barbara H.、Meulen, A.、Wall, R.E.|||https://book.douban.com/subject/3624719/
+764|||幻想数学大战5|||图画树|||https://book.douban.com/subject/3925810/
+765|||啟蒙的符號|||約瑟夫.馬祖爾(Joseph Mazur)|||https://book.douban.com/subject/26293592/
+766|||积分的方法与技巧|||金玉明、顾新身、毛瑞庭|||https://book.douban.com/subject/27021605/
+767|||偏微分方程教程|||Nakhle H. Asmar|||https://book.douban.com/subject/1932861/
+768|||博大精深的素数|||P·里本伯姆|||https://book.douban.com/subject/2027518/
+769|||直观几何（下册）|||D.希尔伯特|||https://book.douban.com/subject/21335109/
+770|||哥德尔不完备定理|||朱水林编著|||https://book.douban.com/subject/1876100/
+771|||The Apprenticeship of a Mathematician|||Andre Weil、Weil、Fellmann|||https://book.douban.com/subject/2336841/
+772|||Mathematica使用指南|||D.尤金|||https://book.douban.com/subject/1117730/
+773|||A Book of Abstract Algebra|||Charles C Pinter|||https://book.douban.com/subject/5458356/
+774|||谁排第一|||Amy N. Langville、Carl D. Meyer|||https://book.douban.com/subject/25915707/
+775|||天地有大美|||(英)格雷厄姆·法米罗|||https://book.douban.com/subject/1841561/
+776|||泛函分析|||胡适耕|||https://book.douban.com/subject/1231341/
+777|||随机过程导论|||(美)Gregory F. Lawler|||https://book.douban.com/subject/5309377/
+778|||物理学家用微分几何|||侯伯元|||https://book.douban.com/subject/1183422/
+779|||Applied Multivariate Statistical Analysis|||Richard A. Johnson、Dean W. Wichern|||https://book.douban.com/subject/2144119/
+780|||微分方程与数学物理问题|||伊布拉基莫夫|||https://book.douban.com/subject/4275120/
+781|||荒岛历险|||李毓佩|||https://book.douban.com/subject/1047734/
+782|||矩阵分析与应用（第2版）|||张贤达|||https://book.douban.com/subject/25811213/
+783|||The Cauchy-Schwarz Master Class|||J. Michael Steele|||https://book.douban.com/subject/2877828/
+784|||The Four Pillars of Geometry|||John Stillwell|||https://book.douban.com/subject/6038164/
+785|||雨林中的欧几里德|||约瑟夫•马祖尔|||https://book.douban.com/subject/1961965/
+786|||离散数学与组合数学|||(美)Ralph P.Grimaldi|||https://book.douban.com/subject/2115207/
+787|||数学物理方程|||谷超豪等[编]|||https://book.douban.com/subject/1130131/
+788|||高等代数学习指导书（下册）|||丘维声|||https://book.douban.com/subject/3753812/
+789|||计算机视觉中的数学方法|||吴福朝|||https://book.douban.com/subject/3107523/
+790|||逻辑推理新趣题|||乔治J・萨黑斯|||https://book.douban.com/subject/1081676/
+791|||10000个科学难题（数学卷）|||“10000个科学难题”数学编委会|||https://book.douban.com/subject/3795165/
+792|||Euler's Gem|||David S. Richeson|||https://book.douban.com/subject/3725014/
+793|||计算理论基础|||Martin Davis、Ron Sigal、ELAINE J. WEYUKER|||https://book.douban.com/subject/3605188/
+794|||漫画统计学之因子分析|||(日)高桥信|||https://book.douban.com/subject/4010145/
+795|||更高更妙的高中数学思想与方法|||蔡小雄|||https://book.douban.com/subject/4048309/
+796|||线性规划导论|||瓦泽斯坦|||https://book.douban.com/subject/1446283/
+797|||数理金融初步|||罗斯|||https://book.douban.com/subject/1281536/
+798|||七巧板、九连环和华容道|||吴鹤龄|||https://book.douban.com/subject/1231234/
+799|||通俗数学名著译丛--数学趣闻集锦(上)|||[美] T·帕帕斯|||https://book.douban.com/subject/2019406/
+800|||MATLAB编程|||查普曼|||https://book.douban.com/subject/1513863/
+801|||解析几何|||尤承业|||https://book.douban.com/subject/1253554/
+802|||奇妙而有趣的几何|||戴维·韦尔斯|||https://book.douban.com/subject/1820045/
+803|||数学分析（下册）|||陈纪修、於崇华、金路|||https://book.douban.com/subject/1239801/
+804|||数学乐旅|||老摇|||https://book.douban.com/subject/2061854/
+805|||纳什博弈论论文集|||纳什 (JOHN F.NASH.JR)|||https://book.douban.com/subject/1423046/
+806|||故事中的数学|||谈祥柏|||https://book.douban.com/subject/1254231/
+807|||Foundations of Modern Analysis|||Avner Friedman|||https://book.douban.com/subject/3150077/
+808|||高等微积分（第3版修订版）|||高木贞治|||https://book.douban.com/subject/6730325/
+809|||数|||（美）约翰·塔巴克|||https://book.douban.com/subject/3017087/
+810|||麦克斯韦方程直观|||丹尼尔·弗雷希 (Daniel Fleisch)|||https://book.douban.com/subject/25980102/
+811|||线性代数|||居余马|||https://book.douban.com/subject/1231947/
+812|||How to Bake Pi|||Eugenia Cheng|||https://book.douban.com/subject/26423895/
+813|||童趣逻辑|||陈宗明、贝新祯|||https://book.douban.com/subject/1825432/
+814|||Statistics for Experimenters|||George E. P. Box、J. Stuart Hunter、William G. Hunter|||https://book.douban.com/subject/1775779/
+815|||超级数字天才|||伊恩·艾瑞斯|||https://book.douban.com/subject/3187204/
+816|||Introduction to Lie Algebras and Representation Theory|||J.E. Humphreys|||https://book.douban.com/subject/1823201/
+817|||Numerical Methods in Finance and Economics|||Paolo Brandimarte|||https://book.douban.com/subject/2135730/
+818|||高等数学精选习题解析|||林源渠 编|||https://book.douban.com/subject/6801910/
+819|||回归分析|||谢宇|||https://book.douban.com/subject/4933040/
+820|||An Introduction to Measure Theory|||Terrence Tao|||https://book.douban.com/subject/7062228/
+821|||天哪!数学原来可以这样学|||(日)野口哲典|||https://book.douban.com/subject/3664681/
+822|||高等数学讲义 上册|||樊映川|||https://book.douban.com/subject/1192277/
+823|||拓扑实验|||(美)巴尔|||https://book.douban.com/subject/1543523/
+824|||常微分方程|||王高雄 编|||https://book.douban.com/subject/1954348/
+825|||数学旅行家|||（美）卡尔文・C・克劳森|||https://book.douban.com/subject/1003763/
+826|||《上初中必读的数学漫画1》|||(韩)高允坤|译者:(韩)姜林权|||https://book.douban.com/subject/4704287/
+827|||高等数理统计学|||陈希孺|||https://book.douban.com/subject/4102672/
+828|||多元统计分析导论|||(美)T.W.Anderson|||https://book.douban.com/subject/5362861/
+829|||数学的故事|||[英]伊恩·斯图尔特|||https://book.douban.com/subject/25735387/
+830|||康托的无穷的数学和哲学|||（美）道本|||https://book.douban.com/subject/3069699/
+831|||金融衍生产品定价的数学模型与案例分析|||姜礼尚、徐承龙、任学敏、李少华|||https://book.douban.com/subject/3180315/
+832|||应用多元统计分析|||高惠璇|||https://book.douban.com/subject/1239695/
+833|||复变函数教程|||方企勤|||https://book.douban.com/subject/1230380/
+834|||概率论与数理统计教程|||茆诗松、程依明、濮晓龙|||https://book.douban.com/subject/19962478/
+835|||经济数学|||E·罗伊·温特劳布|||https://book.douban.com/subject/1133593/
+836|||近世代数初步|||石生明|||https://book.douban.com/subject/1833230/
+837|||常微分方程与动力系统|||盖拉徳·泰休|||https://book.douban.com/subject/6434057/
+838|||Where Mathematics Come From|||George Lakoff、Rafael Nuñez|||https://book.douban.com/subject/1772577/
+839|||图解数学学习法|||畑村洋太郎|||https://book.douban.com/subject/2970298/
+840|||The Mathematics of Gambling|||Edward Thorp|||https://book.douban.com/subject/4273197/
+841|||蝴蝶效应之谜：走近分形与混沌|||张天蓉|||https://book.douban.com/subject/24844888/
+842|||启发每个人思维的数学小书|||【美】莉莉安•李伯 著  休•李伯 绘|||https://book.douban.com/subject/23038609/
+843|||数学证明|||萧文强|||https://book.douban.com/subject/3069830/
+844|||代数数论|||诺伊基希|||https://book.douban.com/subject/2013542/
+845|||复变函数与积分变换|||雷英杰、白艳萍、杨明、白艳萍、杨明、雷英杰|||https://book.douban.com/subject/1291917/
+846|||天空中的圆周率|||(美)约翰.巴罗|||https://book.douban.com/subject/1061771/
+847|||概率论|||何书元编|||https://book.douban.com/subject/1729344/
+848|||童心与发现|||梁美灵、王则柯|||https://book.douban.com/subject/2092423/
+849|||高等代数习题集|||〔苏〕法杰耶夫， 索明斯基著|||https://book.douban.com/subject/20391533/
+850|||数独|||萨姆·格瑞菲斯·琼斯|||https://book.douban.com/subject/1704671/
+851|||分析学|||Elliott H. Lieb、Michael Loss|||https://book.douban.com/subject/1953108/
+852|||Algebraic Curves|||William Fulton|||https://book.douban.com/subject/1440977/
+853|||数学丑闻|||(美)西奥妮·帕帕斯|||https://book.douban.com/subject/2987699/
+854|||Grothendieck-Serre Correspondence|||Jean-Pierre Serre、Catriona Maclean Pierre Colmez|||https://book.douban.com/subject/3732653/
+855|||微积分入门Ⅱ多元微积分|||(日)小平邦彦|||https://book.douban.com/subject/3171451/
+856|||计算共形几何|||顾险峰、丘成桐|||https://book.douban.com/subject/3045233/
+857|||高等代数解题方法|||许甫华、张贤科|||https://book.douban.com/subject/1721852/
+858|||数理逻辑引论|||王宪钧|||https://book.douban.com/subject/1434170/
+859|||有限群的线性表示|||[法] Jean-Pierre Serre|||https://book.douban.com/subject/2196426/
+860|||身边的数学|||（美）皮纳德|||https://book.douban.com/subject/1231982/
+861|||西方名著入门 第8卷 数学|||罗伯特·哈钦斯 莫蒂默·艾德勒 主编、克利夫顿·法迪曼 副主编|||https://book.douban.com/subject/3390802/
+862|||陈省身传|||张奠宙、王善平|||https://book.douban.com/subject/1661462/
+863|||混沌学引论|||(德) H.G.舒斯特|||https://book.douban.com/subject/4732120/
+864|||基础几何学|||项武义|||https://book.douban.com/subject/1579065/
+865|||绳长之谜|||罗勃・伊斯特威、杰里米・温德姆、谈欣、谈祥柏|||https://book.douban.com/subject/1220416/
+866|||数学帮帮忙|||【美】玛莎·F布兰卡、【美】丽萨·伍德拉夫|||https://book.douban.com/subject/24753130/
+867|||数学 七年级 上册|||课程教材研究所 中学数学课程教材研究开发中心 编|||https://book.douban.com/subject/1680634/
+868|||数学史上的里程碑|||伊夫斯 Eves,H.、H.W.伊弗斯、H.伊夫斯、Howard W.Eves|||https://book.douban.com/subject/2567921/
+869|||Linear Algebra|||Georgi E. Shilov|||https://book.douban.com/subject/2144925/
+870|||同调论|||姜伯驹|||https://book.douban.com/subject/1805814/
+871|||Coding the Matrix|||Philip N. Klein|||https://book.douban.com/subject/24873557/
+872|||线性代数及其应用导论|||Tom M.Apostol|||https://book.douban.com/subject/5344905/
+873|||The Red Book of Varieties and Schemes|||David Mumford|||https://book.douban.com/subject/3425284/
+874|||流形的拓扑学|||苏竞存|||https://book.douban.com/subject/1483712/
+875|||Proofs without Words II|||Roger B. Nelsen|||https://book.douban.com/subject/2053681/
+876|||代数学教程|||R.戈德门特|||https://book.douban.com/subject/24748551/
+877|||微观金融学及其数学基础|||2008-5|||https://book.douban.com/subject/3079022/
+878|||An Elementary Introduction to the Wolfram Language|||Stephen Wolfram|||https://book.douban.com/subject/26682029/
+879|||MOOC概率考题书|||叶丙成、赖以威|||https://book.douban.com/subject/27036683/
+880|||Differential Topology|||Victor Guillemin、Alan Pollack|||https://book.douban.com/subject/2373987/
+881|||李毓佩数学童话集|||李毓佩|||https://book.douban.com/subject/6736502/
+882|||Mathematica演示项目笔记|||吴飞|||https://book.douban.com/subject/4908229/
+883|||Multivariable Calculus (6th Edition)|||C. Henry Edwards、David E. Penney|||https://book.douban.com/subject/3098374/
+884|||离散数学|||左孝凌、刘永才|||https://book.douban.com/subject/1245789/
+885|||有趣得让人睡不着的数学|||樱井进|||https://book.douban.com/subject/11613706/
+886|||Evolutionary Games and Population Dynamics|||Josef Hofbauer、Karl Sigmund|||https://book.douban.com/subject/1448652/
+887|||稳操胜券（下册）|||[美] 埃尔温·伯莱坎普、约翰·康威、理查德·盖伊|||https://book.douban.com/subject/1082797/
+888|||Linear Algebra, 4th Edition|||Stephen H. Friedberg、Arnold J. Insel、Lawrence E. Spence|||https://book.douban.com/subject/2080373/
+889|||大自然的常数|||（英）约翰·巴罗|||https://book.douban.com/subject/1809771/
+890|||数学的奥妙|||伊库纳契夫|||https://book.douban.com/subject/2115368/
+891|||数学王国历险记|||李毓佩|||https://book.douban.com/subject/3669739/
+892|||Testing Statistical Hypotheses|||Erich L. Lehmann、Joseph P. Romano|||https://book.douban.com/subject/1652050/
+893|||概率与位势（第Ⅰ卷）|||高等教育出版社|||https://book.douban.com/subject/10455813/
+894|||深入浅出数字信号处理|||江志红|||https://book.douban.com/subject/10486319/
+895|||数学分析原理与方法|||胡适耕、张显文|||https://book.douban.com/subject/3117585/
+896|||概率与统计|||郑忠国、陈家鼎|||https://book.douban.com/subject/2261577/
+897|||从库默尔到朗兰兹|||邹青|||https://book.douban.com/subject/25928542/
+898|||初等数学研究|||李长明、周焕山|||https://book.douban.com/subject/1649230/
+899|||萨姆.劳埃德的数学趣题续编|||萨姆・劳埃德|||https://book.douban.com/subject/1079701/
+900|||Thirty-three Miniatures|||Jiří Matoušek|||https://book.douban.com/subject/4887757/
+901|||历届CMO中国数学奥林匹克试题集|||刘培杰 编|||https://book.douban.com/subject/3344302/
+902|||小波分析导论|||崔锦泰|||https://book.douban.com/subject/1090006/
+903|||数学之旅|||[英]Tom Jackson|||https://book.douban.com/subject/25927293/
+904|||现代数学手册·近代数学卷|||徐利治主编|||https://book.douban.com/subject/1238019/
+905|||离散数学及其应用(原书第4版)|||Kenneth H.Rosen|||https://book.douban.com/subject/1231690/
+906|||A Course in Game Theory|||Martin J. Osborne、Ariel Rubinstein|||https://book.douban.com/subject/1466989/
+907|||Theoretical Statistics|||Robert W. Keener|||https://book.douban.com/subject/4355100/
+908|||让你爱上数学的50个游戏 藏在魔术、纸牌、体育项目中的秘诀|||古尔德|||https://book.douban.com/subject/26660342/
+909|||数学模型选谈|||华罗庚|||https://book.douban.com/subject/6751237/
+910|||泛函分析讲义（上册）|||张恭庆、林源渠|||https://book.douban.com/subject/1209013/
+911|||数学思想概论-数量与数量关系的抽象（第1辑）|||史宁中|||https://book.douban.com/subject/3509402/
+912|||变量中的常量|||张远南|||https://book.douban.com/subject/2014481/
+913|||An Invitation to Algebraic Geometry|||Karen E. Smith、Lauri Kahanpää、Pekka Kekäläinen、William Traves|||https://book.douban.com/subject/4799070/
+914|||谱理论讲义|||J.迪斯米埃|||https://book.douban.com/subject/3422529/
+915|||Things to Make and Do in the Fourth Dimension|||Matt Parker|||https://book.douban.com/subject/26324016/
+916|||高等代数|||姚慕生|||https://book.douban.com/subject/1323727/
+917|||数学物理趣谈|||张天蓉|||https://book.douban.com/subject/26379059/
+918|||并不神秘的非欧几何|||李忠|||https://book.douban.com/subject/4909325/
+919|||生活的数学|||罗浩源|||https://book.douban.com/subject/1131184/
+920|||常微分方程理论中的几何方法 第2版|||V.I.ARNOLD|||https://book.douban.com/subject/1239486/
+921|||编程原本|||Alexander Stepanov、Paul McJones|||https://book.douban.com/subject/7564093/
+922|||复分析|||S.lang|||https://book.douban.com/subject/1231202/
+923|||儿童怎样学习数学|||R.W.科普兰|||https://book.douban.com/subject/3334813/
+924|||K-theory|||Michael Atiyah|||https://book.douban.com/subject/3438286/
+925|||高等数学基础|||苏德矿、余继光|||https://book.douban.com/subject/26616028/
+926|||数值方法和MATLAB实现与应用|||拉克唐瓦尔德|||https://book.douban.com/subject/1184779/
+927|||普通高中课程标准实验教科书数学必修4|||课程教材研究所 中学数学课程教材研究开发中心 编|||https://book.douban.com/subject/6826132/
+928|||数学写真集（第1季）|||Roger B.Nelsen|||https://book.douban.com/subject/25970530/
+929|||基础分析学之一|||项武义|||https://book.douban.com/subject/1579066/
+930|||幻想数学大战|||图画树|||https://book.douban.com/subject/5332522/
+931|||遗传算法的数学基础|||张文修|||https://book.douban.com/subject/1230387/
+932|||当代数学精英(菲尔兹奖得主及其建树与见解)|||李心灿…(等)编|||https://book.douban.com/subject/1520463/
+933|||随机过程|||伊藤 清(Kiyoshi Ito)|||https://book.douban.com/subject/4709319/
+934|||概率论与数理统计教程习题与解答|||茆诗松|||https://book.douban.com/subject/1670370/
+935|||Doing Math with Python|||Amit Saha|||https://book.douban.com/subject/26284932/
+936|||How to Think Like a Mathematician|||Dr Kevin Houston|||https://book.douban.com/subject/4462934/
+937|||世界数学史简编|||梁宗巨|||https://book.douban.com/subject/6977792/
+938|||最后的消遣|||马丁·加德纳|||https://book.douban.com/subject/5417227/
+939|||Mathematical Physics|||Sadri Hassani|||https://book.douban.com/subject/1981193/
+940|||C数值算法|||(美国)普雷斯等著、傅祖芸等译|||https://book.douban.com/subject/1246353/
+941|||黎曼几何|||Manfredo Perdigao do Carmo|||https://book.douban.com/subject/3132281/
+942|||初中数学解题技巧|||陈汝作、等|||https://book.douban.com/subject/1025218/
+943|||直来直去的微积分|||张景中 编|||https://book.douban.com/subject/4863840/
+944|||彩图版李毓佩数学故事系列·数学西游记|||李毓佩|||https://book.douban.com/subject/3669728/
+945|||学数学，就这么简单！|||漱山士郎|||https://book.douban.com/subject/6847426/
+946|||Geometric Folding Algorithms|||Erik D Demaine|||https://book.douban.com/subject/3216002/
+947|||物理学中的张量分析|||2008-11|||https://book.douban.com/subject/3546883/
+948|||Littlewood 数学随笔集|||J. E. 李特尔伍德|||https://book.douban.com/subject/25780631/
+949|||集合论|||郝兆宽、杨跃|||https://book.douban.com/subject/26307450/
+950|||非线性动力学定性理论方法（第一卷）|||L.P.Shilnikov|||https://book.douban.com/subject/5308609/
+951|||Riemann Surfaces|||Simon Donaldson|||https://book.douban.com/subject/6849678/
+952|||高等数学（上）|||李忠 编|||https://book.douban.com/subject/1231164/
+953|||趣味数学辞典|||谈祥柏|||https://book.douban.com/subject/3098334/
+954|||剑桥科学史（第五卷）近代物理科学与数学科学|||玛丽·乔·奈 编|||https://book.douban.com/subject/26318576/
+955|||从前有个数|||(美)约翰·阿伦·保罗斯|||https://book.douban.com/subject/1860178/
+956|||高等数学引论（第二册）|||华罗庚|||https://book.douban.com/subject/3515082/
+957|||广义函数论|||(法) 施瓦兹|||https://book.douban.com/subject/4738427/
+958|||Spin Geometry|||H. Blaine Lawson、Marie-Louise Michelsohn|||https://book.douban.com/subject/2537736/
+959|||数学分析讲义（第二册）|||陈天权|||https://book.douban.com/subject/4712031/
+960|||发现数学原来数学这么有趣|||帕帕斯|||https://book.douban.com/subject/3076907/
+961|||概率论习题集|||[俄]施利亚耶夫|||https://book.douban.com/subject/3002921/
+962|||冒险岛数学奇遇记3|||杨竹君|||https://book.douban.com/subject/6511184/
+963|||贝叶斯统计学 原理、模型及应用|||S. James Press|||https://book.douban.com/subject/26378701/
+964|||现代数论经典引论 第2版|||Kenneth. Ireland|||https://book.douban.com/subject/1239356/
+965|||数学百科全书第一卷|||张鸿林杜小杨夏墨英|||https://book.douban.com/subject/1615234/
+966|||数理统计学导论|||霍格|||https://book.douban.com/subject/1577547/
+967|||复分析导论|||Б.В.沙巴特|||https://book.douban.com/subject/3034327/
+968|||计算理论导引|||[美]Michael Sipser|||https://book.douban.com/subject/1852515/
+969|||Mathematical Apocrypha|||Steven G. Krantz|||https://book.douban.com/subject/3219825/
+970|||李群、李代数和表示论|||Brian C. Hall|||https://book.douban.com/subject/2307220/
+971|||线性空间引论(第2版)|||E.希洛夫|||https://book.douban.com/subject/24878451/
+972|||Linear Algebra (2nd Edition)|||Kenneth M Hoffman、Ray Kunze|||https://book.douban.com/subject/3075012/
+973|||世界著名三角学经典著作钩沉|||《世界著名三角学经典著作钩沉》编写组 编|||https://book.douban.com/subject/5960170/
+974|||随机过程论|||[俄罗斯]布林斯基、施利亚耶夫|||https://book.douban.com/subject/3009891/
+975|||印度数学|||哈尔滨出版社|||https://book.douban.com/subject/24784787/
+976|||代数结构与拓扑结构|||H.Cartan等|||https://book.douban.com/subject/3003162/
+977|||曲面动力系统|||叶彦谦|||https://book.douban.com/subject/5340284/
+978|||毕达哥拉斯和毕达哥拉斯学派|||[法]马泰伊|||https://book.douban.com/subject/1130171/
+979|||Linear Algebra For Dummies|||Mary Jane Sterling|||https://book.douban.com/subject/4564355/
+980|||范畴论|||贺伟|||https://book.douban.com/subject/1894611/
+981|||数学大师启示录|||陈诗谷|||https://book.douban.com/subject/1226890/
+982|||如何培养学生的数感|||[英] 朱莉娅·安吉莱瑞(Julia Anghileri)|||https://book.douban.com/subject/2122670/
+983|||欲望都市数学版：城市生活中的数学建模|||John A. Adam|||https://book.douban.com/subject/26631600/
+984|||Introductory Lectures on Convex Optimization|||Y. Nesterov|||https://book.douban.com/subject/1834645/
+985|||数学词典|||谷超豪|||https://book.douban.com/subject/1062101/
+986|||群论|||韩其智、孙洪洲|||https://book.douban.com/subject/3584574/
+987|||An Introduction to Mathematical Analysis for Economic Theory and Econometrics|||Dean Corbae、Maxwell B. Stinchcombe、Juraj Zeman|||https://book.douban.com/subject/4476005/
+988|||统计学漫话|||陈希孺、苏淳|||https://book.douban.com/subject/26875220/
+989|||交换代数与同调代数|||李克正|||https://book.douban.com/subject/1555092/
+990|||Structure and Interpretation of Classical Mechanics|||Gerald Jay Sussman、Jack Wisdom|||https://book.douban.com/subject/1787534/
+991|||微积分|||James Stewart|||https://book.douban.com/subject/3887490/
+992|||你一定爱读的极简统计学|||小岛宽之|||https://book.douban.com/subject/26323362/
+993|||数学聊斋-(第二版)|||王树禾|||https://book.douban.com/subject/1231235/
+994|||Fluid Concepts And Creative Analogies|||Douglas R. Hofstadter|||https://book.douban.com/subject/1982825/
+995|||A Concise Course in Algebraic Topology|||J. P. May|||https://book.douban.com/subject/2857203/
+996|||罗素的故事|||Apostolos Doxiadis、Christos H. Papadimitriou|||https://book.douban.com/subject/6097348/
+997|||变分法基础|||老大中|||https://book.douban.com/subject/2215695/
+998|||计算复杂性导论|||堵丁柱、葛可一、王洁|||https://book.douban.com/subject/1241281/
+999|||123 和＋－ ×÷ 的数学旅行|||[美]大卫·伯林斯基|||https://book.douban.com/subject/26293241/
+1000|||拓扑空间论|||儿玉之宏|||https://book.douban.com/subject/1230327/

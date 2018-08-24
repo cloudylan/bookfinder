@@ -1,0 +1,997 @@
+1|||红楼梦|||[清] 曹雪芹 著、高鹗 续|||https://book.douban.com/subject/1007305/
+2|||山海经全译|||袁珂 译注|||https://book.douban.com/subject/26889848/
+3|||浮生六记|||（清）沈复|||https://book.douban.com/subject/1088581/
+4|||人间词话|||王国维|||https://book.douban.com/subject/1203426/
+5|||金瓶梅|||兰陵笑笑生|||https://book.douban.com/subject/1456692/
+6|||三国演义（全二册）|||[明] 罗贯中|||https://book.douban.com/subject/1019568/
+7|||诗经|||孔丘 编订|||https://book.douban.com/subject/1883245/
+8|||世说新语|||<南朝宋>刘义庆 著|||https://book.douban.com/subject/1147193/
+9|||陶庵梦忆 西湖梦寻|||[明] 张岱|||https://book.douban.com/subject/1053088/
+10|||古文观止|||吴楚材、吴调侯|||https://book.douban.com/subject/1014561/
+11|||闲情偶寄|||(清)李渔|||https://book.douban.com/subject/1007196/
+12|||东京梦华录|||孟元老|||https://book.douban.com/subject/4903692/
+13|||声律启蒙|||车万育|||https://book.douban.com/subject/1528482/
+14|||山海经|||佚名|||https://book.douban.com/subject/1823533/
+15|||牡丹亭|||汤显祖|||https://book.douban.com/subject/1073708/
+16|||既见君子|||张定浩|||https://book.douban.com/subject/25744944/
+17|||访古学诗万里行|||山东大学杜甫全集校注组编著|||https://book.douban.com/subject/5388160/
+18|||叶嘉莹说汉魏六朝诗|||叶嘉莹|||https://book.douban.com/subject/1961670/
+19|||大好河山可骑驴|||王这么|||https://book.douban.com/subject/26791617/
+20|||唐宋词十七讲|||叶嘉莹|||https://book.douban.com/subject/2005705/
+21|||唐诗三百首|||蘅塘退士、陈婉俊|||https://book.douban.com/subject/1013267/
+22|||菜根谭|||洪应明|||https://book.douban.com/subject/1286547/
+23|||子不语|||(清)袁枚|||https://book.douban.com/subject/1070272/
+24|||风诗的情韵|||李山|||https://book.douban.com/subject/25875151/
+25|||六神磊磊读唐诗|||六神磊磊|||https://book.douban.com/subject/27065497/
+26|||中国古典诗词感发|||顾随|||https://book.douban.com/subject/10796035/
+27|||夜航船|||张岱|||https://book.douban.com/subject/1264104/
+28|||楚辞|||屈原|||https://book.douban.com/subject/1393724/
+29|||才女之累|||[美] 艾朗诺|||https://book.douban.com/subject/27011516/
+30|||西游记（全二册）|||吴承恩|||https://book.douban.com/subject/1029553/
+31|||庄子|||孙通海 译注|||https://book.douban.com/subject/2046236/
+32|||古詩源|||[清] 沈德潛|||https://book.douban.com/subject/1081144/
+33|||传神文笔足千秋——《红楼梦》人物论|||李希凡、李萌|||https://book.douban.com/subject/27054215/
+34|||詩經注析（全二冊）|||程俊英、蒋见元|||https://book.douban.com/subject/1002513/
+35|||唐诗鉴赏辞典|||萧涤非、等|||https://book.douban.com/subject/1021990/
+36|||文心雕龙注(上下)|||刘勰、范文澜  注|||https://book.douban.com/subject/1181370/
+37|||阅微草堂笔记|||纪昀|||https://book.douban.com/subject/1626883/
+38|||老残游记|||[清] 刘鹗|||https://book.douban.com/subject/1119590/
+39|||宋诗选：傅抱石插图珍藏版|||[宋]苏轼等|||https://book.douban.com/subject/26986992/
+40|||给孩子的古诗词·讲诵版|||叶嘉莹|||https://book.douban.com/subject/1676626/
+41|||儒林外史|||吴敬梓|||https://book.douban.com/subject/1042053/
+42|||水浒传（全二册）|||[明] 施耐庵、罗贯中|||https://book.douban.com/subject/1008357/
+43|||世說新語箋疏（全三冊）|||余嘉锡、none|||https://book.douban.com/subject/2377241/
+44|||桃花扇|||孔尚任|||https://book.douban.com/subject/1021709/
+45|||诗说|||潘雨廷|||https://book.douban.com/subject/27082273/
+46|||宋诗选注|||钱钟书|||https://book.douban.com/subject/1076598/
+47|||太平广记（全十册）|||（宋）李昉  等编|||https://book.douban.com/subject/1142794/
+48|||聊斋志异|||蒲松龄|||https://book.douban.com/subject/1098643/
+49|||小窗幽记|||陈继儒|||https://book.douban.com/subject/1491630/
+50|||宋词鉴赏辞典|||夏承焘、等|||https://book.douban.com/subject/1132550/
+51|||镜花缘|||李汝珍|||https://book.douban.com/subject/1144385/
+52|||千秋一寸心|||周汝昌|||https://book.douban.com/subject/1910477/
+53|||海上花列传|||韩邦庆、典耀 整理|||https://book.douban.com/subject/1186176/
+54|||顾随诗词讲记|||顾随 叶嘉莹|||https://book.douban.com/subject/1770652/
+55|||古詩十九首集釋|||隋樹森|||https://book.douban.com/subject/2349498/
+56|||西厢记|||王实甫|||https://book.douban.com/subject/1016631/
+57|||雪隐鹭鸶|||格非|||https://book.douban.com/subject/25934176/
+58|||唐宋诗会意|||邹金灿|||https://book.douban.com/subject/26983150/
+59|||金圣叹批评本水浒传|||施耐庵|||https://book.douban.com/subject/1854151/
+60|||人生若只如初见|||安意如|||https://book.douban.com/subject/1856285/
+61|||幽梦影|||张 潮、孙硕夫|||https://book.douban.com/subject/1204398/
+62|||二十年目睹之怪现状|||吴趼人|||https://book.douban.com/subject/1470622/
+63|||苏辛词说|||顾随 陈均|||https://book.douban.com/subject/26632952/
+64|||宋词三百首|||武玉成，顾丛龙 注|||https://book.douban.com/subject/1006967/
+65|||蒋勋说唐诗|||蒋勋|||https://book.douban.com/subject/10354427/
+66|||诗词会意：周汝昌评点中华好诗词|||周汝昌|||https://book.douban.com/subject/27073506/
+67|||陶渊明集|||逯钦立 校注|||https://book.douban.com/subject/1015104/
+68|||黄霖讲《金瓶梅》（图文典藏本）|||黄霖|||https://book.douban.com/subject/27054217/
+69|||增广贤文|||郭俊峰、张菲洲|||https://book.douban.com/subject/1207847/
+70|||东周列国志（上下）|||冯梦龙、蔡元放|||https://book.douban.com/subject/1185908/
+71|||论语|||中华书局|||https://book.douban.com/subject/1964774/
+72|||人间词话七讲|||叶嘉莹|||https://book.douban.com/subject/25881958/
+73|||叶嘉莹说初盛唐诗|||叶嘉莹|||https://book.douban.com/subject/2775720/
+74|||杜甫诗歌讲演录|||莫砺锋|||https://book.douban.com/subject/2027666/
+75|||迦陵说词讲稿|||叶嘉莹|||https://book.douban.com/subject/2039292/
+76|||中国古典文心|||顾随讲述、叶嘉莹记录|||https://book.douban.com/subject/25819935/
+77|||道德经|||老子|||https://book.douban.com/subject/1059258/
+78|||蘇軾文集（全六冊）|||苏轼|||https://book.douban.com/subject/1017340/
+79|||唐诗百话|||施蛰存|||https://book.douban.com/subject/1049464/
+80|||民国诗学|||潘静如|||https://book.douban.com/subject/27060684/
+81|||宋词背后的秘密|||林玉玫|||https://book.douban.com/subject/26872968/
+82|||叶嘉莹说杜甫诗|||叶嘉莹|||https://book.douban.com/subject/2775787/
+83|||书到今生读已迟|||黄德海|||https://book.douban.com/subject/27046289/
+84|||唐诗三百首新注|||金性尧|||https://book.douban.com/subject/2149452/
+85|||飲水詞箋校|||（清）纳兰性德、赵秀亭（笺校）、冯统一（笺校）|||https://book.douban.com/subject/1420734/
+86|||文選（全六冊）|||萧统|||https://book.douban.com/subject/1469028/
+87|||小词大雅|||(加) 叶嘉莹|||https://book.douban.com/subject/26341367/
+88|||智囊全集|||冯梦龙|||https://book.douban.com/subject/2282706/
+89|||郑国江词画人生|||郑国江|||https://book.douban.com/subject/27021559/
+90|||中国文学的抒情传统|||陈世骧 著、张晖 编|||https://book.douban.com/subject/25907863/
+91|||苏轼词集|||[宋]苏轼、刘石 导读|||https://book.douban.com/subject/3993392/
+92|||洛阳伽蓝记校笺|||（北魏）杨衒之|||https://book.douban.com/subject/1807798/
+93|||烽火与流星|||田晓菲|||https://book.douban.com/subject/4258636/
+94|||板桥杂记|||（清）余怀|||https://book.douban.com/subject/1041585/
+95|||给孩子的古诗词|||叶嘉莹 编|||https://book.douban.com/subject/26606420/
+96|||梦溪笔谈|||（宋）沈括|||https://book.douban.com/subject/1025808/
+97|||吴小如讲杜诗|||吴小如|||https://book.douban.com/subject/19981641/
+98|||诗经译注|||程俊英|||https://book.douban.com/subject/1015541/
+99|||楚辞|||屈原 等|||https://book.douban.com/subject/4917220/
+100|||落尽梨花月又西|||纳兰性德、亦歌|||https://book.douban.com/subject/26653247/
+101|||战国策|||宋韬|||https://book.douban.com/subject/1107841/
+102|||纳兰容若词传|||夏如意、毛晓雯、苏缨|||https://book.douban.com/subject/3994721/
+103|||王维集校注（全四册）|||[唐] 王维 撰、陈铁民 校注|||https://book.douban.com/subject/1005619/
+104|||三言二拍|||冯梦龙|||https://book.douban.com/subject/1881837/
+105|||学诗浅说|||瞿蜕园、周紫宜|||https://book.douban.com/subject/26183860/
+106|||诗里特别有禅|||骆玉明|||https://book.douban.com/subject/24704604/
+107|||无计花间住|||扬之水|||https://book.douban.com/subject/7001042/
+108|||東坡志林|||[宋] 苏轼 撰|||https://book.douban.com/subject/1137681/
+109|||文选（附考异十卷）|||【梁】萧统  编|||https://book.douban.com/subject/27068989/
+110|||唐诗选注|||葛兆光|||https://book.douban.com/subject/2341188/
+111|||在唐诗里孤独漫步套装|||夏昆|||https://book.douban.com/subject/26873181/
+112|||唐诗流变论要|||葛晓音|||https://book.douban.com/subject/27084071/
+113|||稼轩词编年笺注(增订本)|||(宋)辛弃疾|||https://book.douban.com/subject/2226332/
+114|||杜甫|||(美) 洪业|||https://book.douban.com/subject/6429292/
+115|||诗经别裁|||扬之水|||https://book.douban.com/subject/2052471/
+116|||西游补|||董说|||https://book.douban.com/subject/2266558/
+117|||十二楼|||李渔|||https://book.douban.com/subject/1954594/
+118|||阮籍集校注|||[三国·魏] 阮籍、陈伯君 校注|||https://book.douban.com/subject/26690201/
+119|||几生修得到梅花|||陈更|||https://book.douban.com/subject/27065390/
+120|||樂府詩集（全四冊）|||[宋] 郭茂倩 编|||https://book.douban.com/subject/1012560/
+121|||笑林广记|||游戏主人 纂辑、粲然居士 参订、傳财 校点|||https://book.douban.com/subject/1603309/
+122|||万万没想到：《西游记》可以这样读|||李天飞|||https://book.douban.com/subject/26900138/
+123|||围炉夜话|||王永彬|||https://book.douban.com/subject/3223719/
+124|||楚辭補注|||[宋] 洪興祖|||https://book.douban.com/subject/1039315/
+125|||蒋勋说文学|||蒋勋|||https://book.douban.com/subject/25779213/
+126|||蒋勋说宋词|||蒋勋|||https://book.douban.com/subject/10482102/
+127|||长生殿|||洪昇|||https://book.douban.com/subject/1022951/
+128|||晚明小品研究|||吴承学|||https://book.douban.com/subject/1558946/
+129|||文论十笺|||程千帆|||https://book.douban.com/subject/3044836/
+130|||唐宋名家词选|||龙榆生|||https://book.douban.com/subject/1545936/
+131|||诗词格律|||王力|||https://book.douban.com/subject/1045314/
+132|||诗经原始(上下)|||方玉润|||https://book.douban.com/subject/1802061/
+133|||汉魏六朝笔记小说大观|||上海古籍出版社编 ; 王根林等校点|||https://book.douban.com/subject/1593006/
+134|||张岱诗文集（增订本）|||[明]张岱  著、夏咸淳  校点|||https://book.douban.com/subject/26270255/
+135|||诗薮|||胡应麟|||https://book.douban.com/subject/3539936/
+136|||随园诗话（上，下）|||[清] 袁枚|||https://book.douban.com/subject/1045566/
+137|||杜詩詳注（全五冊）|||[唐]杜甫著、[清]仇兆鳌注|||https://book.douban.com/subject/1008023/
+138|||先秦漢魏晉南北朝詩（全三冊）|||逯欽立 輯校|||https://book.douban.com/subject/1040681/
+141|||沧浪诗话校释|||（宋）严羽|||https://book.douban.com/subject/1547110/
+142|||古典学术讲要|||张文江|||https://book.douban.com/subject/4892923/
+143|||古谣谚|||(清)杜文澜|校注:周绍良|||https://book.douban.com/subject/1248549/
+144|||礼与十八世纪的文化转折|||商伟|||https://book.douban.com/subject/19976186/
+145|||搜神記|||干宝 撰|||https://book.douban.com/subject/1958863/
+146|||世说新语（上下）|||朱碧莲，沈海波 译注|||https://book.douban.com/subject/6534693/
+147|||中国文学欣赏举隅|||傅庚生|||https://book.douban.com/subject/1009706/
+148|||古诗今选|||程千帆、沈祖棻 选注|||https://book.douban.com/subject/4736008/
+149|||孙子兵法|||王建国|||https://book.douban.com/subject/2196957/
+150|||叶嘉莹说陶渊明饮酒及拟古诗|||叶嘉莹|||https://book.douban.com/subject/2030606/
+151|||唐宋词心解|||谷卿|||https://book.douban.com/subject/27075644/
+152|||唐宋“古文运动”与士大夫文学|||朱刚|||https://book.douban.com/subject/24298645/
+153|||李渔全集|||李渔|||https://book.douban.com/subject/1511900/
+154|||吕氏春秋|||高诱注、毕沅校正|||https://book.douban.com/subject/2053608/
+155|||无声无光集|||张晖|||https://book.douban.com/subject/22264311/
+156|||汉字的魔方|||葛兆光|||https://book.douban.com/subject/3066095/
+157|||追忆|||[美] 宇文所安|||https://book.douban.com/subject/1038492/
+158|||老子|||[春秋] 李耳|||https://book.douban.com/subject/1287865/
+159|||警世通言|||冯梦龙|||https://book.douban.com/subject/1644403/
+160|||封神演义|||许仲琳|||https://book.douban.com/subject/1009938/
+161|||晚唐风韵：杜牧与李商隐|||葛兆光、戴燕|||https://book.douban.com/subject/1275272/
+162|||古典诗的现代性|||江弱水|||https://book.douban.com/subject/4842455/
+163|||花间集|||赵崇祚|||https://book.douban.com/subject/1773575/
+164|||北宋名家词选讲|||叶嘉莹|||https://book.douban.com/subject/2005704/
+165|||杜甫全集校注|||杜甫|||https://book.douban.com/subject/25809959/
+166|||小山词|||晏几道|||https://book.douban.com/subject/1507657/
+167|||李商隱詩歌集解（全五冊）|||余恕诚、刘学锴|||https://book.douban.com/subject/1012171/
+168|||顾随讲《诗经》|||顾随 讲稿|||https://book.douban.com/subject/24757024/
+169|||叶嘉莹说诗讲稿|||叶嘉莹|||https://book.douban.com/subject/2382393/
+170|||幼学琼林|||程允升|||https://book.douban.com/subject/1817491/
+171|||寒山诗注|||寒山|||https://book.douban.com/subject/1536620/
+172|||草木缘情|||潘富俊|||https://book.douban.com/subject/26354176/
+173|||宋词赏析|||沈祖棻 著|||https://book.douban.com/subject/3191334/
+174|||唐诗三百首|||顾青 编注|||https://book.douban.com/subject/3843961/
+175|||诗境浅说|||俞陛云|||https://book.douban.com/subject/1023735/
+176|||李賀詩歌集注|||[唐] 李贺、[清] 王琦 等注|||https://book.douban.com/subject/2052228/
+177|||知中·一本读懂!山海经|||罗威尔 主编|||https://book.douban.com/subject/26997212/
+178|||李白诗选|||葛景春选注|||https://book.douban.com/subject/1223808/
+179|||世说新语精读|||骆玉明|||https://book.douban.com/subject/2159115/
+180|||金圣叹全集（全六册)|||（清）金圣叹 著、陆林 辑校整理|||https://book.douban.com/subject/3741357/
+181|||唐诗杂论|||闻一多|||https://book.douban.com/subject/1007577/
+182|||唐人小说|||汪辟疆 校录|||https://book.douban.com/subject/2257283/
+183|||文言读本|||朱自清、叶圣陶、吕叔湘|||https://book.douban.com/subject/4238147/
+184|||東坡樂府箋|||[宋] 蘇軾 著、[清] 朱孝藏 編年|||https://book.douban.com/subject/3992177/
+185|||纳兰性德词选|||[清] 纳兰性德 著、张草纫 注评|||https://book.douban.com/subject/1062971/
+186|||徐霞客游记|||徐弘祖|||https://book.douban.com/subject/1559380/
+187|||情关西游|||张怡微|||https://book.douban.com/subject/26799357/
+188|||剪灯新话|||瞿佑、李昌祺、邵景詹|||https://book.douban.com/subject/3312060/
+189|||舒芜说诗|||舒芜|||https://book.douban.com/subject/26713925/
+190|||老庄选诠|||李凯|||https://book.douban.com/subject/27075633/
+191|||昭明文选（全五册）|||[南朝梁] 萧统 编|||https://book.douban.com/subject/1073752/
+192|||全唐诗（全二十五册）|||[清] 彭定求 編|||https://book.douban.com/subject/1161592/
+193|||再生缘|||[清] 陈端生 著、郭沫若 校订|||https://book.douban.com/subject/1133565/
+194|||唐五代志怪传奇叙录（增订本）|||李剑国|||https://book.douban.com/subject/26996765/
+195|||纳兰词集|||[清]纳兰性德、张草纫 导读|||https://book.douban.com/subject/3993396/
+196|||断鸿声远长天暮：回到宋词现场|||李晓润|||https://book.douban.com/subject/27077421/
+197|||汉魏六朝诗选|||余冠英 选注|||https://book.douban.com/subject/1891441/
+198|||全宋词（共5册）|||唐圭璋 编|||https://book.douban.com/subject/1027880/
+199|||风景旧曾谙|||叶嘉莹|||https://book.douban.com/subject/3183666/
+200|||金瓶梅白话全本|||兰陵笑笑生|||https://book.douban.com/subject/26649648/
+201|||万叶集|||[日本] 佚名|||https://book.douban.com/subject/1066538/
+202|||晚唐|||[美] 宇文所安|||https://book.douban.com/subject/5914507/
+203|||金瓶梅|||孙述宇|||https://book.douban.com/subject/6105391/
+204|||醒世恒言（上下）|||冯梦龙|||https://book.douban.com/subject/1119476/
+205|||初刻拍案惊奇|||[明] 凌濛初|||https://book.douban.com/subject/1109137/
+206|||陶庵梦忆|||张岱|||https://book.douban.com/subject/7057187/
+207|||盛唐诗|||（美）宇文所安|||https://book.douban.com/subject/1010286/
+208|||李太白全集（全三册）|||[清] 王琦 注、李长路 点校、趙威 点校|||https://book.douban.com/subject/1081778/
+209|||納蘭詞箋注|||[清] 纳兰性德|||https://book.douban.com/subject/1543917/
+210|||呻吟语|||吕坤|||https://book.douban.com/subject/1608312/
+211|||诗词散论|||缪钺|||https://book.douban.com/subject/3056096/
+212|||夷堅志（全四冊）|||洪迈|||https://book.douban.com/subject/1921294/
+213|||诗经名物新证|||扬之水|||https://book.douban.com/subject/2155417/
+214|||艺概|||刘熙载|||https://book.douban.com/subject/2003097/
+215|||陶庵梦忆|||张岱|||https://book.douban.com/subject/3223717/
+216|||唐宋词鉴赏辞典(唐五代北宋)|||周汝昌\缪钺\叶嘉莹等|||https://book.douban.com/subject/1203523/
+217|||汉魏六朝诗鉴赏辞典|||王运熙、骆玉明、吴小如、章培恒、曹道衡|||https://book.douban.com/subject/1030882/
+218|||诗品集解·续诗品注|||[唐] 司空图 著、郭绍虞 集解、[清] 袁枚 著、郭绍虞 辑注|||https://book.douban.com/subject/1110159/
+219|||阅读陶渊明|||Wendy Swartz|||https://book.douban.com/subject/27004842/
+220|||唐人七绝诗浅释|||沈祖棻|||https://book.douban.com/subject/3201442/
+221|||唐诗小札|||刘逸生|||https://book.douban.com/subject/2031571/
+222|||中古文学的地理意象|||张伟然|||https://book.douban.com/subject/26176480/
+223|||琅嬛文集|||张岱、云告点校|||https://book.douban.com/subject/2231789/
+224|||唐五代笔记小说大观|||上海古籍出版社|||https://book.douban.com/subject/1703241/
+225|||司马迁之人格与风格|||李长之|||https://book.douban.com/subject/2215698/
+226|||左传|||刘利 译注|||https://book.douban.com/subject/2052475/
+227|||六朝声律与唐诗体格|||杜晓勤|||https://book.douban.com/subject/27004893/
+228|||汉语诗律学|||王力|||https://book.douban.com/subject/1036823/
+229|||石头记|||曹雪芹、脂砚斋、周汝昌 注解|||https://book.douban.com/subject/4264564/
+230|||中国古代文学中的同性恋书写研究|||施晔|||https://book.douban.com/subject/3319478/
+231|||杜詩鏡銓|||[清] 楊倫 箋注|||https://book.douban.com/subject/1626882/
+232|||苏轼诗词文选评|||王水照|||https://book.douban.com/subject/1025238/
+233|||唐前志怪小说辑释|||李剑国|||https://book.douban.com/subject/6849306/
+234|||恋字集|||韩梅梅|||https://book.douban.com/subject/27019867/
+235|||顾随全集|||顾随|||https://book.douban.com/subject/1039878/
+236|||灵谿词说|||缪钺、叶嘉莹|||https://book.douban.com/subject/1875721/
+237|||明代小说四大奇书|||浦安迪|||https://book.douban.com/subject/1891789/
+238|||唐宋传奇集|||鲁迅校录|||https://book.douban.com/subject/1957709/
+239|||南宋名家词选讲|||叶嘉莹|||https://book.douban.com/subject/2049360/
+240|||雙照樓詩詞藁|||汪精衛|||https://book.douban.com/subject/10604785/
+241|||唐诗的博物学解读|||胡淼|||https://book.douban.com/subject/26709628/
+242|||世說新語校箋（全二冊）|||徐震堮|||https://book.douban.com/subject/1004376/
+243|||词学十讲|||龙榆生|||https://book.douban.com/subject/1410360/
+244|||蘇軾詞編年校注（全三冊）|||邹同庆、王宗堂|||https://book.douban.com/subject/1002025/
+245|||诗集传|||[宋]朱熹集注、赵长征点校|||https://book.douban.com/subject/5403726/
+246|||曹植集校注|||赵幼文 校注|||https://book.douban.com/subject/1027525/
+247|||文言津逮|||张中行|||https://book.douban.com/subject/1012890/
+248|||他山的石头记|||宇文所安|||https://book.douban.com/subject/1436648/
+249|||中国古代文学批评方法研究|||张伯伟|||https://book.douban.com/subject/1036597/
+250|||驼庵诗话|||顾随 讲、叶嘉莹 笔记|||https://book.douban.com/subject/2235829/
+251|||红楼梦诗词曲赋鉴赏|||蔡义江|||https://book.douban.com/subject/1014173/
+252|||银鞍白马度春风：回到唐诗现场|||李晓润|||https://book.douban.com/subject/27062679/
+253|||嵇康集校注|||戴明扬|||https://book.douban.com/subject/2337142/
+254|||明代四大奇书（精装 全八册 详见描述）|||(明)兰陵笑笑生|||https://book.douban.com/subject/26665156/
+255|||诗经植物图鉴|||潘富俊|||https://book.douban.com/subject/1021809/
+256|||建安七子集|||俞绍初|||https://book.douban.com/subject/1397799/
+257|||陶淵明集箋注|||袁行霈|||https://book.douban.com/subject/1536629/
+258|||埃涅阿斯纪|||维吉尔|||https://book.douban.com/subject/1185910/
+259|||诗论|||朱光潜|||https://book.douban.com/subject/1322081/
+260|||红楼梦脂汇本|||曹雪芹|||https://book.douban.com/subject/6116769/
+261|||曹丕集校注|||曹丕|||https://book.douban.com/subject/4248335/
+262|||唐才子传|||（元）辛文房|||https://book.douban.com/subject/1017170/
+263|||南唐二主詞校訂|||李璟 李煜、王仲闻校订|||https://book.douban.com/subject/2139684/
+264|||唐人选唐诗新编（增订本）|||傅璇琮、陈尚君、徐俊|||https://book.douban.com/subject/26275163/
+265|||汉魏六朝诗讲录|||叶嘉莹|||https://book.douban.com/subject/1003584/
+266|||一日看尽长安花|||程郁缀|||https://book.douban.com/subject/25783206/
+267|||古今谭概|||(明)冯梦龙|||https://book.douban.com/subject/2282707/
+268|||以静 以淡 以柔软 应万变|||林清玄|||https://book.douban.com/subject/27060403/
+269|||醒世姻缘传|||西周生|||https://book.douban.com/subject/1940922/
+270|||唐诗风物志|||毛晓雯|||https://book.douban.com/subject/25800339/
+271|||叶嘉莹说中晚唐诗|||叶嘉莹|||https://book.douban.com/subject/2995251/
+272|||苏轼诗词选|||孔凡礼|||https://book.douban.com/subject/1223811/
+273|||李煜词集|||[南唐]李煜、王兆鹏 导读|||https://book.douban.com/subject/3993390/
+274|||震川先生集（上下）|||归有光、周本淳校点|||https://book.douban.com/subject/2285534/
+275|||喻世明言|||冯梦龙|||https://book.douban.com/subject/1466836/
+276|||于丹：重温最美古诗词|||于丹|||https://book.douban.com/subject/10752087/
+277|||分类两宋绝妙好词（精装）|||喻朝刚、周航|||https://book.douban.com/subject/26642247/
+278|||曹操集|||[三国] 曹操|||https://book.douban.com/subject/3830487/
+279|||拾遗记|||王嘉、萧绮|||https://book.douban.com/subject/2270293/
+280|||苏轼年谱(上中下)|||孔凡礼|||https://book.douban.com/subject/1274626/
+281|||唐诗三百首全解|||蘅塘退士|||https://book.douban.com/subject/1857104/
+282|||距离与想象|||浅见洋二|||https://book.douban.com/subject/1838882/
+283|||读词偶得·清真词释|||俞平伯|||https://book.douban.com/subject/1084403/
+284|||宋元明诗概说|||[日] 吉川幸次郎|||https://book.douban.com/subject/10480120/
+285|||三国志（全五册）|||[晋] 陈寿 撰、[宋] 裴松之 注|||https://book.douban.com/subject/1014763/
+286|||宋诗选|||张鸣 选注|||https://book.douban.com/subject/1054581/
+287|||白乐天的世界|||[日] 下定雅弘|||https://book.douban.com/subject/27024169/
+288|||中国古典小说史论|||[美] 夏志清|||https://book.douban.com/subject/1393564/
+289|||陈寅恪诗笺释（上下）|||陈寅恪、胡文辉 编|||https://book.douban.com/subject/3182750/
+290|||宋词研究|||(日) 村上哲见|||https://book.douban.com/subject/6401121/
+291|||闻一多论唐诗|||2008-7|||https://book.douban.com/subject/3181476/
+292|||詩品注|||[南朝梁] 鍾嶸|||https://book.douban.com/subject/1082760/
+293|||论语译注|||杨伯峻|||https://book.douban.com/subject/4098263/
+294|||敦煌变文选注（全二册）|||项楚|||https://book.douban.com/subject/1816172/
+295|||当你途经我的盛放|||扎西拉姆·多多|||https://book.douban.com/subject/6121542/
+296|||域外汉籍与宋代文学研究|||卞东波|||https://book.douban.com/subject/27088746/
+297|||中国历代文学作品选.上编.第1册|||朱东润|||https://book.douban.com/subject/1627340/
+298|||山海經|||[晉] 郭璞傳、廣陵書社 編|||https://book.douban.com/subject/1608873/
+299|||四书五经|||孟子|||https://book.douban.com/subject/3519722/
+300|||儒林外史|||吴敬梓|||https://book.douban.com/subject/3415526/
+301|||花间十六声|||孟晖|||https://book.douban.com/subject/1877096/
+302|||笠翁对韵|||李鸣|||https://book.douban.com/subject/26260305/
+303|||唐宋词格律|||龙榆生|||https://book.douban.com/subject/1065974/
+304|||世说新语校笺|||杨勇|||https://book.douban.com/subject/1849632/
+305|||诗词曲语辞汇释 (上下)|||张相|||https://book.douban.com/subject/1097266/
+306|||古诗文名物新证（全二册）|||扬之水|||https://book.douban.com/subject/1394420/
+307|||宋元戏曲史|||王国维|||https://book.douban.com/subject/1002262/
+308|||古诗十九首与乐府诗选评|||曹旭撰|||https://book.douban.com/subject/1543906/
+309|||徐霞客游记校注（上、下）|||[明] 徐弘祖|||https://book.douban.com/subject/1546232/
+310|||蘇軾詩集（全八冊）|||苏轼|||https://book.douban.com/subject/1053846/
+311|||魏文帝集全译|||曹丕|||https://book.douban.com/subject/3521094/
+312|||苏轼传|||王水照、崔铭|||https://book.douban.com/subject/1329967/
+313|||秋水堂论金瓶梅|||田晓菲|||https://book.douban.com/subject/1009290/
+314|||唐诗三论|||高友工、梅祖麟|||https://book.douban.com/subject/25750202/
+315|||中国文学史|||林庚|||https://book.douban.com/subject/4256704/
+316|||毛宗岗批评本三国演义（上下）|||罗贯中|||https://book.douban.com/subject/1844792/
+317|||稀见明人文话二十种|||陈广宏、龚宗杰|||https://book.douban.com/subject/26989607/
+318|||辛弃疾词选|||辛弃疾|||https://book.douban.com/subject/1055254/
+319|||小仓山房尺牍|||[清]袁枚|||https://book.douban.com/subject/27000933/
+320|||养小录|||（清）顾仲|||https://book.douban.com/subject/1393189/
+321|||唐诗别裁集（全二册）|||[清] 沈德潜  编|||https://book.douban.com/subject/1891556/
+322|||采菽堂古诗选（全二册）|||[清]陈祚明 评选、李金松 点校|||https://book.douban.com/subject/3859941/
+323|||高阳说诗|||高阳|||https://book.douban.com/subject/1024423/
+324|||唐诗选注评鉴(上下)|||刘学锴|||https://book.douban.com/subject/25778148/
+325|||武林旧事|||[宋] 周密、钱之江 校注|||https://book.douban.com/subject/10048649/
+326|||穆天子传.神异经.十洲记.博物志|||上海古籍出版社|||https://book.douban.com/subject/2252955/
+327|||黃庭堅詩集注（全五冊）|||黄庭坚、任渊、史容、史季温、刘尚荣|||https://book.douban.com/subject/1135066/
+328|||徐渭集（全四冊）|||徐渭|||https://book.douban.com/subject/1013646/
+329|||醉古堂剑扫——古人云丛书|||（明）陆绍珩 等撰|||https://book.douban.com/subject/1105448/
+330|||中国文学批评史|||郭绍虞|||https://book.douban.com/subject/3337526/
+331|||词话丛编|||王弈清、唐圭璋、等|||https://book.douban.com/subject/1038759/
+332|||辛弃疾词集|||【宋】辛弃疾|||https://book.douban.com/subject/5366448/
+333|||诗经选|||余冠英|||https://book.douban.com/subject/1762644/
+334|||茶经|||陆羽、沈冬梅|||https://book.douban.com/subject/5320661/
+335|||品花宝鉴|||陈森|||https://book.douban.com/subject/1194024/
+336|||诗词读写丛话|||张中行|||https://book.douban.com/subject/1292431/
+337|||思无邪|||安意如|||https://book.douban.com/subject/1908517/
+338|||三言两拍|||冯梦龙等著|||https://book.douban.com/subject/3113454/
+339|||石涛诗文集|||朱良志|||https://book.douban.com/subject/27070513/
+340|||玉台新咏|||[南朝陈] 徐陵 编 [清]吴兆宜 注 程琰 删补 曹明纲 导读 尚成 整理集评|||https://book.douban.com/subject/2308036/
+341|||李清照词|||(宋)李清照、陈祖美评注|||https://book.douban.com/subject/1279925/
+342|||叶嘉莹说阮籍咏怀诗|||叶嘉莹|||https://book.douban.com/subject/1961661/
+343|||白话诗品 二十四诗品|||司空图|||https://book.douban.com/subject/1838327/
+344|||二晏词笺注|||[宋]晏殊 晏几道、张草纫 笺注|||https://book.douban.com/subject/3423150/
+345|||中国早期古典诗歌的生成|||(美) 宇文所安|||https://book.douban.com/subject/10488629/
+346|||先秦诗鉴赏辞典|||庞坚|||https://book.douban.com/subject/1046813/
+347|||阮籍集校注|||[三國] 阮籍|||https://book.douban.com/subject/1290294/
+348|||人间词话精读|||苏缨|||https://book.douban.com/subject/26309078/
+349|||玄怪錄 續玄怪錄|||（唐）牛僧孺、（唐）李复言|||https://book.douban.com/subject/1912531/
+350|||当时只道是寻常|||安意如|||https://book.douban.com/subject/1862115/
+351|||痴婆子传|||芙蓉主人辑， 情痴子批校|||https://book.douban.com/subject/2255860/
+352|||诗品|||(南朝梁)钟嵘;古直笺|||https://book.douban.com/subject/2977050/
+353|||在唐诗里孤独漫步|||夏昆|||https://book.douban.com/subject/26366654/
+354|||琅嬛文集|||[明]張岱 著、路偉、馬濤 點校|||https://book.douban.com/subject/26716410/
+355|||韩非子|||韩非|||https://book.douban.com/subject/1214303/
+356|||千字文|||(南梁)周兴嗣|||https://book.douban.com/subject/1659346/
+357|||唐宋词选释|||俞平伯|||https://book.douban.com/subject/1065258/
+358|||含英咀华|||吴小如|||https://book.douban.com/subject/19964713/
+359|||神女|||[美] 薛爱华 著|||https://book.douban.com/subject/26184599/
+360|||饮水词|||纳兰性德 撰、冯统 编校|||https://book.douban.com/subject/1876129/
+361|||孟子|||王常则|||https://book.douban.com/subject/1257360/
+362|||两当轩集|||(清)黄景仁|||https://book.douban.com/subject/1427910/
+363|||唐传奇鉴赏集|||人民文学出版社|||https://book.douban.com/subject/2374497/
+364|||山家清供|||[宋]林洪撰，章原编著|||https://book.douban.com/subject/25797851/
+365|||唐诗宋词鉴赏辞典|||傅德岷主编|||https://book.douban.com/subject/1331524/
+366|||毛泽东诗词选|||毛泽东|||https://book.douban.com/subject/1077702/
+367|||唐五代传奇集|||李剑国 辑校|||https://book.douban.com/subject/26586797/
+368|||词学胜境|||唐圭璋|||https://book.douban.com/subject/26854518/
+369|||赵元任 程曦吟诵遗音录|||秦德祥、钟敏、柳飞、金丽藻 记录整理|||https://book.douban.com/subject/4232506/
+370|||声律启蒙笠翁对韵|||成都古籍书店影印|||https://book.douban.com/subject/1423499/
+371|||晚明以降才女的书写、阅读与旅行|||(美) 魏爱莲|||https://book.douban.com/subject/26706374/
+372|||张充和诗文集|||白谦慎  编|||https://book.douban.com/subject/26765530/
+373|||中国古代民间故事长编|||顾希佳 编|||https://book.douban.com/subject/20271619/
+374|||姜白石詞編年箋校|||姜夔、夏承焘|||https://book.douban.com/subject/3004348/
+375|||陶渊明诗笺证稿|||王叔岷|||https://book.douban.com/subject/2154586/
+376|||诗词格律概要 诗词格律十讲|||王力|||https://book.douban.com/subject/1976204/
+377|||宋詞三百首（全二册）|||[清] 朱祖謀 輯|||https://book.douban.com/subject/1524605/
+378|||古文鉴赏辞典（上）|||章培恒、陈振鹏|||https://book.douban.com/subject/1065772/
+379|||初唐诗|||（美）宇文所安|||https://book.douban.com/subject/1067669/
+380|||李长吉歌诗编年笺注|||[唐] 李贺|||https://book.douban.com/subject/10555394/
+381|||唐宋文举要（全三册）|||高步瀛|||https://book.douban.com/subject/1268342/
+382|||清真集箋注（全二冊）|||[宋] 周邦彥|||https://book.douban.com/subject/3361101/
+383|||庄子精读|||陈引驰|||https://book.douban.com/subject/1699782/
+384|||中国诗史|||[日] 吉川幸次郎|||https://book.douban.com/subject/1291303/
+385|||诗经绘|||林帝浣|||https://book.douban.com/subject/26935198/
+386|||水浒传：怎样的强盗书|||孙述宇|||https://book.douban.com/subject/6105383/
+387|||古诗十九首释|||朱自清|||https://book.douban.com/subject/26292871/
+388|||唐宋诗举要(上下)|||高步瀛|||https://book.douban.com/subject/1277728/
+389|||史记|||司马迁、韩兆琦 评注|||https://book.douban.com/subject/1170187/
+390|||白香词谱|||[清] 舒梦兰 撰、丁如明 评订|||https://book.douban.com/subject/1095648/
+391|||大学·中庸|||王国轩|||https://book.douban.com/subject/1921597/
+392|||四大名著（全四册）|||曹雪芹|||https://book.douban.com/subject/1181277/
+393|||莫友芝全集|||[清]莫友芝、张剑、张燕婴 点校|||https://book.douban.com/subject/26908203/
+394|||清代笔记小说大观(全六册)|||上海古藉出版社|||https://book.douban.com/subject/3029699/
+395|||蕙风词话|||[清]况周颐、孙克强 导读|||https://book.douban.com/subject/3993378/
+396|||王国维及其文学批评|||叶嘉莹|||https://book.douban.com/subject/1059332/
+397|||临川四梦|||朱萍 整理|||https://book.douban.com/subject/26792397/
+398|||宋词纪事|||唐圭璋|||https://book.douban.com/subject/3101061/
+399|||姜白石词笺注|||[宋]姜夔 著、陈书良笺注|||https://book.douban.com/subject/3826303/
+400|||古文观止演义|||王鼎钧|||https://book.douban.com/subject/24747945/
+401|||鬼谷子|||佚名|||https://book.douban.com/subject/1895965/
+402|||孽海花|||曾朴|||https://book.douban.com/subject/3052828/
+403|||菜根潭|||翟文明|||https://book.douban.com/subject/1045219/
+404|||簪花的少年郎|||王芳芳（王这么）|||https://book.douban.com/subject/5388848/
+405|||闻一多诗经讲义稿笺注|||闻一多|||https://book.douban.com/subject/3371127/
+406|||王维诗选|||陈铁民 选注|||https://book.douban.com/subject/1027917/
+407|||游金梦|||骆玉明|||https://book.douban.com/subject/25703280/
+408|||郁达夫诗词笺注|||郁达夫 著 詹亚园 笺注|||https://book.douban.com/subject/24883361/
+409|||论中国诗|||[日] 小川环树|||https://book.douban.com/subject/4023808/
+410|||西京杂记|||（晋）葛洪　撰，周天游　校注|||https://book.douban.com/subject/1748216/
+411|||十八家诗钞（上下）|||曾国藩|||https://book.douban.com/subject/3584770/
+412|||光宣诗坛点将录笺证（上下）|||汪辟疆 撰、王培军 笺证|||https://book.douban.com/subject/3222416/
+413|||宋代诗学通论|||周裕锴|||https://book.douban.com/subject/2382861/
+414|||快园道古 琯朗乞巧录|||[明]张岱|||https://book.douban.com/subject/27089235/
+415|||呻吟语·菜根谈|||吕坤 洪应明|||https://book.douban.com/subject/1050467/
+416|||迦陵文集（1-10卷）|||叶嘉莹|||https://book.douban.com/subject/1016973/
+417|||录鬼簿(外四种)|||(元)钟嗣成 等著|||https://book.douban.com/subject/2310123/
+418|||唐宋四大家的道论与文学|||朱刚|||https://book.douban.com/subject/1248362/
+419|||杜工部集|||杜甫|||https://book.douban.com/subject/1826124/
+420|||宋韻遺珍|||劉楚華  主編|||https://book.douban.com/subject/26812685/
+421|||宋元笔记小说大观（全六册）|||上海古籍出版社编|||https://book.douban.com/subject/2115922/
+422|||陌上花开缓缓归|||安意如|||https://book.douban.com/subject/2034127/
+423|||陆机集校笺|||[西晋]陆机  著、杨明  校笺|||https://book.douban.com/subject/26826847/
+424|||幽明录|||(南朝宋)刘义庆撰、郑晚晴辑注|||https://book.douban.com/subject/3040272/
+425|||古诗文初阶|||葛兆光|||https://book.douban.com/subject/26800741/
+426|||漱玉词·断肠词|||浙江教育出版社|||https://book.douban.com/subject/2027949/
+427|||花间集校|||赵崇祚 辑、李一氓 校|||https://book.douban.com/subject/1441977/
+428|||玉溪生诗集笺注|||李商隐、蒋凡 点校|||https://book.douban.com/subject/2310478/
+429|||萤窗异草|||长白浩歌子|||https://book.douban.com/subject/1186395/
+430|||魏晋风华：轻松读懂《世说新语》|||魏风华|||https://book.douban.com/subject/26978984/
+431|||六朝文絜笺注|||许梿 评选、黎经浩 笺注|||https://book.douban.com/subject/2229236/
+432|||闽都别记(上中下)|||里人何求|||https://book.douban.com/subject/1661627/
+433|||唐五代两宋词选释（全二册）|||俞陛云|||https://book.douban.com/subject/6105381/
+434|||历代诗话|||(清)何文焕|||https://book.douban.com/subject/1194027/
+435|||无声戏|||李渔 著、杜濬 批评|||https://book.douban.com/subject/1186363/
+436|||聊斋志异|||[清] 蒲松龄 撰|||https://book.douban.com/subject/3567384/
+437|||元曲三百首|||任讷、卢前|||https://book.douban.com/subject/1137748/
+438|||钱注杜诗（全二册）|||(唐)杜甫、[清]钱谦益 笺注|||https://book.douban.com/subject/3803387/
+439|||蔬食谱 山家清供 食宪鸿秘|||陈达叟、等|||https://book.douban.com/subject/26910675/
+440|||陌上花开|||安意如|||https://book.douban.com/subject/3218229/
+441|||中古文学史论|||王瑶|||https://book.douban.com/subject/1068141/
+442|||拾遗记|||王嘉等撰|||https://book.douban.com/subject/11520862/
+443|||明清時代的女性與文學|||合山究|||https://book.douban.com/subject/26857576/
+444|||百年文言|||陳永正、徐晉如 主編|||https://book.douban.com/subject/26325673/
+445|||李清照集笺注|||(宋)李清照著 ; 徐培均笺注|||https://book.douban.com/subject/1518339/
+446|||杜甫评传（上中下）|||陈贻焮|||https://book.douban.com/subject/5921587/
+447|||云溪友议校笺|||（唐）范摅  撰、唐雯  校笺|||https://book.douban.com/subject/26969794/
+448|||中国传统诗歌与诗学|||【美】宇文所安|||https://book.douban.com/subject/25773555/
+449|||曹子建诗注·阮步兵咏怀诗注|||黄节 注|||https://book.douban.com/subject/2377233/
+450|||说苑校证|||刘 向|||https://book.douban.com/subject/1245707/
+451|||大学诗词写作教程|||徐晋如|||https://book.douban.com/subject/2264927/
+452|||看山阁闲笔|||[清]黄图珌|||https://book.douban.com/subject/20501740/
+453|||诗国高潮与盛唐文化|||葛晓音|||https://book.douban.com/subject/1089082/
+454|||中国近世戏曲史|||[日] 青木正儿 原著|||https://book.douban.com/subject/4220395/
+455|||宋词三百首鉴赏辞典|||周汝昌 徐培均 陈永正等|||https://book.douban.com/subject/1883401/
+456|||文廷式诗词集|||文廷式 著、陆有富 校点|||https://book.douban.com/subject/26985137/
+457|||宋词选|||胡云翼 选注|||https://book.douban.com/subject/1774062/
+458|||周易|||靳极苍|||https://book.douban.com/subject/1214300/
+459|||庾子山集注（全三冊）|||庾信|||https://book.douban.com/subject/1116207/
+460|||程氏家塾读书分年日程|||（元）程端礼|||https://book.douban.com/subject/2294171/
+461|||叶嘉莹说词|||叶嘉莹|||https://book.douban.com/subject/1923498/
+462|||诗经诠释|||屈万里|||https://book.douban.com/subject/26845674/
+463|||金圣叹评点西厢记|||[元]王实甫、[清]金圣叹 评点|||https://book.douban.com/subject/3177125/
+464|||唐诗三百首鉴赏辞典|||萧涤非|||https://book.douban.com/subject/1924892/
+465|||浦安迪自选集|||浦安迪|||https://book.douban.com/subject/5914503/
+466|||知识与抒情|||张健|||https://book.douban.com/subject/26431211/
+467|||时光印痕：唐诗宋词中的节气之美|||沈善书|||https://book.douban.com/subject/25716112/
+468|||魏晋风度二十讲|||冯友兰 李泽厚 等著、骆玉明 肖能 编|||https://book.douban.com/subject/3537575/
+469|||李商隐诗选|||黄世中|||https://book.douban.com/subject/1435197/
+470|||纳兰词全编笺注|||(清)纳兰容若 著、苏缨 注译|||https://book.douban.com/subject/6528558/
+471|||茶经|||陆羽|||https://book.douban.com/subject/1066974/
+472|||忧与游|||李丰楙|||https://book.douban.com/subject/5392112/
+473|||归有光文选|||归有光|||https://book.douban.com/subject/1208069/
+474|||唐才子傳校箋（第一冊）|||傅璇琮 编|||https://book.douban.com/subject/1530287/
+475|||四书五经|||宋元人注|||https://book.douban.com/subject/2023087/
+476|||王右丞集箋注|||[唐]王维著、[清]赵殿成笺注|||https://book.douban.com/subject/2984029/
+477|||古希腊悲剧喜剧全集（全8册）|||[古希腊] 埃斯库罗斯 等|||https://book.douban.com/subject/2219098/
+478|||弁而釵|||(明)醉西湖新月主人|||https://book.douban.com/subject/3286232/
+479|||中國抒情傳統的再發現（上、下冊）|||柯慶明、蕭　馳　主編|||https://book.douban.com/subject/4214607/
+480|||缔造选本|||[美]田安（Anna M. Shields）|||https://book.douban.com/subject/26831559/
+481|||先秦诗文史|||扬之水|||https://book.douban.com/subject/3752402/
+482|||杜甫诗选注|||萧涤非|||https://book.douban.com/subject/1892000/
+483|||汉魏六朝百三家集题辞注|||张溥、殷孟伦注|||https://book.douban.com/subject/2123591/
+484|||中国文学中所表现的自然与自然观|||[日]小尾郊一|||https://book.douban.com/subject/26253098/
+485|||探寻中国趣味|||郭英德|||https://book.douban.com/subject/27083520/
+486|||谢宣城集校注|||(南朝齐)谢朓、曹融南校注集说|||https://book.douban.com/subject/2968786/
+487|||唐诗近体源流|||钱志熙|||https://book.douban.com/subject/26293795/
+488|||读杜心解（上下）|||浦起龙|||https://book.douban.com/subject/1099558/
+489|||姑妄言|||曹去晶|||https://book.douban.com/subject/1725689/
+490|||宜春香質|||(明)醉西湖新月主人 著|||https://book.douban.com/subject/3585114/
+491|||茶谱·煮泉小品|||[明]朱权 田艺蘅著、黄明哲 吴浩编著|||https://book.douban.com/subject/10558519/
+492|||通志堂集（附纳兰容若手简）|||纳兰性德|||https://book.douban.com/subject/3333020/
+493|||漢學視域：中西比較詩學要籍六講|||吳伏生|||https://book.douban.com/subject/26866485/
+494|||唐诗三百首详析|||喻守真编注|||https://book.douban.com/subject/1891562/
+495|||李白诗选|||复旦大学|||https://book.douban.com/subject/1014359/
+496|||箧中词|||谭献著、罗仲鼎等|||https://book.douban.com/subject/26680682/
+497|||全唐五代小说（全八册）|||李时人  等|||https://book.douban.com/subject/26195186/
+498|||关于方文山的素颜韵脚诗|||方文山|||https://book.douban.com/subject/1958312/
+499|||纳兰词典评|||苏缨|||https://book.douban.com/subject/3073062/
+500|||古典名著聚珍文库：二十四诗品|||[唐]司空图|||https://book.douban.com/subject/25877579/
+501|||红楼梦|||曹雪芹|||https://book.douban.com/subject/1174701/
+502|||古代志怪小说鉴赏辞典|||上海辞书出版社文学鉴赏辞典编纂中心|||https://book.douban.com/subject/26286399/
+503|||郁离子|||(明)刘基撰、魏建献、萧善乡点校|||https://book.douban.com/subject/2348264/
+504|||唐诗小史|||罗宗强|||https://book.douban.com/subject/2365379/
+505|||绿野仙踪|||李百川|||https://book.douban.com/subject/1837817/
+506|||洛神賦|||商務編輯部|||https://book.douban.com/subject/1486282/
+507|||唐代变文|||【美】梅维恒|||https://book.douban.com/subject/6013061/
+508|||元白诗笺证稿|||陈寅恪|||https://book.douban.com/subject/1015144/
+509|||文賦集釋|||陆機 著、張少康 集釋|||https://book.douban.com/subject/1576587/
+510|||宋诗三百首|||金性尧选注|||https://book.douban.com/subject/2226585/
+511|||敦煌小说合集|||张涌泉、窦怀永|||https://book.douban.com/subject/4776431/
+512|||袁中郎随笔|||袁宏道|||https://book.douban.com/subject/1062734/
+513|||淮海居士长短句笺注|||秦观|||https://book.douban.com/subject/3278377/
+514|||影梅庵忆语|||(清)冒襄 等|||https://book.douban.com/subject/3154400/
+515|||经史百家杂钞（上下）|||曾国藩|||https://book.douban.com/subject/3622462/
+516|||唐诗宋词十五讲|||葛晓音|||https://book.douban.com/subject/1007590/
+517|||困学纪闻（全校本）（全三册）|||[宋] 王应麟、[清] 翁元圻、栾保群、田松青、吕宗力 校点|||https://book.douban.com/subject/3391909/
+518|||左传译文|||沈玉成|||https://book.douban.com/subject/1289199/
+519|||艺文类聚(附索引)|||[唐]欧阳询、汪绍楹 校|||https://book.douban.com/subject/1543857/
+520|||明代笔记小说大观|||本社|||https://book.douban.com/subject/1669525/
+521|||元曲鉴赏辞典|||万云骏、等|||https://book.douban.com/subject/1062363/
+522|||中华传统蒙学精华注音全本·声律启蒙·笠翁对韵|||(清)车万育|||https://book.douban.com/subject/4896169/
+523|||你应该熟读的中国古文|||陈引驰 编著|||https://book.douban.com/subject/27041960/
+524|||格古要论|||【明】曹昭、杨春俏   编著|||https://book.douban.com/subject/10558620/
+525|||清词选讲|||叶嘉莹|||https://book.douban.com/subject/26647787/
+526|||诗词格律概要|||王力|||https://book.douban.com/subject/1055460/
+527|||龙榆生全集|||龙榆生|||https://book.douban.com/subject/26667440/
+528|||古诗文要籍叙录|||金开诚、葛兆光|||https://book.douban.com/subject/1435190/
+529|||启颜录笺注|||[隋]侯白 撰|||https://book.douban.com/subject/25957261/
+530|||中国古代文体学研究|||吴承学|||https://book.douban.com/subject/6439359/
+531|||朱自清马茂元说古诗十九首|||朱自清、马茂元|||https://book.douban.com/subject/1040472/
+532|||白居易诗集校注（全六册）|||白居易、谢思炜 校注|||https://book.douban.com/subject/1870816/
+533|||唐诗语汇意象论|||松浦友久|||https://book.douban.com/subject/3032922/
+534|||唐诗综论|||林庚|||https://book.douban.com/subject/1880451/
+535|||聊斋志异详注新评|||蒲松龄|||https://book.douban.com/subject/26796817/
+536|||佛教与中国文学论稿|||陈允吉|||https://book.douban.com/subject/4239048/
+537|||花间集校注|||[后蜀]赵崇祚|||https://book.douban.com/subject/26171398/
+538|||历代文话（全十册）|||王水照 编|||https://book.douban.com/subject/2379380/
+539|||玉臺新詠箋注（全二冊）|||（陈）徐陵 编，（清）吴兆宜 注、穆克宏点校|||https://book.douban.com/subject/1162576/
+540|||蔣捷詞校注|||(宋) 蒋捷|||https://book.douban.com/subject/4821760/
+541|||白雨斋词话|||[清]陈廷焯、彭玉平 导读|||https://book.douban.com/subject/3993382/
+542|||杜甫诗选|||张忠纲|||https://book.douban.com/subject/1223810/
+543|||水浒全传校注（全十册）|||施耐庵 集撰、罗贯中 纂修、王利器 校注|||https://book.douban.com/subject/3998811/
+544|||汤显祖戏曲集|||汤显祖  著、钱南扬  校点|||https://book.douban.com/subject/5026799/
+545|||艰辛与欢乐相随|||周勋初|||https://book.douban.com/subject/26913505/
+546|||金圣叹评点才子古文|||金圣叹|||https://book.douban.com/subject/1959911/
+547|||文选李注义疏（全四册）|||高步瀛、曹道衡 沈玉成 点校|||https://book.douban.com/subject/2127914/
+548|||世说新语译注|||[南朝·宋] 刘义庆|||https://book.douban.com/subject/1076343/
+549|||汉唐文学的嬗变|||葛晓音|||https://book.douban.com/subject/2221668/
+550|||红楼梦|||曹雪芹、高鹗|||https://book.douban.com/subject/1003079/
+551|||四聲猿|||(明)徐渭著|||https://book.douban.com/subject/2334568/
+552|||苕溪渔隐丛话|||胡仔|||https://book.douban.com/subject/2342187/
+553|||唐代笔记小说叙录|||周勋初|||https://book.douban.com/subject/3082259/
+554|||漱玉词|||李清照|||https://book.douban.com/subject/1125096/
+555|||莫砺锋诗话|||莫砺锋|||https://book.douban.com/subject/1678126/
+556|||词之美感特质的形成与演进|||叶嘉莹|||https://book.douban.com/subject/1988066/
+557|||新纂香谱|||[宋]陈敬 著、严小青  编著|||https://book.douban.com/subject/10565750/
+558|||唐五代两宋词简析 微睇室说词|||刘永济|||https://book.douban.com/subject/2294396/
+559|||宋词三百首|||吕明涛、谷学彝评注|||https://book.douban.com/subject/3843962/
+560|||新輯搜神記 新輯搜神後記|||[晋]干宝、[宋]陶潜、李剑国 辑校|||https://book.douban.com/subject/2052469/
+561|||孙子兵法|||孙武|||https://book.douban.com/subject/1949420/
+562|||近三百年名家词选|||龙榆生|||https://book.douban.com/subject/2349189/
+563|||海藏楼诗集|||郑孝胥|||https://book.douban.com/subject/1129601/
+564|||古典文学论丛|||缪钺 著、缪元朗 编|||https://book.douban.com/subject/3922292/
+565|||晏殊词集·晏几道词集|||[宋] 晏殊 晏几道 著、张草纫 导读|||https://book.douban.com/subject/5058551/
+566|||陶淵明集校箋|||陶渊明|||https://book.douban.com/subject/1760849/
+567|||聊齋志異會校會注會評本（全四冊）|||张友鹤辑校|||https://book.douban.com/subject/1949466/
+568|||王安石全集（第一册）|||王水照  主编|||https://book.douban.com/subject/27002259/
+569|||引譬連類|||鄭毓瑜|||https://book.douban.com/subject/18168872/
+570|||长相思|||徐晋如|||https://book.douban.com/subject/26774578/
+571|||《读睡诗选之春暖花开》|||张杰 编|||https://book.douban.com/subject/27074065/
+572|||紅樓夢校注（彩畫本）|||曹雪芹、高鶚|||https://book.douban.com/subject/4129997/
+573|||迦陵论诗丛稿|||叶嘉莹|||https://book.douban.com/subject/1013496/
+574|||诗圣杜甫|||吕正惠|||https://book.douban.com/subject/26607221/
+575|||古典诗学的现代诠释|||蒋寅|||https://book.douban.com/subject/1122721/
+576|||蔡志忠经典漫画|||蔡志忠 绘|||https://book.douban.com/subject/4735768/
+577|||白雨斋词话|||陈廷焯 著、杜维沫 校点|||https://book.douban.com/subject/1084399/
+578|||稼轩长短句|||辛弃疾|||https://book.douban.com/subject/2264940/
+579|||古詩十九首|||商務印書館編輯部|||https://book.douban.com/subject/1368387/
+580|||乐府诗选|||余冠英|||https://book.douban.com/subject/1036179/
+581|||中国古代文体形态研究|||吴承学|||https://book.douban.com/subject/1433244/
+582|||诗人玉屑（全两册）|||魏庆之|||https://book.douban.com/subject/2348411/
+583|||吴吴山三妇合评牡丹亭|||[明]汤显祖、[清]陈同 谈则 钱宜合评|||https://book.douban.com/subject/3177126/
+584|||龔自珍己亥雜詩注|||（清）龚自珍|||https://book.douban.com/subject/1001357/
+585|||颜氏家训|||檀作文|||https://book.douban.com/subject/2381658/
+586|||戚蓼生序本石头记|||曹雪芹|||https://book.douban.com/subject/6751176/
+587|||歐陽修詩文集校箋（全三冊）|||[宋]欧阳修、洪本健 校笺|||https://book.douban.com/subject/3918853/
+588|||转角遇见李清照|||王芳芳（王这么）|||https://book.douban.com/subject/4724676/
+589|||你应该熟读的中国古诗|||陈引驰|||https://book.douban.com/subject/27041943/
+590|||古代小品文鉴赏辞典|||上海辞书出版社文学鉴赏辞典编纂中心 编、施蛰存，程千帆，金性尧，吴小如等撰写|||https://book.douban.com/subject/5918043/
+591|||古文辞类纂|||姚鼐|||https://book.douban.com/subject/1460648/
+592|||魏晋南北朝文学史研究入门|||戴燕|||https://book.douban.com/subject/3772011/
+593|||五杂组|||谢肇淛|||https://book.douban.com/subject/3749763/
+594|||小仓山房尺牍|||袁枚 清、范寅铮校注|||https://book.douban.com/subject/1923574/
+595|||清代诗文集汇编|||《清代诗文集汇编》编纂委员会|||https://book.douban.com/subject/4262788/
+596|||闻一多诗经讲义|||闻一多|||https://book.douban.com/subject/1326760/
+597|||诗词例话|||周振甫|||https://book.douban.com/subject/1763194/
+598|||好诗共欣赏|||叶嘉莹|||https://book.douban.com/subject/26647783/
+599|||陈寅恪晚年诗文释证|||余英时|||https://book.douban.com/subject/1949905/
+600|||唐诗为镜照汗青|||鞠菟|||https://book.douban.com/subject/26696525/
+601|||醒世姻缘传（全三册）|||西周生|||https://book.douban.com/subject/1489420/
+602|||魏晋文学史|||徐公持|||https://book.douban.com/subject/1043312/
+603|||唐宋词欣赏|||夏承焘|||https://book.douban.com/subject/1076946/
+604|||列朝诗集小传（全二册）|||钱谦益|||https://book.douban.com/subject/3096218/
+605|||诗经译注|||周振甫|||https://book.douban.com/subject/4773104/
+606|||杜甫集校注|||杜甫 撰、谢思炜  校注|||https://book.douban.com/subject/26796802/
+607|||抒情传统与维新时代|||吴盛青、高嘉谦|||https://book.douban.com/subject/20416319/
+608|||辛弃疾传 辛稼轩年谱|||邓广铭|||https://book.douban.com/subject/2040775/
+609|||三遂平妖传|||（明）罗贯中，冯梦龙 补改，刘紫梅 点校|||https://book.douban.com/subject/1048526/
+610|||中国文学史|||[日] 吉川幸次郎|||https://book.douban.com/subject/2300990/
+611|||博物志校证|||[晋] 张华、范宁 校证|||https://book.douban.com/subject/2270259/
+612|||中国古代文学研究导引|||许结|||https://book.douban.com/subject/1837227/
+613|||今古奇观|||抱翁老人|||https://book.douban.com/subject/2364687/
+614|||陈寅恪诗集附唐篔诗存|||陈寅恪|||https://book.douban.com/subject/1059696/
+615|||东京梦华录注|||（宋）孟元老|||https://book.douban.com/subject/1227961/
+616|||古诗十九首初探|||马茂元|||https://book.douban.com/subject/2125034/
+617|||竹林七贤诗文全集译注|||阮籍、嵇康|||https://book.douban.com/subject/1931580/
+618|||帝国的流亡|||张晖|||https://book.douban.com/subject/25831879/
+619|||屈原集校注（全二冊）|||金开诚、董洪利、高路明|||https://book.douban.com/subject/1045806/
+620|||迦陵谈诗|||叶嘉莹|||https://book.douban.com/subject/26816475/
+621|||万川之月|||胡晓明|||https://book.douban.com/subject/1228065/
+622|||十四朝文学要略|||刘永济|||https://book.douban.com/subject/2294393/
+623|||中国文学史|||[日]前野直彬 主编|||https://book.douban.com/subject/10480118/
+624|||白香词谱|||(清)舒梦兰 编|||https://book.douban.com/subject/6712399/
+625|||宋词三百首全解|||上彊邨民 编、蔡义江 解|||https://book.douban.com/subject/2031262/
+626|||好诗共欣赏|||叶嘉莹|||https://book.douban.com/subject/1961668/
+627|||东坡词傅幹注校证|||苏轼|||https://book.douban.com/subject/26930828/
+628|||大唐李白·少年游|||张大春|||https://book.douban.com/subject/25802944/
+629|||聊斋志异（全四册）|||[清]蒲松龄|||https://book.douban.com/subject/26417287/
+630|||瀛奎律髓彙評（全三冊）|||(元)方回选|||https://book.douban.com/subject/1663107/
+631|||金圣叹批本西厢记|||[元]王实甫原著、[清]金圣叹批改、张国光校注|||https://book.douban.com/subject/1761082/
+632|||姜夔词集|||姜夔|||https://book.douban.com/subject/5258411/
+633|||天风阁学词日记|||夏承焘|||https://book.douban.com/subject/2137739/
+634|||梅花草堂笔谈|||[明]张大复|||https://book.douban.com/subject/26909744/
+635|||裴鉶傳奇|||裴鉶、周楞伽 辑注|||https://book.douban.com/subject/2272683/
+636|||唐诗品汇|||[明]高棅  编纂、[明]汪宗尼  校订、葛景春  胡永杰  点校|||https://book.douban.com/subject/26319330/
+637|||南北朝文学史|||曹道衡、沈玉成|||https://book.douban.com/subject/1038887/
+638|||张伯驹集|||张伯驹|||https://book.douban.com/subject/24743676/
+639|||老残游记|||（清）刘鹗|||https://book.douban.com/subject/25798762/
+640|||汉魏六朝乐府文学史|||萧涤非|||https://book.douban.com/subject/1055466/
+641|||玉簪记|||高濂|||https://book.douban.com/subject/3411545/
+642|||柳永词集|||[宋]柳永、谢桃坊 导读|||https://book.douban.com/subject/3993393/
+643|||分春馆词话|||朱庸斋|||https://book.douban.com/subject/2237373/
+644|||日本足利学校藏宋刊明州本六臣注文选|||(梁)蕭統 選編、(唐)呂延濟 等注|||https://book.douban.com/subject/3053177/
+645|||唐宋词简释|||唐圭璋|||https://book.douban.com/subject/2054031/
+646|||离骚笺疏 李璟李煜词校注 花外集笺注|||詹安泰|||https://book.douban.com/subject/7056490/
+647|||园冶|||[明] 计成 著、李世葵、刘金鹏 编著|||https://book.douban.com/subject/6857554/
+648|||春秋左傳注（全四冊）|||杨伯峻|||https://book.douban.com/subject/1008094/
+649|||韦庄集笺注|||[五代] 韦庄 著、聂安福 笺注|||https://book.douban.com/subject/1875179/
+650|||朱自清《古诗十九首释》手稿(国家图书馆古籍馆特藏名家手稿)|||朱自清|||https://book.douban.com/subject/3165653/
+651|||山水与古典|||林文月|||https://book.douban.com/subject/25752562/
+652|||诗韵合璧|||汤文璐 编|||https://book.douban.com/subject/1749074/
+653|||李商隐诗选|||刘学锴|||https://book.douban.com/subject/1030529/
+654|||与诗书在一起|||叶嘉莹|||https://book.douban.com/subject/26921744/
+655|||花月痕|||魏秀仁|||https://book.douban.com/subject/1185849/
+656|||古诗评选|||王夫之、李中华（校点）、李利民（校点）|||https://book.douban.com/subject/6758294/
+657|||鹤林玉露|||罗大经、王瑞来 点校|||https://book.douban.com/subject/1011010/
+658|||原诗 一瓢诗话 说诗晬语|||(清)叶燮|||https://book.douban.com/subject/1061746/
+659|||宋诗鉴赏辞典|||缪钺 等撰|||https://book.douban.com/subject/1050658/
+660|||顾随讲词曲|||顾随|||https://book.douban.com/subject/6007927/
+661|||李卓吾批评本西游记（上下）|||吴承恩|||https://book.douban.com/subject/1844795/
+662|||唐宋传奇|||程国赋 校注|||https://book.douban.com/subject/6975590/
+663|||韓愈文集彙校箋注（全七冊）|||[唐]韩愈著、刘真伦校注、岳珍校注|||https://book.douban.com/subject/4821758/
+664|||全上古三代秦汉三国六朝文|||(清)严可均 辑|||https://book.douban.com/subject/1018867/
+665|||虞初新志|||张潮|||https://book.douban.com/subject/20434506/
+666|||柳宗元集（全四冊）|||柳宗元|||https://book.douban.com/subject/1137650/
+667|||左传（全三册）|||左丘明|||https://book.douban.com/subject/20390850/
+668|||小倉山房詩文集（全四冊）|||（清）袁枚 著，周本淳 标校|||https://book.douban.com/subject/2006253/
+669|||悦心集|||清.雍正|||https://book.douban.com/subject/4215665/
+670|||正是時候讀莊子|||蔡璧名|||https://book.douban.com/subject/26596719/
+671|||美典|||高友工|||https://book.douban.com/subject/3063645/
+672|||杜甫秋兴八首集说|||叶嘉莹|||https://book.douban.com/subject/1069678/
+673|||重校《八家评批红楼梦》|||冯其庸|||https://book.douban.com/subject/1460446/
+674|||王国维点评红楼梦|||王国维 著、苏缨 解说|||https://book.douban.com/subject/4932901/
+675|||乐府诗述论|||王运熙|||https://book.douban.com/subject/1893433/
+676|||二刻拍案惊奇(上下)|||凌濛初|||https://book.douban.com/subject/1078146/
+677|||明清文学史讲演录|||郭英德|||https://book.douban.com/subject/1705137/
+678|||颜氏家训集解|||王利器|||https://book.douban.com/subject/1255985/
+679|||宋词小札|||刘逸生|||https://book.douban.com/subject/1011788/
+680|||桑榆忆往|||程千帆|||https://book.douban.com/subject/26437816/
+681|||全唐五代诗格汇考|||张伯伟|||https://book.douban.com/subject/1636627/
+682|||楚辞集注|||（宋）朱熹|||https://book.douban.com/subject/1065343/
+683|||念楼学短|||钟叔河|||https://book.douban.com/subject/1394394/
+684|||一生最爱纳兰词|||苏缨|||https://book.douban.com/subject/3899534/
+685|||异域之眼|||兴膳宏|||https://book.douban.com/subject/1910763/
+686|||杜甫詩意圖册|||[唐] 杜甫、[清] 仇兆鳌 (注)、陆俨少 (绘)|||https://book.douban.com/subject/25984146/
+687|||中国小说源流论|||石昌渝|||https://book.douban.com/subject/1439255/
+688|||汉魏六朝赋选|||瞿蜕园选注|||https://book.douban.com/subject/3073490/
+689|||山海经|||倪泰一，钱发平，|||https://book.douban.com/subject/1836272/
+690|||李白集校注(全二册)|||李白、瞿蜕园校注、朱金城校注|||https://book.douban.com/subject/1545948/
+691|||李清照诗词选|||李清照|||https://book.douban.com/subject/1223813/
+692|||李清照词集|||[宋]李清照、吴慧娟 导读|||https://book.douban.com/subject/3993399/
+693|||蘇軾詩集合注（全六冊）|||（清）冯应榴辑注、黄任轲 朱怀春校点|||https://book.douban.com/subject/1035389/
+694|||宋代科举与文学|||祝尚书|||https://book.douban.com/subject/3427089/
+695|||三曹诗选|||孙明君|||https://book.douban.com/subject/1435189/
+696|||在最美的时光遇见你|||倾蓝紫|||https://book.douban.com/subject/25742447/
+697|||列子集释|||杨伯峻|||https://book.douban.com/subject/1665921/
+698|||楚辞植物图鉴|||潘富俊|||https://book.douban.com/subject/1067976/
+699|||王梵志詩校注（全二冊）|||【唐】王梵志 著|||https://book.douban.com/subject/4888637/
+700|||抒情传统与政治现实|||吕正惠|||https://book.douban.com/subject/6116260/
+701|||窦娥冤|||(元)关汉卿|||https://book.douban.com/subject/1023595/
+702|||词学研究方法十讲|||王兆鹏|||https://book.douban.com/subject/3149410/
+703|||历代文选|||中国人民大学语文系文学史教研室选注|||https://book.douban.com/subject/2243124/
+704|||梦窗词汇校笺释集评|||吴文英、吴蓓 笺|||https://book.douban.com/subject/2310248/
+705|||唐宋八大家文钞|||张伯行 选编、萧瑞峰 导读 萧瑞峰 标点 张星 集评|||https://book.douban.com/subject/2310495/
+706|||唐宋词通论|||吴熊和|||https://book.douban.com/subject/1202681/
+707|||苏轼评传|||王水照、朱刚|||https://book.douban.com/subject/1200560/
+708|||唐诗选（上下）|||中国科学院文学研究所|||https://book.douban.com/subject/1891934/
+709|||纳兰词|||纳兰性德|||https://book.douban.com/subject/1678478/
+710|||唐五代名家词选讲|||叶嘉莹|||https://book.douban.com/subject/2028082/
+711|||美丽古典|||骆玉明|||https://book.douban.com/subject/1155043/
+712|||李太白集  杜工部集|||（唐）李白、（唐）杜甫、张式铭 标点|||https://book.douban.com/subject/1556074/
+713|||杜甫评传|||莫砺锋|||https://book.douban.com/subject/1200599/
+714|||唐诗地图|||吴真|||https://book.douban.com/subject/1020398/
+715|||百代之中|||蒋寅|||https://book.douban.com/subject/24705603/
+716|||宋词举|||陈匪石|||https://book.douban.com/subject/26936007/
+717|||楚辞选|||屈原、马茂元 选注|||https://book.douban.com/subject/1069375/
+718|||從豔史到性史|||葉嘉瑩|||https://book.douban.com/subject/25760637/
+719|||樂府詩集（全四冊）|||[宋] 郭茂倩 编|||https://book.douban.com/subject/4742500/
+721|||效坤诗钞|||张宗昌|||https://book.douban.com/subject/3292158/
+722|||十三经注疏（21册）|||李学勤 主编|||https://book.douban.com/subject/1044671/
+723|||六十种曲（全十二册）|||[明] 毛晋 编|||https://book.douban.com/subject/1251845/
+724|||沧浪诗话校笺（全二册）|||严羽 著、张健 注解|||https://book.douban.com/subject/20491946/
+725|||荔尾词存|||石声汉|||https://book.douban.com/subject/1050993/
+726|||古典文学鉴赏论|||刘衍文、刘永翔|||https://book.douban.com/subject/2227282/
+727|||唐诗与宋词|||莫砺锋|||https://book.douban.com/subject/27030773/
+728|||老子衍 庄子通 庄子解|||王夫之|||https://book.douban.com/subject/3819957/
+729|||明心宝鉴|||范立本|||https://book.douban.com/subject/1972117/
+730|||樵歌校注|||朱敦儒|||https://book.douban.com/subject/5398203/
+731|||迦陵论词丛稿|||叶嘉莹|||https://book.douban.com/subject/1015063/
+732|||香艳丛书（全10册）|||虫天子|||https://book.douban.com/subject/25890346/
+733|||唐代诗人丛考|||傅璇琮|||https://book.douban.com/subject/1122765/
+734|||诗游记|||赵晓辉|||https://book.douban.com/subject/26974760/
+735|||唐代进士行卷与文学|||程千帆|||https://book.douban.com/subject/1891083/
+736|||古文鉴赏辞典（新一版）|||陈振鹏、章培恒|||https://book.douban.com/subject/26242321/
+737|||中国古代山水游记研究|||王立群|||https://book.douban.com/subject/3124825/
+738|||缪钺全集|||缪钺、缪元朗、景蜀慧|||https://book.douban.com/subject/1597407/
+739|||历代诗话续编（上中下）|||丁福保 编|||https://book.douban.com/subject/1093301/
+740|||楚辭今注|||湯炳正、李大明、李誠、熊良智|||https://book.douban.com/subject/1545956/
+741|||文房四谱|||[宋]苏易简  著、石祥  编著|||https://book.douban.com/subject/6857556/
+742|||诗经往事|||闫红|||https://book.douban.com/subject/4265996/
+743|||陈尚君自选集|||陈尚君|||https://book.douban.com/subject/2195216/
+744|||林泉高致|||（北宋）郭熙  著、鲁博林  编著|||https://book.douban.com/subject/26655949/
+745|||汉魏乐府风笺|||黄节|||https://book.douban.com/subject/2377227/
+746|||黄仲则诗选|||黄仲则|||https://book.douban.com/subject/6394566/
+747|||李煜集|||王晓枫|||https://book.douban.com/subject/1393733/
+748|||唐诗的唯美主义|||毛晓雯、苏缨|||https://book.douban.com/subject/4150303/
+749|||唐人绝句精华|||刘永济选释|||https://book.douban.com/subject/3122425/
+750|||文心雕龙札记|||黄侃|||https://book.douban.com/subject/1203446/
+751|||中国文学史(第一卷)|||袁行霈|||https://book.douban.com/subject/1056079/
+752|||仓央嘉措诗传全集|||闫晗|||https://book.douban.com/subject/6435101/
+753|||九尾龟|||张春帆|||https://book.douban.com/subject/1837811/
+754|||红楼梦|||曹雪芹、高鹗|||https://book.douban.com/subject/10796002/
+755|||中国中古文学史讲义|||刘师培|||https://book.douban.com/subject/1013805/
+756|||谢康乐诗注鲍参军诗注|||黄节 注|||https://book.douban.com/subject/2377231/
+757|||博物志|||张华(编撰)、张恩富(整理)|||https://book.douban.com/subject/2303242/
+758|||文苑英华（全六册）|||(宋)李昉等编|||https://book.douban.com/subject/1172090/
+759|||唐诗选|||马茂元选注|||https://book.douban.com/subject/1078783/
+760|||史记精读|||陈正宏|||https://book.douban.com/subject/1448404/
+761|||刘禹锡集笺证（上中下）|||刘禹锡、瞿蜕園 笺证|||https://book.douban.com/subject/1742043/
+762|||唐诗宋词三百首|||龚柳、应炯、严晓�、余宁、王仁定、周越洋、郑义|||https://book.douban.com/subject/1065486/
+763|||林泉高致|||(宋)郭熙|||https://book.douban.com/subject/5353300/
+764|||楹联丛话|||梁章钜|||https://book.douban.com/subject/1910469/
+765|||诗经今注|||高亨注|||https://book.douban.com/subject/3888470/
+766|||古典诗学的文化观照|||莫砺锋|||https://book.douban.com/subject/1445770/
+767|||宋诗史释|||曾祥波|||https://book.douban.com/subject/26950084/
+768|||槐聚诗存|||钱锺书|||https://book.douban.com/subject/1067305/
+769|||味水軒日記|||[明] 李日華|||https://book.douban.com/subject/1274888/
+770|||和泉式部日记|||和泉式部|||https://book.douban.com/subject/25816076/
+771|||史记选|||王伯祥|||https://book.douban.com/subject/1277757/
+772|||萤窗异草|||(清)长白浩歌子、冯伟民 校点|||https://book.douban.com/subject/3070597/
+773|||多情却被无情恼|||苏缨、毛晓雯|||https://book.douban.com/subject/24882339/
+774|||历代诗词名句辞典|||吕自扬|||https://book.douban.com/subject/3134111/
+775|||唐才子传校笺 第5册|||傅璇琮主编、陈尚君、陶敏补正|||https://book.douban.com/subject/1275059/
+776|||老学庵笔记|||（南宋）陆游|||https://book.douban.com/subject/1049911/
+777|||虬髯客传（唐代传奇卷）|||高光起|||https://book.douban.com/subject/3686529/
+778|||一轮圆月耀天心|||月满天心|||https://book.douban.com/subject/10545870/
+779|||骈文概论|||瞿兑之|||https://book.douban.com/subject/1439996/
+780|||传媒与真相|||内山精也|||https://book.douban.com/subject/1834279/
+781|||四溟詩話 薑齋詩話|||[明] 謝榛、[清] 王夫之|||https://book.douban.com/subject/1084347/
+782|||三侠五义|||（清）石玉昆|||https://book.douban.com/subject/1261296/
+783|||锦书云中来|||孙秋克 姜晓霞   编著|||https://book.douban.com/subject/10737455/
+784|||中国古代文体概论|||褚斌杰|||https://book.douban.com/subject/1197134/
+785|||荆楚岁时记|||南朝·宗懔、宋金龙 校注|||https://book.douban.com/subject/2139227/
+786|||水云楼诗词笺注|||[清]蒋春霖 著、刘勇刚 笺注|||https://book.douban.com/subject/6874289/
+787|||楚辞|||林家骊 译注|||https://book.douban.com/subject/4133113/
+788|||宋诗纪事补订|||钱钟书|||https://book.douban.com/subject/1432143/
+789|||朱自清古典文学论文集（全二册）|||朱自清|||https://book.douban.com/subject/3676570/
+790|||历代笔记概述|||刘叶秋|||https://book.douban.com/subject/1007059/
+791|||蒋勋说红楼梦有声书|||蒋勋|||https://book.douban.com/subject/25375313/
+792|||陶庵梦忆|||张岱|||https://book.douban.com/subject/1491624/
+793|||舌华录|||曹臣|||https://book.douban.com/subject/2077204/
+794|||全本金瓶梅词话|||兰陵笑笑生|||https://book.douban.com/subject/3161250/
+795|||樊川文集|||[唐]杜牧、陈允吉 校点|||https://book.douban.com/subject/2336299/
+796|||香譜   陳氏香譜|||洪芻、陈敬|||https://book.douban.com/subject/26703517/
+797|||唐宋词举要|||彭玉平|||https://book.douban.com/subject/26246660/
+798|||词学概论|||宛敏灏|||https://book.douban.com/subject/3752567/
+799|||中国狐文化|||李剑国|||https://book.douban.com/subject/1110162/
+800|||汉唐文学与文献论考|||陈尚君|||https://book.douban.com/subject/3134199/
+801|||柳河東集（全二冊）|||[唐]柳宗元|||https://book.douban.com/subject/3093433/
+802|||郑文焯批校汲古阁初刻梦窗词|||（南宋）吴文英著、（清）郑文焯批校|||https://book.douban.com/subject/25884423/
+803|||天下才子必读书|||金圣叹选评、朱一清程自信校注|||https://book.douban.com/subject/2152945/
+804|||词林正韵|||[清]戈载|||https://book.douban.com/subject/3713245/
+805|||遊仙窟校注|||张文成|||https://book.douban.com/subject/4882350/
+806|||毛詩正義（三卷本）|||李学勤 主编|||https://book.douban.com/subject/1341735/
+807|||白香词谱|||[清]舒梦兰 著 丁如明 评订|||https://book.douban.com/subject/6745128/
+808|||苏轼和陶诗编年校注|||杨松冀 校注|||https://book.douban.com/subject/26893754/
+809|||袁宏道集箋校（全三冊）|||[明] 袁宏道 著、钱伯城 笺校|||https://book.douban.com/subject/3084215/
+810|||纳兰词|||浙江教育出版社|||https://book.douban.com/subject/3009778/
+811|||秦观词集|||(宋)秦观|||https://book.douban.com/subject/5258703/
+812|||曹丕集校注|||曹丕、夏传才、唐绍忠|||https://book.douban.com/subject/5269151/
+813|||诗经讲义稿|||傅斯年|||https://book.douban.com/subject/1071435/
+814|||隋唐小说研究|||[日]内山知也、查屏球|||https://book.douban.com/subject/4261296/
+815|||稼轩长短句|||辛弃疾|||https://book.douban.com/subject/1141524/
+816|||近代散文抄|||沈启无 编选、黄开发 校订|||https://book.douban.com/subject/1488552/
+817|||全漢賦|||费振刚、胡双宝、宗明华|||https://book.douban.com/subject/1196287/
+818|||论语本解|||孙钦善|||https://book.douban.com/subject/3410751/
+819|||宋词声律探源大纲 词论|||刘永济|||https://book.douban.com/subject/2294401/
+820|||八代诗史|||葛晓音|||https://book.douban.com/subject/2052461/
+821|||中国韵文史|||龙榆生|||https://book.douban.com/subject/1117201/
+822|||杨时集（全四册）|||[北宋] 楊時 撰|||https://book.douban.com/subject/27001231/
+823|||私人领域的变形|||[美] 杨晓山|||https://book.douban.com/subject/3175470/
+824|||诗经通解|||林義光|||https://book.douban.com/subject/18606714/
+825|||中国的自传文学|||川合康三(日)|||https://book.douban.com/subject/1024599/
+826|||香艳丛书|||（清）虫天子 辑|||https://book.douban.com/subject/1895643/
+827|||东山词|||贺铸  著、钟振振  校注|||https://book.douban.com/subject/1959228/
+828|||宅经|||王玉德、王锐  编著|||https://book.douban.com/subject/6857548/
+829|||汪国真经典诗文|||汪国真|||https://book.douban.com/subject/3097837/
+830|||楚辞校释|||王泗原  校释|||https://book.douban.com/subject/26022058/
+831|||隋唐演义（上下）|||（明）褚人获|||https://book.douban.com/subject/1042039/
+832|||当代学术研究思辨|||周勋初|||https://book.douban.com/subject/24551716/
+833|||春秋繁露笺注|||董天工|||https://book.douban.com/subject/26988310/
+834|||龍陽逸史|||（明）醉竹居士|||https://book.douban.com/subject/3286218/
+835|||玉谿生詩集箋注|||(唐)李商隐|||https://book.douban.com/subject/1543858/
+836|||西厢记|||金圣叹|||https://book.douban.com/subject/3507167/
+837|||宋尤袤刻本文选|||萧统、李善|||https://book.douban.com/subject/26832282/
+838|||溫庭筠全集校注（全三冊）|||温庭筠、刘学锴|||https://book.douban.com/subject/2155274/
+839|||缠解论语|||缠中说禅、股海盗贼 整理|||https://book.douban.com/subject/25823805/
+840|||金粟儒林篇|||侯会|||https://book.douban.com/subject/27081746/
+841|||美人如诗 草木如织|||深圳一石|||https://book.douban.com/subject/2138987/
+842|||先秦汉魏六朝诗歌体式研究|||葛晓音|||https://book.douban.com/subject/7059696/
+843|||内藤湖南汉诗文集|||内藤湖南、印晓峰 点校|||https://book.douban.com/subject/3403041/
+844|||文学与文选四种|||吕思勉|||https://book.douban.com/subject/4894500/
+845|||毛主席为青少年选的阅读诗词|||叶燕|||https://book.douban.com/subject/26785347/
+846|||晓传书斋集|||王利器|||https://book.douban.com/subject/1071041/
+847|||盛世薄欢之少年行|||携爱再漂流|||https://book.douban.com/subject/27056119/
+848|||樂章集校注|||柳永|||https://book.douban.com/subject/1070193/
+849|||山谷诗集注（上下）|||(宋)黄庭坚撰|||https://book.douban.com/subject/1530269/
+850|||红楼梦（连环画）1-16|||曹雪芹、吴其柔（改编）|||https://book.douban.com/subject/1018017/
+851|||《柳文指要》校注|||章士钊 著、郭华清 校注|||https://book.douban.com/subject/26861691/
+852|||李白选集|||郁贤皓 选注|||https://book.douban.com/subject/25782887/
+853|||中国文学精神|||徐复观|||https://book.douban.com/subject/1802044/
+854|||古诗赏析|||许逸民、张玉穀|||https://book.douban.com/subject/27022780/
+855|||春秋公羊传|||孔子、公羊寿|||https://book.douban.com/subject/26913494/
+856|||沧浪诗话|||严羽|||https://book.douban.com/subject/25858591/
+857|||国语|||左丘明|||https://book.douban.com/subject/1449466/
+858|||烟月不知人事改|||白落梅|||https://book.douban.com/subject/5363547/
+859|||佩文诗韵·词林正韵·中原音韵|||[清]戈载 等著 田松青 编校|||https://book.douban.com/subject/6745117/
+860|||词品|||[明]杨慎、岳淑珍 导读|||https://book.douban.com/subject/3993386/
+861|||十方一念|||林夕|||https://book.douban.com/subject/4841292/
+862|||雪涛小说（外四种）|||(明)江盈科|||https://book.douban.com/subject/1050466/
+863|||晚明小品选注|||朱剑心|||https://book.douban.com/subject/26411001/
+864|||史记选|||司马迁|||https://book.douban.com/subject/1003073/
+865|||文选学|||骆鸿凯著 马积高整理|||https://book.douban.com/subject/3068644/
+866|||赵氏孤儿|||【元】纪君祥等|||https://book.douban.com/subject/5365218/
+867|||三曹诗选|||余冠英|||https://book.douban.com/subject/1891443/
+868|||中国文学史之成立|||陈广宏|||https://book.douban.com/subject/27011907/
+869|||文学传统与中古道家佛教|||陈引驰|||https://book.douban.com/subject/26278980/
+870|||平家物语|||周作人|||https://book.douban.com/subject/1330007/
+871|||楚辞解故|||朱季海|||https://book.douban.com/subject/7067225/
+872|||近思录|||[宋]朱熹、吕祖谦编、[宋] 叶采集解、严佐之导读、程水龙整理|||https://book.douban.com/subject/5287386/
+873|||六一诗话 冷斋夜话|||[宋] 欧阳修、释惠洪|||https://book.douban.com/subject/4240153/
+874|||窥破金瓶|||吴闲云|||https://book.douban.com/subject/6313273/
+875|||王国维诗词笺注|||［清］王国维  著   陈永正  笺注|||https://book.douban.com/subject/5979761/
+876|||词曲概论|||龙榆生|||https://book.douban.com/subject/1066225/
+877|||《笠翁对韵》精解|||李渔|||https://book.douban.com/subject/3559927/
+878|||沈曾植集校注（全二冊）|||錢仲聯 校注|||https://book.douban.com/subject/1251783/
+879|||剑南诗稿校注（全八册）|||[宋] 陆  游  著    钱仲联  校注|||https://book.douban.com/subject/1742049/
+880|||全宋诗(1-72)(全套装)|||北大古文献研究所|||https://book.douban.com/subject/1197250/
+881|||闲情偶寄|||[清]李渔|||https://book.douban.com/subject/23018283/
+882|||太平广记|||李昉 编|||https://book.douban.com/subject/3413628/
+883|||明清名家小品精华|||欧明俊主编|||https://book.douban.com/subject/3038384/
+884|||荀子|||[战国] 荀子 著、孙安邦、马银华 译注|||https://book.douban.com/subject/1214302/
+885|||陈迹·清欢|||白落梅|||https://book.douban.com/subject/25749221/
+886|||中国农学书录|||王毓瑚|||https://book.douban.com/subject/1852942/
+887|||最美唐诗|||苏缨、毛晓雯|||https://book.douban.com/subject/26691119/
+888|||王船山詩文集（全二冊）|||王夫之|||https://book.douban.com/subject/1137652/
+889|||吕碧城词笺注|||吕碧城|||https://book.douban.com/subject/1280675/
+890|||中古文论要义十讲|||王运熙|||https://book.douban.com/subject/1008912/
+891|||诗经名物图|||[日]细井徇|||https://book.douban.com/subject/26352443/
+892|||孟子譯注|||杨伯峻 译注|||https://book.douban.com/subject/1006624/
+893|||散原精舍詩文集（全二冊）|||散原老人、陈三立|||https://book.douban.com/subject/1440625/
+894|||慎墨堂诗话（全四册）|||[清]邓汉仪撰、陆林辑、王卓华辑|||https://book.douban.com/subject/27023733/
+895|||岭雅|||陈寂  傅静庵  主编、陈永正  李国明 李文约  辑校|||https://book.douban.com/subject/25862433/
+896|||日本古代诗学汇译|||王向远|||https://book.douban.com/subject/25962255/
+897|||无灯无月两心知|||刘聪 著辑|||https://book.douban.com/subject/11601095/
+898|||古文鉴赏辞典（下）|||章培恒、陈振鹏|||https://book.douban.com/subject/1028864/
+899|||忆云词|||（清）项鸿祚|||https://book.douban.com/subject/4149215/
+900|||全宋词审稿笔记|||王仲闻撰、唐圭璋批注|||https://book.douban.com/subject/4052393/
+901|||中国文学批评 中国散文概论|||方孝岳|||https://book.douban.com/subject/1981337/
+902|||鹅妈妈童谣|||张新颖、肖慧、叶秀芳|||https://book.douban.com/subject/3549894/
+903|||冰茧庵论学书札（上）|||缪钺|||https://book.douban.com/subject/25981419/
+904|||唐诗三百首•宋词三百首•元曲三百首|||(清)蘅塘退士|||https://book.douban.com/subject/4152092/
+905|||兰陵萧氏与南朝文学|||曹道衡|||https://book.douban.com/subject/1058878/
+906|||苏轼集|||苏轼|||https://book.douban.com/subject/2103067/
+907|||乾嘉经学家文学思想研究|||刘奕|||https://book.douban.com/subject/10532615/
+908|||读词常识|||夏承焘、吴熊和|||https://book.douban.com/subject/1064536/
+909|||芳菲已满襟：草木小品赏读|||舒飞廉|||https://book.douban.com/subject/26319783/
+910|||西游故事跨文本研究|||赵毓龙|||https://book.douban.com/subject/26926708/
+911|||陶渊明研究|||袁行霈|||https://book.douban.com/subject/3563619/
+912|||汉魏晋五言诗的演变|||蔡宗齐|||https://book.douban.com/subject/26528773/
+913|||古文辞类纂箋|||高步瀛|||https://book.douban.com/subject/3150253/
+914|||清異錄/清异录|||陶谷|||https://book.douban.com/subject/2136235/
+915|||震川先生集（全二冊）|||归有光|||https://book.douban.com/subject/3368811/
+916|||燕丹子 西京杂记|||无名氏、刘歆、葛洪|||https://book.douban.com/subject/2270249/
+917|||宋思溪藏本大唐西域记|||[唐]释玄奘 译、[唐]释辩机 撰|||https://book.douban.com/subject/27016772/
+918|||王安石全集（第五、六、七册）|||王水照  主编|||https://book.douban.com/subject/27002537/
+919|||金圣叹批唐才子诗•杜诗解|||(清)金圣叹|||https://book.douban.com/subject/5383587/
+920|||汉魏六朝诗论丛|||余冠英|||https://book.douban.com/subject/6004629/
+921|||花千树|||李会诗|||https://book.douban.com/subject/26735568/
+922|||黃節注漢魏六朝詩六種|||黃節 注|||https://book.douban.com/subject/3054332/
+923|||清嘉錄 桐橋倚棹錄|||[清] 顧祿 撰、來新夏、王稼句 點校|||https://book.douban.com/subject/3134558/
+924|||水浒传|||施耐庵 罗贯中|||https://book.douban.com/subject/1659532/
+925|||温和地走进宋词的凉夜|||夏昆|||https://book.douban.com/subject/26361776/
+926|||《陶庵梦忆》注评|||[明] 张岱 著、林邦钧 注|||https://book.douban.com/subject/26202681/
+927|||东坡词傅幹注校证|||[宋] 苏轼 著、[宋] 傅幹 注、刘尚荣 校证|||https://book.douban.com/subject/26930829/
+928|||宋词纵谈|||陈迩东|||https://book.douban.com/subject/26068788/
+929|||游仙窟|||张鷟（张文成）|||https://book.douban.com/subject/3182650/
+930|||绣谱|||[清]丁佩著、姜昳编著|||https://book.douban.com/subject/10558520/
+931|||二十四史全译1-88|||司马迁[西汉]、班固[东汉]、范晔[南朝]、陈寿[西晋]、房玄龄[唐]、梁沈约[南朝]、梁萧子显[南朝]、姚思廉[唐]、魏收[北齐]、李百药[唐]、令狐德棻[唐]、魏征[唐]、李延寿[唐]、刘昫等[后晋]、欧阳修、宋祁[宋]、薛居正[宋]、脱脱[元]、宋濂[明]、张廷玉[清]|||https://book.douban.com/subject/1597252/
+932|||和风堂文集|||柳存仁|||https://book.douban.com/subject/2083956/
+933|||鬼谷子详解|||陈蒲清|||https://book.douban.com/subject/1393214/
+934|||临川先生文集|||王安石|||https://book.douban.com/subject/2373334/
+935|||李白全集编年笺注|||李白|||https://book.douban.com/subject/26659438/
+936|||李贺诗选评|||陈允吉|||https://book.douban.com/subject/1074472/
+937|||中国古代阐释学研究|||周裕锴|||https://book.douban.com/subject/1267831/
+938|||清代世家与文学传承|||徐雁平|||https://book.douban.com/subject/19938177/
+939|||李长之文集（共10卷）|||李长之|||https://book.douban.com/subject/2063996/
+940|||梁羽生妙评民国诗词|||梁羽生|||https://book.douban.com/subject/26599595/
+941|||南唐二主词笺注|||李璟、李煜|||https://book.douban.com/subject/21692899/
+942|||鸳鸯湖棹歌|||朱彝尊|||https://book.douban.com/subject/10564234/
+943|||古典文学三百题|||上海古籍出版社|||https://book.douban.com/subject/1070190/
+944|||全唐文补编|||陈尚君　辑校|||https://book.douban.com/subject/1445777/
+945|||列仙传校笺|||王叔岷|||https://book.douban.com/subject/2154583/
+946|||世有桃花|||安意如|||https://book.douban.com/subject/4909052/
+947|||午梦堂集(上下)|||叶绍袁|||https://book.douban.com/subject/1023883/
+948|||宋代文学通论|||王水照 编|||https://book.douban.com/subject/1559492/
+949|||李太白全集校注|||郁贤皓|||https://book.douban.com/subject/26702101/
+950|||怎样赏诗|||中华书局编辑部|||https://book.douban.com/subject/20273216/
+951|||唐宋诗歌论集|||莫砺锋|||https://book.douban.com/subject/2115616/
+952|||苏轼诗文鉴赏辞典|||上海辞书出版社文学鉴赏辞典编纂中心|||https://book.douban.com/subject/6758670/
+953|||与陶渊明生活在桃花源|||程滨|||https://book.douban.com/subject/26835054/
+954|||艳异编|||[明]王世贞  编撰、[明]汤显祖  摘评|||https://book.douban.com/subject/26260797/
+955|||隋炀帝艳史|||(明)齐东野人|||https://book.douban.com/subject/1093299/
+956|||十大言情小说|||吕智敏 编|||https://book.douban.com/subject/1137600/
+957|||女性词史|||邓红梅 著|||https://book.douban.com/subject/1559611/
+958|||清异录 江淮异人录|||陶榖、吴淑|||https://book.douban.com/subject/20434498/
+959|||世说新语译注（全二册）|||[南朝宋] 刘义庆|||https://book.douban.com/subject/2080782/
+960|||庄子浅注|||曹础基|||https://book.douban.com/subject/1536623/
+961|||留白|||田晓菲|||https://book.douban.com/subject/3519776/
+962|||本草纲目|||李时珍|||https://book.douban.com/subject/2041978/
+963|||二十四诗品探微|||乔力|||https://book.douban.com/subject/2993854/
+964|||宋词三百首笺注|||上彊村民|||https://book.douban.com/subject/1426172/
+965|||制艺丛话  试律丛话|||(清)梁章钜著、陈居渊校点|||https://book.douban.com/subject/1607301/
+966|||诗词写作常识|||钱志熙、刘青海|||https://book.douban.com/subject/19996003/
+967|||水浒传(会评本上下) (平装)|||陈曦钟|||https://book.douban.com/subject/1196048/
+968|||辛弃疾词|||辛弃疾|||https://book.douban.com/subject/1279929/
+969|||唐宋传奇选|||张友鹤|||https://book.douban.com/subject/2364686/
+970|||清词菁华|||沈轶刘、富寿荪选编|||https://book.douban.com/subject/2229401/
+971|||宋诗精华录|||[清]陈衍 编选、高克勤 导读、秦克 整理集评|||https://book.douban.com/subject/3427199/
+972|||唐詩與唐史論集|||謝思煒|||https://book.douban.com/subject/26870355/
+973|||唐宋词一百首|||胡云翼|||https://book.douban.com/subject/1203464/
+974|||元好问传|||朱东润 著、陈尚君 整理|||https://book.douban.com/subject/26924527/
+975|||绝妙好诗——如何读懂古典诗歌|||孙静  著|||https://book.douban.com/subject/27054087/
+976|||诗经三百篇鉴赏辞典|||赵逵夫|||https://book.douban.com/subject/2216661/
+977|||中唐文人之文艺及其世界|||[日]赤井益久|||https://book.douban.com/subject/25783984/
+978|||杜牧集系年校注|||吴在庆|||https://book.douban.com/subject/3258983/
+979|||诗词例话|||周振甫|||https://book.douban.com/subject/5401961/
+980|||昭明文选译注（第一卷）|||陈宏天|||https://book.douban.com/subject/2117544/
+981|||古诗十九首探索|||马茂元|||https://book.douban.com/subject/3229925/
+982|||黄季刚诗文集|||黄侃|||https://book.douban.com/subject/26824914/
+983|||唐诗|||蔡志忠|||https://book.douban.com/subject/1010160/
+984|||汉魏六朝乐府诗|||王运熙、王国安|||https://book.douban.com/subject/6720799/
+985|||梦苕盦诗文集（上下）|||钱仲联|||https://book.douban.com/subject/3244959/
+986|||国朝闺秀诗柳絮集校补（全四册）|||（清）黃秩模編輯、付瓊校補|||https://book.douban.com/subject/6880160/
+987|||古典诗词讲演集|||叶嘉莹|||https://book.douban.com/subject/1044528/
+988|||列女传|||刘向|||https://book.douban.com/subject/1607759/
+989|||蒋勋说文学：从唐代散文到现代文学|||蒋勋|||https://book.douban.com/subject/25904912/
+990|||民国诗话丛编（共6册）|||张寅彭 编|||https://book.douban.com/subject/1131210/
+991|||词苑丛谈|||徐釚|||https://book.douban.com/subject/3101057/
+992|||八指头陀诗文集|||释敬安 著、段晓华  校点|||https://book.douban.com/subject/26945510/
+993|||绝代有佳人：女性小品赏读|||林赶秋|||https://book.douban.com/subject/26319752/
+994|||汪精衛詩詞之中的「精衛情結」|||葉嘉瑩|||https://book.douban.com/subject/5288492/
+995|||人物、角色与心灵|||[美]吕立亭|||https://book.douban.com/subject/26021751/
+996|||闲坐说诗经|||金性尧著|||https://book.douban.com/subject/1151827/
+997|||不如不遇倾城色|||倾蓝紫|||https://book.douban.com/subject/2138984/
+998|||国色天香·赵飞燕外传|||吴敬所|||https://book.douban.com/subject/1955528/
+999|||纳兰词|||(清)纳兰性德著|||https://book.douban.com/subject/1122957/
+1000|||唐诗三百首|||[清] 蘅塘退士 编选、张忠纲 注|||https://book.douban.com/subject/26258489/

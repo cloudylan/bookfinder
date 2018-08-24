@@ -1,0 +1,21 @@
+- get all types
+    - get all books
+        - sleep specific time to avoid douban block
+    - put into database with key isbn number
+
+- transfer files to database types
+    - SQL generating script
+    - common code to read data file
+
+- book tables
+    - book types
+    - books
+    - book type relationships
+    - shops
+- book data clean
+
+- python web framework
+
+- put all data into database, then filter the duplicated data.
+
+- douban doesn't list interaction during 3:00 am to 5:00 am at least.

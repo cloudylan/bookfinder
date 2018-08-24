@@ -1,0 +1,999 @@
+1|||三体|||刘慈欣|||https://book.douban.com/subject/2567698/
+2|||你一生的故事|||[美] 特德·姜|||https://book.douban.com/subject/26295448/
+3|||永恒的终结|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/25829693/
+4|||三体Ⅲ|||刘慈欣|||https://book.douban.com/subject/5363767/
+5|||三体Ⅱ|||刘慈欣|||https://book.douban.com/subject/3066477/
+6|||银河系漫游指南|||[英] 道格拉斯·亚当斯|||https://book.douban.com/subject/1394364/
+7|||献给阿尔吉侬的花束|||[美] 丹尼尔·凯斯|||https://book.douban.com/subject/1442869/
+8|||基地|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/1258490/
+9|||来自新世界 （上下）|||[日] 贵志祐介|||https://book.douban.com/subject/25752955/
+10|||火星救援|||[美] 安迪·威尔|||https://book.douban.com/subject/26586492/
+11|||海伯利安|||[美] 丹·西蒙斯|||https://book.douban.com/subject/2052049/
+12|||异形全书|||[英]马克·索尔兹伯里|||https://book.douban.com/subject/27014525/
+13|||沙丘|||[美] 弗兰克·赫伯特|||https://book.douban.com/subject/26836970/
+14|||封闭式车库|||[法] 墨比斯 编绘|||https://book.douban.com/subject/26963322/
+15|||神们自己|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/26264967/
+16|||神经漫游者|||[美] 威廉·吉布森|||https://book.douban.com/subject/24107596/
+17|||华氏451|||（美）雷·布雷德伯利|||https://book.douban.com/subject/1321790/
+18|||球状闪电|||刘慈欣|||https://book.douban.com/subject/1192090/
+19|||索拉里斯星|||[波] 斯坦尼斯拉夫·莱姆|||https://book.douban.com/subject/1440243/
+20|||三体全集|||刘慈欣|||https://book.douban.com/subject/6518605/
+21|||软件体的生命周期|||[美] 特德·姜|||https://book.douban.com/subject/26295450/
+22|||摩天楼|||[英] J.G.巴拉德|||https://book.douban.com/subject/26819481/
+23|||仿生人会梦见电子羊吗？|||(美)菲利普·迪克|||https://book.douban.com/subject/24715686/
+24|||少数派报告|||(美)菲利普·迪克|||https://book.douban.com/subject/24715669/
+25|||美国众神|||[英] 尼尔·盖曼|||https://book.douban.com/subject/1939182/
+26|||深渊上的火|||[美] 弗诺·文奇|||https://book.douban.com/subject/1146267/
+27|||2001太空漫游|||[英] 阿瑟·克拉克|||https://book.douban.com/subject/2340609/
+28|||宇宙尽头的餐馆|||[英] 道格拉斯·亚当斯|||https://book.douban.com/subject/10488563/
+29|||神的九十亿个名字|||[英] 阿瑟·克拉克|||https://book.douban.com/subject/20470849/
+30|||大师的盛宴|||奥森·斯科特·卡德 编|||https://book.douban.com/subject/11511232/
+31|||银河英雄传说|||[日] 田中芳树|||https://book.douban.com/subject/1418999/
+32|||云图|||(英) 大卫·米切尔|||https://book.douban.com/subject/4202422/
+33|||“太空漫游”四部曲|||[英]阿瑟·克拉克|||https://book.douban.com/subject/20279665/
+34|||艾比斯之梦|||[日] 山本弘|||https://book.douban.com/subject/24538715/
+35|||看海的人|||[日] 小林泰三|||https://book.douban.com/subject/26280924/
+36|||全息玫瑰碎片|||[加]威廉·吉布森|||https://book.douban.com/subject/25808977/
+37|||海底两万里|||[法国] 儒尔·凡尔纳|||https://book.douban.com/subject/1085470/
+38|||流浪地球|||刘慈欣|||https://book.douban.com/subject/3266609/
+39|||安德的游戏|||（美）奥森·斯科特·卡德|||https://book.douban.com/subject/1140727/
+40|||机器人短篇全集（上下）|||（美）艾萨克·阿西莫夫|||https://book.douban.com/subject/1391510/
+41|||无根之木|||[美] 娜奥米·诺维克|||https://book.douban.com/subject/26956486/
+42|||天渊|||[美] 弗诺·文奇|||https://book.douban.com/subject/1399992/
+43|||银河帝国：基地七部曲|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/26389895/
+44|||黑暗的左手|||（美）厄休拉•勒古恩|||https://book.douban.com/subject/3816883/
+45|||人类灭绝|||[日] 高野和明|||https://book.douban.com/subject/26046043/
+46|||时间移民|||刘慈欣|||https://book.douban.com/subject/26210607/
+47|||奇爱博士|||[英] 彼得·乔治|||https://book.douban.com/subject/26791409/
+48|||趁生命气息逗留|||(美)罗杰·泽拉兹尼|||https://book.douban.com/subject/4903437/
+49|||安德的游戏·三部曲|||[美] 奥森·斯科特·卡德|||https://book.douban.com/subject/26779789/
+50|||盲视|||[加] 彼得·沃茨|||https://book.douban.com/subject/10608453/
+51|||机器人间|||阿缺|||https://book.douban.com/subject/26991560/
+52|||火星编年史|||（美）雷·布拉德伯里|||https://book.douban.com/subject/3290026/
+53|||与拉玛相会|||[英] 阿瑟·C. 克拉克|||https://book.douban.com/subject/6744648/
+54|||百亿之昼、千亿之夜|||[日] 光濑龙|||https://book.douban.com/subject/26940524/
+55|||真名实姓|||[美] 弗诺·文奇 等|||https://book.douban.com/subject/1772786/
+56|||时间回旋|||[加] 罗伯特·查尔斯·威尔森|||https://book.douban.com/subject/3041463/
+57|||童年的终结|||阿瑟·克拉克|||https://book.douban.com/subject/1865765/
+58|||生命，宇宙以及一切|||(英)道格拉斯·亚当斯|||https://book.douban.com/subject/19938026/
+59|||回忆爱玛侬|||[日]  梶尾真治|||https://book.douban.com/subject/26916149/
+60|||机器人大师|||(波兰)斯坦尼斯拉夫·莱姆|||https://book.douban.com/subject/25978738/
+61|||光明王|||[美] 罗杰·泽拉兹尼|||https://book.douban.com/subject/3198422/
+62|||暗夜独行客|||[美] 雷·布拉德伯里|||https://book.douban.com/subject/26722307/
+63|||孤独深处|||郝景芳|||https://book.douban.com/subject/26791407/
+64|||赡养人类|||刘慈欣|||https://book.douban.com/subject/26807576/
+65|||一无所有|||[美]厄休拉·勒古恩|||https://book.douban.com/subject/3747044/
+66|||亲爱的阿道夫|||[美] 雷·布拉德伯里|||https://book.douban.com/subject/26767242/
+67|||上海堡垒|||江南|||https://book.douban.com/subject/3268399/
+68|||菲利普·迪克作品集（全5册）|||[美]菲利普·迪克|||https://book.douban.com/subject/25736982/
+69|||家族八景|||[日] 筒井康隆|||https://book.douban.com/subject/27017794/
+70|||第二基地|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/1258489/
+71|||乡村教师|||刘慈欣|||https://book.douban.com/subject/10767124/
+72|||逃离2147|||[美] A.G.里德尔|||https://book.douban.com/subject/27003797/
+73|||异形：契约|||[美] 艾伦·迪恩·福斯特|||https://book.douban.com/subject/27063968/
+74|||银河帝国8|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/20390695/
+75|||发条女孩|||[美] 保罗·巴奇加卢皮|||https://book.douban.com/subject/10763170/
+76|||弗兰肯斯坦|||[英]玛丽·雪莱|||https://book.douban.com/subject/2042631/
+77|||巫师、外星人和星舰|||[美] 查尔斯·阿德勒|||https://book.douban.com/subject/26320244/
+78|||银河帝国：机器人五部曲|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/26389897/
+79|||未来的序曲|||(美)刘宇昆，保罗·巴奇加卢皮等 著；(美)戴维·哈特威尔，帕特里克·海登 编|||https://book.douban.com/subject/26534892/
+80|||重启蒙娜丽莎|||[美] 威廉·吉布森|||https://book.douban.com/subject/26787940/
+81|||基地与帝国|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/1258491/
+82|||众神的战车|||(瑞士)丹尼肯|||https://book.douban.com/subject/6858635/
+83|||差分机|||(美)威廉·吉布森、(美)布鲁斯·斯特林|||https://book.douban.com/subject/24153098/
+84|||雪崩|||（美）尼尔·斯蒂芬森|||https://book.douban.com/subject/3816895/
+85|||再会，谢谢所有的鱼|||(英)道格拉斯·亚当斯|||https://book.douban.com/subject/21690283/
+86|||最後的問題|||阿西莫夫|||https://book.douban.com/subject/4834737/
+87|||海伯利安的陨落|||丹·西蒙斯|||https://book.douban.com/subject/2350549/
+88|||死者代言人|||[美] 奥森·斯科特·卡德|||https://book.douban.com/subject/1271212/
+89|||消失的殖民星球|||[美] 约翰·斯卡尔齐|||https://book.douban.com/subject/26787943/
+90|||异乡异客|||罗伯特.海因莱因|||https://book.douban.com/subject/2064688/
+91|||星船伞兵|||(美)罗伯特・海因莱恩|||https://book.douban.com/subject/1140729/
+92|||遥远地球之歌|||[英] 阿瑟·克拉克|||https://book.douban.com/subject/12404751/
+93|||爱的算法|||(美)刘宇昆|||https://book.douban.com/subject/11597373/
+94|||2018|||刘慈欣|||https://book.douban.com/subject/26210632/
+95|||银河系搭车客指南（5部曲）|||[英] 道格拉斯·亚当斯|||https://book.douban.com/subject/25839522/
+96|||群星，我的归宿|||阿尔弗雷德·贝斯特、Alfred Bester|||https://book.douban.com/subject/1292322/
+97|||平面国|||[英]埃德温·A·艾勃特|||https://book.douban.com/subject/3774646/
+98|||神秘岛|||(法)儒勒.凡尔纳|||https://book.douban.com/subject/1275608/
+99|||莱博维茨的赞歌|||小沃尔特·M·米勒|||https://book.douban.com/subject/1310155/
+100|||尤比克|||[美]菲利普·迪克|||https://book.douban.com/subject/24944340/
+101|||严厉的月亮|||罗伯特·海因莱因|||https://book.douban.com/subject/1182890/
+102|||带上她的眼睛|||刘慈欣|||https://book.douban.com/subject/1195590/
+103|||倒带人生|||(美)肯恩•格林伍德|||https://book.douban.com/subject/5038509/
+104|||思维的形状|||(美)刘宇昆|||https://book.douban.com/subject/26108260/
+105|||计算中的上帝|||(加拿大)罗伯特﹒J﹒索耶|||https://book.douban.com/subject/1140726/
+106|||高城堡里的人|||(美)菲利普·迪克|||https://book.douban.com/subject/22606919/
+107|||赶往火星|||罗伯特·祖布林 (Robert Zubrin)、理查德·瓦格纳 (Richard Wagner)|||https://book.douban.com/subject/10532684/
+108|||新日之书（全4册）|||(美)吉恩·沃尔夫|||https://book.douban.com/subject/25900689/
+109|||时间足够你爱|||[美]罗伯特·海因莱因|||https://book.douban.com/subject/2972992/
+110|||绿火星（全二册）|||（美）金·斯坦利·罗宾逊|||https://book.douban.com/subject/3417464/
+111|||银河帝国：帝国三部曲|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/26389898/
+112|||夏日遇见狄更斯|||[美] 雷·布拉德伯里|||https://book.douban.com/subject/26834592/
+113|||完美的真空|||(波兰)斯坦尼斯拉夫·莱姆|||https://book.douban.com/subject/1440442/
+114|||天意|||钱莉芳|||https://book.douban.com/subject/1161852/
+115|||睡豚，醒来|||凌晨|||https://book.douban.com/subject/26969583/
+116|||2030·终点镇|||迟卉|||https://book.douban.com/subject/26955487/
+117|||零伯爵|||[美] 威廉·吉布森|||https://book.douban.com/subject/26328513/
+118|||消失的星国|||墨熊|||https://book.douban.com/subject/26985218/
+119|||我知道你明天干了什么|||柳文扬|||https://book.douban.com/subject/2360390/
+120|||美丽之星|||[日] 三岛由纪夫|||https://book.douban.com/subject/25853088/
+121|||异形：痛苦之河|||[美] 克里斯托弗·戈尔登|||https://book.douban.com/subject/26911961/
+122|||侏罗纪公园|||[美] 迈克尔·克莱顿|||https://book.douban.com/subject/26394800/
+123|||星际迷航-红衫|||(美)约翰·斯卡尔齐|||https://book.douban.com/subject/25886175/
+124|||Blame! 1|||（日）弐瓶勉|||https://book.douban.com/subject/1467492/
+125|||奇点遗民|||[美] 刘宇昆|||https://book.douban.com/subject/27077140/
+126|||基本无害|||(英)道格拉斯·亚当斯|||https://book.douban.com/subject/25752979/
+127|||梦侦探|||(日) 筒井康隆|||https://book.douban.com/subject/4887589/
+128|||殡葬人的秘密|||[美] 雷·布拉德伯里|||https://book.douban.com/subject/26789635/
+129|||冬至草|||[日]石黑达昌|||https://book.douban.com/subject/25832600/
+130|||国王与抒情诗|||李宏伟|||https://book.douban.com/subject/27017396/
+131|||路边野餐|||(俄罗斯)阿卡迪·斯特鲁伽茨基、(俄罗斯)鲍里斯·斯特鲁伽茨基|||https://book.douban.com/subject/11612052/
+132|||Seveneves|||Neal Stephenson|||https://book.douban.com/subject/26335214/
+133|||卫斯理全集|||倪匡|||https://book.douban.com/subject/3431718/
+134|||上帝的图书馆|||[美] 司各特·霍金斯|||https://book.douban.com/subject/26656291/
+135|||玩具修理者|||小林泰三|||https://book.douban.com/subject/1316584/
+136|||我的征途是星辰大海|||今何在|||https://book.douban.com/subject/4937547/
+137|||十三层空间|||[美] 丹尼尔·加卢耶|||https://book.douban.com/subject/27001144/
+138|||量子窃贼|||[芬兰] 哈努·拉贾涅米|||https://book.douban.com/subject/26768311/
+139|||阿西莫夫科幻小说|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/1900903/
+140|||神秘博士：沙达|||[英] 道格拉斯·亚当斯、[英] 加雷斯·罗伯茨|||https://book.douban.com/subject/25917727/
+141|||安迪密恩|||(美)丹·西蒙斯|||https://book.douban.com/subject/25941891/
+142|||红色海洋|||韩松|||https://book.douban.com/subject/1198312/
+143|||基地前传1·基地前奏（上下）|||（美）艾萨克·阿西莫夫|||https://book.douban.com/subject/1258487/
+144|||黑暗的速度|||[美] 伊丽莎白·穆恩|||https://book.douban.com/subject/11498196/
+145|||科幻电影导论|||[英]凯斯•M.约翰斯顿|||https://book.douban.com/subject/26783055/
+146|||最糟的宇宙，最好的地球|||刘慈欣|||https://book.douban.com/subject/26609776/
+147|||2010太空漫游|||(英)阿瑟·克拉克|||https://book.douban.com/subject/2340610/
+148|||时间之墟|||宝树|||https://book.douban.com/subject/24935042/
+149|||猫城记|||老舍|||https://book.douban.com/subject/3345595/
+150|||银河系科幻电影指南|||电子骑士|||https://book.douban.com/subject/26986922/
+151|||新新日报馆：机械崛起|||梁清散|||https://book.douban.com/subject/26868921/
+152|||六道众生|||何夕|||https://book.douban.com/subject/11605558/
+153|||背叛之星|||[美] 奥森·斯科特·卡德|||https://book.douban.com/subject/26819478/
+154|||地球纪元 I：太阳危机|||彩虹之门|||https://book.douban.com/subject/27078754/
+155|||飞翔吧！大清帝国|||(日) 武田雅哉|||https://book.douban.com/subject/24739619/
+156|||科幻作品|||[英]戴维·锡德|||https://book.douban.com/subject/26981371/
+157|||全频带阻塞干扰|||刘慈欣、Comis You 滴水工坊 制作漫画|||https://book.douban.com/subject/3571732/
+158|||光逝|||（美）乔治·R·R·马丁|||https://book.douban.com/subject/4814392/
+159|||变化的位面|||（美）厄休拉·勒奎恩|||https://book.douban.com/subject/2049339/
+160|||再生砖|||韩松|||https://book.douban.com/subject/26598144/
+161|||起风之城|||张冉|||https://book.douban.com/subject/26648648/
+162|||微宇宙的上帝|||西奥多·斯特金、艾萨克·阿西莫夫 等|||https://book.douban.com/subject/25816893/
+163|||驱魔|||韩松|||https://book.douban.com/subject/27064871/
+164|||时震|||[美国] 库尔特·冯内古特|||https://book.douban.com/subject/1085533/
+165|||遗落的南境1：湮灭|||[美] 杰夫·范德米尔|||https://book.douban.com/subject/26652880/
+166|||帕莫·艾德里奇的三处圣痕|||[美] 菲利普·迪克|||https://book.douban.com/subject/26372813/
+167|||让时间停止的女孩|||[美] 罗伯特·富兰克林·杨|||https://book.douban.com/subject/26879323/
+168|||屠杀器官|||[日] 伊藤计划|||https://book.douban.com/subject/25977519/
+169|||基里尼亚加|||[美] 迈克·雷斯尼克|||https://book.douban.com/subject/26579776/
+170|||星际特工1|||[法] 克里斯坦 编剧、[法] 梅齐埃 绘画|||https://book.douban.com/subject/26939959/
+171|||安迪密恩的觉醒|||(美)丹·西蒙斯|||https://book.douban.com/subject/25941893/
+172|||镜像人之末世如你|||小托|||https://book.douban.com/subject/26895400/
+173|||猩人：布鲁诺的进化|||[美] 本杰明·黑尔|||https://book.douban.com/subject/26906371/
+174|||进入盛夏之门|||（美）罗伯特·海因莱因|||https://book.douban.com/subject/1439017/
+175|||6号泵|||[美] 保罗·巴奇加卢皮|||https://book.douban.com/subject/26739275/
+176|||异形：韦兰-汤谷公司报告|||[美] S. D. 佩里、[芬兰] 马库斯·潘瑟格劳|||https://book.douban.com/subject/27028454/
+177|||星际迷航：联邦星舰进取号完全图解|||[美] 本·罗宾逊、[美] 马库斯·赖利|||https://book.douban.com/subject/11639956/
+178|||异形：悲伤之海|||［美］詹姆斯•A.摩尔|||https://book.douban.com/subject/26911959/
+179|||月族 1|||[美] 玛丽莎·梅尔|||https://book.douban.com/subject/26811147/
+180|||幽灵舰队|||(美)约翰·斯卡尔齐|||https://book.douban.com/subject/24840349/
+181|||和谐|||[日] 伊藤计划|||https://book.douban.com/subject/25977518/
+182|||图案人|||(美)雷·布拉德伯里|||https://book.douban.com/subject/19977751/
+183|||守望者 上|||阿兰·摩尔、戴夫·吉本斯、约翰·希金斯|||https://book.douban.com/subject/25709685/
+184|||天贼|||[美] 奥森·斯科特·卡德|||https://book.douban.com/subject/26783042/
+185|||接触|||卡尔•萨根|||https://book.douban.com/subject/3105462/
+186|||末日之书|||康妮•威利斯、Connie Willis|||https://book.douban.com/subject/4025049/
+187|||死亡迷局|||[美]菲利普·迪克|||https://book.douban.com/subject/26271843/
+188|||羊毛战记|||(美)休·豪伊|||https://book.douban.com/subject/24843834/
+189|||枪，偶尔有音乐|||［美］乔纳森•勒瑟姆|||https://book.douban.com/subject/6541263/
+190|||复苏人|||永城|||https://book.douban.com/subject/26994872/
+191|||上帝眼中的微尘|||(美)拉里·尼文、(美)杰里·波奈尔|||https://book.douban.com/subject/26261589/
+192|||伤心者|||何夕|||https://book.douban.com/subject/26590999/
+193|||银河帝国6：基地边缘|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/11528307/
+194|||外星人就在月球背面|||李卫东|||https://book.douban.com/subject/3724680/
+195|||铳梦|||木城幸人|||https://book.douban.com/subject/1467239/
+196|||沃辛传奇|||[美] 奥森·斯科特·卡德|||https://book.douban.com/subject/26776779/
+197|||未来考古学|||[美] 弗里德里克•詹姆逊|||https://book.douban.com/subject/25822107/
+198|||流吧！我的眼泪|||[美]菲利普·迪克|||https://book.douban.com/subject/24944354/
+199|||大英雄时代|||Priest|||https://book.douban.com/subject/26688708/
+200|||地铁|||韩松|||https://book.douban.com/subject/5336223/
+201|||银河帝国5：迈向基地|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/11528306/
+202|||副本|||(英)理查德·摩根|||https://book.douban.com/subject/5395151/
+203|||符神传说2东川起风云|||习风|||https://book.douban.com/subject/27029689/
+204|||镜子|||刘慈欣|||https://book.douban.com/subject/26658900/
+205|||科幻小说史|||[英]亚当·罗伯茨、Adam Roberts|||https://book.douban.com/subject/4282061/
+206|||超新星纪元|||刘慈欣|||https://book.douban.com/subject/3636385/
+207|||穹顶之下（上下）|||斯蒂芬·金|||https://book.douban.com/subject/25722933/
+208|||银河帝国11：曙光中的机器人|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/24531360/
+209|||如何创作科幻小说与奇幻小说|||[美]奥森·斯科特·卡德|||https://book.douban.com/subject/26299615/
+210|||银河帝国12：机器人与帝国|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/25737822/
+211|||犹太警察工会|||[美]迈克尔·夏邦|||https://book.douban.com/subject/26249763/
+212|||基地续集2·基地与地球（上下）|||（美）艾萨克·阿西莫夫|||https://book.douban.com/subject/1258486/
+213|||雪国列车|||[法] 罗布、[德] 罗切特、[法] 勒格朗|||https://book.douban.com/subject/26677364/
+214|||垂暮之战|||（美）约翰·斯卡尔齐|||https://book.douban.com/subject/3262395/
+215|||虚拟偶像爱朵露|||（加）威廉·吉布森|||https://book.douban.com/subject/25725500/
+216|||地心游记|||（法）凡尔纳（Verne，J.）|||https://book.douban.com/subject/1276032/
+217|||编码宝典|||[美] 尼尔·斯蒂芬森|||https://book.douban.com/subject/27077159/
+218|||荒潮|||陈楸帆|||https://book.douban.com/subject/20501664/
+219|||天堂的喷泉|||[英] 亚瑟·克拉克|||https://book.douban.com/subject/10570091/
+220|||彩虹尽头|||（美）弗诺·文奇|||https://book.douban.com/subject/3601195/
+221|||沙丘之子|||（美）弗兰克·赫伯特|||https://book.douban.com/subject/1734009/
+222|||重启人：终结篇|||[美]艾米·亭特拉|||https://book.douban.com/subject/27044810/
+223|||博物馆行星|||[日] 菅浩江|||https://book.douban.com/subject/26435482/
+224|||人类曾经被毁灭|||李卫东|||https://book.douban.com/subject/1424756/
+225|||异形：走出阴影|||［美］蒂姆•利本|||https://book.douban.com/subject/26911960/
+226|||银河帝国9：钢穴|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/20390696/
+227|||去远方|||郝景芳|||https://book.douban.com/subject/26791402/
+228|||时间机器（中英双语）|||乔治·威尔斯|||https://book.douban.com/subject/1959340/
+229|||安德的影子|||奥森·斯科特·卡德|||https://book.douban.com/subject/1418437/
+230|||撒旦之锤|||(美)拉里·尼文、(美)杰里·波奈尔|||https://book.douban.com/subject/24699423/
+231|||《三体》中的物理学|||李淼|||https://book.douban.com/subject/26352270/
+232|||神秘博士：死亡之城|||[英] 道格拉斯·亚当斯、[英] 詹姆斯·高斯|||https://book.douban.com/subject/26874771/
+233|||遗落的南境（三部曲）|||[美]杰夫•范德米尔|||https://book.douban.com/subject/26833837/
+234|||玩家1号|||[美]恩斯特·克莱恩|||https://book.douban.com/subject/25982711/
+235|||索拉利斯星·K星异客|||(波)斯坦尼斯拉夫·莱姆、(美)吉恩·布鲁尔|||https://book.douban.com/subject/1140728/
+236|||致命拜访|||[美]杰克·芬尼|||https://book.douban.com/subject/26673252/
+237|||格兰特船长的儿女|||[法] 儒勒·凡尔纳(Jules Verne)|||https://book.douban.com/subject/1204488/
+238|||未来闪影|||[加拿大] 罗伯特·索耶、Robert J. Sawyer|||https://book.douban.com/subject/6885709/
+239|||人生复本|||[美] 布莱克·克劳奇|||https://book.douban.com/subject/27125958/
+241|||图夫航行记|||（美）乔治·R·R·马丁|||https://book.douban.com/subject/4720666/
+242|||时间旅行者的妻子|||[美] 奥德丽·尼芬格|||https://book.douban.com/subject/2056749/
+243|||八十天环游地球|||(法)儒勒.凡尔纳|||https://book.douban.com/subject/1275907/
+244|||科幻电影写作|||罗伯特·格兰特 (Robert Grant)|||https://book.douban.com/subject/26431296/
+245|||实时放逐|||弗诺· 文奇|||https://book.douban.com/subject/3607224/
+246|||蚂蚁|||[法] 贝尔纳·韦尔贝尔|||https://book.douban.com/subject/1075245/
+247|||阿西莫夫论科幻小说|||(美) 阿西莫夫|||https://book.douban.com/subject/4882004/
+248|||星球大战：千年隼号完全图解|||[美] R. 温德姆、[美] C. 雷夫、[美] C. 特列瓦斯|||https://book.douban.com/subject/19935618/
+249|||Y先生的结局|||[英] 斯嘉丽·托马斯|||https://book.douban.com/subject/6016230/
+250|||林中秘族|||[美] 柳原汉雅|||https://book.douban.com/subject/26827210/
+251|||杀敌算法|||[美] 刘宇昆|||https://book.douban.com/subject/26309770/
+252|||星新一微型小说选|||(日)星新一|||https://book.douban.com/subject/2214337/
+253|||奥杜瓦伊峡谷的七个故事|||[美] 迈克·雷斯尼克|||https://book.douban.com/subject/26769984/
+254|||亚特兰蒂斯：基因战争|||[美] A.G.里德尔|||https://book.douban.com/subject/26364303/
+255|||阿瑟•克拉克中短篇科幻小说集|||阿瑟•克拉克|||https://book.douban.com/subject/26366597/
+256|||苍穹浩瀚1：利维坦觉醒（上、下）|||[美] 詹姆斯·S.A.·科里|||https://book.douban.com/subject/26320237/
+257|||我是传奇|||[美]理查德` 马特森|||https://book.douban.com/subject/3021566/
+258|||利维坦号战记Ⅰ——飞越阿尔卑斯|||[美]斯科特•维斯特菲尔德|||https://book.douban.com/subject/24853106/
+259|||废园天使|||(日) 飞浩隆|||https://book.douban.com/subject/4720669/
+260|||世界科幻杰作选|||[美] 迈克·雷斯尼克、姚海军 编|||https://book.douban.com/subject/26895034/
+261|||守望者 下|||(英)阿兰·摩尔|||https://book.douban.com/subject/25907864/
+262|||游戏玩家|||伊恩·M.班克斯|||https://book.douban.com/subject/11597324/
+263|||沙丘救世主|||（美）弗兰克·赫伯特|||https://book.douban.com/subject/1498764/
+264|||烈火的召唤|||[美] 弗朗西斯卡·海格|||https://book.douban.com/subject/26672867/
+265|||玛士撒拉之子|||（美）罗伯特·海因莱因、Robert Anson Heinlein|||https://book.douban.com/subject/4027244/
+266|||37|||柳文扬 著、心乙 编选|||https://book.douban.com/subject/23012689/
+267|||爱因斯坦赤道|||刘慈欣|||https://book.douban.com/subject/1906155/
+268|||火星崛起|||[美] 皮尔斯·布朗|||https://book.douban.com/subject/26748185/
+269|||天命|||钱莉芳|||https://book.douban.com/subject/6779980/
+270|||时间深渊|||付强|||https://book.douban.com/subject/26805833/
+271|||毛毛星球|||(美)约翰·斯卡尔齐|||https://book.douban.com/subject/19894099/
+272|||脸上的门，口中的灯|||(美)罗杰·泽拉兹尼|||https://book.douban.com/subject/4885073/
+273|||银河帝国10：裸阳|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/24531334/
+274|||分歧者|||[美]维罗尼卡·罗斯、Veronica Roth|||https://book.douban.com/subject/25831464/
+275|||呼吸--宇宙的毁灭|||[美]特德-姜|||https://book.douban.com/subject/5966315/
+276|||银翼杀手|||[美] 菲利普·迪克|||https://book.douban.com/subject/1499590/
+277|||末日爱国者|||詹姆斯·洛尔斯|||https://book.douban.com/subject/11519001/
+278|||散落星河的记忆1：迷失|||桐华|||https://book.douban.com/subject/26981838/
+279|||群|||弗兰克·施茨廷|||https://book.douban.com/subject/3244055/
+280|||在其他的世界|||[加拿大] 玛格丽特·阿特伍德|||https://book.douban.com/subject/27040400/
+281|||高能预警|||[英] 尼尔·盖曼|||https://book.douban.com/subject/26806567/
+282|||宇宙过河卒|||(美)波尔·安德森|||https://book.douban.com/subject/5395149/
+283|||瓦利斯|||菲利普·迪克|||https://book.douban.com/subject/1441911/
+284|||回憶愛瑪儂|||梶尾真治、鶴田謙二|||https://book.douban.com/subject/19976976/
+285|||原始人类|||(加拿大)罗伯特·J·索耶|||https://book.douban.com/subject/3417499/
+286|||第六大陆（上下）|||[日] 小川一水|||https://book.douban.com/subject/26790752/
+287|||最后的猎巫人|||[美] 詹姆斯·莫罗|||https://book.douban.com/subject/26617142/
+288|||三体X|||宝树|||https://book.douban.com/subject/6265750/
+289|||尼乌尔克3.阿尔法|||[法]奥利维耶•瓦提纳（Olivier Vatine）|||https://book.douban.com/subject/26980566/
+290|||天年|||何夕|||https://book.douban.com/subject/26638272/
+291|||无限恐怖|||长弓手|||https://book.douban.com/subject/2221889/
+292|||火星崛起 2|||[美] 皮尔斯·布朗|||https://book.douban.com/subject/26831615/
+293|||Stories of Your Life and Others|||Ted Chiang|||https://book.douban.com/subject/26862342/
+294|||小灵通漫游未来|||叶永烈 著、杜建国 插图|||https://book.douban.com/subject/1933479/
+295|||武器浮生录|||(英)伊恩·M.班克斯|||https://book.douban.com/subject/25767894/
+296|||信使|||刘慈欣|||https://book.douban.com/subject/26892734/
+297|||箱庭战纪|||无罪|||https://book.douban.com/subject/27040629/
+298|||More Than Human|||Theodore Sturgeon|||https://book.douban.com/subject/2158991/
+299|||羚羊与秧鸡|||玛格丽特·阿特伍德、Margaret Atwood|||https://book.douban.com/subject/1315569/
+300|||哈利的十五次人生|||[英] 克莱尔·诺丝|||https://book.douban.com/subject/26846534/
+301|||黎明降临|||杨林|||https://book.douban.com/subject/27055612/
+302|||爱因斯坦与上海神秘人|||庄蝶庵|||https://book.douban.com/subject/26675529/
+303|||地光|||[英] 阿瑟·克拉克|||https://book.douban.com/subject/20470853/
+304|||科幻文学论纲|||吴岩|||https://book.douban.com/subject/6038876/
+305|||星丛|||罗伯特 J 索耶|||https://book.douban.com/subject/1187843/
+306|||未来镜像|||刘慈欣、夏笳、陈揪帆、韩松、张冉、潘海天、郝景芳、阿缺、宝树|||https://book.douban.com/subject/27001126/
+307|||海，另一个未知的宇宙|||弗兰克·施茨廷|||https://book.douban.com/subject/3576412/
+308|||外星人的手指有多长|||西夏|||https://book.douban.com/subject/26856065/
+309|||重启人|||[美]艾米·亭特拉|||https://book.douban.com/subject/26777044/
+310|||人生不相见|||何夕|||https://book.douban.com/subject/6151679/
+311|||圣迭戈|||[美] 迈克·雷斯尼克|||https://book.douban.com/subject/26743284/
+312|||未来的夏娃|||[法] 利尔·亚当|||https://book.douban.com/subject/20415302/
+313|||星新一短篇小说集|||星新一|||https://book.douban.com/subject/1150862/
+314|||开始写吧！——科幻、奇幻、惊悚小说创作|||劳丽·拉姆森|||https://book.douban.com/subject/26651639/
+315|||冒死记录|||张海帆|||https://book.douban.com/subject/2216512/
+316|||星际特工2|||[法]克里斯坦 编、梅齐埃 绘|||https://book.douban.com/subject/27044573/
+317|||未来病史|||陈楸帆|||https://book.douban.com/subject/26417638/
+318|||完美末日|||刘洋|||https://book.douban.com/subject/26596367/
+319|||迟暮鸟语|||（美）凯特·威廉|||https://book.douban.com/subject/2064684/
+320|||蝴蝶|||刘慈欣|||https://book.douban.com/subject/26708572/
+321|||苍穹微石|||（美）艾萨克·阿西莫夫|||https://book.douban.com/subject/1758746/
+322|||《星际迷航》里的物理学|||[美]劳伦斯•M.克劳斯|||https://book.douban.com/subject/26944388/
+323|||倒数第二个真相|||菲利普·迪克|||https://book.douban.com/subject/26352268/
+324|||流浪玛厄斯|||郝景芳|||https://book.douban.com/subject/5990493/
+325|||人猿星球|||(法)皮埃尔·布尔|||https://book.douban.com/subject/20275739/
+326|||弗诺·文奇科幻小说集|||弗诺· 文奇|||https://book.douban.com/subject/3607222/
+327|||饥饿游戏|||[美]苏珊·柯林斯(Suzanne Collins)|||https://book.douban.com/subject/4164096/
+328|||地铁2033|||德米特里·格鲁克夫斯基|||https://book.douban.com/subject/5385399/
+329|||平面宇宙|||［美］A. K. 杜德尼|||https://book.douban.com/subject/26420540/
+330|||星空暗流|||（美）艾萨克·阿西莫夫|||https://book.douban.com/subject/1754788/
+331|||时间穿越指南|||[美]菲尔·霍肖、[美]尼克·赫尔维|||https://book.douban.com/subject/26979849/
+332|||日本沉没|||[日] 小松左京|||https://book.douban.com/subject/1469242/
+333|||濒死的地球|||(美)杰克·万斯|||https://book.douban.com/subject/6789608/
+334|||死亡刻痕|||[美] 维罗尼卡·罗斯|||https://book.douban.com/subject/26937674/
+335|||Nature杂志科幻小说选集|||[英] 亨利•吉  编|||https://book.douban.com/subject/26314798/
+336|||繁星若尘|||（美）艾萨克·阿西莫夫|||https://book.douban.com/subject/1762288/
+337|||天空的孩子|||(美)弗诺·文奇|||https://book.douban.com/subject/22994260/
+338|||间客|||猫腻|||https://book.douban.com/subject/24283160/
+339|||化身博士|||史蒂文森|||https://book.douban.com/subject/1228395/
+340|||3001太空漫游|||(英)阿瑟·克拉克|||https://book.douban.com/subject/2340615/
+341|||外星屠异|||[美]奥森·斯科特·卡德|||https://book.douban.com/subject/1157681/
+342|||星球大战：死星完全图解|||[美] 赖德·温德姆 著、[美] 克里斯·雷夫 [等]绘|||https://book.douban.com/subject/26699138/
+343|||宇宙墓碑|||韩松|||https://book.douban.com/subject/25826336/
+344|||血音乐|||(美)格雷格·贝尔|||https://book.douban.com/subject/25886180/
+345|||中国科幻大片|||飞氘|||https://book.douban.com/subject/24741573/
+346|||The Paper Menagerie and Other Stories|||Ken Liu|||https://book.douban.com/subject/26355979/
+347|||果壳里的一百五十九个宇宙|||李淼|||https://book.douban.com/subject/26921237/
+348|||极地恶灵（上）|||[美]丹·西蒙斯|||https://book.douban.com/subject/4040473/
+349|||攻殼機動隊(01)|||士郎正宗|||https://book.douban.com/subject/3138803/
+350|||中国式青春|||今何在|||https://book.douban.com/subject/6120501/
+351|||蚂蚁革命|||(法)贝尔纳·韦尔贝尔|||https://book.douban.com/subject/1422237/
+352|||人和吞食者|||刘慈欣|||https://book.douban.com/subject/26657597/
+353|||刘慈欣谈科幻|||刘慈欣|||https://book.douban.com/subject/25789151/
+354|||环形世界|||[美]拉里·尼文|||https://book.douban.com/subject/3684656/
+355|||红火星（全两册）|||金•斯坦利•罗宾逊|||https://book.douban.com/subject/3136230/
+356|||月海沉船|||[英] 亚瑟·克拉克|||https://book.douban.com/subject/10570094/
+357|||2061太空漫游|||(英)阿瑟·克拉克|||https://book.douban.com/subject/2340613/
+358|||微纪元|||刘慈欣|||https://book.douban.com/subject/4326055/
+359|||儒勒·凡尔纳小说作品选集|||儒勒·凡尔纳|||https://book.douban.com/subject/1842256/
+360|||被毁灭的人|||（美）阿尔弗雷德·贝斯特|||https://book.douban.com/subject/1146266/
+361|||城市与群星|||[英] 亚瑟·克拉克|||https://book.douban.com/subject/10570096/
+362|||时光尽头|||刘慈欣|||https://book.douban.com/subject/4245620/
+363|||风港|||[美] 乔治 R.R.马丁、丽萨·图托|||https://book.douban.com/subject/5391812/
+364|||魔鬼积木·白垩纪往事|||刘慈欣|||https://book.douban.com/subject/3266663/
+365|||陶偶|||(美)大卫·布林|||https://book.douban.com/subject/11597370/
+366|||刘慈欣卷：天使时代|||刘慈欣、世界华人科幻协会组编、董仁威 姚海军（主编）|||https://book.douban.com/subject/10864154/
+367|||本司汀|||张艳华|||https://book.douban.com/subject/26972398/
+368|||2084|||[阿尔及利亚] 布阿莱姆·桑萨尔|||https://book.douban.com/subject/26940569/
+369|||火星照耀美国|||韩松|||https://book.douban.com/subject/6827865/
+370|||光与暗的生灵|||[美] 罗杰·泽拉兹尼|||https://book.douban.com/subject/26283241/
+371|||2001 A Space Odyssey|||Arthur Charles Clarke|||https://book.douban.com/subject/4953301/
+372|||2001夜物語(01)|||星野之宣|||https://book.douban.com/subject/1782294/
+373|||猫的摇篮|||[美国]库尔特·冯内古特、Kurt Vonnegut|||https://book.douban.com/subject/1470235/
+374|||王晋康科幻小说精选（全4册）|||王晋康|||https://book.douban.com/subject/1980793/
+375|||穿越时空的少女|||[日] 筒井康隆|||https://book.douban.com/subject/3812309/
+376|||恐龙文明三部曲|||[加] 罗伯特·J. 索耶|||https://book.douban.com/subject/1417484/
+377|||时间旋涡|||(加)罗伯特·查尔斯·威尔森|||https://book.douban.com/subject/10732280/
+378|||盗梦空间|||[英] 克里斯托弗·诺兰|||https://book.douban.com/subject/5363492/
+379|||命运规划局|||[美] 菲利普·迪克|||https://book.douban.com/subject/27081847/
+380|||日暮|||西尔弗伯格、阿西莫夫|||https://book.douban.com/subject/1125417/
+381|||人性分解|||(加拿大)罗伯特·J. 索耶|||https://book.douban.com/subject/24751065/
+382|||试验年代|||(美) 迈克尔·坎宁安、Michael Cunningham|||https://book.douban.com/subject/6831060/
+383|||科幻世界文库（全六册）|||四川科学技术出版社|||https://book.douban.com/subject/2146031/
+384|||奇点天空|||[美]查尔斯·斯特罗斯|||https://book.douban.com/subject/4178272/
+385|||太阳的金色苹果|||雷.布拉德伯里、Ray Beadbury|||https://book.douban.com/subject/1441006/
+386|||倒转地极|||克莱夫·卡斯勒、保罗·肯普雷科斯|||https://book.douban.com/subject/1958519/
+387|||道尔教授的头颅|||亚历山大.别利亚耶夫|||https://book.douban.com/subject/1389911/
+388|||宿主|||（美）斯蒂芬妮·梅尔、Stephenie Meyer|||https://book.douban.com/subject/3908305/
+389|||鲵鱼之乱|||[捷克] 卡雷尔·恰佩克|||https://book.douban.com/subject/1065102/
+390|||科幻之路（第一卷）|||[美] 詹姆斯·冈恩|||https://book.douban.com/subject/1463576/
+391|||第十一站|||[加] 艾米丽·圣约翰·曼德尔|||https://book.douban.com/subject/26639957/
+392|||没有你的天堂|||奥菲尔·图塞·贾夫拉|||https://book.douban.com/subject/26260066/
+393|||24格每秒天堂|||潘海天|||https://book.douban.com/subject/26393342/
+394|||怒火重燃|||[英] 理查德·摩根|||https://book.douban.com/subject/27024112/
+395|||太空将来时|||赵洋|||https://book.douban.com/subject/24745622/
+396|||骸骨迷宫|||[美] 弗朗西斯卡·海格|||https://book.douban.com/subject/26921113/
+397|||百年法|||[日] 山田宗树|||https://book.douban.com/subject/27036319/
+398|||米与盐的年代|||金•斯坦利•罗宾森|||https://book.douban.com/subject/2363135/
+399|||梦之海|||刘慈欣|||https://book.douban.com/subject/26437740/
+400|||非法智慧|||张之路|||https://book.douban.com/subject/1041057/
+401|||尘埃记|||[美]休·豪伊|||https://book.douban.com/subject/26317874/
+402|||出卖月亮的人|||（美）罗伯特·海因莱因、Robert Anson Heinlein|||https://book.douban.com/subject/4011684/
+403|||末日奇点|||[美] 查尔斯·斯特罗斯|||https://book.douban.com/subject/5299384/
+404|||头发|||卫斯理|||https://book.douban.com/subject/3284411/
+405|||坠落天使|||[英]  理查德·摩根|||https://book.douban.com/subject/26808095/
+406|||屍者的帝國|||伊藤計劃、圓城塔|||https://book.douban.com/subject/25892730/
+407|||梦歌|||[美] 乔治·R.R.马丁|||https://book.douban.com/subject/26264178/
+408|||未来边缘|||刘慈欣|||https://book.douban.com/subject/26392016/
+409|||移動迷宮|||詹姆士．達許納、James Dashner|||https://book.douban.com/subject/6129292/
+410|||离开地球表面|||凌晨|||https://book.douban.com/subject/26849200/
+411|||金羊毛|||（加）罗伯特•J•索耶|||https://book.douban.com/subject/1433694/
+412|||浪漫服务公司|||罗伯特·谢克里|||https://book.douban.com/subject/1159012/
+413|||重力使命|||哈尔·克莱蒙特|||https://book.douban.com/subject/1878074/
+414|||控虫师|||彭柳蓉|||https://book.douban.com/subject/27056309/
+415|||The Circle|||Dave Eggers|||https://book.douban.com/subject/25743150/
+416|||Nature杂志科幻小说选集Ⅱ|||[英] 亨利·吉 编|||https://book.douban.com/subject/26842990/
+417|||一秒之后|||[美]威廉·R.福岑|||https://book.douban.com/subject/11529448/
+418|||达斯·维德本纪|||徐辰|||https://book.douban.com/subject/26382931/
+419|||这完美的一天|||(美)艾拉·莱文|||https://book.douban.com/subject/10491574/
+420|||幽灵5号|||[美] 罗伯特·谢克里|||https://book.douban.com/subject/1130892/
+421|||经典的真身|||(美) 迪克 等|||https://book.douban.com/subject/4814391/
+422|||创世纪|||[新西兰] 伯纳德·贝克特|||https://book.douban.com/subject/5943269/
+423|||银河系公民|||(美)罗伯特﹒海因莱因|||https://book.douban.com/subject/1665390/
+424|||尼乌尔克1.黑孩儿|||[法]奥利维耶•瓦提纳（Olivier Vatine）|||https://book.douban.com/subject/26925314/
+425|||寄生前夜|||濑名秀明|||https://book.douban.com/subject/1767300/
+426|||Ancillary Justice|||Ann Leckie|||https://book.douban.com/subject/21980268/
+427|||三日而亡|||[美] 提姆·鲍尔斯|||https://book.douban.com/subject/5988701/
+428|||气球上的五星期|||凡尔纳|||https://book.douban.com/subject/1083032/
+429|||凡尔纳科幻经典 4 部曲（全四册 ）|||凡尔纳|||https://book.douban.com/subject/4114611/
+430|||365夜科幻故事（上、下册）|||饶忠华 主编、刘泽岱 等插图|||https://book.douban.com/subject/1791383/
+431|||关妖精的瓶子|||夏笳|||https://book.douban.com/subject/11503109/
+432|||逃出母宇宙|||王晋康|||https://book.douban.com/subject/25831055/
+433|||医院|||韩松|||https://book.douban.com/subject/26801112/
+434|||离线·科幻|||李婷 主编|||https://book.douban.com/subject/26389399/
+435|||血钱博士|||(美)菲利普·K·迪克|||https://book.douban.com/subject/26210606/
+436|||中国科幻年度坐标|||拉兹 三丰 主编|||https://book.douban.com/subject/26649737/
+437|||失落的世界|||阿瑟·柯南道尔|||https://book.douban.com/subject/3825739/
+438|||未来犯罪|||影三人|||https://book.douban.com/subject/27078239/
+439|||伪人2075|||迟卉|||https://book.douban.com/subject/25898111/
+440|||天父地母|||王晋康|||https://book.douban.com/subject/26707928/
+441|||异形生存手册|||陈飞|||https://book.douban.com/subject/23774517/
+442|||星际唱片|||[美]卡尔·萨根|||https://book.douban.com/subject/26884205/
+443|||泰坦棋手|||[美]菲利普·迪克|||https://book.douban.com/subject/26303964/
+444|||水星播种|||姚海军 主编|||https://book.douban.com/subject/10527069/
+445|||时间轴|||[加] 罗伯特·查尔斯·威尔森|||https://book.douban.com/subject/5355324/
+446|||回到卡戎|||郝景芳|||https://book.douban.com/subject/11531717/
+447|||带我去太空|||[美] 罗恩·米勒|||https://book.douban.com/subject/26939099/
+448|||行尸走肉|||(美)罗伯特·凯克曼|||https://book.douban.com/subject/20278368/
+449|||终极实验|||[加拿大] 罗伯特 J. 索耶|||https://book.douban.com/subject/1162566/
+450|||蚂蚁时代|||贝尔纳·韦尔贝尔|||https://book.douban.com/subject/1525866/
+451|||因果天使|||[芬兰] 哈努·拉贾涅米|||https://book.douban.com/subject/27081781/
+452|||天使女王|||[美] 格雷格·贝尔|||https://book.douban.com/subject/26390941/
+453|||孤独的进化者|||刘慈欣|||https://book.douban.com/subject/26631837/
+454|||傀儡主人|||罗伯特·海因莱因|||https://book.douban.com/subject/1187844/
+455|||双星|||(美)罗伯特・海因莱因|||https://book.douban.com/subject/1675986/
+456|||阿努比斯之门|||[美]提姆·鲍乐斯(Tim Powers)|||https://book.douban.com/subject/4025048/
+457|||记忆裂痕|||[美] 菲利普·迪克|||https://book.douban.com/subject/27077217/
+458|||毁灭之城：地球碎块|||刘慈欣、燕然、贾茜、夏笳、何阳、骆灵左、文舟、骑桶人、迟卉|||https://book.douban.com/subject/24538717/
+459|||星际特工3|||[法] 克里斯坦、梅齐埃|||https://book.douban.com/subject/27082000/
+460|||安佐之梦|||[美] 约翰·斯卡尔齐|||https://book.douban.com/subject/26943160/
+461|||The Lifecycle of Software Objects|||Ted Chiang|||https://book.douban.com/subject/4944302/
+462|||松林異境|||布萊克．克勞奇|||https://book.douban.com/subject/25908911/
+463|||幻影游船2：雾莲街诡面理发师|||郭妮|||https://book.douban.com/subject/27052121/
+464|||芯存者|||颜桥|||https://book.douban.com/subject/26815439/
+465|||苹果核里的桃先生|||七格|||https://book.douban.com/subject/1539103/
+466|||湿婆之舞|||江波|||https://book.douban.com/subject/19957024/
+467|||猎梦人|||(法)塞尔日·布鲁梭罗|||https://book.douban.com/subject/5939400/
+468|||帕迪多街車站|||柴納．米耶維|||https://book.douban.com/subject/24389756/
+469|||飞向人马座|||郑文光|||https://book.douban.com/subject/1080036/
+470|||银河之心·天垂日暮|||江波|||https://book.douban.com/subject/6789610/
+471|||三尖树时代|||约翰.温德姆|||https://book.douban.com/subject/1771379/
+472|||蚁生|||王晋康|||https://book.douban.com/subject/2226288/
+473|||''All You Zombies - -''|||Robert A. Heinlein|||https://book.douban.com/subject/26257216/
+474|||死者简史|||[美]凯文•布罗克迈耶（Kevin Brockmeier）|||https://book.douban.com/subject/26337001/
+475|||外天楼|||石黒正数|||https://book.douban.com/subject/6890451/
+476|||月亮的距離(01)|||太田垣康男|||https://book.douban.com/subject/3173236/
+477|||脑渊|||李慧|||https://book.douban.com/subject/26811326/
+478|||Dirk Gently's Holistic Detective Agency|||Douglas Adams|||https://book.douban.com/subject/1935232/
+479|||第三次拯救未来世界|||刘慈欣|||https://book.douban.com/subject/26631838/
+480|||BLAME!探索者(01)|||貳瓶勉|||https://book.douban.com/subject/3150675/
+481|||《三体》导读|||詹琰、路姜波|||https://book.douban.com/subject/26899088/
+482|||蓝火星（全两册）|||（美）金•斯坦利•罗宾逊|||https://book.douban.com/subject/3552454/
+483|||云武士|||帕特里克•蒂利|||https://book.douban.com/subject/3736884/
+484|||安德的流亡|||[美]奥森·斯科特·卡德|||https://book.douban.com/subject/21724366/
+485|||《辐射4》艺术设定集|||贝塞斯达软件公司|||https://book.douban.com/subject/26755044/
+486|||銃夢01|||木城幸人|||https://book.douban.com/subject/3122531/
+487|||隐身人|||(英)赫.乔.韦尔斯|||https://book.douban.com/subject/1027184/
+488|||罗素姆万能机器人|||[捷克]卡雷尔·恰佩克|||https://book.douban.com/subject/24876877/
+489|||日本科幻小说史话|||(日)长山靖生|||https://book.douban.com/subject/19944242/
+490|||棱镜|||(日) 神林长平|||https://book.douban.com/subject/4140460/
+491|||红星蓝调|||[加拿大] 罗伯特·索耶|||https://book.douban.com/subject/26900294/
+492|||外国现代科学幻想小说|||施咸荣编|||https://book.douban.com/subject/1765132/
+493|||超脑：浴室|||蔡必贵|||https://book.douban.com/subject/26896993/
+494|||达尔文陷阱|||何夕|||https://book.douban.com/subject/6127328/
+495|||銀河鐵道999 （1）|||松本零士|||https://book.douban.com/subject/1456203/
+496|||七重外壳|||王晋康|||https://book.douban.com/subject/1465602/
+497|||十亿分之一的文明|||刘慈欣|||https://book.douban.com/subject/26631836/
+498|||亚特兰蒂斯2|||[美] A.G.里德尔|||https://book.douban.com/subject/26613044/
+499|||末日邮差|||[美] 大卫·布林|||https://book.douban.com/subject/26266465/
+500|||拉美科幻文学史|||[美] 拉切尔·海伍德·费雷拉|||https://book.douban.com/subject/26657735/
+501|||意识零界之 赎灵师|||左小权|||https://book.douban.com/subject/25976704/
+502|||100亿个明天|||[英]布赖恩·克莱格（Brian Clegg）|||https://book.douban.com/subject/27054089/
+503|||发条人偶|||[美] 大卫·埃里克·尼尔森|||https://book.douban.com/subject/24529566/
+504|||他，来自火星|||饭卡|||https://book.douban.com/subject/4090777/
+505|||隐形人|||H.G.威尔斯|||https://book.douban.com/subject/1420984/
+506|||战斗妖精雪风|||神林长平|||https://book.douban.com/subject/3346426/
+507|||吞食上弦月的獅子|||夢枕獏|||https://book.douban.com/subject/11507219/
+508|||银河铁道999|||(日)松本零士|||https://book.douban.com/subject/2040646/
+509|||高铁|||韩松|||https://book.douban.com/subject/11607281/
+510|||文学少女侦探|||梁清散|||https://book.douban.com/subject/26602859/
+511|||2050年的母系氏族 Ⅰ|||ShakeSpace、今何在、长铗、王晋康、小椴、九戈龙、凤凰、燕垒生、本少爷|||https://book.douban.com/subject/4814387/
+512|||去年是个好年吧|||(日)山本弘|||https://book.douban.com/subject/10765750/
+513|||基因角斗士|||[美] 特德·科斯玛特卡|||https://book.douban.com/subject/26808096/
+514|||鲸歌|||刘慈欣|||https://book.douban.com/subject/26599027/
+515|||The Fantasies of Robert A. Heinlein|||Robert A. Heinlein|||https://book.douban.com/subject/26257217/
+516|||幻影游船1|||郭妮|||https://book.douban.com/subject/27052120/
+517|||星际旅行|||吉恩·罗登贝里|||https://book.douban.com/subject/3195504/
+518|||被删除的人|||陈奕潞|||https://book.douban.com/subject/26824306/
+519|||时间狂想故事集|||宝树|||https://book.douban.com/subject/26591916/
+520|||星旅人|||郝景芳|||https://book.douban.com/subject/6806490/
+521|||爱因斯坦赤道|||刘慈欣|||https://book.douban.com/subject/26631833/
+522|||立方体之战·突围|||[美] 玛丽亚·斯奈德|||https://book.douban.com/subject/27001152/
+523|||失落的世界|||迈克尔·克莱顿|||https://book.douban.com/subject/1262143/
+524|||猎人行|||[美]乔治·R. R. 马丁、[美]丹尼尔·亚伯拉罕、[美]加德纳·多佐伊斯|||https://book.douban.com/subject/24737061/
+525|||星球大战前传三部曲·漫画限量典藏版|||黑马漫画公司 编绘|||https://book.douban.com/subject/5245576/
+526|||风之邦，星之渚：雷兹司芬特兴亡记 上|||[日] 小川一水|||https://book.douban.com/subject/25802168/
+527|||环太平洋|||阿历克斯·欧文|||https://book.douban.com/subject/25976333/
+528|||逃吧，地球人！|||尼尔• 斯特劳斯、Neil Strauss|||https://book.douban.com/subject/4820706/
+529|||寻找人类|||雷风暴|||https://book.douban.com/subject/1101631/
+530|||星球大战：完全载具图解|||[澳] 凯丽•多尔蒂 等（著）、[丹] 汉斯•延森 等（绘）|||https://book.douban.com/subject/26847855/
+531|||千年战争|||[美]乔·霍尔德曼|||https://book.douban.com/subject/1479951/
+532|||与机器人同行|||阿缺|||https://book.douban.com/subject/26636675/
+533|||The Diamond Age|||Neal Stephenson|||https://book.douban.com/subject/1438923/
+534|||僵尸生存指南|||［美］马克斯•布鲁克斯|||https://book.douban.com/subject/10464645/
+535|||西游新记|||童恩正|||https://book.douban.com/subject/1875743/
+536|||藤子·F·不二雄SF短篇完全版 1|||藤子·F·不二雄|||https://book.douban.com/subject/3057111/
+537|||科幻宇宙生存指南|||[美]游朝凯|||https://book.douban.com/subject/25817165/
+538|||土狼星|||艾伦·斯蒂尔|||https://book.douban.com/subject/25981959/
+539|||云端杀机|||[美]丹尼尔·苏亚雷斯 （Daniel Suarez）|||https://book.douban.com/subject/26312151/
+540|||光晕|||(美)埃里克·尼伦德|||https://book.douban.com/subject/1462652/
+541|||当代美国科幻小说选|||雷·勃雷德伯里、罗伯特·希克里、罗伯特·海因莱因、理查德·格曼、弗里茨·莱伯、福雷斯特·阿克曼、艾萨克·阿西莫夫|||https://book.douban.com/subject/2371987/
+542|||星空的旋律|||萧星寒|||https://book.douban.com/subject/6265772/
+543|||第五类接触|||郑军|||https://book.douban.com/subject/5402624/
+544|||亚特兰蒂斯3：美丽新世界|||[美] A.G.里德尔|||https://book.douban.com/subject/26735084/
+545|||白垩纪往事|||刘慈欣|||https://book.douban.com/subject/4832901/
+546|||我成为怪物那天|||郭敬明|||https://book.douban.com/subject/26990558/
+547|||时间机器|||[英] 赫·乔·威尔斯|||https://book.douban.com/subject/1079829/
+548|||14号门|||[美] 彼得·克莱斯|||https://book.douban.com/subject/26748184/
+549|||GANTZ殺戮都市(01)|||奧浩哉|||https://book.douban.com/subject/3135034/
+550|||从地球到月球|||儒勒·凡尔纳|||https://book.douban.com/subject/2039548/
+551|||薄码|||陈楸帆 著、成追忆 选编|||https://book.douban.com/subject/7051742/
+552|||艾达|||[日] 山田正纪|||https://book.douban.com/subject/25977531/
+553|||卡勒米安墓场|||迟卉|||https://book.douban.com/subject/5063541/
+554|||分形王子|||[芬兰] 哈努·拉贾涅米|||https://book.douban.com/subject/27039409/
+555|||无敌舰队|||[美] 恩斯特·克莱恩|||https://book.douban.com/subject/27001149/
+556|||沉寂的星球|||C.S.刘易斯(Lewis.C.S.)|||https://book.douban.com/subject/5909528/
+557|||皮囊之下|||[英] 米歇尔·法柏|||https://book.douban.com/subject/26866448/
+558|||星空之旅ΠΛΑΝΗΤΕΣ  1|||幸村诚|||https://book.douban.com/subject/1829800/
+559|||11/22/63|||(美)斯蒂芬·金|||https://book.douban.com/subject/25893267/
+560|||科幻小说面面观|||(美) 达科·苏恩文、Darko Suvin|||https://book.douban.com/subject/4882001/
+561|||拉玛真相|||[英] 阿瑟·C. 克拉克、[美]金特里·李|||https://book.douban.com/subject/6744667/
+562|||全能侦探社|||Douglas Adams|||https://book.douban.com/subject/26929242/
+563|||Interstellar|||Greg Keyes|||https://book.douban.com/subject/26257987/
+564|||亿万年大狂欢|||(英) 奥尔迪思、(英) 温格罗夫|||https://book.douban.com/subject/4882002/
+565|||西班牙乞丐|||（美）南希·克雷斯|||https://book.douban.com/subject/2238100/
+566|||量子江湖·燕子坞（上）|||陈怅|||https://book.douban.com/subject/11599245/
+567|||科幻小说变形记|||(加) 达科·苏恩文、Darko Suvin|||https://book.douban.com/subject/4882003/
+568|||地球上的绿色山丘|||海因莱因|||https://book.douban.com/subject/1928824/
+569|||All You Need Is Kill|||樱坂洋|||https://book.douban.com/subject/2997267/
+570|||彩图科幻百科|||约翰·克卢特|||https://book.douban.com/subject/1397818/
+571|||生化禁區 BIOMEGA 1|||弐瓶勉|||https://book.douban.com/subject/21288655/
+572|||汪洋战争|||何夕|||https://book.douban.com/subject/26590998/
+573|||卫斯理作品集|||倪匡|||https://book.douban.com/subject/1082294/
+574|||跨越三维空间|||孙维梓|||https://book.douban.com/subject/2382245/
+575|||记忆大师|||宋譞、任鹏|||https://book.douban.com/subject/27025917/
+576|||拉玛2号|||[英] 阿瑟·C. 克拉克、[美]金特里·李|||https://book.douban.com/subject/6744650/
+577|||达尔文电波|||格雷格·贝尔|||https://book.douban.com/subject/1157682/
+578|||大角快跑|||潘海天|||https://book.douban.com/subject/2310062/
+579|||蝎子之屋|||南希・法默|||https://book.douban.com/subject/1082431/
+580|||第13个小时|||[美] 理查德•道许|||https://book.douban.com/subject/25897402/
+581|||饥饿游戏2：燃烧的女孩|||[美]苏珊·柯林斯(Suzanne Collins)|||https://book.douban.com/subject/5417807/
+582|||1分钟小说选|||(日)星新一|||https://book.douban.com/subject/2076847/
+583|||记忆迷踪|||启山|||https://book.douban.com/subject/26949992/
+584|||拉玛迷境|||[英] 阿瑟·C. 克拉克、[美] 金特里·李|||https://book.douban.com/subject/6744652/
+585|||镜舞|||(美)洛伊斯.比约德|||https://book.douban.com/subject/1427341/
+586|||永世|||(美)格雷格·贝尔|||https://book.douban.com/subject/25729106/
+587|||重返中世纪|||(美)克莱顿|||https://book.douban.com/subject/1546477/
+588|||克苏鲁的呼唤|||[美] H.P.洛夫克拉夫特|||https://book.douban.com/subject/26854185/
+589|||我們都是外星人，你來自哪個星球|||法魯斯|||https://book.douban.com/subject/26107497/
+590|||贵族们的游戏|||洛伊斯.比约德(美)|||https://book.douban.com/subject/1427340/
+591|||蝴蝶风暴|||江南|||https://book.douban.com/subject/2127790/
+592|||少女終末旅行 1|||つくみず|||https://book.douban.com/subject/26272656/
+593|||利维坦号战记Ⅱ——伊斯坦布尔大炮|||[美]斯科特•维斯特菲尔德|||https://book.douban.com/subject/24853110/
+594|||科幻六讲|||吴岩|||https://book.douban.com/subject/25731662/
+595|||饥饿游戏3：嘲笑鸟|||[美]苏珊·柯林斯|||https://book.douban.com/subject/6265961/
+596|||美丽新世界|||[英] 阿道司·赫胥黎|||https://book.douban.com/subject/1321789/
+597|||移動迷宮3|||James Dashner|||https://book.douban.com/subject/19936525/
+598|||The Giver|||Lois Lowry|||https://book.douban.com/subject/1387256/
+599|||The Last Question (When the World Ends)|||Isaac Asimov、Jim Gallant、Bob E. Flick|||https://book.douban.com/subject/3805978/
+600|||星之声|||[日] 加纳新太|||https://book.douban.com/subject/26430284/
+601|||Alien Interview|||Lawrence R. Spencer|||https://book.douban.com/subject/4722608/
+602|||分歧者3·忠诚者|||[美]维罗尼卡·罗斯、Veronica Roth|||https://book.douban.com/subject/25932385/
+603|||倾诉|||厄休拉·勒奎恩|||https://book.douban.com/subject/2127090/
+604|||群鸟飞舞的世界末日|||[美] 查莉·简·安德斯|||https://book.douban.com/subject/27102364/
+605|||毁灭之城：生命副本|||潘海天、有时右逝、晴川、七月、万象峰年、杨叛、武束衣、郭步调|||https://book.douban.com/subject/23857400/
+606|||使女的故事|||(加拿大)玛格丽特·阿特伍德|||https://book.douban.com/subject/3056877/
+607|||超人类|||(美)西奥多·斯特金|||https://book.douban.com/subject/10735455/
+608|||遮蔽的眼睛|||（美）菲利普・迪克|||https://book.douban.com/subject/1070914/
+609|||极地恶灵 下|||[美]丹·西蒙斯|||https://book.douban.com/subject/4040496/
+610|||Nightfall|||Isaac Asimov、Robert Silverberg|||https://book.douban.com/subject/1481585/
+611|||地球以外的文明世界|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/5941480/
+612|||为和平而战|||弗诺· 文奇|||https://book.douban.com/subject/3607228/
+613|||神的平衡器|||陈奕潞|||https://book.douban.com/subject/6311231/
+614|||纯真及其所编造的|||飞氘|||https://book.douban.com/subject/6401138/
+615|||无尽的边界|||洛伊斯.比约德、Lois McMaster Bujold|||https://book.douban.com/subject/1903743/
+616|||城与城|||(英)柴纳·米耶维|||https://book.douban.com/subject/25833221/
+617|||希灵帝国|||远瞳|||https://book.douban.com/subject/26365304/
+618|||独家占有Ⅰ|||丁墨|||https://book.douban.com/subject/25835989/
+619|||分歧者2·反叛者|||[美]维罗尼卡·罗斯、Veronica Roth|||https://book.douban.com/subject/25900093/
+620|||不速之客|||(日)星新一|||https://book.douban.com/subject/3173077/
+621|||中国太阳|||刘慈欣|||https://book.douban.com/subject/25729093/
+622|||外星人在巴塞罗那|||[西班牙] 爱德华多·门多萨|||https://book.douban.com/subject/26743505/
+623|||未来之城|||[美] 约翰·斯卡尔齐、伊丽莎白·贝尔、托拜厄斯·S.波克尔、杰伊·莱克、卡尔·施罗德|||https://book.douban.com/subject/26941504/
+624|||The Man from Earth|||Jerome Bixby|||https://book.douban.com/subject/3293448/
+625|||阿西莫夫最新科学指南（上下册）|||[美] 阿西莫夫|||https://book.douban.com/subject/1016827/
+626|||百万杀人实验|||［美］理查德•马特森|||https://book.douban.com/subject/5375966/
+627|||攻殼機動隊 Complete Box|||士郎正宗|||https://book.douban.com/subject/26990359/
+628|||意外的时间机器|||[美]乔·霍尔德曼(Joe Haldeman)|||https://book.douban.com/subject/5299230/
+629|||质量效应 第1卷|||[加] 德鲁·卡宾森|||https://book.douban.com/subject/10529105/
+630|||起点人|||[美]莉斯•普赖斯|||https://book.douban.com/subject/26575663/
+631|||重返黎明|||王茁源|||https://book.douban.com/subject/26996363/
+632|||绿野|||拉拉|||https://book.douban.com/subject/1919185/
+633|||利维坦号战记Ⅲ——直到世界尽头|||[美]斯科特•维斯特菲尔德|||https://book.douban.com/subject/24853111/
+634|||生命之锁|||约翰·斯卡尔齐|||https://book.douban.com/subject/26941503/
+635|||永远的和平|||[美]乔·霍尔德曼|||https://book.douban.com/subject/2130127/
+636|||环游世界80天|||儒勒.凡尔纳|||https://book.douban.com/subject/2152545/
+637|||时间的地图|||(西班牙)费里克斯·J·帕尔马|||https://book.douban.com/subject/10828410/
+638|||第十二个天体|||[美]撒迦利亚· 西琴|||https://book.douban.com/subject/3875749/
+639|||独唱者|||韩松|||https://book.douban.com/subject/26369906/
+640|||凡尔纳科幻故事精选|||李名慈|||https://book.douban.com/subject/1107026/
+641|||与吾同在|||王晋康|||https://book.douban.com/subject/6845575/
+642|||动物园里的救世主|||刘慈欣|||https://book.douban.com/subject/26631834/
+643|||时砂之王|||[日] 小川一水|||https://book.douban.com/subject/25886158/
+644|||EVE星战前夜之寰宇时代|||托尼·冈萨雷斯|||https://book.douban.com/subject/26261842/
+645|||那夜凌晨，我坐上了旺角開往大埔的紅VAN (下)|||Pizza|||https://book.douban.com/subject/21349382/
+646|||战争学徒|||(美国)洛伊斯・比约德|||https://book.douban.com/subject/1427322/
+647|||閃憶殺手|||丹·西蒙斯|||https://book.douban.com/subject/10432240/
+648|||Bloodchild and Other Stories|||Octavia E. Butler|||https://book.douban.com/subject/1794294/
+649|||记忆|||洛伊斯.比约德(美)|||https://book.douban.com/subject/1427342/
+650|||提升之战|||[美]大卫·布林、David Brin|||https://book.douban.com/subject/2376987/
+651|||银河之心·逐影追光|||江波|||https://book.douban.com/subject/26768315/
+652|||黄泉归来|||梶尾真治|||https://book.douban.com/subject/1477999/
+653|||地铁2034|||(俄罗斯)德米特里·格鲁克夫斯基|||https://book.douban.com/subject/7047228/
+654|||マイナス・ゼロ|||広瀬 正|||https://book.douban.com/subject/1982007/
+655|||阿西莫夫科幻精品集（上下册）|||[美]艾萨克·阿西莫夫 Isaac Asimov|||https://book.douban.com/subject/6710396/
+656|||记忆之囚|||陈茜|||https://book.douban.com/subject/19967238/
+657|||虫子的世界|||刘慈欣|||https://book.douban.com/subject/26579518/
+658|||不朽|||(美)罗杰·泽拉兹尼|||https://book.douban.com/subject/3684655/
+659|||一个废物艺术家的自白|||菲利普·迪克|||https://book.douban.com/subject/1443395/
+660|||g先生|||艾倫．萊特曼 Alan Lightman|||https://book.douban.com/subject/24839348/
+661|||丑人|||(美)斯科特·维斯特费尔德|||https://book.douban.com/subject/1998979/
+662|||火星崛起 3|||[美] 皮尔斯·布朗|||https://book.douban.com/subject/27120449/
+663|||掠食城市Ⅰ|||[英]菲利普·瑞弗|||https://book.douban.com/subject/25986330/
+664|||独家占有Ⅱ|||丁墨|||https://book.douban.com/subject/25962945/
+665|||天启|||A.J.Alex、Yan One|||https://book.douban.com/subject/23059961/
+666|||His Dark Materials Trilogy (The Golden Compass; The Subtle Knife; The Amber Spyglass)|||Philip Pullman|||https://book.douban.com/subject/1351900/
+667|||两年假期|||(法)儒勒﹒凡尔纳|||https://book.douban.com/subject/1081327/
+668|||师士传说2命运之痕|||方想|||https://book.douban.com/subject/2282777/
+669|||星雲組曲|||張系國|||https://book.douban.com/subject/1394072/
+670|||星际迷航|||罗伯特·A·海因莱因|||https://book.douban.com/subject/2159556/
+671|||Last and First Men|||Olaf Stapledon|||https://book.douban.com/subject/1940799/
+672|||巨兽×6|||[美] 杰里米·罗宾逊|||https://book.douban.com/subject/26959613/
+673|||瘟疫|||燕垒生|||https://book.douban.com/subject/11516839/
+674|||致命魔术|||[英] 克里斯托夫·普瑞斯特|||https://book.douban.com/subject/5990492/
+675|||火星公主|||(美)伯勒斯|||https://book.douban.com/subject/2334035/
+676|||触发|||(加拿大)罗伯特·J. 索耶|||https://book.douban.com/subject/24751042/
+677|||腦髓工廠|||小林泰三|||https://book.douban.com/subject/11593632/
+678|||移動迷宮2|||詹姆士·達許納 (James Dashner)|||https://book.douban.com/subject/11637461/
+679|||《分歧者》三部曲|||[美]维罗尼卡·罗斯、Veronica Roth|||https://book.douban.com/subject/25957889/
+680|||殼中少女|||冲方丁|||https://book.douban.com/subject/1980670/
+681|||明争暗斗|||(美)洛伊斯·比约德|||https://book.douban.com/subject/3025252/
+682|||十字|||王晋康|||https://book.douban.com/subject/3448653/
+683|||Arrival|||Ted Chiang|||https://book.douban.com/subject/26904126/
+684|||幻影迷宫|||（俄罗斯）谢尔盖·卢克延科|||https://book.douban.com/subject/1135623/
+685|||绘图科幻精品丛书（第三辑）--冷酷的方程式|||（美）汤姆・戈德温／吴定柏（改编）|||https://book.douban.com/subject/1070385/
+686|||鲵鱼之乱|||卡・恰佩克|||https://book.douban.com/subject/1511146/
+687|||移动火星|||[美] 格雷格·贝尔|||https://book.douban.com/subject/26596709/
+688|||尼安德特3：混血儿|||(加)罗伯特•索耶|||https://book.douban.com/subject/10827450/
+689|||基因病毒|||【美】詹姆斯•罗林斯|||https://book.douban.com/subject/25787767/
+690|||风雪山神庙|||林戈声|||https://book.douban.com/subject/26374286/
+691|||藍血人|||衛斯理|||https://book.douban.com/subject/1385563/
+692|||星球大战：塔金|||【美】詹姆斯·卢塞尼奥|||https://book.douban.com/subject/26914143/
+693|||党救活了他|||黄衣青著、贺友直画|||https://book.douban.com/subject/2294552/
+694|||The Steampunk Bible|||Jeff Vandermeer|||https://book.douban.com/subject/5395815/
+695|||明日灭亡1：天启爆炸|||张草|||https://book.douban.com/subject/26364280/
+696|||尼乌尔克2.城市|||[法]奥利维耶•瓦提纳（Olivier Vatine）|||https://book.douban.com/subject/26980570/
+697|||玻璃杀手杰克|||[英]亚当·罗伯茨|||https://book.douban.com/subject/26307701/
+698|||卫斯理与白素|||卫斯理|||https://book.douban.com/subject/3201833/
+699|||银带|||Kevin Kelly , Steve Masseroni|||https://book.douban.com/subject/26680679/
+700|||有生之年非看不可的101部科幻电影|||史蒂文·杰伊·施奈德、Steven Jay Schneider|||https://book.douban.com/subject/20452239/
+701|||新石头记|||吴趼人|||https://book.douban.com/subject/4097952/
+702|||威尔斯科幻经典|||[英]H·G·威尔斯|||https://book.douban.com/subject/1732994/
+703|||外交豁免权|||(美)洛伊斯·比约德|||https://book.douban.com/subject/1898194/
+704|||The Salmon of Doubt|||Douglas Adams|||https://book.douban.com/subject/1632413/
+705|||2312|||[美] 金·斯坦利·罗宾逊|||https://book.douban.com/subject/26598801/
+706|||去死的漫漫旅途|||飞氘|||https://book.douban.com/subject/26695803/
+707|||巨兽|||[美] 杰里米·罗宾逊|||https://book.douban.com/subject/26900884/
+708|||牛顿加农炮|||（美）格雷戈里·凯斯|||https://book.douban.com/subject/2253601/
+709|||内战|||[美] 斯图尔特·摩尔|||https://book.douban.com/subject/26767250/
+710|||科幻文学理论和学科体系建设|||吴岩|||https://book.douban.com/subject/3141494/
+711|||好兆头|||（英）尼尔·盖曼、（英）特里·普拉切特|||https://book.douban.com/subject/3191247/
+712|||师士传说①光甲重生|||方想|||https://book.douban.com/subject/2240574/
+713|||消失的星期天|||[俄]阿卡迪·斯特鲁加茨基、[俄]鲍里斯·斯特鲁加茨基|||https://book.douban.com/subject/2076130/
+714|||星球大战：正传三部曲|||[美]阿奇•古德温、[美]艾尔•威廉姆森|||https://book.douban.com/subject/26314456/
+715|||星球大战外传：侠盗一号|||美国迪士尼公司 编著|||https://book.douban.com/subject/26933725/
+716|||去年在阿鲁吧|||贺景滨|||https://book.douban.com/subject/25128652/
+717|||猩球崛起：黎明之战|||（美）艾力克斯·欧文|||https://book.douban.com/subject/25943459/
+718|||K-Pax|||Gene Brewer|||https://book.douban.com/subject/1469299/
+719|||主教的轮回|||(美)菲利普·迪克|||https://book.douban.com/subject/1443394/
+720|||Stories of Your Life and Others|||Ted Chiang|||https://book.douban.com/subject/26590270/
+721|||祖国|||(英)罗伯特·哈里斯|||https://book.douban.com/subject/10741325/
+722|||当人类决战机器人2：海伯利安完结篇|||(美)丹·西蒙斯|||https://book.douban.com/subject/12444402/
+723|||世界誕生之日|||娥蘇拉·勒瑰恩、Ursula K. Le Guin|||https://book.douban.com/subject/6795850/
+724|||银河英雄传说VOL.9 回天篇|||[日]田中芳树|||https://book.douban.com/subject/2135416/
+725|||The Expanse Boxed Set|||James S.A. Corey|||https://book.douban.com/subject/26690549/
+726|||灵魂之井的午夜|||杰克·L·乔克|||https://book.douban.com/subject/3699382/
+727|||江晓原科幻电影指南|||江晓原|||https://book.douban.com/subject/26437389/
+728|||月光花|||默音|||https://book.douban.com/subject/19976166/
+729|||失去的世界|||(英)柯南道尔|||https://book.douban.com/subject/2079391/
+730|||无限房间|||无色方糖|||https://book.douban.com/subject/26896839/
+731|||爱拉与洞熊族|||(美)琼·奥尔|||https://book.douban.com/subject/6852273/
+732|||古老的地球之歌|||宝树|||https://book.douban.com/subject/10827885/
+733|||中国科幻小说年选|||刘慈欣、迟卉、赵海虹、王晋康、景芳、拉拉、长铗、星河、凌晨、赤色风铃、罗隆祥、陈楸帆、今何在、Limit、何夕、夏茄、飞氘|||https://book.douban.com/subject/2918997/
+734|||世界大战|||H.G.威尔斯|||https://book.douban.com/subject/1687846/
+735|||科幻文学的批评与建构|||[美] 罗伯特·斯科尔斯、[美] 弗雷德里克·詹姆逊、[美] 阿瑟B.艾文斯|||https://book.douban.com/subject/4882005/
+736|||斋藤家的核弹头|||(日) 筱田节子|||https://book.douban.com/subject/4202418/
+737|||Echopraxia|||Peter Watts|||https://book.douban.com/subject/26085829/
+738|||大机器停止|||[英]E.M.福斯特|||https://book.douban.com/subject/24743062/
+739|||新科学史：科幻研究|||江晓原、穆蕴秋|||https://book.douban.com/subject/26874560/
+740|||遗落的南境2：当权者|||[美] 杰夫·范德米尔|||https://book.douban.com/subject/26785623/
+741|||科幻小说的终结|||[英] 西蒙·史密斯|||https://book.douban.com/subject/4928396/
+742|||宇宙往事|||刘慈欣|||https://book.douban.com/subject/26765924/
+743|||蒲公英王朝|||[美] 刘宇昆|||https://book.douban.com/subject/27120445/
+744|||2037化学笔记|||陈奕潞|||https://book.douban.com/subject/20385477/
+745|||The Age of Em|||Robin Hanson|||https://book.douban.com/subject/26847208/
+746|||宇宙最后一本书|||(美)罗德曼·菲尔布里克|||https://book.douban.com/subject/25731638/
+747|||荆棘双翼|||迟卉|||https://book.douban.com/subject/26340899/
+748|||五号屠场|||(美)库尔特·冯内古特|||https://book.douban.com/subject/3090810/
+749|||三体2 黑暗森林 英文原版 The Dark Forest  刘慈欣 CIXIN LIU The Three Body Problem|||CIXIN LIU|||https://book.douban.com/subject/27025080/
+750|||银河之心-暗黑深渊|||江波|||https://book.douban.com/subject/24899768/
+751|||Nemesis|||Isaac Asimov|||https://book.douban.com/subject/2375885/
+752|||恍如隔世|||[英] 克里斯托弗·普里斯特|||https://book.douban.com/subject/26320238/
+753|||想象另一种可能|||李淼|||https://book.douban.com/subject/26614057/
+754|||神秘日志·外星人|||[英]杜佳德·A.斯蒂尔 著、[英]加里·布莱斯 等 绘|||https://book.douban.com/subject/26789780/
+755|||终极理论|||（美）马克·阿尔珀特|||https://book.douban.com/subject/3210918/
+756|||飞城|||詹姆斯·布利什|||https://book.douban.com/subject/3625411/
+757|||祸匣打开之后|||宋宜昌|||https://book.douban.com/subject/1781278/
+758|||海底两万里|||(法)儒勒﹒凡尔纳|||https://book.douban.com/subject/1512245/
+759|||Who Fears Death|||Okorafor, Nnedi|||https://book.douban.com/subject/4953273/
+760|||香巴拉秘符|||隔世醒人|||https://book.douban.com/subject/10530021/
+761|||Fringe|||Tara Bennett、Paul Terry|||https://book.douban.com/subject/20501698/
+762|||星陨1：丛林中的十字架|||周敬之|||https://book.douban.com/subject/26452812/
+763|||星际争霸Ⅱ：闪点时刻|||[美]克里斯蒂·高登|||https://book.douban.com/subject/24153026/
+764|||触摸|||[英] 克莱尔·诺丝|||https://book.douban.com/subject/26774522/
+765|||沉默基因|||黄序|||https://book.douban.com/subject/20382127/
+766|||低能儿收容所|||艾萨克·阿西莫夫|||https://book.douban.com/subject/20501529/
+767|||生化危机官方小说1|||S.D.佩瑞|||https://book.douban.com/subject/3581945/
+768|||The Transmigration of Timothy Archer|||Philip K. Dick|||https://book.douban.com/subject/2395060/
+769|||阿尔法卫星上的家族|||菲利普・迪克|||https://book.douban.com/subject/1012873/
+770|||攻殼機動隊|||士郎正宗|||https://book.douban.com/subject/27066672/
+771|||银河英雄传说VOL.8 乱离篇|||[日]田中芳树|||https://book.douban.com/subject/2080914/
+772|||守護程序 I 網路殺神|||Daniel Suarez|||https://book.douban.com/subject/6308250/
+773|||I Have No Mouth, and I Must Scream|||Harlan Ellison|||https://book.douban.com/subject/2031656/
+774|||明斯克号出击|||久留岛龙夫、军事研究小组|||https://book.douban.com/subject/3288259/
+775|||寻梦|||卫斯理|||https://book.douban.com/subject/3201836/
+776|||半人半鱼之神|||[美]詹姆斯·冈恩、郭建中（主编）|||https://book.douban.com/subject/3257744/
+777|||眼睛|||倪匡|||https://book.douban.com/subject/1394964/
+778|||比你想像的更黑暗|||杰克.威廉森|||https://book.douban.com/subject/1125416/
+779|||零日传说 第1部|||陈虹羽|||https://book.douban.com/subject/26652979/
+780|||太空神曲|||[苏] 阿·卡赞采夫|||https://book.douban.com/subject/3025537/
+781|||安德的游戏2：决战虫族|||(美)奥森·斯科特·卡德|||https://book.douban.com/subject/24380044/
+782|||凡尔纳科幻经典(插图版•全译本)(套装共11册)||||||https://book.douban.com/subject/26791509/
+783|||星际掠食|||长铗|||https://book.douban.com/subject/26303961/
+784|||Moebius|||Moebius|||https://book.douban.com/subject/6573274/
+785|||Anathem|||Neal Stephenson|||https://book.douban.com/subject/3058141/
+786|||地球百子 1|||[美] 卡斯·摩根|||https://book.douban.com/subject/26701966/
+787|||Oryx and Crake|||Margaret Atwood|||https://book.douban.com/subject/1427870/
+788|||凡尔纳科幻三部曲|||凡尔纳|||https://book.douban.com/subject/5399594/
+789|||人烟之岛|||(俄罗斯)阿卡迪·斯特鲁伽茨基、(俄罗斯)鲍里斯·斯特鲁伽茨基|||https://book.douban.com/subject/20501788/
+790|||行尸走肉|||罗伯特·凯克曼、杰·伯南希亚|||https://book.douban.com/subject/25890183/
+791|||同学两亿岁|||疯丢子|||https://book.douban.com/subject/19989558/
+792|||西塔甘达|||洛伊斯.比约德、Lois McMaster Bujold|||https://book.douban.com/subject/1903736/
+793|||事关良心|||詹姆斯·布利什|||https://book.douban.com/subject/3881746/
+794|||时间中的侦探|||负二|||https://book.douban.com/subject/6893336/
+795|||奇奇怪博士|||郑允钦|||https://book.douban.com/subject/2325718/
+796|||脑洞W|||无色方糖 等|||https://book.douban.com/subject/26874330/
+797|||一百年以后|||基尔.布雷乔夫|||https://book.douban.com/subject/3010663/
+798|||老貓|||衛斯理|||https://book.douban.com/subject/1385564/
+799|||穿墙猫|||[美] 罗伯特·海因莱因|||https://book.douban.com/subject/26768314/
+800|||Level E|||富樫義博、Yoshhiro Togashi|||https://book.douban.com/subject/1370274/
+801|||机器人启示录|||[美] 丹尼尔·威尔森|||https://book.douban.com/subject/25839513/
+802|||安德的礼物|||(美)奥森·斯科特·卡德|||https://book.douban.com/subject/25751308/
+803|||时间的皱纹|||马德琳·英格|||https://book.douban.com/subject/2076616/
+804|||中国科幻小说精品集|||姚海军|||https://book.douban.com/subject/1132947/
+805|||掠食城市Ⅱ|||[英]菲利普·瑞弗|||https://book.douban.com/subject/25986332/
+806|||桑道夫伯爵|||(法)儒勒·凡尔纳|||https://book.douban.com/subject/2215376/
+807|||光晕|||威廉·C·迪茨|||https://book.douban.com/subject/1462657/
+808|||20世纪世界儿童文学名著精粹|||刘文刚 主编|||https://book.douban.com/subject/2982279/
+809|||世界最高峰的奇迹|||叶永烈|||https://book.douban.com/subject/2079409/
+810|||东游记|||张祖荣|||https://book.douban.com/subject/3112031/
+811|||想像力宣言|||韩松|||https://book.douban.com/subject/1689421/
+812|||基因的秘密|||[希腊] 尼科斯•帕纳约托普洛斯|||https://book.douban.com/subject/2125018/
+813|||立方体之战·反攻|||[美] 玛丽亚·斯奈德|||https://book.douban.com/subject/27001151/
+814|||我被外星人绑架过11次|||斯坦·罗曼尼克|||https://book.douban.com/subject/6436659/
+815|||蚁巢里的甲虫|||(俄罗斯)阿卡迪·斯特鲁伽茨基、(俄罗斯)鲍里斯·斯特鲁伽茨基|||https://book.douban.com/subject/6127330/
+816|||神秘之球|||[美国]迈克尔·克莱顿|||https://book.douban.com/subject/1262148/
+817|||养蜂人|||王晋康|||https://book.douban.com/subject/6744664/
+818|||奇迹|||糊涂|||https://book.douban.com/subject/2138630/
+819|||凡尔纳海洋科幻三部曲|||（法）儒勒·凡尔纳|||https://book.douban.com/subject/1931099/
+820|||True Names|||Vernor Vinge|||https://book.douban.com/subject/2363565/
+821|||THE ILLUSTRATED MAN|||Ray Bradbury|||https://book.douban.com/subject/4196952/
+822|||異色短篇集1-牛面人的大餐|||藤子.F.不二雄|||https://book.douban.com/subject/3150093/
+823|||银河英雄传说VOL.3 雌伏篇|||[日] 田中芳树 著、[日] 道原克巳 插图|||https://book.douban.com/subject/1917417/
+824|||《星球大战》里的科学|||【美】珍妮•卡维洛斯|||https://book.douban.com/subject/26705995/
+825|||星移记|||[美]休·豪伊|||https://book.douban.com/subject/26656294/
+826|||蛮荒海岸|||金·斯坦利·鲁宾逊（美）、KIM STANLEY ROBINSON|||https://book.douban.com/subject/3024740/
+827|||明日灭亡2：地球觉醒|||张草|||https://book.douban.com/subject/26364281/
+828|||格林兄弟的遗赠|||[美]波莉·舒尔曼|||https://book.douban.com/subject/25719466/
+829|||遗落的南境3：接纳|||[美] 杰夫·范德米尔|||https://book.douban.com/subject/26801110/
+830|||从小跟着共产党|||黄庆云|||https://book.douban.com/subject/3072996/
+831|||古箭计划|||［美］詹姆斯（James）|||https://book.douban.com/subject/6013396/
+832|||星际争霸|||杰夫 格拉布、特雷西 希克曼|||https://book.douban.com/subject/1473332/
+833|||城 科幻三部曲|||张系国|||https://book.douban.com/subject/1000689/
+834|||生命之歌|||王晋康|||https://book.douban.com/subject/1843252/
+835|||悖论13|||(日)东野圭吾|||https://book.douban.com/subject/11511204/
+836|||浮色|||黄梵|||https://book.douban.com/subject/26661698/
+837|||KNOW|||野崎惑|||https://book.douban.com/subject/27179958/
+838|||攻殼機動隊(02)|||士郎正宗|||https://book.douban.com/subject/3138811/
+839|||噬夢人|||伊格言|||https://book.douban.com/subject/5302117/
+840|||中国科幻银河奖作品精选集⑥|||杨枫 编、姚海军 编|||https://book.douban.com/subject/25769543/
+841|||Doctor Who|||Cavan Scott、Mark Wright|||https://book.douban.com/subject/21707166/
+842|||玩家|||夜X|||https://book.douban.com/subject/27011961/
+843|||铁大师|||帕特里克•蒂利|||https://book.douban.com/subject/3736886/
+844|||永远跟着共产党|||少年儿童出版社编、毛用坤绘图|||https://book.douban.com/subject/3080102/
+845|||星海征程|||北京市科学技术协会、蝌蚪五线谱网站|||https://book.douban.com/subject/20412100/
+846|||住在身体里的人|||陈奕潞|||https://book.douban.com/subject/26612858/
+847|||上帝之速Ⅰ|||[美] 贝丝•里维斯|||https://book.douban.com/subject/25858923/
+848|||Ancillary Mercy|||Ann Leckie|||https://book.douban.com/subject/26380135/
+849|||冒牌大英雄（全10册）|||七十二编|||https://book.douban.com/subject/4839899/
+850|||太阳系历险记|||(法)儒勒·凡尔纳|||https://book.douban.com/subject/2215336/
+851|||宇宙涟漪中的孩子|||谢云宁|||https://book.douban.com/subject/27081851/
+852|||航空手册|||[美] 斯科特·维斯特菲尔德、[美] 基斯·汤普森（绘）|||https://book.douban.com/subject/26377013/
+853|||松林異境 2|||布萊克．克勞奇|||https://book.douban.com/subject/25961506/
+854|||诱骗|||(日)星新一|||https://book.douban.com/subject/3077647/
+855|||水陆两栖人|||亚历山大.别利亚耶夫|||https://book.douban.com/subject/1389912/
+856|||太阳篡夺者|||(日) 野尻抱介|||https://book.douban.com/subject/4882000/
+857|||科幻世界的哲學凝視|||陳瑞麟|||https://book.douban.com/subject/2173982/
+858|||天使微积分|||（美）格雷戈里·凯斯|||https://book.douban.com/subject/2309907/
+859|||中外科幻小说大观|||刘兴诗 主编|||https://book.douban.com/subject/2266123/
+860|||爱、生命与希望|||房誉|||https://book.douban.com/subject/24849603/
+861|||星屑與妮娜1|||[日]福島 聡|||https://book.douban.com/subject/23717403/
+862|||我们|||[俄] 尤金·扎米亚金|||https://book.douban.com/subject/1434071/
+863|||何夕卷：爱别离|||何夕、世界华人科幻协会组编、董仁威 姚海军（主编）|||https://book.douban.com/subject/10864152/
+864|||韩松卷：看的恐惧|||韩松、世界华人科幻协会组编、董仁威 姚海军（主编）|||https://book.douban.com/subject/10864161/
+865|||太空堡垒·麦克罗斯传奇（全三卷）|||[美] 杰克·麦金尼|||https://book.douban.com/subject/1418145/
+866|||木炭|||卫斯理|||https://book.douban.com/subject/3338894/
+867|||通向宇宙之门|||弗雷德里克.波尔(美)|||https://book.douban.com/subject/1056874/
+868|||光晕|||(美)埃里克·尼伦德|||https://book.douban.com/subject/1462658/
+869|||寻找杰克|||(英)柴纳·米耶维|||https://book.douban.com/subject/25833222/
+870|||拆船工|||(美)保罗·巴奇加卢皮|||https://book.douban.com/subject/25886156/
+871|||清晨的加斯巴|||筒井康隆|||https://book.douban.com/subject/3993344/
+872|||古星图之谜|||程嘉梓|||https://book.douban.com/subject/3314233/
+873|||回到未来|||埃里希•冯•丹尼肯|||https://book.douban.com/subject/10484087/
+874|||银河英雄传说VOL.4：策谋篇|||(日)田中芳树|||https://book.douban.com/subject/1967817/
+875|||The Merchant and the Alchemist's Gate|||Ted Chiang|||https://book.douban.com/subject/2239767/
+876|||贝拉亚|||[美]洛伊斯·比约德|||https://book.douban.com/subject/3025244/
+877|||羽翼·深蓝|||自由鸟|||https://book.douban.com/subject/4128025/
+878|||太阳潜入者|||(美)大卫·布林|||https://book.douban.com/subject/5395152/
+879|||投影|||［美国］凯文·吉尔福伊尔|||https://book.douban.com/subject/3067304/
+880|||蒙淘克工程|||［美］普林斯顿·B·尼克尔斯、［美］彼得•穆恩|||https://book.douban.com/subject/6557329/
+881|||太空序曲|||（英）阿瑟·C.克拉克|||https://book.douban.com/subject/3105498/
+882|||Doctor Who|||Various|||https://book.douban.com/subject/25888289/
+883|||莫罗博士的岛|||H.G.威尔斯|||https://book.douban.com/subject/1488528/
+884|||Invisible Planets|||Ken Liu|||https://book.douban.com/subject/26754937/
+885|||科玛|||洛伊斯·比约德|||https://book.douban.com/subject/1894978/
+886|||我們在虛空中巡視夜晚|||上遠野浩平|||https://book.douban.com/subject/2282009/
+887|||琼斯缔造的世界|||菲利普・迪克、李维章|||https://book.douban.com/subject/1028183/
+888|||中国科学幻想文学史（上、下卷）|||[日] 武田雅哉、[日]  林久之|||https://book.douban.com/subject/27056143/
+889|||坟场之书|||[英] 尼尔·盖曼|||https://book.douban.com/subject/4219125/
+890|||镜中千年|||半轻人|||https://book.douban.com/subject/21668129/
+891|||透明社会|||Brin, David|||https://book.douban.com/subject/19896200/
+892|||我们|||尤金•扎米亚金|||https://book.douban.com/subject/27063487/
+893|||世界科幻名著故事 1|||柯南道尔、史帝文生|||https://book.douban.com/subject/1978382/
+894|||0000年的母系氏族|||潘海天|||https://book.douban.com/subject/5355647/
+895|||The Maze Runner|||Dashner, James|||https://book.douban.com/subject/4577631/
+896|||穿梭时间的女孩|||[美] 瑞萨·沃克|||https://book.douban.com/subject/27073913/
+897|||A Closed and Common Orbit|||Becky Chambers|||https://book.douban.com/subject/26960723/
+898|||星球大战：达斯•贝恩Ⅰ|||[加] 德鲁•卡宾森|||https://book.douban.com/subject/26898861/
+899|||威尔斯科幻小说全集|||[英] 赫·乔·威尔斯|||https://book.douban.com/subject/1644109/
+900|||最后的地球人|||星新一 著、劉伯樂 繪|||https://book.douban.com/subject/1764227/
+901|||机器人的信条|||约翰逊等|||https://book.douban.com/subject/25843726/
+902|||科幻应该这样读|||吴岩|||https://book.douban.com/subject/7060182/
+903|||All You Need Is Kill 1|||小畑健、原作・原案	   	桜坂洋|||https://book.douban.com/subject/25872631/
+904|||人生舞台|||[美] 艾萨克·阿西莫夫|||https://book.douban.com/subject/4270905/
+905|||星塵之旅|||星野之宣|||https://book.douban.com/subject/1812732/
+906|||戦後ＳＦ事件史---日本的想像力の70年|||長山 靖生|||https://book.douban.com/subject/10494008/
+907|||新世纪小说大系（2001—2010）• 科幻卷|||主编 陈思和 编选 严锋 宋明炜|||https://book.douban.com/subject/25845442/
+908|||反物质飞船|||[美] 杰克·威廉森|||https://book.douban.com/subject/1133486/
+909|||Pacific Rim|||David S Cohen|||https://book.douban.com/subject/21073064/
+910|||魔鬼积木|||刘慈欣|||https://book.douban.com/subject/1125282/
+911|||H. P. Lovecraft|||H. P. Lovecraft|||https://book.douban.com/subject/1753294/
+912|||超新星纪元|||刘慈欣|||https://book.douban.com/subject/26807574/
+913|||天国恶魔|||[美]威廉姆·C.迪特兹|||https://book.douban.com/subject/25709694/
+914|||Accelerando|||Charles Stross|||https://book.douban.com/subject/1916747/
+915|||邻镇战争|||(日)三崎亚记|||https://book.douban.com/subject/24871481/
+916|||星潮闪电|||戴维·布林|||https://book.douban.com/subject/1597085/
+917|||Dune Messiah (Dune Chronicles, Book 2)|||Frank Herbert|||https://book.douban.com/subject/1457207/
+918|||分解人|||尼爾．舒斯特曼、Shusterman, Neal|||https://book.douban.com/subject/3145381/
+919|||仙女座星云|||（苏）伊.安.叶弗列莫夫|||https://book.douban.com/subject/3018335/
+920|||Stand on Zanzibar|||John Brunner|||https://book.douban.com/subject/1480361/
+921|||膜|||纪大伟|||https://book.douban.com/subject/1128402/
+922|||星际迷航：克林贡猎禽舰完全图解|||[美]本•罗宾逊|||https://book.douban.com/subject/26838241/
+923|||新世界より 下|||貴志祐介|||https://book.douban.com/subject/3001483/
+924|||十月國度|||雷．布萊伯利|||https://book.douban.com/subject/2998601/
+925|||宇宙兄弟1|||小山宙哉|||https://book.douban.com/subject/4066638/
+926|||兄弟手足|||(美)洛伊斯·比约德|||https://book.douban.com/subject/3025254/
+927|||穹顶之下·末日卷|||刘慈欣、飞氘、王晋康、苏学军、宝树、本少爷、李亮、马伯庸|||https://book.douban.com/subject/26385442/
+928|||外国科幻论文精选|||王逢振 主编|||https://book.douban.com/subject/3150145/
+929|||造星主|||奥拉夫·斯塔普（英）|||https://book.douban.com/subject/26663539/
+930|||当睡者醒来时|||[英]赫伯特·乔治·威尔斯|||https://book.douban.com/subject/26596364/
+931|||银河英雄传说VOL.2 野望篇|||（日）田中芳树|||https://book.douban.com/subject/1863010/
+932|||人类|||[加拿大]罗伯特·索耶、Robert J. Sawyer|||https://book.douban.com/subject/4850811/
+933|||水惑星年代记|||大石まさる|||https://book.douban.com/subject/6039455/
+934|||紫色的Qualia|||うえお久光、綱島志朗|||https://book.douban.com/subject/4934257/
+935|||Hitchhikers's Guide to the Galaxy|||Douglas Adams|||https://book.douban.com/subject/10618957/
+936|||混沌行走Ⅰ|||[美]派崔克·奈斯|||https://book.douban.com/subject/25903414/
+937|||掉线-星云VI|||拉拉|||https://book.douban.com/subject/2231708/
+938|||2.5次世界大战|||刘慈欣|||https://book.douban.com/subject/26579509/
+939|||反乌托邦三部曲|||[英] 奥威尔、[英] 赫胥黎、[俄] 扎米亚京|||https://book.douban.com/subject/25781009/
+940|||Borne|||Jeff VanderMeer|||https://book.douban.com/subject/26948674/
+941|||The Incal Classic Collection|||Alexandro Jodorowsky|||https://book.douban.com/subject/10569761/
+942|||Embodiment and the inner life|||Murray Shanahan|||https://book.douban.com/subject/5491932/
+943|||克萊因壺|||岡嶋二人|||https://book.douban.com/subject/6265791/
+944|||狩魔手记 No. 1|||烟雨江南|||https://book.douban.com/subject/4738290/
+945|||A Wrinkle in Time|||Madeleine L'Engle|||https://book.douban.com/subject/1340984/
+946|||冲击参数|||杰弗里 A 兰迪斯、Geoffrey A. Landis|||https://book.douban.com/subject/3105145/
+947|||消失的房间|||劳伦•伯克斯|||https://book.douban.com/subject/25978550/
+948|||幻觉|||（美）菲利普・迪克|||https://book.douban.com/subject/1055432/
+949|||机械人生|||[澳大利亚] 麦克斯·拜瑞|||https://book.douban.com/subject/25752142/
+950|||Zoo城|||[南非] 劳伦·伯克斯|||https://book.douban.com/subject/26312167/
+951|||超脑Ⅰ：连接|||[美] 道格拉斯·E.理查兹|||https://book.douban.com/subject/26911957/
+952|||短篇科幻小说精选|||何春燕、朱磊|||https://book.douban.com/subject/1136012/
+953|||The Chrysalids|||John Wyndham|||https://book.douban.com/subject/2005815/
+954|||星球大战：传承2|||[美] 约翰·奥斯特兰德 著、[美] 简·杜尔塞马 绘|||https://book.douban.com/subject/26411942/
+955|||乖宠|||丁墨|||https://book.douban.com/subject/20492474/
+956|||乌托邦|||[法]尼古拉·巴斯科、Nicolas Bascop|||https://book.douban.com/subject/26819169/
+957|||2014中国最佳科幻作品|||姚海军 胡编|||https://book.douban.com/subject/26606177/
+958|||快乐制造者|||詹姆斯·冈恩|||https://book.douban.com/subject/3119576/
+959|||银河英雄传说VOL.5 风云篇|||[日] 田中芳树|||https://book.douban.com/subject/2042338/
+960|||神仙难为|||(俄罗斯)阿卡迪·斯特鲁伽茨基、(俄罗斯)鲍里斯·斯特鲁伽茨基|||https://book.douban.com/subject/11626404/
+961|||谋杀先生|||(美) 迪恩·孔茨|||https://book.douban.com/subject/4221572/
+962|||黑太阳|||[美] 杰克·威廉森|||https://book.douban.com/subject/1133487/
+963|||午夜以后|||[美] 雷·布拉德伯里|||https://book.douban.com/subject/10534890/
+964|||EMANON さすらいエマノン Episode|||鶴田謙二、梶尾真治|||https://book.douban.com/subject/4311499/
+965|||飞向火星|||[美]乔·霍尔德曼(Joe Haldeman)|||https://book.douban.com/subject/4025047/
+966|||机器岛（上下）|||(法)儒勒·凡尔纳|||https://book.douban.com/subject/2215240/
+967|||时光闪电|||(西班牙)何塞·卡洛斯·索莫萨|||https://book.douban.com/subject/10789678/
+968|||We3|||Grant Morrison、Frank Quitely|||https://book.douban.com/subject/2031909/
+969|||星之聲|||新海誠、佐原瑞|||https://book.douban.com/subject/4195825/
+970|||三张牌|||[美] 斯蒂芬·金|||https://book.douban.com/subject/26882658/
+971|||飞行中的阴影|||[美] 奥森·斯科特·卡德|||https://book.douban.com/subject/27068338/
+972|||重生|||[英] 约翰·温德姆|||https://book.douban.com/subject/26810900/
+973|||寄生之魔|||罗隆翔|||https://book.douban.com/subject/27081850/
+974|||阿基拉01|||大友克洋|||https://book.douban.com/subject/3144132/
+975|||星际穿越|||基普·索恩 (Kip Thorne)|||https://book.douban.com/subject/26413155/
+976|||星之海洋|||黄云飞|||https://book.douban.com/subject/2015991/
+977|||The Player of Games|||Iain M. Banks|||https://book.douban.com/subject/4242563/
+978|||第一家族|||帕特里克•蒂利|||https://book.douban.com/subject/3736875/
+979|||无人区|||潘海天 主编|||https://book.douban.com/subject/25865762/
+980|||天空之城|||(意)大卫·卡雷尔、绘画:(意)雅各布·布鲁诺|||https://book.douban.com/subject/6515087/
+981|||星际驿站|||克里福德·西马克、Clfford D. Simak|||https://book.douban.com/subject/1437670/
+982|||奇门|||衛斯理|||https://book.douban.com/subject/1494206/
+983|||最後安慰|||邱比|||https://book.douban.com/subject/26880781/
+984|||极刑|||卫斯理|||https://book.douban.com/subject/3316279/
+985|||世界科幻名著故事 4|||雷·布雷德伯里、彼埃尔·布勒|||https://book.douban.com/subject/2255448/
+986|||秘密 －トップ・シークレット－ 1|||清水玲子|||https://book.douban.com/subject/2003176/
+987|||星球大战：传承1|||[美]约翰·奥斯特兰德、简·杜尔塞马|||https://book.douban.com/subject/26411941/
+988|||太阳舞|||[美]詹姆斯·冈恩、郭建中（主编）|||https://book.douban.com/subject/3257746/
+989|||外星人入侵生存指南|||[美] W. H. 墨菲|||https://book.douban.com/subject/11505671/
+990|||Halo|||Joseph Staten|||https://book.douban.com/subject/3999319/
+991|||多了一个|||卫斯理|||https://book.douban.com/subject/2303070/
+992|||不锈钢老鼠的诞生、不锈钢老鼠参军记|||(美)哈里·哈里森|||https://book.douban.com/subject/2974126/
+993|||异海|||蛇从革|||https://book.douban.com/subject/10768061/
+994|||凯拉三部曲：重生|||［英］特里|||https://book.douban.com/subject/25843184/
+995|||轨道|||韩松|||https://book.douban.com/subject/24696124/
+996|||火星人第二次入侵|||(俄罗斯)阿卡迪·斯特鲁伽茨基、(俄罗斯)鲍里斯·斯特鲁伽茨基|||https://book.douban.com/subject/25772960/
+997|||科学养猪|||陈 隆、孙家广、苏振环|||https://book.douban.com/subject/1069915/
+998|||血河|||帕特里克•蒂利|||https://book.douban.com/subject/3736885/
+999|||Foundation's Friends|||Tor Books|||https://book.douban.com/subject/3707780/
+1000|||掠食因子|||[美]道格拉斯·普莱斯顿、林肯·蔡尔德|||https://book.douban.com/subject/19995042/

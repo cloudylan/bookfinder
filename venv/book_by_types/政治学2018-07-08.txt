@@ -1,0 +1,989 @@
+1|||论美国的民主|||[法]托克维尔|||https://book.douban.com/subject/1041385/
+2|||中国国家治理的制度逻辑|||周雪光|||https://book.douban.com/subject/26901114/
+3|||旧制度与大革命|||[法] 托克维尔|||https://book.douban.com/subject/1032063/
+4|||社会契约论|||卢梭|||https://book.douban.com/subject/1277981/
+5|||独裁者手册|||布鲁斯·布尔诺·德·梅斯奎塔 (Mesquita B.B.D.)、阿拉斯泰尔·史密斯 (Smith A.)|||https://book.douban.com/subject/25881102/
+6|||利维坦|||[英] 霍布斯|||https://book.douban.com/subject/1468426/
+7|||君主论|||[意]尼科洛·马基雅维里|||https://book.douban.com/subject/1060774/
+8|||极权主义的起源|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/3101021/
+9|||国王的两个身体|||[德] 恩斯特·康托洛维茨|||https://book.douban.com/subject/27086102/
+10|||国家的常识|||[美]迈克尔·罗斯金(Michael G. Roskin)|||https://book.douban.com/subject/22806583/
+11|||民主的细节|||刘瑜|||https://book.douban.com/subject/3813669/
+12|||狂热分子|||[美] 埃里克·霍弗|||https://book.douban.com/subject/3057556/
+13|||论自由|||[英] 约翰·密尔|||https://book.douban.com/subject/1400195/
+14|||贸易的猜忌|||[英]伊斯特凡•洪特|||https://book.douban.com/subject/27002570/
+15|||变化社会中的政治秩序|||萨缪尔·P.亨廷顿|||https://book.douban.com/subject/3163104/
+16|||文明的冲突与世界秩序的重建|||[美] 塞缪尔·亨廷顿|||https://book.douban.com/subject/1053623/
+17|||历史的终结与最后的人|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/25908550/
+18|||联邦党人文集|||汉密尔顿、杰伊、麦迪逊|||https://book.douban.com/subject/1048930/
+19|||致命的自负|||（英）哈耶克|||https://book.douban.com/subject/1070007/
+20|||政治秩序的起源|||[美]弗朗西斯·福山|||https://book.douban.com/subject/19976381/
+21|||天鹅绒监狱|||[匈牙利] 米克洛什·哈拉兹蒂|||https://book.douban.com/subject/26593670/
+22|||艾希曼在耶路撒冷|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/26834183/
+23|||伯罗奔尼撒战争|||[美] 唐纳德·卡根|||https://book.douban.com/subject/26451505/
+24|||正义论|||[美] 约翰·罗尔斯|||https://book.douban.com/subject/1028268/
+25|||开放社会及其敌人（全二卷）|||[英] 卡尔·波普尔|||https://book.douban.com/subject/1015748/
+26|||论人类不平等的起源和基础|||[法]卢梭|||https://book.douban.com/subject/1657455/
+27|||民主的不满|||[美] 迈克尔·桑德尔|||https://book.douban.com/subject/26683648/
+28|||集体行动的逻辑|||曼瑟尔·奥尔森|||https://book.douban.com/subject/1196945/
+29|||中国现代国家的起源|||[美]孔飞力|||https://book.douban.com/subject/25750468/
+30|||从投票到暴力|||[美] 杰克·斯奈德|||https://book.douban.com/subject/26949934/
+31|||维稳的政治逻辑|||谢岳|||https://book.douban.com/subject/24534471/
+32|||开放中的变迁|||金观涛、刘青峰|||https://book.douban.com/subject/5906321/
+33|||自由秩序原理|||(英)弗里德利希・冯・哈耶克|||https://book.douban.com/subject/1005813/
+34|||能夏则大与渐慕华风|||胡鸿|||https://book.douban.com/subject/27011415/
+35|||意识形态起源和影响|||[美] 利昂·P. 巴拉达特|||https://book.douban.com/subject/4285631/
+36|||世界秩序|||亨利·基辛格 (Henry Kissinger)|||https://book.douban.com/subject/26435040/
+37|||西方政治思想史|||约翰·麦克里兰|||https://book.douban.com/subject/1039258/
+38|||马克斯·韦伯与德国政治：1890—1920|||[德]沃尔夫冈·J.蒙森|||https://book.douban.com/subject/26877271/
+39|||共同的底线|||秦晖|||https://book.douban.com/subject/21432137/
+40|||逃避统治的艺术|||詹姆士·斯科特|||https://book.douban.com/subject/26743425/
+41|||论法的精神（上）|||(法)孟德斯鸠|||https://book.douban.com/subject/1016930/
+42|||我们的孩子|||[美] 罗伯特·帕特南|||https://book.douban.com/subject/27064858/
+43|||探索现代社会的起源|||金观涛|||https://book.douban.com/subject/4853094/
+44|||美利坚共和国的缔造|||[美国]戈登·S. 伍德|||https://book.douban.com/subject/26819270/
+45|||人的境况|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/3431988/
+46|||家庭、私有制和国家的起源|||恩格斯|||https://book.douban.com/subject/1247769/
+47|||政府论（下篇）|||[英] 洛克|||https://book.douban.com/subject/1454687/
+48|||暴力|||兰德尔·柯林斯 (Randall Collins)|||https://book.douban.com/subject/26810502/
+49|||社会与政治运动讲义|||赵鼎新|||https://book.douban.com/subject/1804960/
+50|||耶鲁大学公开课|||[美]史蒂芬·B·斯密什(Steven B. Smith)|||https://book.douban.com/subject/26278816/
+51|||在缅甸寻找乔治·奥威尔|||[美] 艾玛·拉金|||https://book.douban.com/subject/26847517/
+52|||世俗时代|||[加拿大] 查尔斯·泰勒|||https://book.douban.com/subject/26718544/
+53|||生而贫穷|||赵皓阳|||https://book.douban.com/subject/27056780/
+54|||弯曲的脊梁|||(美) 彼特沃克|||https://book.douban.com/subject/10546119/
+55|||政治学|||[英]安德鲁·海伍德 Andrew Heywood|||https://book.douban.com/subject/1867208/
+56|||血缘与归属|||[加拿大] 叶礼庭|||https://book.douban.com/subject/27076779/
+57|||布达佩斯往事|||[美] 卡蒂·马顿|||https://book.douban.com/subject/26606366/
+58|||政治学|||[古希腊] 亚里士多德|||https://book.douban.com/subject/1160320/
+59|||无政府、国家和乌托邦|||[美]罗伯特·诺奇克|||https://book.douban.com/subject/3074246/
+60|||国家间政治|||汉斯·摩根索、肯尼斯·汤普森 修订、戴维·克林顿 修订|||https://book.douban.com/subject/1971678/
+61|||政治秩序与政治衰败|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/26592899/
+62|||权力与繁荣|||（美）曼瑟・奥尔森|||https://book.douban.com/subject/1315182/
+63|||反抗“平庸之恶”|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/25844426/
+64|||與中國打交道|||亨利‧鮑爾森Henry M. Paulson|||https://book.douban.com/subject/27010498/
+65|||资本主义、社会主义与民主|||(美)约瑟夫·熊彼特|||https://book.douban.com/subject/1038949/
+66|||可操作的民主|||寇延丁、袁天鹏|||https://book.douban.com/subject/10563202/
+67|||常识|||托马斯·潘恩|||https://book.douban.com/subject/1027030/
+68|||罗伯特议事规则|||亨利·罗伯特|||https://book.douban.com/subject/2382433/
+69|||少数人的恐惧|||[印] 拉纳吉特·古哈 (等)、梁捷 (编)、陈韵 (编)|||https://book.douban.com/subject/27079106/
+70|||路易·波拿巴的雾月十八日|||马克思|||https://book.douban.com/subject/1091964/
+71|||统治史（卷一）：古代的王权和帝国——从苏美尔到罗马（修订版）|||塞缪尔•E•芬纳|||https://book.douban.com/subject/25910407/
+72|||硬球|||（美）马修斯|||https://book.douban.com/subject/1048922/
+73|||共产党宣言|||马克思、恩格斯|||https://book.douban.com/subject/1065977/
+74|||政治学说史（上卷）|||[美] 乔治·萨拜因 著、[美] 托马斯·索尔森 修订|||https://book.douban.com/subject/3092897/
+75|||自然权利与历史|||列奥·施特劳斯|||https://book.douban.com/subject/1077428/
+76|||民主转型与巩固的问题|||胡安·J·林茨、阿尔弗莱德·斯泰潘|||https://book.douban.com/subject/2972538/
+77|||民主新论|||[美] 乔万尼·萨托利|||https://book.douban.com/subject/3593300/
+78|||论政治·上卷|||[英]阿兰•瑞安|||https://book.douban.com/subject/26815879/
+79|||乌托邦|||[英] 托马斯·莫尔|||https://book.douban.com/subject/1927487/
+81|||兴盛与危机|||金观涛、刘青峰|||https://book.douban.com/subject/5906312/
+82|||大转型|||[英] 卡尔·波兰尼|||https://book.douban.com/subject/2079931/
+83|||国家的视角|||詹姆斯・C・斯科特|||https://book.douban.com/subject/1190181/
+84|||中国政治思想史|||萧公权|||https://book.douban.com/subject/1488497/
+85|||自然社会|||李猛|||https://book.douban.com/subject/26320417/
+86|||自由的基因|||[英] 丹尼尔·汉南|||https://book.douban.com/subject/26545443/
+87|||独自打保龄|||[美] 罗伯特·帕特南 著、燕继荣 审校|||https://book.douban.com/subject/5911531/
+88|||理性选民的神话|||(美)布赖恩·卡普兰|||https://book.douban.com/subject/5348296/
+89|||美丽灵魂|||[美] 埃亚勒·普雷斯|||https://book.douban.com/subject/27032518/
+90|||近代政治思想的基础（上、下卷）|||[英] 昆廷·斯金纳|||https://book.douban.com/subject/1009100/
+91|||大棋局|||兹比格纽·布热津斯基|||https://book.douban.com/subject/2026281/
+92|||现代世界体系（四卷本）|||[美]伊曼纽尔•沃勒斯坦|||https://book.douban.com/subject/25763756/
+93|||经济人的末日|||[美] 彼得·德鲁克|||https://book.douban.com/subject/26378573/
+94|||小镇喧嚣|||吴毅|||https://book.douban.com/subject/2280161/
+95|||统治与教育|||徐贲|||https://book.douban.com/subject/26675905/
+96|||大失败|||[美] 兹·布热津斯基|||https://book.douban.com/subject/1986275/
+97|||齐泽克的笑话|||[斯洛文尼亚] 斯拉沃热·齐泽克|||https://book.douban.com/subject/26838875/
+98|||古拉格：一部历史|||(美)安妮·阿普尔鲍姆|||https://book.douban.com/subject/20503529/
+99|||理解国际冲突|||小约瑟夫·奈|||https://book.douban.com/subject/1482609/
+100|||权力论|||[英] 伯特兰·罗素(Russeu,B.)|||https://book.douban.com/subject/1197956/
+101|||上帝与黄金|||沃尔特•拉塞尔•米德 (Walter Russell Mead)|||https://book.douban.com/subject/26260335/
+102|||过去与未来之间|||[美] 汉娜·阿伦特|||https://book.douban.com/subject/6540232/
+103|||权力的毛细管作用|||王汎森|||https://book.douban.com/subject/26581737/
+104|||民主是一种现代生活|||蔡定剑|||https://book.douban.com/subject/4240969/
+105|||人文主义与民主批评|||[美] 爱德华·W.萨义德|||https://book.douban.com/subject/27039479/
+106|||驯化利维坦|||王建勋|||https://book.douban.com/subject/26938584/
+107|||党员、党权与党争|||王奇生|||https://book.douban.com/subject/1139065/
+108|||观念史研究|||金观涛、刘青峰|||https://book.douban.com/subject/4236917/
+109|||朝服|||[美] 菲利普·博比特|||https://book.douban.com/subject/26952318/
+110|||和平与战争|||[法] 雷蒙·阿隆|||https://book.douban.com/subject/24887735/
+111|||论革命|||(美)汉娜·阿伦特|||https://book.douban.com/subject/2051821/
+112|||国家的兴衰|||[美] 曼瑟·奥尔森|||https://book.douban.com/subject/2068710/
+113|||反社会的人|||[德]瓦尔特·伍伦韦伯|||https://book.douban.com/subject/25794332/
+114|||第三波|||[美] 塞缪尔·亨廷顿|||https://book.douban.com/subject/1048109/
+115|||政府论（上篇）|||[英] 洛克|||https://book.douban.com/subject/1276771/
+116|||宣传|||刘海龙|||https://book.douban.com/subject/21345957/
+117|||当图书成为武器|||〔美〕彼得•芬恩 〔荷〕彼特拉•库维|||https://book.douban.com/subject/26297802/
+118|||政治思考|||[美] 格伦·廷德|||https://book.douban.com/subject/4857097/
+119|||托克维尔|||[法] 吕西安·若姆（Lucien Jaume）|||https://book.douban.com/subject/26926277/
+121|||新阶级|||密洛凡·德热拉斯|||https://book.douban.com/subject/20266235/
+122|||政治科学（第九版）|||[美] 迈克尔·罗斯金 等|||https://book.douban.com/subject/3682755/
+123|||生死民主|||[澳] 约翰·基恩|||https://book.douban.com/subject/26835556/
+124|||社会主义|||路德维希·冯·米瑟斯|||https://book.douban.com/subject/3260366/
+125|||民主与专制的社会起源|||巴林顿·摩尔|||https://book.douban.com/subject/1898651/
+126|||来自上层的革命|||[美]大卫.科兹|||https://book.douban.com/subject/3097530/
+127|||远方的陌生人|||[美] 詹姆斯·弗农|||https://book.douban.com/subject/27036755/
+128|||军人与国家|||[美] 塞缪尔·亨廷顿|||https://book.douban.com/subject/26989765/
+129|||右派国家|||[英]约翰·米克尔思韦特、阿德里安·伍尔德里奇|||https://book.douban.com/subject/25854138/
+130|||什么是政治哲学|||【美】列奥·施特劳斯|||https://book.douban.com/subject/6953288/
+131|||美国自由的故事|||[美] 埃里克·方纳|||https://book.douban.com/subject/1031956/
+132|||伯罗奔尼撒战争史|||[古希腊] 修昔底德|||https://book.douban.com/subject/1439441/
+133|||美国精神的封闭|||艾伦·布卢姆|||https://book.douban.com/subject/2287712/
+134|||何为正义|||陈宜中|||https://book.douban.com/subject/26832582/
+135|||裙带资本主义|||(美) 康灿雄 (David C.Kang)|||https://book.douban.com/subject/27089750/
+136|||西方政治传统|||弗里德里希·沃特金斯|||https://book.douban.com/subject/26712445/
+137|||党员、党权与党争|||王奇生|||https://book.douban.com/subject/5372471/
+138|||记忆的政治|||周海燕|||https://book.douban.com/subject/25786160/
+139|||辩论：美国制宪会议记录（上下）|||[美] 麦迪逊|||https://book.douban.com/subject/1084730/
+140|||论政治|||【英】阿兰·瑞安|||https://book.douban.com/subject/26926081/
+141|||一个知识分子的政治理想|||[法]伊丽莎白·巴丹德、[法]罗贝尔·巴丹德|||https://book.douban.com/subject/26901112/
+142|||政治的细节（第10版）|||[美]罗伯特·J·阿特、罗伯特·杰维斯|||https://book.douban.com/subject/25807521/
+143|||反乌托邦三部曲|||[英] 奥威尔、[英] 赫胥黎、[俄] 扎米亚京|||https://book.douban.com/subject/25781009/
+144|||政治学通识|||包刚升|||https://book.douban.com/subject/26658395/
+145|||中国革命|||[德] 于尔根·奥斯特哈默|||https://book.douban.com/subject/27060604/
+146|||暴力与社会秩序|||道格拉斯·C. 诺思、约翰· 约瑟夫· 瓦利斯、巴里·R. 韦格斯特|||https://book.douban.com/subject/24751865/
+147|||利维坦的道德困境|||吴增定|||https://book.douban.com/subject/10566979/
+148|||无目的的手段|||[意]吉奥乔·阿甘本|||https://book.douban.com/subject/26261103/
+149|||坏世界研究|||赵汀阳|||https://book.douban.com/subject/3669381/
+150|||自由论|||（英）伯林|||https://book.douban.com/subject/1077568/
+151|||民主的阴暗面|||[英] 迈克尔·曼|||https://book.douban.com/subject/25863979/
+152|||大国政治的悲剧|||（美）米尔斯海默|||https://book.douban.com/subject/1051386/
+153|||国家与社会革命|||(美)西达·斯考切波|||https://book.douban.com/subject/2048787/
+154|||身份与暴力|||[印]阿马蒂亚·森|||https://book.douban.com/subject/4126261/
+155|||你的权利从哪里来？|||艾伦•德肖维茨（Alan Dershowitz）|||https://book.douban.com/subject/25794646/
+156|||我们的后人类未来|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/26926164/
+157|||去政治化的政治|||汪晖|||https://book.douban.com/subject/3067148/
+158|||中国在非洲|||沙伯力（Barry Sautman）、严海蓉|||https://book.douban.com/subject/27037097/
+159|||黑猩猩的政治|||弗朗斯·德瓦尔、Frans de Waal|||https://book.douban.com/subject/3785326/
+161|||弱者的武器|||[美] 詹姆斯·C·斯科特|||https://book.douban.com/subject/2030855/
+162|||新自由主义简史|||[美] 大卫·哈维|||https://book.douban.com/subject/4850299/
+163|||大断裂|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/26390714/
+164|||治理中国|||[美] 李侃如|||https://book.douban.com/subject/4220193/
+165|||托克维尔传|||[英] 休·布罗根|||https://book.douban.com/subject/26997127/
+166|||欲望与利益|||(美) 阿尔伯特·赫希曼|||https://book.douban.com/subject/26304280/
+167|||美丽新世界的美德与见识|||[英]阿道司·赫胥黎|||https://book.douban.com/subject/27055864/
+168|||仪式、政治与权力|||[美]大卫·科泽 （David I. Kertzer ）|||https://book.douban.com/subject/26651780/
+169|||论中国|||[美] 亨利·基辛格|||https://book.douban.com/subject/19920715/
+170|||暴力|||[斯洛文尼亚] 斯拉沃热·齐泽克、Slavoj Žižek|||https://book.douban.com/subject/10544787/
+171|||法国革命论|||（英）柏克|||https://book.douban.com/subject/1051349/
+172|||人之神圣性|||[德] 汉斯·约阿斯|||https://book.douban.com/subject/26997220/
+173|||古典自由主义|||大卫·鲍兹|||https://book.douban.com/subject/4062752/
+174|||何为封建主义|||(比) 弗朗索瓦·冈绍夫|||https://book.douban.com/subject/26878476/
+175|||民主与市场|||（美）普沃斯基|||https://book.douban.com/subject/1281855/
+176|||资本主义还有未来吗|||伊曼纽尔·沃勒斯坦 (Immanuel Wallerstein)、兰德尔·柯林斯 (Randall Collins)、迈克尔·曼 (Michael Mann)、格奥吉·杰尔卢吉扬 (Georgi Derluguia)、克雷格•卡尔霍恩|||https://book.douban.com/subject/25864125/
+177|||胁迫之术|||克里斯托弗·辛普森 (Christopher Simpson)|||https://book.douban.com/subject/27021279/
+178|||哈耶克文选|||哈耶克|||https://book.douban.com/subject/1032570/
+179|||自由主义传|||(美) 埃德蒙·福赛特 (Edmund Fawcett)|||https://book.douban.com/subject/27090936/
+181|||官僚体制·反资本主义的心态|||路德维希·冯·米塞斯|||https://book.douban.com/subject/2155341/
+182|||民族与民族主义|||埃里克·霍布斯鲍姆 (Eric J.Hobsbawm)|||https://book.douban.com/subject/1795078/
+183|||公民社会与启蒙精神|||陈乐民、[德]史傅德|||https://book.douban.com/subject/26976069/
+184|||西方政治思想史|||唐士其|||https://book.douban.com/subject/3283550/
+185|||当代政治哲学（上下）|||[加] 威尔·金里卡|||https://book.douban.com/subject/1267883/
+186|||突破可能性的极限|||[斯诺文尼亚] 斯拉沃热·齐泽克|||https://book.douban.com/subject/27017604/
+187|||美国独行|||[加] 马克·斯坦恩|||https://book.douban.com/subject/26797406/
+188|||大众的反叛|||奥尔特加·加塞特|||https://book.douban.com/subject/1281257/
+189|||剑桥二十世纪政治思想史|||特伦斯·鲍尔、理查德·贝拉米|||https://book.douban.com/subject/26612253/
+190|||国家与革命|||列宁|||https://book.douban.com/subject/1233159/
+191|||民主之门|||[美] 道格拉斯`史密斯|||https://book.douban.com/subject/27003001/
+192|||自由主义|||李强|||https://book.douban.com/subject/2974917/
+193|||对民主之恨|||[法]雅克·朗西埃|||https://book.douban.com/subject/26821267/
+194|||超越民族与历史|||（日）小森阳一、（日）高桥哲哉|||https://book.douban.com/subject/26929906/
+195|||以利为利|||周飞舟|||https://book.douban.com/subject/10587755/
+196|||中国近百年政治史|||李剑农|||https://book.douban.com/subject/1437607/
+197|||民族主义|||（美）格林菲尔德|||https://book.douban.com/subject/4718464/
+198|||政治哲学导论|||[英] 乔纳森·沃尔夫|||https://book.douban.com/subject/4042959/
+199|||马基雅维里时刻|||[英] 波考克 (J. G. A. Pocock)|||https://book.douban.com/subject/25705618/
+200|||中国官僚政治研究|||王亚南|||https://book.douban.com/subject/1061155/
+201|||美国政治传统及其缔造者|||[美] 理查德·霍夫施塔特|||https://book.douban.com/subject/4729534/
+202|||自我颠覆的倾向|||[美]赫希曼|||https://book.douban.com/subject/25767815/
+203|||中国政治制度史纲|||严耕望|||https://book.douban.com/subject/25792791/
+204|||支配社会学-韦伯作品集III|||韦伯|||https://book.douban.com/subject/1042755/
+205|||民主四讲|||王绍光|||https://book.douban.com/subject/3184336/
+206|||论政治·下卷|||[英]阿兰•瑞安|||https://book.douban.com/subject/26914335/
+207|||信号与欺骗|||罗伯特•杰维斯|||https://book.douban.com/subject/26979440/
+208|||重返革命現場|||海倫.雷帕波特|||https://book.douban.com/subject/27019762/
+209|||马克思主义、毛泽东主义与乌托邦主义|||【美】莫里斯·迈斯纳|||https://book.douban.com/subject/1279934/
+210|||权力的终结|||莫伊塞斯•纳伊姆|||https://book.douban.com/subject/25733957/
+211|||政治的概念|||（德）施米特|||https://book.douban.com/subject/1039750/
+212|||民主•宪法•人权|||费孝通|||https://book.douban.com/subject/24379797/
+213|||西方的妄想|||(法) 达尼－罗伯特·迪富尔|||https://book.douban.com/subject/26931320/
+214|||安源|||裴宜理 (Elizabeth J. Perry)|||https://book.douban.com/subject/25930094/
+215|||当代政治学十讲|||阎小骏|||https://book.douban.com/subject/26940347/
+216|||政治学说史（下卷）|||（美）萨拜因（Sabine,G.H.）、（美）索尔森（Thorson,T.L.） 修订|||https://book.douban.com/subject/3880817/
+217|||民主的限制|||赵鼎新|||https://book.douban.com/subject/19912132/
+218|||他们以为他们是自由的|||[美]米尔顿·迈耶（Milton Mayer）|||https://book.douban.com/subject/25751980/
+219|||政治的神学|||[德] 卡尔·施米特|||https://book.douban.com/subject/25965654/
+221|||自由与繁荣的国度|||[奥] 路德维希·冯·米瑟斯|||https://book.douban.com/subject/1043419/
+222|||论出版自由|||[英] 约翰·弥尔顿|||https://book.douban.com/subject/1877291/
+223|||群众与权力|||（德）埃利亚斯·卡内提|||https://book.douban.com/subject/1059912/
+224|||法律、立法与自由(第二、三卷)|||(英)哈耶克|||https://book.douban.com/subject/1074037/
+225|||国际政治理论|||（美）华尔兹（Waltz，K.N.）|||https://book.douban.com/subject/3208369/
+226|||大英帝国的崩溃与美国的诞生|||[英]尼克•邦克|||https://book.douban.com/subject/27083619/
+227|||中国政治二千年|||张纯明|||https://book.douban.com/subject/25828065/
+228|||政治是什么？|||蔡东杰|||https://book.douban.com/subject/26644832/
+229|||经济与社会（第一卷）|||[德] 马克斯·韦伯|||https://book.douban.com/subject/4122414/
+230|||南非的启示|||秦晖|||https://book.douban.com/subject/25734522/
+231|||参谋助手论|||王怀志、郭政|||https://book.douban.com/subject/3896758/
+232|||帝国的分裂|||郑非|||https://book.douban.com/subject/26769553/
+233|||政治哲学|||谭安奎|||https://book.douban.com/subject/26177185/
+234|||公共事物的治理之道|||(美)埃莉诺﹒奥斯特罗姆著|||https://book.douban.com/subject/1661368/
+235|||民族国家与经济政策|||韦伯(德)|||https://book.douban.com/subject/1000093/
+236|||陆地与海洋|||[德]卡尔·施米特|||https://book.douban.com/subject/1861059/
+237|||狐狸与刺猬|||菲利普·E·泰特洛克 (Philip E.Tetlock)|||https://book.douban.com/subject/21676595/
+238|||谁统治美国？|||[美国] 威廉·多姆霍夫|||https://book.douban.com/subject/3792643/
+239|||朱镕基答记者问|||《朱镕基答记者问》编辑组 编|||https://book.douban.com/subject/4002701/
+240|||社会选择与个人价值|||[美]肯尼斯·约瑟夫·阿罗、Kenneth Joseph Arrow|||https://book.douban.com/subject/4326049/
+241|||我们是谁|||塞缪尔·亨廷顿|||https://book.douban.com/subject/1313069/
+242|||罗马革命|||[英] 罗纳德 · 塞姆|||https://book.douban.com/subject/26835224/
+243|||霍布斯与共和主义自由|||[英] 昆廷·斯金纳|||https://book.douban.com/subject/6398616/
+244|||当代中国的中央地方关系|||周飞舟、谭明智|||https://book.douban.com/subject/26285648/
+245|||地缘政治学|||索尔·科恩 (Cohen S.B.)|||https://book.douban.com/subject/6540331/
+246|||自然的政治|||[法] 布鲁诺·拉图尔|||https://book.douban.com/subject/26606369/
+247|||图绘暹罗|||[美国] 通猜·威尼差恭|||https://book.douban.com/subject/26896774/
+248|||红色资本|||[美]卡尔·沃尔特(Carl E. Walter)、[美]弗雷泽·豪伊(Fraser J. Howie)|||https://book.douban.com/subject/25717107/
+249|||美国人|||[美]丹尼尔·J·布尔斯廷|||https://book.douban.com/subject/26043606/
+250|||比较政治经济学|||朱天飚|||https://book.douban.com/subject/1454953/
+251|||皇权不下县?|||胡恒|||https://book.douban.com/subject/26604202/
+252|||德意志帝国的大战略|||梅然|||https://book.douban.com/subject/26766949/
+253|||为什么是以色列|||[美] 米切尔·巴德（Mitchell Bard）|||https://book.douban.com/subject/26997795/
+254|||大外交|||亨利·基辛格|||https://book.douban.com/subject/1036478/
+255|||战略|||[英] 劳伦斯·弗里德曼（Lawrence Freedman）|||https://book.douban.com/subject/26893673/
+256|||加图决策者手册|||[美]加图研究所|||https://book.douban.com/subject/6849285/
+257|||从"东欧"到"新欧洲"|||金雁|||https://book.douban.com/subject/6308034/
+258|||布莱克维尔政治学百科全书|||[英] 戴维·米勒、韦农·波格丹诺 主编|||https://book.douban.com/subject/1120991/
+259|||社会主义体制|||[匈牙利]雅诺什·科尔奈|||https://book.douban.com/subject/2078097/
+260|||论李维|||（意）尼科洛・马基雅维里|||https://book.douban.com/subject/1315248/
+261|||论邪恶|||[美] 亚当·莫顿（Adam Morton）|||https://book.douban.com/subject/26838872/
+262|||阿伦特手册|||【德】沃尔夫冈·霍尔（Wolfgang Heuer）、【德】贝恩德·海特尔（Bernd Heiter）、【德】斯特凡妮·罗森穆勒（Stefanie Rosenmüller）|||https://book.douban.com/subject/26289557/
+263|||獨裁者的進化：收編、分化、假民主|||威廉．道布森|||https://book.douban.com/subject/25782295/
+264|||迫害与写作艺术|||[美] 列奥·施特劳斯|||https://book.douban.com/subject/6885734/
+265|||自由与权力|||[英] 阿克顿|||https://book.douban.com/subject/1075312/
+266|||日本政治思想史研究|||丸山真男|||https://book.douban.com/subject/1072632/
+267|||决策的本质|||[美]格雷厄·阿利|||https://book.douban.com/subject/2982226/
+268|||China Learns from the Soviet Union|||Thomas P.  Bernstein (EDT)、Hua-Yu Li (EDT)|||https://book.douban.com/subject/4317044/
+269|||统治史（卷二）：中世纪的帝国统治和代议制的兴起 ——从拜占庭到威尼斯|||[英]塞缪尔•E•芬纳|||https://book.douban.com/subject/25707594/
+270|||国家、战争与历史发展|||赵鼎新|||https://book.douban.com/subject/26409606/
+271|||介入的旁观者|||[法] 雷蒙·阿隆|||https://book.douban.com/subject/24869453/
+272|||同意的计算|||(美)布坎南、(美)塔洛克|||https://book.douban.com/subject/1550973/
+273|||科学人对抗权力政治|||汉斯·摩根索|||https://book.douban.com/subject/26901116/
+274|||正义的可能|||周濂|||https://book.douban.com/subject/26590147/
+275|||寡头统治铁律|||[德] 罗伯特·米歇尔斯|||https://book.douban.com/subject/1291448/
+276|||断臂上的花朵|||[南非]奥比•萨克斯|||https://book.douban.com/subject/25961876/
+277|||统治史（卷三）：早期现代政府和西方的突破——从民族国家到工业革命|||塞缪尔•E•芬纳|||https://book.douban.com/subject/25841083/
+278|||古代人的自由与现代人的自由|||（法）邦雅曼・贡斯当|||https://book.douban.com/subject/1000759/
+279|||权力精英|||C.赖特.米尔斯|||https://book.douban.com/subject/1256467/
+280|||事实即颠覆|||[英] 蒂莫西·加顿艾什|||https://book.douban.com/subject/25927361/
+281|||东方专制主义|||魏特夫|||https://book.douban.com/subject/1851215/
+282|||汉语中的马克思主义术语的起源与作用|||李博|||https://book.douban.com/subject/1223052/
+283|||机械制造厂电能的合理使用|||特莱霍夫|||https://book.douban.com/subject/3270161/
+284|||哲学与政治之间谜一般的关系|||[法]阿兰·巴迪欧|||https://book.douban.com/subject/26970519/
+285|||权力与无知：寻求暴力的根源|||罗洛·梅|||https://book.douban.com/subject/24720021/
+286|||联合政府与一党训政|||邓野|||https://book.douban.com/subject/6895949/
+287|||社会因何要异见|||[美]桑斯坦|||https://book.douban.com/subject/26766881/
+288|||领土论|||(英) 斯图尔特·埃尔登(Stuart Elden)|||https://book.douban.com/subject/26999394/
+289|||自由的界限|||詹姆斯·M.布坎南|||https://book.douban.com/subject/20503759/
+290|||愚政进行曲|||巴巴拉·W·塔奇曼|||https://book.douban.com/subject/26831766/
+291|||道德理想国的覆灭|||朱学勤|||https://book.douban.com/subject/1038979/
+292|||浪漫主义时代的政治观念|||[英] 以赛亚·伯林 著、亨利·哈代 编|||https://book.douban.com/subject/6392223/
+293|||金大中自传|||[韩] 金大中|||https://book.douban.com/subject/11631933/
+294|||绝对主义国家的系谱|||[英] 佩里·安德森|||https://book.douban.com/subject/1449787/
+295|||使民主运转起来|||[英]帕特南|||https://book.douban.com/subject/1081334/
+296|||社会权力的来源（第一卷）|||[英]迈克尔·曼|||https://book.douban.com/subject/2057265/
+297|||知识分子的鸦片|||雷蒙·阿隆|||https://book.douban.com/subject/1421310/
+298|||在事实与规范之间|||(德)哈贝马斯|||https://book.douban.com/subject/1065053/
+299|||圣杯与剑|||理安·艾斯勒 (Riane Eisler)|||https://book.douban.com/subject/3528067/
+301|||第一声礼炮|||[美]巴巴拉·W·塔奇曼|||https://book.douban.com/subject/26831740/
+302|||自由主义与正义的局限|||[美] 迈克尔·J. 桑德尔|||https://book.douban.com/subject/1085582/
+303|||伯罗奔尼撒战争的爆发|||唐纳德·卡根 (Donald Kagan)|||https://book.douban.com/subject/20376134/
+304|||洛克与自由社会|||吴飞  主编|||https://book.douban.com/subject/21233495/
+305|||马基雅维利语录|||盐野七生|||https://book.douban.com/subject/26662025/
+306|||通往尊严的公共生活|||徐贲|||https://book.douban.com/subject/3557583/
+307|||无政府主义人类学碎片|||[美] 大卫·格雷伯|||https://book.douban.com/subject/25908549/
+308|||德行、商业和历史|||波考克|||https://book.douban.com/subject/20282380/
+309|||合法性与正当性|||[ 加 ] 大卫·戴岑豪斯|||https://book.douban.com/subject/25725197/
+310|||苏联的心灵|||[英国] 以赛亚·伯林|||https://book.douban.com/subject/4212276/
+311|||China in My Life|||C.Martin Wilbur|||https://book.douban.com/subject/1775272/
+312|||比较的幽灵|||（美）本尼迪克特·安德森|||https://book.douban.com/subject/10454494/
+313|||Economic Origins of Dictatorship and Democracy|||Daron Acemoglu、James A. Robinson|||https://book.douban.com/subject/1841848/
+314|||亚洲的去魔化|||[德] 于尔根·奥斯特哈默|||https://book.douban.com/subject/26882520/
+315|||光明之子与黑暗之子|||（美）莱因霍尔德•尼布尔|||https://book.douban.com/subject/6539854/
+316|||新帝国主义|||大卫·哈维|||https://book.douban.com/subject/3528077/
+317|||保守主义|||刘军宁|||https://book.douban.com/subject/2262869/
+318|||代议制政府|||[英]J.S.密尔|||https://book.douban.com/subject/1856985/
+319|||獨立宣言|||湯瑪斯‧傑佛遜|||https://book.douban.com/subject/2263989/
+321|||历史决定论的贫困|||[英] 卡尔·波普尔|||https://book.douban.com/subject/3803268/
+322|||希特勒与德国人|||[美] 埃里克·沃格林 Eric Voegelin|||https://book.douban.com/subject/25853747/
+323|||政治哲学史（全两册）|||列奥·施特劳斯，约瑟夫·克罗波西|||https://book.douban.com/subject/1480121/
+324|||文化与无政府状态|||[英]马修·阿诺德|||https://book.douban.com/subject/3259487/
+325|||扭曲的人性之材|||[英] 以赛亚·伯林|||https://book.douban.com/subject/3546574/
+326|||抗争政治|||(美) 蒂利 (Tilly,C.) , (美) 塔罗 (Tarrow,S.) 著|||https://book.douban.com/subject/4729501/
+327|||当代国家理论|||吉登斯、迈克尔曼等|||https://book.douban.com/subject/27020892/
+328|||自由及其背叛|||以赛亚·伯林|||https://book.douban.com/subject/1437686/
+329|||全球现代性的危机|||[美] 杜赞奇|||https://book.douban.com/subject/27034333/
+330|||地理与世界霸权|||[英] 詹姆斯·费尔格里夫|||https://book.douban.com/subject/26921758/
+331|||现代政治的正当性基础|||周濂|||https://book.douban.com/subject/3104573/
+332|||君主论|||(意) 马基雅维利|||https://book.douban.com/subject/27025626/
+333|||西方公民不服从的传统|||亨利·梭罗等、何怀宏（编）|||https://book.douban.com/subject/1281748/
+334|||帝国|||[美]麦克尔·哈特、[意]安东尼奥·奈格里|||https://book.douban.com/subject/3116941/
+335|||政治的历史与边界|||[英国] 肯尼思·米诺格|||https://book.douban.com/subject/3067671/
+336|||美国反对美国|||王沪宁|||https://book.douban.com/subject/1418776/
+337|||不发表 就出局|||李连江|||https://book.douban.com/subject/26895836/
+338|||以色列游说集团与美国对外政策|||约翰·J.米尔斯海默、斯蒂芬·M.沃尔特|||https://book.douban.com/subject/4055787/
+339|||论友爱|||吉奥乔•阿甘本|||https://book.douban.com/subject/26942700/
+340|||若干重大决策与事件的回顾（上下）|||薄一波|||https://book.douban.com/subject/2976744/
+341|||自由的伦理|||[美] 穆瑞·罗斯巴德|||https://book.douban.com/subject/3237711/
+342|||共和的危机|||[美]汉娜•阿伦特|||https://book.douban.com/subject/22488897/
+343|||西塞罗文集（政治学卷）|||[古罗马]西塞罗|||https://book.douban.com/subject/4849906/
+344|||共和·民主·宪政|||刘军宁|||https://book.douban.com/subject/1072924/
+345|||美洲三书|||（英）柏克|||https://book.douban.com/subject/1062960/
+346|||安全、领土与人口|||[法]米歇尔·福柯|||https://book.douban.com/subject/5290299/
+347|||革命之夏|||(美) 约瑟夫·J. 埃利斯|||https://book.douban.com/subject/26213988/
+348|||列宁主义|||尼尔·哈丁|||https://book.douban.com/subject/25964041/
+349|||意识形态与乌托邦|||(德)卡尔﹒曼海姆|||https://book.douban.com/subject/1068301/
+350|||古代宪法与封建法|||[英国]J.G.A.波考克|||https://book.douban.com/subject/25846152/
+351|||凯南日记|||[美]乔治·凯南  著、[美]弗兰克·科斯蒂廖拉  编|||https://book.douban.com/subject/26832061/
+352|||理解公共政策（第十一版）|||[美] 托马斯·戴伊|||https://book.douban.com/subject/3119995/
+353|||家国天下|||许纪霖|||https://book.douban.com/subject/26952234/
+354|||苏联军队的瓦解|||威廉•奥多姆|||https://book.douban.com/subject/25918080/
+355|||法国大革命的起源|||[英] 威廉·多伊尔|||https://book.douban.com/subject/3836582/
+356|||美国裂变|||黄湘|||https://book.douban.com/subject/26883590/
+357|||拷问法国大革命|||(法) 雅克·索雷|||https://book.douban.com/subject/26141487/
+358|||威权统治的转型|||[美]吉列尔莫·奥唐奈、[意]菲利普•施密特|||https://book.douban.com/subject/10526507/
+359|||石油地缘政治|||菲利普·赛比耶-洛佩兹|||https://book.douban.com/subject/3226669/
+360|||转型中的地方政府|||周黎安|||https://book.douban.com/subject/3347568/
+361|||政治科学要义|||莫斯卡|||https://book.douban.com/subject/1454218/
+362|||林达作品集（全九册)|||林达|||https://book.douban.com/subject/10770743/
+363|||自由的未来|||[美] 扎卡里亚 (Zakaria,F.)|||https://book.douban.com/subject/25839996/
+364|||思考法国大革命|||[法] 弗朗索瓦·傅勒|||https://book.douban.com/subject/1070358/
+365|||政治的应许|||[美]汉娜·阿伦特、杰罗姆·科恩|||https://book.douban.com/subject/26832573/
+366|||两个世界间的托克维尔|||[美] 谢尔顿·S. 沃林|||https://book.douban.com/subject/26896809/
+367|||拼实业|||[美]阿瑟·赫尔曼|||https://book.douban.com/subject/27037093/
+368|||政治学的邀请|||费尔南多·萨瓦特尔|||https://book.douban.com/subject/3719511/
+369|||官僚体制的政治|||(美) 塔洛克|||https://book.douban.com/subject/4140489/
+370|||治村|||贺雪峰 著|||https://book.douban.com/subject/27030309/
+371|||饥荒与政治|||(法) 布吕内尔|||https://book.douban.com/subject/4239120/
+372|||人民的选择|||保罗·F·拉扎斯菲尔德|||https://book.douban.com/subject/11501634/
+373|||辩论中国模式|||丁学良|||https://book.douban.com/subject/5503769/
+374|||民族—国家与暴力|||[英] 安东尼·吉登斯|||https://book.douban.com/subject/1006332/
+375|||历史与社会|||石元康|||https://book.douban.com/subject/26964517/
+376|||希腊城邦制度|||顾准|||https://book.douban.com/subject/1789833/
+377|||马基雅维里|||[英国] 昆廷·斯金纳|||https://book.douban.com/subject/26044319/
+378|||公天下|||吴稼祥|||https://book.douban.com/subject/20428716/
+379|||即将到来的地缘战争|||[美]罗伯特•D．卡普兰（Robert D.Kaplan）|||https://book.douban.com/subject/24696402/
+381|||打造新世界|||杨照|||https://book.douban.com/subject/26819282/
+382|||战后法国的存在主义马克思主义：从萨特到阿尔都塞|||[美]马克·波斯特|||https://book.douban.com/subject/26683669/
+383|||民族主义|||（美国）斯蒂芬·格罗斯比|||https://book.douban.com/subject/27060464/
+384|||权力的48条法则|||罗伯特·格林|||https://book.douban.com/subject/2158889/
+385|||后革命时代的中国|||清华大学国学研究院、德里克|||https://book.douban.com/subject/26307417/
+386|||小集团思维|||[美]欧文·L. 贾尼斯|||https://book.douban.com/subject/26790128/
+387|||20年危机（1919-1939）|||[英] 爱德华·卡尔|||https://book.douban.com/subject/1224599/
+388|||世界舞台上的国际政治|||（美）罗尔克 编|||https://book.douban.com/subject/1289900/
+389|||思想的谱系|||[英] 佩里·安德森|||https://book.douban.com/subject/5339026/
+390|||大同世界|||[美] 迈克尔·哈特、[意] 安东尼奥·奈格里|||https://book.douban.com/subject/26548401/
+391|||公众舆论|||(美)沃尔特·李普曼|||https://book.douban.com/subject/1809150/
+392|||邓小平文选 第一卷|||邓小平|||https://book.douban.com/subject/1494086/
+393|||《一九八四》与我们的未来|||[美]阿博特·格里森、[美]玛莎·努斯鲍姆、[美]杰克·戈德史密斯|||https://book.douban.com/subject/20561925/
+394|||美国革命的激进主义|||(美) 戈登·伍德|||https://book.douban.com/subject/5924297/
+395|||资本的限度|||[英] 大卫·哈维|||https://book.douban.com/subject/26981868/
+396|||系统效应|||[美]罗伯特·杰维斯|||https://book.douban.com/subject/3036311/
+397|||现代君主论|||安东尼奥·葛兰西|||https://book.douban.com/subject/1883148/
+398|||霍布斯国家学说中的利维坦|||施米特|||https://book.douban.com/subject/3151936/
+399|||另一条道路|||赫尔南多·德·索托|||https://book.douban.com/subject/2016501/
+400|||合法化危机|||[德]尤尔根·哈贝马斯|||https://book.douban.com/subject/4189946/
+401|||正义的两面|||慈继伟|||https://book.douban.com/subject/1052860/
+402|||政治社会的世系|||[印度] 帕沙·查特吉（Partha Chatterjee）|||https://book.douban.com/subject/26981877/
+403|||邓小平文选 第三卷|||邓小平|||https://book.douban.com/subject/1273726/
+404|||牛津比较政治学手册|||罗伯特·E.戈定|||https://book.douban.com/subject/26712410/
+405|||女权辩护 妇女的屈从地位|||[英] 玛丽·沃斯通克拉夫特、[英] 约翰·斯图尔特·穆勒|||https://book.douban.com/subject/1890228/
+406|||民族主义|||(英)安东尼·史密斯|||https://book.douban.com/subject/1816357/
+407|||政治博弈论|||[美] 诺兰·麦卡蒂、[美] 亚当·梅罗威茨|||https://book.douban.com/subject/4159397/
+408|||审查历史|||[美] 劳拉·赫茵、[美] 马克·塞尔登|||https://book.douban.com/subject/10868063/
+409|||官场病|||(英)诺斯古德.帕金森|||https://book.douban.com/subject/2159464/
+410|||被背叛了的革命|||列夫·托洛茨基著|||https://book.douban.com/subject/3229832/
+411|||永久和平论|||（德）伊曼努尔・康德|||https://book.douban.com/subject/1315237/
+412|||以色列与启示|||埃里克·沃格林|||https://book.douban.com/subject/4212270/
+413|||人以什么理由来记忆|||徐贲|||https://book.douban.com/subject/26668695/
+414|||别想那只大象|||乔治•莱考夫 (George Lakoff)|||https://book.douban.com/subject/25707650/
+415|||政治学核心概念|||[英]安德鲁·海伍德 Andrew Heywood|||https://book.douban.com/subject/3031872/
+416|||政治哲学与幸福根基|||David Miller|||https://book.douban.com/subject/2977078/
+417|||沉默的螺旋|||(德)伊丽莎白·诺尔-诺依曼|||https://book.douban.com/subject/25721226/
+418|||正义的理念|||[印] 阿马蒂亚·森|||https://book.douban.com/subject/10581468/
+419|||言论自由的反讽|||（美）费斯|||https://book.douban.com/subject/1316507/
+420|||比较政治分析|||王沪宁|||https://book.douban.com/subject/3198397/
+421|||东周战争与儒法国家的诞生|||赵鼎新|||https://book.douban.com/subject/1870759/
+422|||The Land of Too Much|||Monica Prasad|||https://book.douban.com/subject/12276648/
+423|||危险的国家|||[美] 罗伯特·卡根|||https://book.douban.com/subject/6151717/
+424|||革命將至|||隱形委員會、Comite Invisible|||https://book.douban.com/subject/6719693/
+425|||古典政治理性主义的重生|||施特劳斯、潘戈|||https://book.douban.com/subject/5919997/
+426|||日俄战争|||[日] 和田春树|||https://book.douban.com/subject/27089758/
+427|||当代中国八种社会思潮|||马立诚|||https://book.douban.com/subject/10427332/
+428|||從理想主義到經驗主義|||顧準|||https://book.douban.com/subject/2079351/
+429|||空间与政治|||亨利·勒菲弗（Henri Lefebvre）|||https://book.douban.com/subject/3340421/
+430|||档案|||[英] 蒂莫西·加顿艾什|||https://book.douban.com/subject/26577706/
+431|||欧洲社会主义百年史（上下）|||[英]唐纳德·萨松|||https://book.douban.com/subject/2382373/
+432|||当代中国政府与政治|||景跃进、陈明明、肖滨|||https://book.douban.com/subject/26665157/
+433|||政治價值的系譜|||昆丁‧史金納（Quentin Skinner）、蕭高彥 編|||https://book.douban.com/subject/25939086/
+434|||反思史学与史学反思|||王明珂|||https://book.douban.com/subject/26721301/
+435|||托克维尔传|||[英]拉里·西登托普|||https://book.douban.com/subject/25827602/
+436|||政治中的历史与幻觉|||[英]雷蒙德·戈伊斯（Raymond Geuss）|||https://book.douban.com/subject/26979841/
+437|||中产阶级史|||[英] 劳伦斯·詹姆斯|||https://book.douban.com/subject/26388475/
+438|||两面之词|||赵汀阳、[法] 德布雷|||https://book.douban.com/subject/25901336/
+439|||乌托邦的年代|||[法] 克劳德·卡利耶尔|||https://book.douban.com/subject/4747128/
+440|||哲学与政治|||阿尔都塞|||https://book.douban.com/subject/1281775/
+441|||社会权力的来源（第三卷）|||迈克尔·曼|||https://book.douban.com/subject/26647745/
+442|||反动的修辞|||[美] 阿尔伯特·赫希曼|||https://book.douban.com/subject/6855828/
+443|||Passion, Craft, and Method in Comparative Politics|||Gerardo L. Munck、Richard Snyder|||https://book.douban.com/subject/2563318/
+444|||论僭政|||施特劳斯、科耶夫|||https://book.douban.com/subject/1476068/
+445|||自由主义|||霍布豪斯|||https://book.douban.com/subject/1116334/
+446|||公共舆论|||约翰·R·扎勒|||https://book.douban.com/subject/21324973/
+447|||李光耀论中国与世界|||李光耀 口述；[美]格雷厄姆•艾利森（Graham Allison） 罗伯特•D•布莱克威尔（Robert D. Blackwill）阿里•温尼（Ali Wyne） 编著|||https://book.douban.com/subject/25730239/
+448|||不由自主的资产阶级|||［美］理查德·拉克曼 (Richard Lachmann)|||https://book.douban.com/subject/25741139/
+449|||The Logic of Political Survival|||Bruce Bueno de Mesquita、Alastair Smith、Randolph M. Siverson、James D. Morrow|||https://book.douban.com/subject/2838817/
+450|||众声喧哗|||胡泳|||https://book.douban.com/subject/3191237/
+451|||不可思议的年代|||[美] 乔舒亚·库珀·雷默|||https://book.douban.com/subject/4882102/
+452|||治大国|||熊逸|||https://book.douban.com/subject/25891303/
+453|||旧邦新造|||章永乐|||https://book.douban.com/subject/10439652/
+454|||纵欲与虚无之上|||钱永祥|||https://book.douban.com/subject/1055823/
+455|||权力学|||（苏）阿夫托尔哈诺夫|||https://book.douban.com/subject/4325052/
+456|||自由主义的民族主义|||耶尔·塔米尔|||https://book.douban.com/subject/1500043/
+457|||台湾民主转型的经验与启示|||朱云汉|||https://book.douban.com/subject/7836044/
+458|||香港治与乱|||阎小骏|||https://book.douban.com/subject/26826226/
+459|||社会政治理论的重构|||理查德·J.伯恩斯坦|||https://book.douban.com/subject/3062643/
+460|||威权政治|||威廉•伊斯特利|||https://book.douban.com/subject/26869012/
+461|||重建的世界|||[美] 亨利·基辛格|||https://book.douban.com/subject/26327548/
+462|||民国的政治逻辑|||邓野|||https://book.douban.com/subject/5346140/
+463|||权力与货币|||[比利时] 厄内斯特·曼德尔|||https://book.douban.com/subject/1055273/
+464|||罗马盛衰原因论|||孟德斯鸠|||https://book.douban.com/subject/1135838/
+465|||如何改变世界|||埃里克·霍布斯鲍姆 (Eric Hobsbawm)|||https://book.douban.com/subject/25809708/
+466|||当知识分子遇到政治|||[美] 马克·里拉|||https://book.douban.com/subject/1444574/
+467|||中国有多特殊|||刘擎|||https://book.douban.com/subject/24719014/
+468|||权力与选择（插图第13版）|||W.菲利普斯·夏夫利、W.Phillips Shively|||https://book.douban.com/subject/26599858/
+469|||戰後臺灣政治史：中華民國臺灣化的歷程|||[日]若林正丈|||https://book.douban.com/subject/25821518/
+470|||关于马基雅维里的思考|||[美国]利奥·施特劳斯|||https://book.douban.com/subject/1085540/
+471|||怎么办|||列宁|||https://book.douban.com/subject/4317736/
+472|||民主的胜利|||[英]保罗·普雷斯顿（Paul Preston）|||https://book.douban.com/subject/26986138/
+473|||Designing Social Inquiry|||Gary King、Robert O. Keohane、Sidney Verba|||https://book.douban.com/subject/2386085/
+474|||马克思的历史、社会和国家学说|||（德）亨利希·库诺|||https://book.douban.com/subject/1809443/
+475|||官僚制内幕（中文修订版）|||[美] 安东尼·唐斯（Anthony Downs）|||https://book.douban.com/subject/27058906/
+476|||Structuring the State|||Daniel Ziblatt|||https://book.douban.com/subject/2565443/
+477|||战争的框架|||[美]朱迪斯·巴特勒|||https://book.douban.com/subject/26840392/
+478|||每个人的政治|||赵汀阳|||https://book.douban.com/subject/5257777/
+479|||教育与国家形成|||安迪·格林|||https://book.douban.com/subject/1541657/
+480|||自由与传统|||[英] 埃德蒙·柏克|||https://book.douban.com/subject/1027251/
+481|||非洲的政治制度|||[英]M.福蒂斯、E.E.埃文思-普里查德|||https://book.douban.com/subject/26977575/
+482|||给我自由!|||[美] 坎里克·方纳 (Eric Foner)|||https://book.douban.com/subject/6004602/
+483|||自由与权利|||张佛泉|||https://book.douban.com/subject/5285310/
+484|||原则与妥协（修订本）|||王希|||https://book.douban.com/subject/1026628/
+485|||合法性与正当性|||[德]卡尔·施米特|||https://book.douban.com/subject/25963513/
+486|||制造共识|||Edward S. Herman、Noam Chomsky|||https://book.douban.com/subject/6834151/
+487|||当代中国的启蒙与反启蒙|||许纪霖|||https://book.douban.com/subject/6946737/
+488|||政治中的理性主义|||（英）欧克肖特|||https://book.douban.com/subject/1038290/
+489|||论民主|||（美）罗伯特・达尔|||https://book.douban.com/subject/1080135/
+490|||新政治经济学讲义|||汪丁丁|||https://book.douban.com/subject/24758859/
+491|||何為「中國」|||葛兆光|||https://book.douban.com/subject/25842833/
+492|||正义的前沿|||[美]玛莎·C.纳斯鲍姆|||https://book.douban.com/subject/26802537/
+493|||抉择与分歧|||[美]埃德温·W.马丁 (Edwin W.Martin)|||https://book.douban.com/subject/26782515/
+494|||潘恩选集|||托马斯·潘恩|||https://book.douban.com/subject/1888884/
+495|||保守主义|||[美国] 杰里·马勒|||https://book.douban.com/subject/5407284/
+496|||政党与政党体制|||(意)G.萨托利|||https://book.douban.com/subject/1949396/
+497|||政治经济学|||[瑞典]T.佩尔森、[意]G.塔贝里尼|||https://book.douban.com/subject/1964540/
+498|||The Confucian-Legalist State|||Dingxin Zhao|||https://book.douban.com/subject/26423901/
+499|||大争论|||[美]尤瓦尔·莱文|||https://book.douban.com/subject/25963607/
+500|||论公民|||（英）霍布斯|||https://book.douban.com/subject/1054001/
+501|||东方的消失和马航现象学|||周雷|||https://book.douban.com/subject/26638075/
+502|||帝国的话语政治|||刘禾|||https://book.douban.com/subject/3880797/
+503|||1+12|||刘苏里|||https://book.douban.com/subject/26589233/
+504|||人类本性与社会秩序|||(美)查尔斯.霍顿.库利|||https://book.douban.com/subject/1000773/
+505|||现代危机|||[美]詹姆斯·麦克亚当斯 编|||https://book.douban.com/subject/10600899/
+506|||短二十世紀|||汪晖|||https://book.douban.com/subject/26417253/
+507|||美国政治文化|||托马斯·帕特森|||https://book.douban.com/subject/2331457/
+508|||人以什么理由来记忆|||徐贲|||https://book.douban.com/subject/3238339/
+509|||中国香港|||强世功|||https://book.douban.com/subject/4011283/
+510|||国家与权力|||［美］理查德拉克曼、Richard Lachmann|||https://book.douban.com/subject/25726604/
+511|||行为社会科学基本问题|||汪丁丁|||https://book.douban.com/subject/26974897/
+512|||国际政治的社会演化|||唐世平|||https://book.douban.com/subject/27085980/
+513|||中国冲击|||【德】弗朗克·泽林|||https://book.douban.com/subject/25717418/
+514|||民族与美学|||[日] 柄谷行人|||https://book.douban.com/subject/26870832/
+515|||The Political Logic of Economic Reform in China|||Susan L. Shirk|||https://book.douban.com/subject/1840338/
+516|||西方的敌与我|||[丹麦] 戴维•格雷斯|||https://book.douban.com/subject/24846812/
+517|||行政国家|||〔美〕德怀特·沃尔多|||https://book.douban.com/subject/27057039/
+518|||政治学百科|||英国DK出版社|||https://book.douban.com/subject/26386366/
+519|||民主的经济理论|||安东尼·唐斯|||https://book.douban.com/subject/1444052/
+520|||Why Nations Fail|||Daron Acemoglu、James Robinson|||https://book.douban.com/subject/6833967/
+521|||Communist Neo-Traditionalism|||Andrew G. Walder|||https://book.douban.com/subject/3320435/
+522|||单位的前世今生|||[澳]薄大伟|||https://book.douban.com/subject/25885460/
+523|||英宪精义|||戴雪|||https://book.douban.com/subject/1115757/
+524|||权力的悖论|||[美] 达契尔·克特纳、Dacher Keltner|||https://book.douban.com/subject/26730646/
+525|||权力场|||霍存福|||https://book.douban.com/subject/3163992/
+526|||霸权之后|||（美）罗伯特·基欧汉|||https://book.douban.com/subject/1734929/
+527|||选举中的谋略与博弈|||[美]威廉•庞德斯通（William Poundstone）|||https://book.douban.com/subject/6998812/
+528|||国家与生活机遇|||周雪光|||https://book.douban.com/subject/26324182/
+529|||权力与特权|||[美] 格尔哈特·伦斯基|||https://book.douban.com/subject/27101663/
+530|||邓小平时代|||傅高义|||https://book.douban.com/subject/20424526/
+531|||好公民|||【美】迈克尔·舒德森|||https://book.douban.com/subject/25774522/
+532|||政治学、社会学与社会理论|||安东尼·吉登斯|||https://book.douban.com/subject/26290718/
+533|||国际政治的社会理论|||亚历山大·温特|||https://book.douban.com/subject/3002922/
+534|||毛泽东文集-1-8卷|||人民出版社|||https://book.douban.com/subject/4312467/
+535|||大道之行|||鄢一龙、白钢、章永乐、欧树军、何建宇|||https://book.douban.com/subject/26340216/
+536|||无情的革命|||(美)乔伊斯·阿普尔比(Joyce Appleby )|||https://book.douban.com/subject/25817579/
+537|||道德与立法原理导论|||（英）边沁|||https://book.douban.com/subject/1427471/
+538|||民主是可能的吗?|||【美】罗纳德·德沃金|||https://book.douban.com/subject/10432353/
+539|||政治自由主义|||（美）约翰・罗尔斯|||https://book.douban.com/subject/1019509/
+540|||国家、战争与现代秩序|||吴彦、黄涛 主编|||https://book.douban.com/subject/26947788/
+541|||民族主义思想与殖民地世界|||[印度]帕尔塔·查特吉|||https://book.douban.com/subject/2297690/
+542|||美国在中国的失败|||邹谠|||https://book.douban.com/subject/7051132/
+543|||中国政治|||（美）詹姆斯·R·汤森、（美）布兰特利·沃马克|||https://book.douban.com/subject/1061140/
+544|||论自愿为奴|||[法] 艾蒂安·德·拉·波埃西|||https://book.douban.com/subject/25782982/
+545|||狂人、知识分子和学术涂鸦人|||韦恩•A•雷顿、爱德华. J. 洛佩斯|||https://book.douban.com/subject/25923191/
+546|||亚洲价值与人权|||(美) 狄百瑞|||https://book.douban.com/subject/10537635/
+547|||民族主义，真诚与欺骗|||阿希斯·南迪|||https://book.douban.com/subject/10438944/
+548|||歧视经济学|||[美]加里·贝克尔|||https://book.douban.com/subject/26127453/
+549|||美国国会|||[美] 罗杰·H.戴维森(Roger H. Davidson)、[美] 沃尔特·J.奥勒斯泽克(Walter J. Oleszek)、[美] 弗朗西斯·E.李(Frances E.Lee)、[美] 埃里克·希克勒(Eric Schickler)|||https://book.douban.com/subject/26846919/
+550|||中国何以稳定|||阎小骏|||https://book.douban.com/subject/27589905/
+551|||公民文化|||[美]加布里埃尔•A•阿尔蒙德、西德尼·维巴|||https://book.douban.com/subject/3006239/
+552|||帝国|||尼尔•弗格森|||https://book.douban.com/subject/7051898/
+553|||古代民主与现代民主|||M.I.芬利|||https://book.douban.com/subject/26649799/
+554|||国家篇 法律篇|||[古罗马] 西塞罗|||https://book.douban.com/subject/1245535/
+555|||當社會主義遭遇危機|||賀照田|||https://book.douban.com/subject/26870847/
+556|||剑桥希腊罗马政治思想史|||[英]克里斯托弗·罗、[英]马尔科姆·斯科菲尔德|||https://book.douban.com/subject/26705440/
+557|||世界的逻辑|||[美]大卫·哈维|||https://book.douban.com/subject/26921231/
+558|||政治是每个人的副业|||徐贲|||https://book.douban.com/subject/24524152/
+559|||网络共和国|||[美] 卡斯·H·桑斯坦|||https://book.douban.com/subject/1288989/
+560|||政治版图2.0|||[美]加布里埃尔·A·阿尔蒙德、[美]小G·宾厄姆·鲍威尔、[美]拉塞尔·J·多尔顿、[美]卡雷·斯特罗姆|||https://book.douban.com/subject/26654067/
+561|||揭开行政之恶|||（美）艾赅博（Guy B.Adams）、（美）百里枫（Danny L.Balfour）|||https://book.douban.com/subject/4201769/
+562|||听良心的鼓声能走多远|||徐贲|||https://book.douban.com/subject/25830762/
+563|||民主崩溃的政治学|||包刚升|||https://book.douban.com/subject/25917050/
+564|||原始的叛乱|||【英】	艾瑞克·霍布斯鲍姆(Eric J. Hobsbawm)|||https://book.douban.com/subject/25788880/
+565|||当代中国村落家族文化|||王沪宁|||https://book.douban.com/subject/1481274/
+566|||一个大国的崛起与崩溃（共三册）|||沈志华 主编|||https://book.douban.com/subject/3921409/
+567|||反联邦党人赞成什么？|||[美]斯托林|||https://book.douban.com/subject/1781769/
+568|||政治思想史|||(英) 奥克肖特|||https://book.douban.com/subject/10539133/
+569|||英国个人主义的起源|||[英]艾伦·麦克法兰|||https://book.douban.com/subject/3158094/
+570|||政治的逻辑|||王沪宁|||https://book.douban.com/subject/1003659/
+571|||政治多元论|||萧公权|||https://book.douban.com/subject/10473583/
+572|||论俄国革命|||马克斯·韦伯|||https://book.douban.com/subject/4898544/
+573|||马克思归来（上下卷）|||[瑞典] 福克斯 (Christian Fuchs)、[加] 莫斯可 (Vincent Mosco)|||https://book.douban.com/subject/26805254/
+574|||Ideology and Organization in Communist China|||Franz Schurmann|||https://book.douban.com/subject/3260142/
+575|||驯化君主|||(美)曼斯菲尔德|||https://book.douban.com/subject/1326191/
+576|||中国改革三部曲|||吴敬琏|||https://book.douban.com/subject/27027689/
+577|||不安的山谷|||菲利浦.席斯金(Philip Shishkin)|||https://book.douban.com/subject/26423438/
+578|||没有主心骨的西班牙|||[西] 奥尔特加·伊·加塞特|||https://book.douban.com/subject/26372338/
+579|||为什么？|||[美] 查尔斯·蒂利|||https://book.douban.com/subject/25858710/
+580|||西游记与中国古代政治|||萨孟武|||https://book.douban.com/subject/1397886/
+581|||理想国|||[古希腊] 柏拉图|||https://book.douban.com/subject/1004821/
+582|||Learning from Shenzhen|||Mary Ann O'Donnell (ed)、Winnie Wong (ed)、Jonathan Bach (ed)|||https://book.douban.com/subject/26760235/
+583|||权力的艺术|||[美]乔恩·米查姆|||https://book.douban.com/subject/26357078/
+584|||民族与民族主义|||厄内斯特・盖尔纳|||https://book.douban.com/subject/1095502/
+585|||到芬兰车站|||[美] 埃德蒙·威尔逊|||https://book.douban.com/subject/22768133/
+586|||制度是如何演化的|||凯瑟琳·西伦(Kathleen Thelen)|||https://book.douban.com/subject/5033884/
+587|||权力·制度·文化|||秦亚青|||https://book.douban.com/subject/1416246/
+588|||为什么美国人恨政治|||[美] 小尤金·约瑟夫·迪昂|||https://book.douban.com/subject/5401966/
+589|||美国宪制政府|||〔美〕伍德罗·威尔逊|||https://book.douban.com/subject/26733532/
+590|||剑桥中世纪政治思想史（上、下）|||[英] J.H.伯恩斯 主编|||https://book.douban.com/subject/3662220/
+591|||毛泽东读书笔记精讲|||陈晋|||https://book.douban.com/subject/26946079/
+592|||《21世纪资本论》导读本|||何帆|||https://book.douban.com/subject/26279564/
+593|||美国国家安全委员会内幕|||[美]戴维•罗特科普夫|||https://book.douban.com/subject/25720916/
+594|||让人民来决定|||[美] 罗伯特·费希尔|||https://book.douban.com/subject/26741798/
+595|||争论中的国际关系理论|||詹姆斯·多尔蒂、小罗伯特·普法尔茨格拉夫|||https://book.douban.com/subject/1102690/
+596|||根本恶|||[美] 理查德·伯恩斯坦|||https://book.douban.com/subject/26562299/
+597|||托克维尔：民主的政治科学|||《思想与社会》编委会 编|||https://book.douban.com/subject/1959852/
+598|||阶级斗争|||（法）雷蒙·阿隆|||https://book.douban.com/subject/1085537/
+599|||民主的本性|||(法)皮埃尔·马南|||https://book.douban.com/subject/6850132/
+600|||马基雅维利全集|||马基雅维利|||https://book.douban.com/subject/25755781/
+601|||中国皇权制度研究（上下）|||王毅|||https://book.douban.com/subject/2306962/
+602|||人民的春天|||萨米尔·阿明|||https://book.douban.com/subject/27071755/
+603|||官僚机构|||James Q. Wilson|||https://book.douban.com/subject/1755419/
+604|||政治与友谊|||[法]亚历西斯·德·托克维尔|||https://book.douban.com/subject/4714690/
+605|||叛逆者|||（美）撒迪厄斯 •拉赛尔|||https://book.douban.com/subject/25720343/
+606|||英国工人阶级状况|||恩格斯|||https://book.douban.com/subject/2253718/
+607|||大西洋的跨越|||[美] 丹尼尔·T. 罗杰斯|||https://book.douban.com/subject/6391215/
+608|||法国大革命中的政治、文化和阶级|||[美] 林·亨特|||https://book.douban.com/subject/6805252/
+609|||关于爱国|||[意]毛里齐奥·维罗里|||https://book.douban.com/subject/26727156/
+610|||帝国主义|||[英]约·阿·霍布森|||https://book.douban.com/subject/25767492/
+611|||哈耶克读本|||邓正来 编|||https://book.douban.com/subject/4199738/
+612|||中国共产党|||[美]沈大伟（David L.Shambaugh）|||https://book.douban.com/subject/6979665/
+613|||观看的方法：如何解读视觉材料|||[英] 吉莉恩·罗斯|||https://book.douban.com/subject/19929050/
+614|||人的本性与命运|||R.尼布尔|||https://book.douban.com/subject/1882252/
+615|||美法革命比较|||[德]弗雷德里希·根茨|||https://book.douban.com/subject/25904044/
+616|||论民主|||科恩|||https://book.douban.com/subject/1168766/
+617|||博弈论与社会契约（第1卷）|||肯·宾默尔|||https://book.douban.com/subject/1131430/
+618|||个人主义与经济秩序|||哈耶克|||https://book.douban.com/subject/1004329/
+619|||莎士比亚的政治|||（美）阿兰·布鲁姆、哈瑞·雅法|||https://book.douban.com/subject/3694913/
+621|||控制国家|||[美] 斯科特·戈登|||https://book.douban.com/subject/1043910/
+622|||大失控与大混乱|||（美）布热津斯基|||https://book.douban.com/subject/1076792/
+623|||权利的时代|||[意] 诺伯托·博比奥|||https://book.douban.com/subject/26921090/
+624|||世界观与政治领袖|||[德]马克思•舍勒、刘小枫 主编|||https://book.douban.com/subject/20298374/
+625|||安邦之道|||王绍光|||https://book.douban.com/subject/2280308/
+626|||中国的现代化|||吉尔伯特·罗兹曼 编|||https://book.douban.com/subject/1520314/
+627|||社群主义|||俞可平|||https://book.douban.com/subject/1275976/
+628|||最高的玻璃天花板|||[美]艾伦·菲茨帕特里克（Ellen Fitzpatrick）|||https://book.douban.com/subject/27012825/
+629|||集体失忆的黑暗年代|||[加] 简·雅各布斯|||https://book.douban.com/subject/25768865/
+630|||中国地方行政制度史|||周振鹤|||https://book.douban.com/subject/1679727/
+631|||恐怖主义和共产主义|||卡尔·考茨基|||https://book.douban.com/subject/1507435/
+632|||科学、文化与现代国家的形成|||【英】帕特里克·卡罗尔|||https://book.douban.com/subject/26977353/
+633|||权威与个人|||(英) 罗素|||https://book.douban.com/subject/4264066/
+634|||官僚主义的弊害|||【法】阿兰·佩雷菲特|||https://book.douban.com/subject/25837391/
+635|||美国总统的诞生|||[美] 白修德|||https://book.douban.com/subject/26890971/
+636|||国家、信托与法人|||[英] F. W. 梅特兰|||https://book.douban.com/subject/3309046/
+637|||精英的兴衰|||[意] 维尔弗雷多·帕累托|||https://book.douban.com/subject/1277084/
+638|||悬而未决的时刻|||刘擎|||https://book.douban.com/subject/1908264/
+639|||民主的历史|||许良英、王来棣|||https://book.douban.com/subject/26583355/
+641|||经济与社会（第二卷 上下）|||[德] 马克斯·韦伯|||https://book.douban.com/subject/4730209/
+642|||自由人的平等政治|||周保松|||https://book.douban.com/subject/4912723/
+643|||高思在云|||朱云汉|||https://book.douban.com/subject/26579801/
+644|||超越帝国|||[意] 安东尼奥·奈格里|||https://book.douban.com/subject/26702894/
+645|||国家引导的发展|||(美)科利|||https://book.douban.com/subject/3028036/
+646|||政论家的矜持|||[日]森川裕贯|||https://book.douban.com/subject/26996516/
+647|||现代社会想象|||[加] 查尔斯·泰勒|||https://book.douban.com/subject/25820216/
+648|||超凡領袖的挫敗|||王紹光|||https://book.douban.com/subject/3757129/
+649|||政权与斗争剧目|||查尔斯·蒂利|||https://book.douban.com/subject/11520724/
+650|||世界政治与个体不安全感|||[美] 哈罗德·D.拉斯韦尔|||https://book.douban.com/subject/27028519/
+651|||政府的本分|||秋风|||https://book.douban.com/subject/4846148/
+652|||保卫马克思|||(法)路易·阿尔都塞著|||https://book.douban.com/subject/1812420/
+653|||美国宪法的经济观|||[美]查尔斯·A.比尔德|||https://book.douban.com/subject/4736005/
+654|||政治哲学史讲义|||(美)罗尔斯|||https://book.douban.com/subject/6848172/
+655|||制度与组织|||W·理查德·斯科特|||https://book.douban.com/subject/4736964/
+656|||当工作消失时|||(美)威廉·朱利叶斯·威尔逊|||https://book.douban.com/subject/26874476/
+657|||少数的权利|||（加）威尔・金里卡|||https://book.douban.com/subject/1315263/
+658|||民主的精神|||[美] 拉里·戴蒙德|||https://book.douban.com/subject/25759041/
+659|||施特劳斯的真相|||[美]凯瑟琳·扎科特、[美]迈克尔·扎科特|||https://book.douban.com/subject/25725209/
+660|||民主的模式|||[英]戴维·赫尔德|||https://book.douban.com/subject/1044823/
+661|||现代国家的起源|||约瑟夫·R.斯特雷耶(Joseph R.Strayer)|||https://book.douban.com/subject/5419141/
+662|||Red Notice|||Bill Browder|||https://book.douban.com/subject/26200226/
+663|||启蒙的三个批评者|||[英] 以赛亚·伯林|||https://book.douban.com/subject/25920898/
+664|||大博弈|||兹比格涅夫·布热津斯基、布兰特·斯考克罗夫特|||https://book.douban.com/subject/4130691/
+665|||自然权利与新共和主义|||[美]迈克尔•扎科特|||https://book.douban.com/subject/3238324/
+666|||通产省与日本奇迹|||查默斯·约翰逊|||https://book.douban.com/subject/4860587/
+667|||19世纪初俄国专制制度与改革|||[苏] 谢·弗·米罗年科|||https://book.douban.com/subject/27041257/
+668|||社会运动，1768—2004|||（美）查尔斯·蒂利|||https://book.douban.com/subject/3431992/
+669|||制度变迁的广义理论|||唐世平|||https://book.douban.com/subject/26764585/
+670|||新西方论|||[匈牙利]卡尔·波兰尼|||https://book.douban.com/subject/26912832/
+671|||社会权力的来源（第二卷）|||[英]迈克尔·曼|||https://book.douban.com/subject/2057262/
+672|||被治理者的政治|||[印度] 帕萨·查特杰|||https://book.douban.com/subject/2135466/
+673|||形塑“新人”|||余敏玲|||https://book.douban.com/subject/26366860/
+674|||面包与自由|||克鲁泡特金|||https://book.douban.com/subject/1884698/
+675|||卡尔霍恩文集（上、下）|||[美]约翰·C.卡尔霍恩|||https://book.douban.com/subject/26374037/
+676|||世界政治：走向新秩序？|||[美] 查尔斯·W·凯格利|||https://book.douban.com/subject/4857073/
+677|||论争|||阿兰·巴迪欧、让-克洛德·米尔纳、菲利普·波蒂|||https://book.douban.com/subject/26773871/
+678|||论现代国家|||[英] 克里斯多佛-皮尔逊 (Christopher Pierson)|||https://book.douban.com/subject/26997126/
+679|||太阳城|||[意]康帕内拉|||https://book.douban.com/subject/1271758/
+680|||农民与市场|||潘维|||https://book.douban.com/subject/1151989/
+681|||关于犹太人问题|||马克思|||https://book.douban.com/subject/3323308/
+682|||静悄悄的革命|||[美]罗纳德·英格尔哈特|||https://book.douban.com/subject/26959901/
+683|||革命与反革命|||王奇生|||https://book.douban.com/subject/4248275/
+684|||私法的社会任务|||[德] 奥托·基尔克|||https://book.douban.com/subject/27091173/
+685|||二十世纪初中国政治改革风潮|||侯宜杰|||https://book.douban.com/subject/3911960/
+686|||人类不平等的起源|||肯特·弗兰纳里,乔伊斯·|||https://book.douban.com/subject/26706376/
+687|||论“独立宣言”|||卡尔·贝克尔|||https://book.douban.com/subject/1265477/
+688|||情感堵塞|||汉斯·约阿希姆·马茨|||https://book.douban.com/subject/25710178/
+689|||美国的言论自由|||(美)小哈里·卡尔文|||https://book.douban.com/subject/3697468/
+690|||極端年代的公民政治|||童小溪|||https://book.douban.com/subject/20502434/
+691|||文化现实主义|||[加] 江忆恩 (Alastair Iain Johnston)|||https://book.douban.com/subject/26606481/
+692|||美国地方政府|||文森特·奥斯特罗姆、罗伯特·比什、埃莉诺·奥斯特罗姆|||https://book.douban.com/subject/1161134/
+693|||论十大关系|||毛泽东|||https://book.douban.com/subject/2999515/
+694|||财产·法律与政府|||（法）巴斯夏|||https://book.douban.com/subject/1076446/
+695|||中国的"行为联邦制"|||郑永年|||https://book.douban.com/subject/23774698/
+696|||教会法与神圣帝国的兴衰|||【法】菲利普·内莫|||https://book.douban.com/subject/6431967/
+697|||欧洲精神|||[法] 莱涅尔-拉瓦斯汀|||https://book.douban.com/subject/3865918/
+698|||比较媒介体制|||[美] 丹尼尔·C·哈林、[意] 保罗·曼奇尼|||https://book.douban.com/subject/10581879/
+699|||政治学十五讲|||燕继荣|||https://book.douban.com/subject/1068824/
+700|||自然正义|||肯 宾默尔、Ken Binmore|||https://book.douban.com/subject/4257987/
+701|||共识与冲突|||[美]西摩. 马丁. 李普塞特|||https://book.douban.com/subject/6879918/
+702|||岳村政治|||于建嵘|||https://book.douban.com/subject/1116407/
+703|||让历史来审判（上下）|||罗伊·梅德韦杰夫|||https://book.douban.com/subject/1737749/
+704|||霍布斯的政治哲学|||[美国]列奥·施特劳斯|||https://book.douban.com/subject/1063741/
+705|||哲学与治术：1572—1651|||[美]理查德·塔克|||https://book.douban.com/subject/24895267/
+706|||民主的假面|||[美] 马克·莱文（Mark R.Levin）|||https://book.douban.com/subject/27015491/
+707|||干部国家|||王海峰|||https://book.douban.com/subject/11540169/
+708|||意识形态的终结|||丹尼尔・贝尔|||https://book.douban.com/subject/1054375/
+709|||互联网的误读|||詹姆斯•柯兰（James Curran）、娜塔莉•芬顿（Natalie Fenton）、德  斯•弗里德曼（Des Freedman）|||https://book.douban.com/subject/25912257/
+710|||中古中国的寡头政治|||姜士彬|||https://book.douban.com/subject/26877308/
+711|||福柯的最后一课：关于新自由主义，理论和政治|||[法]乔弗鲁瓦·德·拉加斯纳里|||https://book.douban.com/subject/26770824/
+712|||Thought Reform and the Psychology of Totalism|||Robert Jay Lifton|||https://book.douban.com/subject/3822529/
+713|||摆正自由主义的位置|||保罗·卡恩|||https://book.douban.com/subject/26612237/
+714|||世界权力的转移|||阎学通|||https://book.douban.com/subject/26615605/
+715|||阿奎那政治著作选|||[意] 托马斯·阿奎纳|||https://book.douban.com/subject/1890256/
+716|||自由、市场与国家|||(美)布坎南(Buchanan,J.M.)|||https://book.douban.com/subject/1889476/
+717|||为增长而竞争|||张军、周黎安 编|||https://book.douban.com/subject/2372640/
+718|||政治的正义性|||（德）奥特弗利德・赫费|||https://book.douban.com/subject/1315264/
+719|||筑就我们的国家|||理查德.罗蒂|||https://book.douban.com/subject/1755628/
+720|||世界土地所有制变迁史|||〔英〕 安德罗•林克雷特|||https://book.douban.com/subject/26695132/
+721|||政治与行政|||(美)古德诺|||https://book.douban.com/subject/2195832/
+722|||法西斯主义群众心理学|||(奥)赖 希(Reich,W.)著|||https://book.douban.com/subject/1945390/
+723|||国家权力与社会势力|||[美] 乔尔·米格德尔、[美] 阿图尔·柯里、[美] 维维恩·苏|||https://book.douban.com/subject/27070143/
+724|||Anti-Intellectualism in American Life|||Richard Hofstadter|||https://book.douban.com/subject/1905321/
+725|||大断裂：人类本性与社会秩序的重建|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/26721266/
+726|||现代政治的思想与行动|||[日] 丸山真男|||https://book.douban.com/subject/27661640/
+727|||瓶颈|||约瑟夫·费西金 (Joseph Fishkin)|||https://book.douban.com/subject/26642946/
+728|||生命的自主权|||【美】罗纳德·M.德沃金|||https://book.douban.com/subject/23081000/
+729|||意识形态的崇高客体|||[斯洛文尼亚] 斯拉沃热·齐泽克|||https://book.douban.com/subject/1095500/
+730|||论人权|||詹姆斯·格里芬|||https://book.douban.com/subject/26354321/
+731|||武士政治|||罗伯特·D.卡普兰 (Robert D.Kaplan)|||https://book.douban.com/subject/25872374/
+732|||从革命到政治|||YANG BING ZHANG|||https://book.douban.com/subject/1493085/
+733|||福柯、马克思主义与历史|||[美] 马克·波斯特|||https://book.douban.com/subject/26545491/
+734|||中国模式|||郑永年|||https://book.douban.com/subject/4190777/
+735|||抗争性政治|||于建嵘|||https://book.douban.com/subject/5280343/
+736|||中国地方环境政治|||冉冉|||https://book.douban.com/subject/26389499/
+737|||上海罢工|||[美] 裴宜理|||https://book.douban.com/subject/1315804/
+738|||西方社会运动理论研究|||冯仕政|||https://book.douban.com/subject/23938404/
+739|||危机时刻：德国保守主义革命|||曹卫东  主编|||https://book.douban.com/subject/25817774/
+740|||變臉的緬甸|||Richard Cockett 理查．考科特|||https://book.douban.com/subject/26847362/
+741|||抗议政治学|||谢岳|||https://book.douban.com/subject/5386900/
+742|||论宗教宽容|||[英] 洛克|||https://book.douban.com/subject/1536540/
+743|||从古代到封建主义的过渡|||佩里·安德森(Perry Anderson)|||https://book.douban.com/subject/1272877/
+744|||战争与史诗|||[美]J. S. 伯吉斯|||https://book.douban.com/subject/26947787/
+745|||战争中的平民|||[美] 亚历山大·B.唐斯 (Alexander B. Downes)|||https://book.douban.com/subject/27030439/
+746|||加尔文与现代政治的基础|||[美] 拉尔夫·C.汉考克 (Ralph C.Hancock)|||https://book.douban.com/subject/26985063/
+747|||好民主，坏民主|||[意大利] 吉奥乔·阿甘本、[法] 阿兰·巴迪欧、[法] 丹尼埃尔·本萨义德、[美] 温迪·布朗、[法] 让-吕克·南希、[法] 雅克·朗西埃、[美] 克里斯汀·罗斯、[斯洛文尼亚] 斯拉沃热·齐泽克|||https://book.douban.com/subject/26299380/
+748|||苏联的最后一天|||(爱尔兰)奥克莱利|||https://book.douban.com/subject/25758414/
+749|||国家的神话|||恩斯特·卡西尔|||https://book.douban.com/subject/1151117/
+750|||The Myth of the Strong Leader|||Archie Brown|||https://book.douban.com/subject/26280882/
+751|||制度与社会冲突|||杰克·奈特|||https://book.douban.com/subject/3884764/
+752|||新教育场域的兴起 1895-1926|||应星|||https://book.douban.com/subject/26967797/
+753|||权力与相互依赖|||罗伯特·基欧汉、小约瑟夫·奈|||https://book.douban.com/subject/1101903/
+754|||哥达纲领批判|||马克思|||https://book.douban.com/subject/1081656/
+755|||中国政治思想史|||陶希圣|||https://book.douban.com/subject/3518129/
+756|||欧洲霸权之前|||[美] 珍妮特·L．阿布卢格霍德|||https://book.douban.com/subject/26304203/
+757|||强社会与弱国家|||乔尔·S·米格代尔|||https://book.douban.com/subject/4106964/
+758|||民国政制史（上下册）|||钱端升|||https://book.douban.com/subject/3182322/
+759|||自由主义与荣誉|||[美国]莎伦•R.克劳斯|||https://book.douban.com/subject/26415805/
+760|||现代政治分析|||罗伯特·达尔|||https://book.douban.com/subject/2251959/
+761|||权力与市场|||穆雷·罗斯巴德|||https://book.douban.com/subject/2155344/
+762|||为什么美国没有社会主义|||维尔纳·桑巴特|||https://book.douban.com/subject/1315235/
+763|||政治观念史稿（卷一）|||沃格林|||https://book.douban.com/subject/2362236/
+764|||美国革命的思想意识渊源|||伯纳德·贝林|||https://book.douban.com/subject/2284844/
+765|||政策制定的艺术|||[印]考希克·巴苏|||https://book.douban.com/subject/26877554/
+766|||21世纪资本论|||[法] 托马斯·皮凯蒂（Thomas Piketty）|||https://book.douban.com/subject/25947310/
+767|||找回国家|||[美] 彼得·埃文斯、[美] 迪特里希·鲁施迈耶、[美] 西达·斯考克波 编著|||https://book.douban.com/subject/3662243/
+768|||西方政治哲学史（第三卷）|||周濂 主编、总主编 张志伟 韩冬晖 干春松|||https://book.douban.com/subject/27037531/
+769|||现代政治与自然|||渠敬东 编|||https://book.douban.com/subject/1266106/
+770|||农户、集体与国家|||应星|||https://book.douban.com/subject/26285646/
+771|||国际政治中的知觉与错误知觉|||罗伯特·杰维斯|||https://book.douban.com/subject/1245746/
+772|||词语的肉身|||[法] 雅克·朗西埃|||https://book.douban.com/subject/26304272/
+773|||毛泽东选集 第四卷|||毛泽东|||https://book.douban.com/subject/1139359/
+774|||中国历史政治地理十六讲|||周振鹤|||https://book.douban.com/subject/25787043/
+775|||海权论|||阿尔弗雷德·塞耶·马汉|||https://book.douban.com/subject/10799669/
+776|||政治无意识|||弗雷德里克.詹姆逊|||https://book.douban.com/subject/1000019/
+777|||战争与国家形成|||[美]许田波|||https://book.douban.com/subject/3654608/
+778|||民主与领袖|||(美) 白璧德|||https://book.douban.com/subject/4823758/
+779|||世界人民的历史|||[英] 克里斯·哈曼 (Chris Harman)|||https://book.douban.com/subject/27064112/
+780|||现实感|||以赛亚·伯林|||https://book.douban.com/subject/1053933/
+781|||日本政治史（全四册）|||[日]升味准之辅|||https://book.douban.com/subject/1005561/
+782|||帝国定型|||徐弃郁|||https://book.douban.com/subject/25840516/
+783|||利维坦的诞生|||[美]托马斯·埃特曼|||https://book.douban.com/subject/4199412/
+784|||The Government Next Door|||Luigi Tomba|||https://book.douban.com/subject/25909003/
+785|||矛盾论|||毛泽东|||https://book.douban.com/subject/2979192/
+786|||世界政治中的战争与变革|||罗伯特·吉尔平|||https://book.douban.com/subject/2012418/
+787|||政治与文学|||雷蒙德·威廉斯|||https://book.douban.com/subject/6004424/
+788|||超越功利主义|||【印】阿玛蒂亚·森、【英】伯纳德·威廉姆斯|||https://book.douban.com/subject/7153506/
+789|||权利论（2014年增订版）|||程燎原、王人博|||https://book.douban.com/subject/26235306/
+790|||落后之源|||[美] 弗朗西斯·福山|||https://book.douban.com/subject/25969764/
+791|||再塑意识形态|||郑永年|||https://book.douban.com/subject/26721275/
+792|||韦伯政治著作选|||(德国)马克斯·韦伯、(英国)彼得·拉斯曼 罗纳德·斯佩乐斯|||https://book.douban.com/subject/4056294/
+793|||歷史的反叛|||克里斯汀.卡里爾(Chriatian Caryl)|||https://book.douban.com/subject/25865900/
+794|||中國鄉村|||蕭公權|||https://book.douban.com/subject/25799718/
+795|||葛兰西文选|||李鹏程编|||https://book.douban.com/subject/3259005/
+796|||帝国的政治体系|||S.N.艾森斯塔得|||https://book.douban.com/subject/1862088/
+797|||地標：北京的空間政治|||洪長泰|||https://book.douban.com/subject/6815788/
+798|||施特劳斯与古典政治哲学|||刘小枫 主编|||https://book.douban.com/subject/1211996/
+799|||弑君者|||[英] 杰弗里·罗伯逊|||https://book.douban.com/subject/3596547/
+801|||社会权力的来源（第四卷）|||[英] 迈克尔·曼|||https://book.douban.com/subject/26673187/
+802|||国际关系精要|||（美）明斯特|||https://book.douban.com/subject/2038513/
+803|||The Power of the Powerless|||Vaclav Havel、John Keane|||https://book.douban.com/subject/1468173/
+804|||职业系统|||安德鲁·阿伯特|||https://book.douban.com/subject/26879477/
+805|||政治心理学|||【美】戴维•霍顿|||https://book.douban.com/subject/25807280/
+806|||国际关系史|||刘德斌 主编|||https://book.douban.com/subject/1509913/
+807|||政治地理学|||[美] 科林·弗林特、[英] 皮特·泰勒|||https://book.douban.com/subject/27030390/
+808|||掠夺之手|||安德烈・施莱弗、罗伯特・维什尼、安德烈・施莱弗、罗伯特・维什尼、赵红军|||https://book.douban.com/subject/1021340/
+809|||国家与市场|||苏珊·斯特兰奇|||https://book.douban.com/subject/1951522/
+810|||传播与社会|||赵月枝|||https://book.douban.com/subject/6523444/
+811|||動情的理性|||錢永祥|||https://book.douban.com/subject/25776599/
+812|||法律、立法与自由(第一卷)|||[英]哈耶克|||https://book.douban.com/subject/1033829/
+813|||视差|||[美]布鲁斯·卡明斯|||https://book.douban.com/subject/26647785/
+814|||总统、政党与首相|||[美] 大卫·J.塞缪尔斯 (David J. Samuels)、[美] 马修·S.舒格特 (Matthew S. Shugart)|||https://book.douban.com/subject/26865339/
+815|||打造美国|||詹姆斯·西蒙|||https://book.douban.com/subject/3447900/
+816|||民主与城邦的衰落|||[法] 菲利浦·内莫|||https://book.douban.com/subject/5376890/
+817|||中國古代的「忠」論研究|||佐藤將之|||https://book.douban.com/subject/4898733/
+818|||起火的世界|||蔡爱眉、刘怀昭|||https://book.douban.com/subject/1292386/
+819|||政治与市场|||[美] 查尔斯·林德布洛姆|||https://book.douban.com/subject/1008379/
+820|||中国政治制度史|||白钢|||https://book.douban.com/subject/2146752/
+821|||持续执政的逻辑|||方绍伟|||https://book.douban.com/subject/26754944/
+822|||潮来潮去|||[英] 方德万|||https://book.douban.com/subject/27091336/
+823|||无政府时代的来临|||罗伯特·D·卡普兰|||https://book.douban.com/subject/26345368/
+824|||中国政治制度通史|||白钢 主编|||https://book.douban.com/subject/4859864/
+825|||瓦尔登湖•论公民的不服从义务|||[美]梭罗|||https://book.douban.com/subject/25839336/
+826|||宣传与公共意识|||诺姆·乔姆斯基|||https://book.douban.com/subject/1779469/
+827|||中国网络政治的历史考察|||[美] 周永明|||https://book.douban.com/subject/25662941/
+828|||古希腊政治、社会和文化史|||（英）帕姆洛依 等著|||https://book.douban.com/subject/3870856/
+829|||中国近代历史的表与里|||[日] 石川祯浩|||https://book.douban.com/subject/26431647/
+830|||古希腊思想中的柔和|||[法]雅克利娜•德•罗米伊(Jacqueline de Romilly)|||https://book.douban.com/subject/26880456/
+831|||公共舆论的力量|||戴雪 (A.V.Dicey)|||https://book.douban.com/subject/25815299/
+832|||俄罗斯社会的潜规则|||（英）莱德尼娃|||https://book.douban.com/subject/4117965/
+833|||牛津法国大革命史|||[英]威廉·多伊尔|||https://book.douban.com/subject/26615787/
+834|||战争与和平的权利|||[美] 塔克|||https://book.douban.com/subject/3686807/
+835|||法兰西内战|||马克思|||https://book.douban.com/subject/2239214/
+836|||How Propaganda Works|||Jason Stanley|||https://book.douban.com/subject/26299387/
+837|||新资本主义的文化|||[美]理查德·桑内特|||https://book.douban.com/subject/4766993/
+838|||想象的共同体|||本尼迪克特·安德森|||https://book.douban.com/subject/1315190/
+839|||英国宪制|||（英）沃尔斯·白哲特|||https://book.douban.com/subject/1443725/
+840|||欧洲财政国家的兴起|||理查德·邦尼|||https://book.douban.com/subject/26872481/
+841|||美国人：民主的历程|||[美]丹尼尔·J·布尔斯廷|||https://book.douban.com/subject/3662397/
+842|||自由主义、社群与文化|||（加）威尔・金里卡|||https://book.douban.com/subject/1315262/
+843|||十八世纪英国的大众政治|||[英] H.T.狄金森|||https://book.douban.com/subject/26272566/
+844|||县委书记们的主政谋略|||李克军|||https://book.douban.com/subject/26312262/
+845|||雅典政制|||[古希腊] 亚里士多德|||https://book.douban.com/subject/1723738/
+846|||超社会体系|||王铭铭|||https://book.douban.com/subject/26394191/
+847|||尤利西斯的自缚|||冯克利|||https://book.douban.com/subject/1051989/
+848|||佛罗伦萨史|||尼科洛·马基雅维里|||https://book.douban.com/subject/1037401/
+849|||民主的模式|||[美]阿伦·利普哈特（Arend Lijphart）|||https://book.douban.com/subject/1920225/
+850|||大国雄心|||马丁·雅克|||https://book.douban.com/subject/26716231/
+851|||超越左右激进主义|||萧功秦|||https://book.douban.com/subject/11542902/
+852|||少数人的民主|||[美] 迈克尔·帕伦蒂|||https://book.douban.com/subject/4152794/
+853|||罗尔斯论文全集|||[美]约翰·罗尔斯|||https://book.douban.com/subject/22487544/
+854|||狱中札记|||安冬尼奥·葛兰西|||https://book.douban.com/subject/1750683/
+855|||族群、民族與現代國家|||蕭阿勤、汪宏倫主編|||https://book.douban.com/subject/26744167/
+856|||自由主义之前的自由|||昆廷·斯金纳|||https://book.douban.com/subject/1142977/
+857|||帝国、蛮族与封建法|||蔡乐钊 主编|||https://book.douban.com/subject/25893471/
+858|||階序人I：卡斯特體系及其衍生現象|||杜蒙|||https://book.douban.com/subject/2969760/
+859|||时间中的政治|||【美】保罗·皮尔逊|||https://book.douban.com/subject/25875519/
+860|||马基雅维里主义|||[德] 弗里德里希·迈内克|||https://book.douban.com/subject/3035655/
+861|||政治学研究方法指南|||[美]斯蒂芬·V.埃弗拉著；陈琪译|||https://book.douban.com/subject/1853209/
+862|||自由民主的理路|||江宜桦|||https://book.douban.com/subject/1783132/
+863|||战略远见|||兹比格涅夫·布热津斯基|||https://book.douban.com/subject/10956267/
+864|||苏联的最后一年|||[俄罗斯] 罗伊•麦德维杰夫|||https://book.douban.com/subject/3823943/
+865|||让人民自由|||[美] 约翰·邓恩|||https://book.douban.com/subject/5355323/
+866|||莫洛托夫与第二次世界大战前后的苏联外交|||胡昊|||https://book.douban.com/subject/26971533/
+867|||美国总统制|||[美国] 查尔斯·琼斯|||https://book.douban.com/subject/21372193/
+868|||中世纪政治思想史|||[英国] 沃尔特·厄尔曼|||https://book.douban.com/subject/6026162/
+869|||The Politics of Rights and the 1911 Revolution in China|||Xiaowei Zheng|||https://book.douban.com/subject/26788369/
+870|||政治的浪漫派|||（德）施米特|||https://book.douban.com/subject/1067336/
+871|||观念的发明者|||(美)唐纳德·坦嫩鲍姆、戴维·舒尔茨|||https://book.douban.com/subject/2980711/
+872|||无政府社会|||赫德利·布尔|||https://book.douban.com/subject/1139389/
+873|||美国宪法及其修正案|||朱曾汶|||https://book.douban.com/subject/25897254/
+874|||狂澜与潜流|||李秉奎|||https://book.douban.com/subject/26598775/
+875|||全球秩序的崩塌与重建|||[英]安德鲁·赫里尔|||https://book.douban.com/subject/27044552/
+876|||救世|||[美] 罗威廉|||https://book.douban.com/subject/25772573/
+877|||革命心理学|||[法] 古斯塔夫·勒庞|||https://book.douban.com/subject/1276857/
+878|||政治的道德：從自由主義的觀點看|||周保松|||https://book.douban.com/subject/25803380/
+879|||为精英主义辩护|||威廉·享利|||https://book.douban.com/subject/1085570/
+880|||初识传播学（插图第7版）|||[美]埃姆·格里芬（Em Griffin)|||https://book.douban.com/subject/26791309/
+881|||评圣皮埃尔神甫的两部政治著作|||[法] 卢梭|||https://book.douban.com/subject/27052077/
+882|||政府与市场|||[美]维托·坦茨|||https://book.douban.com/subject/25924610/
+883|||正义诸领域|||[美]迈克尔·沃尔泽|||https://book.douban.com/subject/1232971/
+884|||Russia and the West from Alexander to Putin|||Professor Andrei P. Tsygankov|||https://book.douban.com/subject/12646337/
+885|||权利的成本|||【美】史蒂芬・霍尔姆斯、凯斯・R.桑斯坦|||https://book.douban.com/subject/1174429/
+886|||帝国的后门|||龚小夏|||https://book.douban.com/subject/27017637/
+887|||The Politics of Authoritarian Rule|||Milan W. Svolik|||https://book.douban.com/subject/10573746/
+888|||电影审查|||梅峰、李二仕、钟大丰|||https://book.douban.com/subject/26854494/
+889|||权力|||史蒂文·卢克斯|||https://book.douban.com/subject/3094803/
+890|||神话与政治之间|||（法）韦尔南|||https://book.douban.com/subject/1277270/
+891|||西班牙内战|||[英] 伯内特·博洛滕|||https://book.douban.com/subject/26907955/
+892|||两种传承|||加里·格尔茨 (Gary Goertz)、詹姆斯·马奥尼 (James Mahoney)|||https://book.douban.com/subject/26839258/
+893|||互助论|||[俄] 克鲁泡特金|||https://book.douban.com/subject/1116350/
+894|||启蒙与中国社会转型|||资中筠|||https://book.douban.com/subject/5503770/
+895|||在中国城市中争取公民权|||（美）苏黛瑞|||https://book.douban.com/subject/4062203/
+896|||美国政府和美国政治（上下）|||李道揆|||https://book.douban.com/subject/1003110/
+897|||村治模式|||贺雪峰|||https://book.douban.com/subject/3559966/
+898|||幽暗意识与民主传统|||张灏|||https://book.douban.com/subject/1491505/
+899|||当代比较政治学|||[美]加布里埃尔·A.阿尔蒙德 等|||https://book.douban.com/subject/4208782/
+900|||建国之父的失败|||[美] 布鲁斯·阿克曼|||https://book.douban.com/subject/25714728/
+901|||信仰人民|||潘维|||https://book.douban.com/subject/27020364/
+902|||Hypocrisy and Integrity|||Ruth W. Grant|||https://book.douban.com/subject/4266226/
+903|||毛泽东选集 第一卷|||毛泽东|||https://book.douban.com/subject/1139360/
+904|||现当代国际关系史|||时殷弘|||https://book.douban.com/subject/1883134/
+905|||自由·平等·博爱|||詹姆斯·斯蒂芬|||https://book.douban.com/subject/2343947/
+906|||阿伦特为什么重要|||伊丽莎白•扬-布鲁尔|||https://book.douban.com/subject/3210969/
+907|||农民,政治与革命|||米格代尔|||https://book.douban.com/subject/1025654/
+908|||国家建设与政府行为|||周雪光、刘世定、折晓叶|||https://book.douban.com/subject/11525224/
+909|||台灣－分裂國家與民主化|||若林正丈|||https://book.douban.com/subject/1387972/
+910|||躁动的帝国|||奥利弗•斯通、彼得•库茨尼克|||https://book.douban.com/subject/25807649/
+911|||“气”与抗争政治|||应星|||https://book.douban.com/subject/6078796/
+912|||大宪章|||陈国华|||https://book.douban.com/subject/26849220/
+913|||罗马政制史（第一卷）|||【意】弗朗切斯科·德·马尔蒂诺|||https://book.douban.com/subject/4117942/
+914|||界而治之|||(乌干达)马哈茂德·马姆达尼|||https://book.douban.com/subject/26934250/
+915|||国家为什么会崩溃|||彼得•D•希夫|||https://book.douban.com/subject/24695369/
+916|||“伊斯兰国”简论|||[美]查尔斯•利斯特(Charles R. Lister)|||https://book.douban.com/subject/26683268/
+917|||多头政体|||(美)罗伯特﹒达尔|||https://book.douban.com/subject/1254362/
+918|||Global Inequality|||Branko Milanovic|||https://book.douban.com/subject/26778810/
+919|||坎坷之路|||孫旭培|||https://book.douban.com/subject/25757933/
+920|||汉译世界学术名著丛书珍藏本|||商务印书馆|||https://book.douban.com/subject/3519570/
+921|||审美政治化|||曹卫东 主编|||https://book.douban.com/subject/26574819/
+922|||罗马法与帝国的遗产|||【法】菲利普·内莫|||https://book.douban.com/subject/6431969/
+923|||信任与统治|||(美) 蒂利|||https://book.douban.com/subject/4723812/
+924|||邓小平文选 第二卷|||邓小平|||https://book.douban.com/subject/1088061/
+925|||世界秩序与文明等级|||刘禾 主编|||https://book.douban.com/subject/26612262/
+926|||中国政治制度史导论|||张鸣|||https://book.douban.com/subject/1174781/
+927|||寡头|||[美] 戴维·霍夫曼|||https://book.douban.com/subject/27593408/
+928|||六七暴動|||張家偉|||https://book.douban.com/subject/10544201/
+929|||凯恩斯思想小史：繁荣的钥匙|||(美)彼得•特明、(美)戴维•瓦因斯|||https://book.douban.com/subject/27040451/
+930|||神学政治论|||斯宾诺莎|||https://book.douban.com/subject/1047120/
+931|||恐怖主义文化|||诺姆·乔姆斯基|||https://book.douban.com/subject/1779466/
+932|||公共理性与民主理想|||谭安奎|||https://book.douban.com/subject/26336596/
+933|||走向宪政|||蔡定剑、王占阳|||https://book.douban.com/subject/5939811/
+934|||贤能政治|||[加] 贝淡宁、Daniel A. Bell|||https://book.douban.com/subject/26838259/
+935|||文化与公共性|||汪晖、陈燕谷 编|||https://book.douban.com/subject/1279965/
+936|||思想的掮客|||[美]詹姆斯·艾伦·史密斯|||https://book.douban.com/subject/26945964/
+937|||中国超越|||张维为|||https://book.douban.com/subject/25955518/
+938|||性别政治与国家|||张念|||https://book.douban.com/subject/25797897/
+939|||冷漠的社会生成|||迈克尔·赫兹菲尔德|||https://book.douban.com/subject/26642737/
+940|||科耶夫的新拉丁帝国|||【法】科耶夫 等|||https://book.douban.com/subject/3210578/
+941|||技术赋权|||郑永年|||https://book.douban.com/subject/25848448/
+942|||托克维尔与民主精神|||[法]雷蒙·阿隆、[美]丹尼尔·贝尔 主编|||https://book.douban.com/subject/2975904/
+943|||比较政治学|||(美)加布里埃尔·A·阿尔蒙德等|||https://book.douban.com/subject/2184039/
+944|||阴谋论和其他危险的想法|||[美]卡斯·桑斯坦|||https://book.douban.com/subject/26382489/
+945|||休谟政治论文选|||(英) 休谟|||https://book.douban.com/subject/4729578/
+946|||失败的国家|||[美]诺姆·乔姆斯基|||https://book.douban.com/subject/3336099/
+947|||宪政与民主|||萧公权|||https://book.douban.com/subject/1775669/
+948|||罗斯福与塔夫脱|||[美]多莉丝·基恩斯·古德温（Doris Kearns Goodwin）|||https://book.douban.com/subject/26545269/
+949|||政治学基础文献选读|||郎友兴 韩志明 编选|||https://book.douban.com/subject/3271327/
+950|||冲突的战略|||（美）托马斯.谢林|||https://book.douban.com/subject/1480720/
+951|||追寻“我们”的根源|||姚大力|||https://book.douban.com/subject/26960593/
+952|||政府为什么会失败|||（美）兰迪·西蒙斯|||https://book.douban.com/subject/26950577/
+953|||邻人|||[美] 杨·T.格罗斯|||https://book.douban.com/subject/27085641/
+954|||The Fourth Revolution|||John Micklethwait、Adrian Wooldridge|||https://book.douban.com/subject/25889072/
+955|||政治学的重大问题|||[美] 莱斯利·里普森|||https://book.douban.com/subject/1232348/
+956|||大国游戏|||井底望天|||https://book.douban.com/subject/4007345/
+957|||文学的政治|||(法) 雅克·朗西埃|||https://book.douban.com/subject/26133534/
+958|||姊妹革命|||苏珊・邓恩|||https://book.douban.com/subject/1019832/
+959|||论断与概念|||卡尔·施米特|||https://book.douban.com/subject/1878114/
+960|||如果你是平等主义者，为何如此富有?|||[英] G. A. 柯亨|||https://book.douban.com/subject/4238005/
+961|||极权主义民主的起源|||塔尔蒙 (Talman J.F.)|||https://book.douban.com/subject/1146074/
+962|||第三条道路――社会民主主义的复兴|||安东尼·吉登斯|||https://book.douban.com/subject/1008869/
+963|||民治政府|||[美]伯恩斯|||https://book.douban.com/subject/2115602/
+964|||神风特攻队、樱花与民族主义|||大贯惠美子|||https://book.douban.com/subject/26800340/
+965|||军备及其影响|||托马斯·谢林|||https://book.douban.com/subject/5419245/
+966|||现代战略的缔造者|||[美]彼得·帕雷特|||https://book.douban.com/subject/1734121/
+967|||自由与国家|||高力克|||https://book.douban.com/subject/26848145/
+968|||Hegemony and Socialist Strategy|||Ernesto Laclau、Chantal Mouffe|||https://book.douban.com/subject/1389744/
+969|||社会主义从空想到科学的发展|||恩格斯|||https://book.douban.com/subject/1046320/
+970|||毛泽东|||阿兰·鲁林 (Alain Roux)|||https://book.douban.com/subject/26023215/
+971|||困顿与突围|||田文林|||https://book.douban.com/subject/26737985/
+972|||总体战|||(德)埃里希·鲁登道夫|||https://book.douban.com/subject/1261135/
+973|||被压迫者教育学|||保罗・弗莱雷|||https://book.douban.com/subject/1316933/
+974|||集体暴力的政治|||(美)查尔斯·蒂利|||https://book.douban.com/subject/1950846/
+975|||民族主義與近代中日關係|||王柯|||https://book.douban.com/subject/26661517/
+976|||埃德蒙·伯克读本|||陈志瑞|||https://book.douban.com/subject/1916056/
+977|||民主财政论|||（美）詹姆斯·M·布坎南|||https://book.douban.com/subject/1245528/
+978|||后殖民主义与世界格局|||〔英国〕罗伯特·J.C.扬|||https://book.douban.com/subject/3120641/
+979|||狱中书简：致亲爱的奥尔嘉|||【捷克】哈维尔|||https://book.douban.com/subject/2328345/
+980|||美国自由主义的历史变迁|||钱满素|||https://book.douban.com/subject/1789317/
+981|||政治家|||柏拉图|||https://book.douban.com/subject/1809503/
+982|||政治学|||[美] 哈罗德·D.拉斯韦尔|||https://book.douban.com/subject/1251777/
+983|||政治的边缘|||[法]雅克·朗西埃|||https://book.douban.com/subject/2210083/
+984|||妥协|||阿林·弗莫雷斯科|||https://book.douban.com/subject/26945988/
+985|||总统是怎么选出来的？|||游天龙、华建平、林垚|||https://book.douban.com/subject/26847035/
+986|||不平等的民主|||(美) 巴特尔斯|||https://book.douban.com/subject/10583783/
+987|||官僚制内幕|||安东尼·唐斯|||https://book.douban.com/subject/1493060/
+988|||博弈论与社会契约|||肯·宾默尔 (Ken Binmore)|||https://book.douban.com/subject/26718751/
+989|||现代化新论|||罗荣渠|||https://book.douban.com/subject/1151091/
+990|||恐怖主义的幽灵|||白轻　编译|||https://book.douban.com/subject/10739738/
+991|||马克斯·韦伯的《经济与社会》|||[美] 查尔斯·卡米克、菲利普·戈尔斯基、戴维·特鲁贝克 编|||https://book.douban.com/subject/5336381/
+992|||读史求是|||朱永嘉|||https://book.douban.com/subject/26297535/
+993|||官僚制社会学|||佐藤庆幸|||https://book.douban.com/subject/4030369/
+994|||朋友还是敌人？|||﹝美﹞张少书（Gordon H. Chang）著|||https://book.douban.com/subject/25925581/
+995|||苏格拉底式公民身份|||[美〕丹纳·维拉|||https://book.douban.com/subject/26706377/
+996|||歧义|||[法] 雅克·朗西埃|||https://book.douban.com/subject/26256875/
+997|||危险的心灵|||扬－维尔纳·米勒|||https://book.douban.com/subject/1875362/
+998|||法国政治制度史|||郭华榕|||https://book.douban.com/subject/1430125/
+999|||宣传力|||安东尼•普拉卡尼斯、埃利奥特•阿伦森|||https://book.douban.com/subject/25964997/
+1000|||马克斯·韦伯与现代政治理论|||David Beetham|||https://book.douban.com/subject/3168204/
