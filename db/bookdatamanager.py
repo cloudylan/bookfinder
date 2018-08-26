@@ -153,8 +153,8 @@ def build_additional_also_like_list(folder_path, write_to_db):
 
 # testfile = '/Users/cloudy/Data/book/bookfile/BookDetails/BookDetails-2018-08-23.txt'
 # transfer_files_to_db(testfile, True)
-# transfer_files_to_db(book_detail_file_path, True)
-build_additional_also_like_list(also_like_file_path, False)
+transfer_files_to_db(book_detail_file_path, True)
+# build_additional_also_like_list(also_like_file_path, False)
 
 
 def transfer_book_type_data():
