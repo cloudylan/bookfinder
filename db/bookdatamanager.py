@@ -5,6 +5,7 @@ import os
 from model.book import BookLink
 from model.book import BookDetail
 from common import configuration as config
+import re
 
 get_all_booktype = 'SELECT * FROM TYPE_BOOK;'
 check_existence = "SELECT COUNT(*) FROM TYPE_BOOK WHERE LINK LIKE '%s';"
@@ -28,7 +29,7 @@ def transfer_book_details_data(input_file_path, write_to_db):
                 # print('---'+line)
                 first_row = False
                 continue
-            data = line.split('|||')
+            data = line.split(config.dataSplitter)
             book_detail = BookDetail()
 
             print(data)
@@ -64,17 +65,23 @@ def transfer_book_details_data(input_file_path, write_to_db):
             print(str(data[1]))
             continue
 
-    print(str(book_details.__len__())+'=========')
+    print(str(book_details.__len__()) + '=========')
     conn = sqlite3.connect(config.db_path)
     for book in book_details:
         print(insert_detail_sql % (book.name, book.author.replace('\'', ' '), book.publisher, book.isbn, book.sub_title,
-                                          book.publishYear, book.pageNumber, book.price, book.style, book.series,
-                                          book.translator, float(book.ratings), int(book.vote_people), float(book.star5), float(book.star4),
-                                          float(book.star3),float(book.star2), float(book.star1), book.label, book.picture,book.link))
-        conn.execute(insert_detail_sql % (book.name.replace('\'', ' '), book.author.replace('\'', ' '), book.publisher.replace('\'', ' '), book.isbn, book.sub_title.replace('\'', ' '),
-                                          book.publishYear, book.pageNumber, book.price, book.style.replace('\'', ' '), book.series.replace('\'', ' '),
-                                          book.translator.replace('\'', ' '), float(book.ratings), int(book.vote_people), float(book.star5), float(book.star4),
-                                          float(book.star3), float(book.star2), float(book.star1), book.label.replace('\'', ' '), book.picture, book.link))
+                                   book.publishYear, book.pageNumber, book.price, book.style, book.series,
+                                   book.translator, float(book.ratings), int(book.vote_people), float(book.star5),
+                                   float(book.star4),
+                                   float(book.star3), float(book.star2), float(book.star1), book.label, book.picture,
+                                   book.link))
+        conn.execute(insert_detail_sql % (
+        book.name.replace('\'', ' '), book.author.replace('\'', ' '), book.publisher.replace('\'', ' '), book.isbn,
+        book.sub_title.replace('\'', ' '),
+        book.publishYear, book.pageNumber, book.price, book.style.replace('\'', ' '), book.series.replace('\'', ' '),
+        book.translator.replace('\'', ' '), float(book.ratings), int(book.vote_people), float(book.star5),
+        float(book.star4),
+        float(book.star3), float(book.star2), float(book.star1), book.label.replace('\'', ' '), book.picture,
+        book.link))
 
     if write_to_db:
         conn.commit()
@@ -112,7 +119,8 @@ def transfer_also_likes(input_file_path, write_to_db):
                 try:
                     book_lk = link.split('|')
                     # print(book_lk)
-                    blk_txt = config.dataSplitter + book_lk[0] + config.dataSplitter + 'NA' + config.dataSplitter + book_lk[1] + \
+                    blk_txt = config.dataSplitter + book_lk[0] + config.dataSplitter + 'NA' + config.dataSplitter + \
+                              book_lk[1] + \
                               config.dataSplitter + 'NA' + config.dataSplitter
                     book_link = BookLink(blk_txt)
                     book_links.append(book_link)
@@ -133,7 +141,7 @@ def transfer_also_likes(input_file_path, write_to_db):
     map_like = {}
     for bk_lk in book_links:
         # print(check_existence % ('%'+bk_lk.link+'%'))
-        result = conn.execute(check_existence % ('%'+bk_lk.link+'%'))
+        result = conn.execute(check_existence % ('%' + bk_lk.link + '%'))
         for ind in result:
             # print(ind[0])
             if ind[0] == 0:
@@ -151,10 +159,71 @@ def build_additional_also_like_list(folder_path, write_to_db):
             transfer_also_likes(f_path, write_to_db)
 
 
-# testfile = '/Users/cloudy/Data/book/bookfile/BookDetails/BookDetails-2018-08-23.txt'
-# transfer_files_to_db(testfile, True)
+def clean_duplicated_book_detail():
+    conn = sqlite3.connect(config.db_path)
+    conn.execute(config.clean_book_detail)
+    conn.commit()
+
+    get_duplicated_count = conn.execute(config.select_duplicated_book_detail)
+
+    for item in get_duplicated_count:
+        print(item)
+    get_duplicated_count.close()
+
+
+def restore_processed_book_type():
+    conn = sqlite3.connect(config.db_path)
+    cursor = conn.execute(config.get_processed_sql)
+    processed_books = []
+
+    # 59287|游靜|游動的影|https://book.douban.com/subject/27041178/
+    # ||N
+    for data in cursor:
+        text = config.dataSplitter.join(
+            [str(data[0]), data[2].strip(), data[1].strip(), data[3].strip(), 'NA', str(data[5]).strip()])
+        booklink = BookLink(text)
+        booklink.id = data[0]
+        # booklink.processed = data[5].strip()
+        processed_books.append(booklink)
+    cursor.close()
+
+    need_restore = []
+    need_detail_clean = []
+    print(processed_books.__len__())
+
+    for processed in processed_books:
+        # print(processed.id)
+        lk = processed.link
+        if lk is not None and lk is not '':
+            # print(link)
+            link_id = re.search(r'[\d]+', lk).group()
+            param_link = '%' + str(link_id) + '%'
+
+            cursor_detail = conn.execute(config.get_book_detail_by_link % param_link)
+
+            for item in cursor_detail:
+                if item[0] == 0:
+                    print(str(processed.id) + ':::' + processed.name + ':::' + str(item[0]) + ':::' + processed.link)
+                    need_restore.append(processed)
+                elif item[0] > 1:
+                    need_detail_clean.append(processed)
+                    print(str(processed.id) + ':::' + processed.name + ':::' + str(item[0]) + ':::'+ processed.link + ':::' + (config.get_book_detail_by_link % param_link))
+
+    print(need_restore.__len__())
+    if need_restore.__len__() > 0:
+        for to_udpate in need_restore:
+            conn.execute(config.update_processed_sql % ('N', to_udpate.id))
+    conn.commit()
+
+    # print(need_detail_clean.__len__())
+    # if need_detail_clean.__len__() > 0:
+    #     for to_delete in need_detail_clean:
+    #         conn.execute()
+
 transfer_files_to_db(book_detail_file_path, True)
 # build_additional_also_like_list(also_like_file_path, False)
+# clean_duplicated_book_detail()
+# restore_processed_book_type()
 
 
 def transfer_book_type_data():

@@ -142,17 +142,8 @@ def get_single_book_details(quoted_url, write_to_file, debug):
     # print("using proxy %s" % proxy)
     # proxy_handler = req.ProxyHandler({"http": proxy})
     # opener = req.build_opener(proxy_handler)
-    #
-    opener = urllib.request.build_opener()
-    # opener.addheaders = {('User-agent', config.user_agent)}
 
-    opener.addheaders = {('User-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'),
-                         ('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'),
-                         ('Cookie', 'gr_user_id=f4ea66f2-7734-428d-8395-ca5acb8aeeb0; __ads_session=CxId0cQ66ghayAQG+AA=; __yadk_uid=xOeWi2IIl8EYSdlomnavGjlTYyaD8LoA; bid=bBVYOIpVLWA; _ga=GA1.2.1481930542.1457838662; _vwo_uuid_v2=7949DC5648B4EDA94CD30BFE660C3C0E|f4700311195db3ff0d14f6edf750c90f; __utmc=30149280; __utmv=30149280.7370; __utmc=81379588; ue="cloudylan@126.com"; push_noty_num=0; push_doumail_num=0; ll="118124"; douban-profile-remind=1; ap=1; Hm_lvt_16a14f3002af32bf3a75dfe352478639=1532973744; Hm_lpvt_16a14f3002af32bf3a75dfe352478639=1532973744; ct=y; douban-fav-remind=1; viewed="6524140_3719247_21319773_26370384_27006492_26963321_20424526_25779298_25985021_27148613"; ps=y; dbcl2="73709635:Mj7qap6yx4c"; ck=OC3g; __utmz=30149280.1535197997.100.57.utmcsr=accounts.douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/login; __utmz=81379588.1535198277.45.20.utmcsr=douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/; gr_session_id_22c937bbd8ebd703f2d8e9445f7dfd03=d19bdaed-c2eb-43de-a904-48d4efef53b3; gr_cs1_d19bdaed-c2eb-43de-a904-48d4efef53b3=user_id%3A1; _pk_ref.100001.3ac3=%5B%22%22%2C%22%22%2C1535293190%2C%22https%3A%2F%2Fwww.douban.com%2F%22%5D; _pk_id.100001.3ac3=77fc349c1c9e1fa2.1511358870.46.1535293190.1535200218.; _pk_ses.100001.3ac3=*; gr_session_id_22c937bbd8ebd703f2d8e9445f7dfd03_d19bdaed-c2eb-43de-a904-48d4efef53b3=true; __utma=30149280.1481930542.1457838662.1535197997.1535293190.101; __utmt_douban=1; __utmb=30149280.1.10.1535293190; __utma=81379588.272989641.1511358871.1535198277.1535293190.46; __utmt=1; __utmb=81379588.1.10.1535293190; ap_v=1,6.0'),
-                         ('Upgrade-Insecure-Requests', '1')
-                         }
-
-    urllib.request.install_opener(opener)
+    urllib.request.install_opener(config.get_opener())
 
     if debug:
         response = io.open(quoted_url, 'r')
@@ -241,8 +232,9 @@ def get_single_book_details(quoted_url, write_to_file, debug):
                 star2 = re.search(r'[\d]+', score_details[index + 1], flags=0).group()
             elif u'1星' in score_details[index]:
                 star1 = re.search(r'[\d]+', score_details[index + 1], flags=0).group()
-            elif u'评价' in score_details[index]:
-                number = re.search(r'[\d]+', score_details[2], flags=0).group()
+            elif u'人评价' in score_details[index] and u'不足' not in score_details[index] \
+                    and u'目前无人' not in score_details[index]:
+                number = re.search(r'[\d]+', score_details[index], flags=0).group()
 
     else:
         number, star5, star4, star3, star2, star1, score = ['0', '0', '0', '0', '0', '0', '0']
@@ -265,14 +257,12 @@ def get_single_book_details(quoted_url, write_to_file, debug):
     pic_url = bs.find('a', class_='nbg').img['src']
 
     complete_data = config.dataSplitter + complete_data + config.dataSplitter + score_text + config.dataSplitter + labels + config.dataSplitter + pic_url + '\n'
-    # print(complete_data)
 
     # Introduction
     short_intro = bs.find('div', class_='intro')
 
     intro = config.dataSplitter + book_name + config.dataSplitter + isbn + config.dataSplitter + (
         'NA' if short_intro is None else short_intro.get_text().strip()) + '\n'
-    # print(intro)
 
     # Also like
     also_like_section = bs.find('div', id='db-rec-section')
@@ -287,7 +277,6 @@ def get_single_book_details(quoted_url, write_to_file, debug):
 
             also_likes_txt = config.dataSplitter + book_name + config.dataSplitter + isbn + config.dataSplitter + ','.join(
                 also_like_links) + '\n'
-    # print(also_likes_txt)
 
     # Also like EBooks
     also_like_ebook_links = []
@@ -300,6 +289,10 @@ def get_single_book_details(quoted_url, write_to_file, debug):
         ebook_links_text = ','.join(also_like_ebook_links)
 
     also_e_likes = config.dataSplitter + book_name + config.dataSplitter + isbn + config.dataSplitter + ebook_links_text + '\n'
+
+    # print(complete_data)
+    # print(intro)
+    # print(also_likes_txt)
     # print(also_e_likes)
 
     bookfilepath = '/Users/cloudy/Data/book/bookfile'

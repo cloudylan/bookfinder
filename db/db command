@@ -11,6 +11,8 @@ INSERT INTO TYPE_BOOK (NAME, AUTHOR, LINK) VALUES('Dylan', 'Freedom Book - è‡ªç”
 UPDATE TYPE_BOOK SET TYPE='FREE TYPE' WHERE ID=1;
 
 SELECT * FROM TYPE_BOOK;
+select id,isbn,name from book_detail where id not in (select min(id) from book_detail group by isbn) and isbn is not 'NA';
+
 
 ALTER TABLE TYPE_BOOK ADD PROCESSED TEXT;
 

@@ -59,4 +59,4 @@ class BookLink:
             self.link = data[3]
             self.author = data[2]
             self.from_type = 'NA'
-            self.processed = data[4]
+            self.processed = data[5]
