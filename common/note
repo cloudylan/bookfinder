@@ -6,7 +6,7 @@
 
 - transfer files to database types
     NO - SQL generating script
-    - common code to read data file
+    NO - common code to read data file
 
 - book tables
     OK - book types
@@ -14,8 +14,9 @@
     - book type relationships
     - shops
 
+- present
+- split words
 - book data clean
-
 - python web framework
 
 OK - put all data into database, then filter the duplicated data.
