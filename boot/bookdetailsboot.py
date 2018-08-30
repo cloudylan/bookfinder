@@ -8,7 +8,6 @@ import traceback
 local_html = '/Users/cloudy/Dev/git/bookfinder/test/Beyond Nature and Culture (豆瓣).html'
 local_html2 = '/Users/cloudy/Dev/git/bookfinder/test/超凡領袖的挫敗 (豆瓣).html'
 local_html3 = '/Users/cloudy/Dev/git/bookfinder/test/外教社·朗文小学英语分级阅读1 (豆瓣).html'
-get_unprocessed_sql = 'SELECT * FROM TYPE_BOOK WHERE PROCESSED IS NOT \'Y\';'
 update_processed_sql = "UPDATE TYPE_BOOK SET PROCESSED='%s' WHERE ID=%d"
 test_case = [local_html]
 header = 'NAME|||' + 'AUTHOR|||' + 'PUBLISHER|||' + 'ISBN|||' + 'SUB_TITLE|||' + 'YEAR|||' + 'PAGE_NUMBER|||' + 'PRICE|||' + 'STYLE|||' + \
@@ -21,7 +20,7 @@ print(header)
 #     print(status)
 
 conn = sqlite3.connect(config.db_path)
-cursor = conn.execute(get_unprocessed_sql)
+cursor = conn.execute(config.get_unprocessed_sql)
 unprocessed_books = []
 
 for data in cursor:
@@ -47,6 +46,6 @@ for book_link in unprocessed_books:
             break
         continue
 
-    if status is 'Y':
+    if status is 'Y' or status is 'NOT FOUND':
         conn.execute(update_processed_sql % (status, book_link.id))
         conn.commit()

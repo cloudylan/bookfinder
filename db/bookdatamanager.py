@@ -10,7 +10,7 @@ import re
 get_all_booktype = 'SELECT * FROM TYPE_BOOK;'
 check_existence = "SELECT COUNT(*) FROM TYPE_BOOK WHERE LINK LIKE '%s';"
 insert_sql = "insert into type_book(NAME, AUTHOR, LINK) values('%s','%s','%s');"
-insert_detail_sql = "insert into book_detail(NAME,AUTHOR,PUBLISHER,ISBN,SUB_TITLE,YEAR,PAGE_NUMBER,PRICE,STYLE,SERIES,TRANSLATOR,RATINGS,VOTE_PEOPLE,STAR5,STAR4,STAR3,STAR2,STAR1,LABEL,PICTURE,LINK) VALUES('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%d','%d',%d,%d,%d,%d,%d,'%s','%s','%s')"
+insert_detail_sql = "insert into book_detail(NAME,AUTHOR,PUBLISHER,ISBN,SUB_TITLE,YEAR,PAGE_NUMBER,PRICE,STYLE,SERIES,TRANSLATOR,RATINGS,VOTE_PEOPLE,STAR5,STAR4,STAR3,STAR2,STAR1,LABEL,PICTURE,LINK) VALUES('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%f','%d',%f,%f,%f,%f,%f,'%s','%s','%s')"
 type_file_path = '/Users/cloudy/PycharmProjects/bookfinder/venv/book_by_types/'
 book_detail_file_path = '/Users/cloudy/Data/book/bookfile/BookDetails/'
 also_like_file_path = '/Users/cloudy/Data/book/bookfile/AlsoLikes/'
@@ -32,7 +32,6 @@ def transfer_book_details_data(input_file_path, write_to_db):
             data = line.split(config.dataSplitter)
             book_detail = BookDetail()
 
-            print(data)
             book_detail.name = data[1].strip()
             book_detail.author = data[2].strip()
             book_detail.publisher = data[3].strip()
@@ -87,8 +86,7 @@ def transfer_book_details_data(input_file_path, write_to_db):
         conn.commit()
     file.close()
     os.rename(input_file_path, input_file_path + '_done')
-    print('input file path:' + input_file_path)
-    print(book_details.__len__())
+    print('input file path:' + input_file_path + ' : ' + str(book_details.__len__()))
 
 
 def transfer_files_to_db(folder_path, write_to_db):
@@ -224,6 +222,7 @@ transfer_files_to_db(book_detail_file_path, True)
 # build_additional_also_like_list(also_like_file_path, False)
 # clean_duplicated_book_detail()
 # restore_processed_book_type()
+# datahandler.reset_processed_detail_files(book_detail_file_path)
 
 
 def transfer_book_type_data():

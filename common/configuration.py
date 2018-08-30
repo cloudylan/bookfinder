@@ -14,7 +14,7 @@ cookie = 'random'
 
 
 # SQL
-get_unprocessed_sql = 'SELECT * FROM TYPE_BOOK WHERE PROCESSED IS NOT \'Y\';'
+get_unprocessed_sql = 'SELECT * FROM TYPE_BOOK WHERE PROCESSED IS \'N\';'
 update_processed_sql = "UPDATE TYPE_BOOK SET PROCESSED='%s' WHERE ID=%d"
 clean_book_detail = "delete from book_detail where id not in (select min(id) from book_detail group by isbn,link)"
 get_count_duplicated = "select count(*) from book_detail where link like '%s'"
@@ -26,10 +26,12 @@ delete_detail_by_link = "delete (select min(id) from book_detail where link like
 
 
 # Score SQL
-get_score_grouping = "SELECT COUNT(ID), RATINGS FROM BOOK_DETAIL GROUP BY RATINGS;"
+# get_score_grouping = "SELECT COUNT(ID), RATINGS FROM BOOK_DETAIL GROUP BY RATINGS;"
+get_score_grouping = "select count(id), ratings from (select * from book_detail where id in (select min(id) from book_detail where isbn is not 'NA' group by isbn)) group by ratings;"
 
 # Labels SQL
-get_all_labels = 'SELECT LABEL,NAME,VOTE_PEOPLE FROM BOOK_DETAIL;'
+get_all_labels = 'SELECT LABEL,NAME,VOTE_PEOPLE,AUTHOR,RATINGS,ISBN FROM BOOK_DETAIL ORDER BY ISBN;'
+labels_group_by_isbn = "select LABEL,NAME,VOTE_PEOPLE,AUTHOR,RATINGS,ISBN from book_detail where id in (select min(id) from book_detail where isbn is not 'NA' group by isbn) order by isbn;"
 
 
 def get_opener():
@@ -40,7 +42,7 @@ def get_opener():
                          ('Accept',
                           'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'),
                          ('Cookie',
-                          'gr_user_id=f4ea66f2-7734-428d-8395-ca5acb8aeeb0; __ads_session=CxId0cQ66ghayAQG+AA=; __yadk_uid=xOeWi2IIl8EYSdlomnavGjlTYyaD8LoA; bid=bBVYOIpVLWA; _ga=GA1.2.1481930542.1457838662; _vwo_uuid_v2=7949DC5648B4EDA94CD30BFE660C3C0E|f4700311195db3ff0d14f6edf750c90f; __utmc=30149280; __utmv=30149280.7370; __utmc=81379588; ue="cloudylan@126.com"; push_noty_num=0; push_doumail_num=0; ll="118124"; douban-profile-remind=1; ap=1; Hm_lvt_16a14f3002af32bf3a75dfe352478639=1532973744; Hm_lpvt_16a14f3002af32bf3a75dfe352478639=1532973744; ct=y; douban-fav-remind=1; viewed="6524140_3719247_21319773_26370384_27006492_26963321_20424526_25779298_25985021_27148613"; ps=y; __utmz=30149280.1535197997.100.57.utmcsr=accounts.douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/login; dbcl2="73709635:n2pS+GNl1hs"; ck=3yN6; __utma=30149280.1481930542.1457838662.1535337279.1535352329.104; gr_session_id_22c937bbd8ebd703f2d8e9445f7dfd03=bc01c1d6-38d2-459a-ad58-226e45cea656; gr_cs1_bc01c1d6-38d2-459a-ad58-226e45cea656=user_id%3A1; _pk_ref.100001.3ac3=%5B%22%22%2C%22%22%2C1535352346%2C%22https%3A%2F%2Fwww.douban.com%2Fmisc%2Fsorry%3Foriginal-url%3Dhttps%253A%252F%252Fbook.douban.com%252Fsubject%252F4238362%252F%22%5D; _pk_ses.100001.3ac3=*; __utma=81379588.272989641.1511358871.1535337371.1535352346.49; __utmz=81379588.1535352346.49.21.utmcsr=douban.com|utmccn=(referral)|utmcmd=referral|utmcct=/misc/sorry; gr_session_id_22c937bbd8ebd703f2d8e9445f7dfd03_bc01c1d6-38d2-459a-ad58-226e45cea656=true; _pk_id.100001.3ac3=77fc349c1c9e1fa2.1511358870.49.1535352382.1535338283.; __utmb=30149280.5.10.1535352329; __utmb=81379588.3.10.1535352346'),
+                          ''),
                          ('Upgrade-Insecure-Requests', '1'),
                          ('Cache-Control', 'no-cache')
                          }

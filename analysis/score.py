@@ -28,6 +28,6 @@ def score_allocation():
 
     return allocations
 
-score_allocation()
+# score_allocation()
 
 
