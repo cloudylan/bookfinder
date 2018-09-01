@@ -1,5 +1,5 @@
 import sqlite3
-from common import configuration as config
+from config import configuration as config
 import numpy as np
 
 

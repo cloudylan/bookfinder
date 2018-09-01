@@ -1,6 +1,6 @@
 import tools.datahandler as datahandler
 import urllib.request
-import common.configuration as config
+import config.configuration as config
 from bs4 import BeautifulSoup
 from enum import Enum
 import re

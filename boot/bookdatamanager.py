@@ -4,7 +4,7 @@ import io
 import os
 from model.book import BookLink
 from model.book import BookDetail
-from common import configuration as config
+from config import configuration as config
 import re
 import sql.BookSQL as sql
 

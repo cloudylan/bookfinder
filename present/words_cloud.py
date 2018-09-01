@@ -1,6 +1,6 @@
 import jieba
 import wordcloud as wc
-from common import configuration as config
+from config import configuration as config
 from matplotlib import pyplot as plot
 
 date_txt = '-2018-08-29.txt'

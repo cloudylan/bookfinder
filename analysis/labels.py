@@ -1,5 +1,5 @@
 import sqlite3
-from common import configuration as config
+from config import configuration as config
 from tools import datahandler as handler
 
 vote_number_limit = 1000

@@ -7,7 +7,7 @@ import io
 import tools.proxyutils as pu
 import re
 from tools import datahandler
-from common import configuration as config
+from config import configuration as config
 
 HTML_PARSER = 'html.parser'
 BOOK_NUMBER_PER_PAGE = 20

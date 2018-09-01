@@ -1,6 +1,6 @@
 from spiders import simplespider as spider
 import sqlite3
-from common import configuration as config
+from config import configuration as config
 import model.book as book
 from threading import RLock
 from concurrent.futures import ThreadPoolExecutor

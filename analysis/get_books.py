@@ -1,5 +1,5 @@
 import sqlite3
-import common.configuration as config
+import config.configuration as config
 
 
 vote_number_limit = 300

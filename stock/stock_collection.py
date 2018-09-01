@@ -1,7 +1,7 @@
 import tushare as ts
 from sqlalchemy import create_engine
-import common.stock_configuration as config
-import common.datasource as datasource
+import config.stock_configuration as config
+import db.datasource as datasource
 from sql import StockSQL as sql
 
 start_date = '2015-08-20'

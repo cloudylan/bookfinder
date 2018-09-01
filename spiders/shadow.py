@@ -1,7 +1,7 @@
 import threading
 import tools.datahandler as datahandler
 import urllib.request
-import common.configuration as config
+import config.configuration as config
 import io
 from bs4 import BeautifulSoup
 from enum import Enum
