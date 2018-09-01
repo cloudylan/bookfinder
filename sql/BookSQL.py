@@ -1,21 +1,3 @@
-import urllib
-
-HTML_PARSER = 'html.parser'
-dataSplitter = '|||'
-db_path = '/Users/cloudy/Data/book/bookdb.sqlite3'
-label_file_path = '/Users/cloudy/Data/book/bookfile/labels'
-font_path = u'/Users/cloudy/Data/book/font/华文仿宋.ttf'
-type_file_path = '/Users/cloudy/PycharmProjects/bookfinder/venv/book_by_types/'
-book_detail_file_path = '/Users/cloudy/Data/book/bookfile/BookDetails/'
-also_like_file_path = '/Users/cloudy/Data/book/bookfile/AlsoLikes/'
-
-
-user_agent = 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Mobile Safari/537.36'
-client_id_label = 'X-DevTools-Emulate-Network-Conditions-Client-Id'
-client_id = ''
-cookie = 'random'
-
-
 # SQL
 get_unprocessed_sql = 'SELECT * FROM TYPE_BOOK WHERE PROCESSED IS NOT\'Y\';'
 update_processed_sql = "UPDATE TYPE_BOOK SET PROCESSED='%s' WHERE ID=%d"
@@ -25,6 +7,10 @@ select_duplicated_book_detail = "select id,name,isbn,link from book_detail where
 get_processed_sql = 'SELECT * FROM TYPE_BOOK WHERE PROCESSED IS \'Y\';'
 get_book_detail_by_link = "SELECT count(*) FROM BOOK_DETAIL WHERE LINK LIKE '%s';"
 delete_detail_by_link = "delete (select min(id) from book_detail where link like '%s')"
+check_existence = "SELECT COUNT(*) FROM TYPE_BOOK WHERE LINK LIKE '%s';"
+insert_sql = "insert into type_book(NAME, AUTHOR, LINK) values('%s','%s','%s');"
+insert_detail_sql = "insert into book_detail(NAME,AUTHOR,PUBLISHER,ISBN,SUB_TITLE,YEAR,PAGE_NUMBER,PRICE,STYLE,SERIES,TRANSLATOR,RATINGS,VOTE_PEOPLE,STAR5,STAR4,STAR3,STAR2,STAR1,LABEL,PICTURE,LINK) VALUES('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%f','%d',%f,%f,%f,%f,%f,'%s','%s','%s')"
+
 
 
 # Score SQL
@@ -34,18 +20,3 @@ get_score_grouping = "select count(id), ratings from (select * from book_detail 
 # Labels SQL
 get_all_labels = 'SELECT LABEL,NAME,VOTE_PEOPLE,AUTHOR,RATINGS,ISBN FROM BOOK_DETAIL ORDER BY ISBN;'
 labels_group_by_isbn = "select LABEL,NAME,VOTE_PEOPLE,AUTHOR,RATINGS,ISBN from book_detail where id in (select min(id) from book_detail where isbn is not 'NA' group by isbn) order by isbn;"
-
-
-def get_opener():
-
-    opener = urllib.request.build_opener()
-    opener.addheaders = {('User-agent',
-                          user_agent),
-                         ('Accept',
-                          'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'),
-                         ('Cookie',
-                          ''),
-                         ('Upgrade-Insecure-Requests', '1'),
-                         ('Cache-Control', 'no-cache')
-                         }
-    return opener

@@ -6,14 +6,7 @@ from model.book import BookLink
 from model.book import BookDetail
 from common import configuration as config
 import re
-
-get_all_booktype = 'SELECT * FROM TYPE_BOOK;'
-check_existence = "SELECT COUNT(*) FROM TYPE_BOOK WHERE LINK LIKE '%s';"
-insert_sql = "insert into type_book(NAME, AUTHOR, LINK) values('%s','%s','%s');"
-insert_detail_sql = "insert into book_detail(NAME,AUTHOR,PUBLISHER,ISBN,SUB_TITLE,YEAR,PAGE_NUMBER,PRICE,STYLE,SERIES,TRANSLATOR,RATINGS,VOTE_PEOPLE,STAR5,STAR4,STAR3,STAR2,STAR1,LABEL,PICTURE,LINK) VALUES('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%f','%d',%f,%f,%f,%f,%f,'%s','%s','%s')"
-type_file_path = '/Users/cloudy/PycharmProjects/bookfinder/venv/book_by_types/'
-book_detail_file_path = '/Users/cloudy/Data/book/bookfile/BookDetails/'
-also_like_file_path = '/Users/cloudy/Data/book/bookfile/AlsoLikes/'
+import sql.BookSQL as sql
 
 
 def transfer_book_details_data(input_file_path, write_to_db):
@@ -67,13 +60,13 @@ def transfer_book_details_data(input_file_path, write_to_db):
     print(str(book_details.__len__()) + '=========')
     conn = sqlite3.connect(config.db_path)
     for book in book_details:
-        print(insert_detail_sql % (book.name, book.author.replace('\'', ' '), book.publisher, book.isbn, book.sub_title,
+        print(sql.insert_detail_sql % (book.name, book.author.replace('\'', ' '), book.publisher, book.isbn, book.sub_title,
                                    book.publishYear, book.pageNumber, book.price, book.style, book.series,
                                    book.translator, float(book.ratings), int(book.vote_people), float(book.star5),
                                    float(book.star4),
                                    float(book.star3), float(book.star2), float(book.star1), book.label, book.picture,
                                    book.link))
-        conn.execute(insert_detail_sql % (
+        conn.execute(sql.insert_detail_sql % (
         book.name.replace('\'', ' '), book.author.replace('\'', ' '), book.publisher.replace('\'', ' '), book.isbn,
         book.sub_title.replace('\'', ' '),
         book.publishYear, book.pageNumber, book.price, book.style.replace('\'', ' '), book.series.replace('\'', ' '),
@@ -139,7 +132,7 @@ def transfer_also_likes(input_file_path, write_to_db):
     map_like = {}
     for bk_lk in book_links:
         # print(check_existence % ('%'+bk_lk.link+'%'))
-        result = conn.execute(check_existence % ('%' + bk_lk.link + '%'))
+        result = conn.execute(sql.check_existence % ('%' + bk_lk.link + '%'))
         for ind in result:
             # print(ind[0])
             if ind[0] == 0:
@@ -218,7 +211,7 @@ def restore_processed_book_type():
     #     for to_delete in need_detail_clean:
     #         conn.execute()
 
-transfer_files_to_db(book_detail_file_path, True)
+transfer_files_to_db(config.book_detail_file_path, True)
 # build_additional_also_like_list(also_like_file_path, False)
 # clean_duplicated_book_detail()
 # restore_processed_book_type()
@@ -229,7 +222,7 @@ def transfer_book_type_data():
     book_dict = {}
 
     # read from file and insert into database.
-    file_paths = datahandler.list_file_under(type_file_path)
+    file_paths = datahandler.list_file_under(config.type_file_path)
 
     duplicated = 0
     file_num = 1
@@ -255,7 +248,7 @@ def transfer_book_type_data():
 
     for key in book_dict.keys():
         book = book_dict[key]
-        conn.execute(insert_sql % (book.author.replace('\'', ' '), book.name.replace('\'', ' '), book.link))
+        conn.execute(sql.insert_sql % (book.author.replace('\'', ' '), book.name.replace('\'', ' '), book.link))
 
     conn.commit()
     file.close()
