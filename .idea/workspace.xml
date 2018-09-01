@@ -2,32 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd275fc1-7e2c-47d1-b388-c1dbdc0bec83" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/analysis/get_books.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/get_books.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/labels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boot/bookdetailsboot.py" beforeDir="false" afterPath="$PROJECT_DIR$/boot/bookdetailsboot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boot/multibookdetailsboot.py" beforeDir="false" afterPath="$PROJECT_DIR$/boot/multibookdetailsboot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/configuration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/datasource.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/datasource.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/note" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/stock_configuration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/bookdatamanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/boot/bookdatamanager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/present/words_cloud.py" beforeDir="false" afterPath="$PROJECT_DIR$/present/words_cloud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spiders/bookspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/spiders/bookspider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot/bookdatamanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/bookdatamanager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot/bookdetailsboot.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/bookdetailsboot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot/bootstrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/bootstrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot/datewithbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/datewithbook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot/multibookdetailsboot.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/multibookdetailsboot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/datasource.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/datasource.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spiders/shadow.py" beforeDir="false" afterPath="$PROJECT_DIR$/spiders/shadow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spiders/simplespider.py" beforeDir="false" afterPath="$PROJECT_DIR$/spiders/simplespider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock/stock_collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/stock/stock_collection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distro.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/_collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/_collections.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/compat/dictconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/compat/dictconfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/wheel.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bookdetailsboot.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/boot/bookdetailsboot.py">
+      <file leaf-file-name="bookdetailsboot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/bookdetailsboot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="285">
+              <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -50,52 +35,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/configuration.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="datasource.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/datasource.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="308">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="bookdatamanager.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot/bookdatamanager.py">
+        <entry file="file://$PROJECT_DIR$/book/bookdatamanager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3720">
-              <caret line="248" column="32" lean-forward="true" selection-start-line="248" selection-start-column="32" selection-end-line="248" selection-end-column="32" />
+            <state relative-caret-position="124">
+              <caret line="208" column="18" selection-start-line="208" selection-start-column="14" selection-end-line="208" selection-end-column="18" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stock_collection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock/stock_collection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="datewithbook.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot/datewithbook.py">
+        <entry file="file://$PROJECT_DIR$/book/datewithbook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="525">
+              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -113,19 +78,22 @@
         </entry>
       </file>
       <file leaf-file-name="bootstrap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot/bootstrap.py">
+        <entry file="file://$PROJECT_DIR$/book/bootstrap.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-548">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="note" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/note">
+      <file leaf-file-name="multibookdetailsboot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/multibookdetailsboot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            <state relative-caret-position="-50">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,8 +101,29 @@
       <file leaf-file-name="bookspider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spiders/bookspider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2040">
-              <caret line="145" column="29" selection-start-line="145" selection-start-column="29" selection-end-line="145" selection-end-column="29" />
+            <state relative-caret-position="124">
+              <caret line="131" column="19" selection-start-line="131" selection-start-column="19" selection-end-line="131" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simplespider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spiders/simplespider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="181" column="68" selection-start-line="181" selection-start-column="68" selection-end-line="181" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shadow.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spiders/shadow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,8 +139,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>generate_from_text</find>
-      <find>generate_from_frequencies</find>
       <find>get_book_detail_by_link</find>
       <find>ratings</find>
       <find>process</find>
@@ -170,7 +157,6 @@
       <find>===Y</find>
       <find>bvps</find>
       <find>processi</find>
-      <find>conn</find>
       <find>$USER_HOME$/Data/stockdata</find>
       <find>processing</find>
       <find>get_all_booktype</find>
@@ -180,6 +166,9 @@
       <find>book_detail_file_path</find>
       <find>insert_sql</find>
       <find>also_like_file_path</find>
+      <find>sqlite3</find>
+      <find>conn</find>
+      <find>sqlite</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -193,7 +182,6 @@
         <option value="$PROJECT_DIR$/tools/bookspider.py" />
         <option value="$PROJECT_DIR$/common/bookdetailsboot.py" />
         <option value="$PROJECT_DIR$/spiders/bookspider.py" />
-        <option value="$PROJECT_DIR$/spiders/shadow.py" />
         <option value="$PROJECT_DIR$/boot/multibookdetailsboot.py" />
         <option value="$PROJECT_DIR$/model/book.py" />
         <option value="$PROJECT_DIR$/present/wordcloud.py" />
@@ -217,8 +205,13 @@
         <option value="$PROJECT_DIR$/common/configuration.py" />
         <option value="$PROJECT_DIR$/db/bookdatamanager.py" />
         <option value="$PROJECT_DIR$/common/note" />
-        <option value="$PROJECT_DIR$/spiders/simplespider.py" />
         <option value="$PROJECT_DIR$/boot/bookdetailsboot.py" />
+        <option value="$PROJECT_DIR$/db/datasource.py" />
+        <option value="$PROJECT_DIR$/book/bookdatamanager.py" />
+        <option value="$PROJECT_DIR$/book/bookdetailsboot.py" />
+        <option value="$PROJECT_DIR$/book/multibookdetailsboot.py" />
+        <option value="$PROJECT_DIR$/spiders/simplespider.py" />
+        <option value="$PROJECT_DIR$/spiders/shadow.py" />
       </list>
     </option>
   </component>
@@ -239,6 +232,21 @@
             <path>
               <item name="bookfinder" type="b2602c69:ProjectViewProjectNode" />
               <item name="bookfinder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookfinder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookfinder" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookfinder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookfinder" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookfinder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookfinder" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -277,8 +285,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bookdetailsboot">
-    <configuration name="bookdatamanager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bookdatamanager (1)">
+    <configuration name="bookdatamanager (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bookfinder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boot/bookdatamanager.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/bookdatamanager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,19 +377,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.bookdatamanager" />
       <item itemvalue="Python.bookdetailsboot" />
       <item itemvalue="Python.get_books" />
       <item itemvalue="Python.hypobuy" />
       <item itemvalue="Python.get_stock" />
+      <item itemvalue="Python.bookdatamanager (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bookdatamanager (1)" />
         <item itemvalue="Python.bookdetailsboot" />
         <item itemvalue="Python.get_stock" />
         <item itemvalue="Python.hypobuy" />
         <item itemvalue="Python.get_books" />
-        <item itemvalue="Python.bookdatamanager" />
       </list>
     </recent_temporary>
   </component>
@@ -400,18 +408,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.57550335" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32704404" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32704404" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32704404" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2104845" />
       <window_info anchor="bottom" id="Statistic" order="7" weight="0.32905984" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39597315" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -448,17 +457,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/book/multibookdetailsboot.py</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/boot/bookdatamanager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2655">
-          <caret line="183" column="50" selection-start-line="183" selection-start-column="50" selection-end-line="183" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/book.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -466,21 +475,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bootstrap.py">
+    <entry file="file://$PROJECT_DIR$/book/bootstrap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/test.py">
+    <entry file="file://$PROJECT_DIR$/book/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bookdetailsboot.py">
+    <entry file="file://$PROJECT_DIR$/book/bookdetailsboot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
@@ -504,12 +513,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bookdatamanager.py">
+    <entry file="file://$PROJECT_DIR$/book/bookdatamanager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2655">
           <caret line="183" column="50" selection-start-line="183" selection-start-column="50" selection-end-line="183" selection-end-column="50" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -521,21 +530,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bootstrap.py">
+    <entry file="file://$PROJECT_DIR$/book/bootstrap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/test.py">
+    <entry file="file://$PROJECT_DIR$/book/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bookdetailsboot.py">
+    <entry file="file://$PROJECT_DIR$/book/bookdetailsboot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="24" column="6" selection-start-line="24" selection-end-line="24" selection-end-column="6" />
@@ -559,31 +568,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bootstrap.py">
+    <entry file="file://$PROJECT_DIR$/book/bootstrap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/test.py">
+    <entry file="file://$PROJECT_DIR$/book/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bookdatamanager.py">
+    <entry file="file://$PROJECT_DIR$/book/bookdatamanager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2655">
           <caret line="183" column="50" lean-forward="true" selection-start-line="183" selection-start-column="50" selection-end-line="183" selection-end-column="50" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/test.py">
+    <entry file="file://$PROJECT_DIR$/book/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
@@ -622,13 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
           <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot/multibookdetailsboot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -739,54 +741,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spiders/simplespider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="178" column="8" selection-start-line="178" selection-start-column="8" selection-end-line="178" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spiders/shadow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1887">
-          <caret line="205" column="26" selection-start-line="205" selection-start-column="26" selection-end-line="205" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spiders/bookspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="145" column="29" selection-start-line="145" selection-start-column="29" selection-end-line="145" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot/datewithbook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bootstrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-548">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/datasource.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stock/stock_collection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
@@ -797,16 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bookdatamanager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3720">
-          <caret line="248" column="32" lean-forward="true" selection-start-line="248" selection-start-column="32" selection-end-line="248" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -824,12 +772,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot/bookdetailsboot.py">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/baseparser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="165">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/bookdatamanager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="208" column="18" selection-start-line="208" selection-start-column="14" selection-end-line="208" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/datasource.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/bookdetailsboot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/bootstrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-548">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/datewithbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/multibookdetailsboot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/bookspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="131" column="19" selection-start-line="131" selection-start-column="19" selection-end-line="131" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/simplespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="181" column="68" selection-start-line="181" selection-start-column="68" selection-end-line="181" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/shadow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>

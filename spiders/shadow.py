@@ -2,11 +2,9 @@ import threading
 import tools.datahandler as datahandler
 import urllib.request
 import config.configuration as config
-import io
 from bs4 import BeautifulSoup
 from enum import Enum
 import re
-import sqlite3
 
 
 class ShadowSpider(threading.Thread):

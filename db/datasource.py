@@ -16,5 +16,9 @@ class SqliteDataSource:
         self.conn.execute(sql)
         self.conn.commit()
 
+    def execute(self, sql):
+        self.conn.execute(sql)
+
     def commit(self):
+        self.conn.commit()
         self.conn.commit()

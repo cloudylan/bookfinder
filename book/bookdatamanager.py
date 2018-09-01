@@ -1,12 +1,11 @@
-import sqlite3
 import tools.datahandler as datahandler
 import io
 import os
-from model.book import BookLink
-from model.book import BookDetail
+from model.book import *
 from config import configuration as config
 import re
 import sql.BookSQL as sql
+import db.datasource as source
 
 
 def transfer_book_details_data(input_file_path, write_to_db):
@@ -58,7 +57,7 @@ def transfer_book_details_data(input_file_path, write_to_db):
             continue
 
     print(str(book_details.__len__()) + '=========')
-    conn = sqlite3.connect(config.db_path)
+    ds = source.SqliteDataSource(config.db_path)
     for book in book_details:
         print(sql.insert_detail_sql % (book.name, book.author.replace('\'', ' '), book.publisher, book.isbn, book.sub_title,
                                    book.publishYear, book.pageNumber, book.price, book.style, book.series,
@@ -66,7 +65,7 @@ def transfer_book_details_data(input_file_path, write_to_db):
                                    float(book.star4),
                                    float(book.star3), float(book.star2), float(book.star1), book.label, book.picture,
                                    book.link))
-        conn.execute(sql.insert_detail_sql % (
+        ds.execute(sql.insert_detail_sql % (
         book.name.replace('\'', ' '), book.author.replace('\'', ' '), book.publisher.replace('\'', ' '), book.isbn,
         book.sub_title.replace('\'', ' '),
         book.publishYear, book.pageNumber, book.price, book.style.replace('\'', ' '), book.series.replace('\'', ' '),
@@ -76,7 +75,7 @@ def transfer_book_details_data(input_file_path, write_to_db):
         book.link))
 
     if write_to_db:
-        conn.commit()
+        ds.commit()
     file.close()
     os.rename(input_file_path, input_file_path + '_done')
     print('input file path:' + input_file_path + ' : ' + str(book_details.__len__()))
@@ -117,14 +116,14 @@ def transfer_also_likes(input_file_path, write_to_db):
                     book_links.append(book_link)
                 except Exception as e:
                     print(line)
-                    datahandler.save_to_file(also_like_file_path, 'except.txt', line)
+                    datahandler.save_to_file(config.also_like_file_path, 'except.txt', line)
                     continue
 
         except Exception as e:
             print("Error Happened: " + str(e.__cause__))
             continue
 
-    conn = sqlite3.connect(config.db_path)
+    ds = source.SqliteDataSource(config.db_path)
 
     print(book_links.__len__())
     print("OK")
@@ -132,7 +131,7 @@ def transfer_also_likes(input_file_path, write_to_db):
     map_like = {}
     for bk_lk in book_links:
         # print(check_existence % ('%'+bk_lk.link+'%'))
-        result = conn.execute(sql.check_existence % ('%' + bk_lk.link + '%'))
+        result = ds.execute(sql.check_existence % ('%' + bk_lk.link + '%'))
         for ind in result:
             # print(ind[0])
             if ind[0] == 0:
@@ -151,11 +150,10 @@ def build_additional_also_like_list(folder_path, write_to_db):
 
 
 def clean_duplicated_book_detail():
-    conn = sqlite3.connect(config.db_path)
-    conn.execute(config.clean_book_detail)
-    conn.commit()
+    ds = source.SqliteDataSource(config.db_path)
+    ds.execute(config.clean_book_detail)
 
-    get_duplicated_count = conn.execute(config.select_duplicated_book_detail)
+    get_duplicated_count = ds.select(config.select_duplicated_book_detail)
 
     for item in get_duplicated_count:
         print(item)
@@ -163,8 +161,8 @@ def clean_duplicated_book_detail():
 
 
 def restore_processed_book_type():
-    conn = sqlite3.connect(config.db_path)
-    cursor = conn.execute(config.get_processed_sql)
+    ds = source.SqliteDataSource(config.db_path)
+    cursor = ds.select(config.get_processed_sql)
     processed_books = []
 
     # 59287|游靜|游動的影|https://book.douban.com/subject/27041178/
@@ -190,7 +188,7 @@ def restore_processed_book_type():
             link_id = re.search(r'[\d]+', lk).group()
             param_link = '%' + str(link_id) + '%'
 
-            cursor_detail = conn.execute(config.get_book_detail_by_link % param_link)
+            cursor_detail = ds.select(config.get_book_detail_by_link % param_link)
 
             for item in cursor_detail:
                 if item[0] == 0:
@@ -203,13 +201,13 @@ def restore_processed_book_type():
     print(need_restore.__len__())
     if need_restore.__len__() > 0:
         for to_udpate in need_restore:
-            conn.execute(config.update_processed_sql % ('N', to_udpate.id))
-    conn.commit()
+            ds.execute(config.update_processed_sql % ('N', to_udpate.id))
 
     # print(need_detail_clean.__len__())
     # if need_detail_clean.__len__() > 0:
     #     for to_delete in need_detail_clean:
     #         conn.execute()
+
 
 transfer_files_to_db(config.book_detail_file_path, True)
 # build_additional_also_like_list(also_like_file_path, False)
@@ -244,16 +242,15 @@ def transfer_book_type_data():
 
     print('/// Duplicated %d books.' % duplicated)
 
-    conn = sqlite3.connect(config.db_path)
+    ds = source.SqliteDataSource(config.db_path)
 
     for key in book_dict.keys():
         book = book_dict[key]
-        conn.execute(sql.insert_sql % (book.author.replace('\'', ' '), book.name.replace('\'', ' '), book.link))
+        ds.execute(sql.insert_sql % (book.author.replace('\'', ' '), book.name.replace('\'', ' '), book.link))
 
-    conn.commit()
     file.close()
 
     print(book_dict.__len__())
     print('database opened.')
 
-    conn.close()
+    ds.close()

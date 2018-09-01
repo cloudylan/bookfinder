@@ -4,7 +4,7 @@ import config.configuration as config
 from bs4 import BeautifulSoup
 from enum import Enum
 import re
-import sqlite3
+import db.datasource as source
 import traceback
 
 
@@ -178,9 +178,8 @@ class SimpleSpider:
         datahandler.save_to_file(bookfilepath + '/Introduction', 'Introduction', intro)
         lock.release()
 
-        conn = sqlite3.connect(config.db_path)
-        conn.execute(config.update_processed_sql % ('Y', book_link.id))
-        conn.commit()
+        ds = source.SqliteDataSource(config.db_path)
+        ds.update(config.update_processed_sql % ('Y', book_link.id))
 
         print('===' + 'Y' + '::' + book_link.link)
 

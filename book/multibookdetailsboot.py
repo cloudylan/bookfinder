@@ -1,5 +1,5 @@
 from spiders import simplespider as spider
-import sqlite3
+import db.datasource as source
 from config import configuration as config
 import model.book as book
 from threading import RLock
@@ -14,8 +14,8 @@ lock = RLock()
 
 
 def start_shadow_spidering():
-    conn = sqlite3.connect(config.db_path)
-    cursor = conn.execute(config.get_unprocessed_sql)
+    ds = source.SqliteDataSource(config.db_path)
+    cursor = ds.select(config.get_unprocessed_sql)
     unprocessed_books = []
 
     for data in cursor:
